@@ -1,0 +1,188 @@
+Title: A peek into the Women in Tech Fellowship through our Learners
+Author: Kurund Jalmi
+Date: February 2022
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/a-peek-into-the-women-in-tech-fellowship-through-our-learners/
+==================================================
+
+The Women in Tech Fellowship Program aims to encourage more women to join and remain in technology positions and normalize the gender ratio in the technology sector. This page serves as a repository of all the blog posts made by our learners in their journey towards becoming software developers.
+Week 8:
+Rishita Gusain –
+My experience learning stacks in data structure
+Vishakha Saini –
+Experience creating a high level architecture and how it helps to see an overall picture of the application
+Vaageisha Sharma –
+Experience creating a high-level architecture and how it helps to see an overall picture of the application.
+Kiran Negi –
+My experience learning stacks in Data structure
+Madhu Baloni –
+Experience creating a high-level architecture and how it helps to see an overall picture of the application
+Anshika Gupta –
+My experience with high-level architecture and how it helps to see an overall picture of the application
+Week 7:
+Rishita Gusain –
+Experiences with getting started to software development lifecycle
+Vishakha Saini –
+Experiences with getting started to software development lifecycle
+Prachi Kandpal –
+My confidence with designing a solution to a problem
+Mansi Negi –
+Experince getting with SDLC
+Ruchi Giri –
+Experience with getting started in the software development lifecycle
+Vaageisha Sharma –
+Experiences with getting started to software development lifecycle
+Kiran Negi –
+Experiences with getting started to software development lifecycle
+Madhu Baloni –
+Experiences with getting started to software development lifecycle
+Diya Gunjiyal –
+My Confidence in designing a solution to a problem
+Anshika Gupta –
+My Confidence in designing a solution to a problem
+Week 6:
+Rishita Gusain –
+How creating workflows for a solution helped to get an overall picture?
+Vishakha Saini –
+How creating workflows for a solution helped to get an overall picture
+Prachi Kandpal –
+How creating workflows for a solution helped to get an overall picture
+Ruchi Giri –
+My experience with Creating Wireframe
+Kiran Negi –
+How creating workflows for a solution helped to get an overall picture
+Madhu Baloni –
+My learnings with thinking of a solution for a problem..
+Diya Gunjiyal –
+My learnings with thinking of a solution for a problem..
+Anshika Gupta –
+How creating workflows for a solution helped to get an overall picture
+Week 5:
+Rishita Gusain –
+My experience with debugging skills, how they contribute to your success so far
+Vishakha Saini –
+My experiences with debugging skills, how they contribute to your success so far
+Prachi Kandpal –
+My experiences with debugging skills, how they contribute to your success so far
+Ruchi Giri –
+My experience with debugging skills
+Vaageisha Sharma –
+My experiences with debugging skills, how they contribute to your success so far.
+Kiran Negi –
+My experiences with debugging skills, how they contribute to your success so far.
+Madhu Baloni –
+My Experience With Debugging Skills How They Contribute To Your Success So Far.
+Diya Gunjiyal –
+My experiences with debugging skills, how they contribute to my success so far..
+Anshika Gupta –
+How Debugging Can Contribute To Your Success?
+Week 4:
+Rishita Gusain –
+My experience with problem solving so far
+Vishakha Saini –
+How tracking of actions corresponding to milestones is helping
+Prachi Kandpal –
+My experience with problem solving so far
+Ruchi Giri –
+My experience with milestone based learning
+Amisha Bisht –
+How tracking of actions corresponding to milestones is helping
+Vaageisha Sharma –
+How tracking actions corresponding to milestones is helping.
+Kiran Negi –
+My experiences with problem solving so far
+Madhu Baloni –
+My experience with milestone based Learning
+Diya Gunjiyal –
+How tracking of actions corresponding to milestones is helping
+Anshika Gupta –
+How Tracking of Actions Corresponding to Milestones is Helping?
+Week 3:
+Rishita Gusain –
+Comparing my current version with 2 weeks younger version
+Vishakha Saini –
+Comparing my current version with 2 weeks younger version
+Prachi Kandpal –
+What i learnt this week
+Mansi Negi –
+Comparing my current version with 2 weeks younger version
+Ruchi Giri –
+What I learn this week
+Amisha Bisht –
+Comparing my current version with 2 weeks younger version
+Vaageisha Sharma –
+Comparing my current version with my two weeks younger version.
+Kiran Negi –
+THIRD WEEK OF WIT
+Madhu Baloni –
+What I Learn This Week.
+Diya Gunjiyal –
+Comparing my current version with my two weeks younger version.
+Anshika Gupta –
+Third Week of WIT
+Week 2:
+Riya Malik –
+How daily catchups and communications are helping to achieve targets?
+Shreya –
+Effective communication to improve teamwork
+Swati Bhatt –
+How daily catchups and communication are helping to achieve targets
+Riya Godiyal –
+How daily catchups and communications are helping to achieve targets?
+Sapna Rawat –
+HOW DAILY CATCHUPS AND COMMUNICATION ARE HELPING TO ACHIEVE TARGETS.
+Rishita Gusain –
+How daily catchups and communication are helping to achieve targets
+Vishakha Saini –
+How daily catchups and communications are helping to achieve targets
+Prachi Kandpal –
+How daily catchups and communications are helping to achieve targets
+Mansi Negi –
+How daily catchup and communication are helping to achieve targets
+Ruchi Giri –
+How daily catchup and communication are helping to achieve targets
+Amisha Bisht –
+How daily catchup and communication are helping to achieve targets
+Vaageisha Sharma –
+My first two weeks at the Women in Tech program!
+Madhu Baloni –
+My first Two weeks experience in Women in Tech program
+Diya Gunjiyal –
+My first Two weeks experience in Women in Tech program
+Anshika Gupta –
+My First two weeks experience in WIT
+Adveta Kandwal –
+My Experience in the first two weeks of Women in Tech
+Srishti Singhal –
+My First Two Weeks Of Internship.
+Suhani Jain –
+My Two Weeks Experience In Women In Tech Program
+Shalini Raturi –
+MY FIRST TWO WEAK EXPERIENCE IN WOMEN IN TECH INTERNSHIP
+Week 1:
+Riya Malik –
+My first week in Women In Tech Program
+Shreya –
+MY FIRST WEEK IN WOMEN IN TECH
+Swati Bhatt –
+My First Week Experience in Women In Tech
+Riya Godiyal –
+My first week in Women In Tech Program
+Sapna Rawat –
+My First Week in Women And Tech Program
+Rishita Gusain –
+My First Week experience in WIT
+Vishakha Saini –
+My first week’s experience in Women in Tech program
+Prachi Kandpal –
+My first week’s experience in Women in Tech program
+Mansi Negi –
+MY FIRST WEEK EXPERIENCE IN WOMEN IN TECH22
+Ruchi Giri –
+My first-week experience in the WIT
+Amisha Bisht –
+My first-week experience in the WIT
+Kiran Negi –
+My first weeks experience in Women in Tech program
+Ritika Joshi –
+First Week Experience with WIT22

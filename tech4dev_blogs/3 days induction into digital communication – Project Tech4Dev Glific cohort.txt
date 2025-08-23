@@ -1,0 +1,44 @@
+Title: 3 days induction into digital communication – Project Tech4Dev Glific cohort
+Author: Kurund Jalmi
+Date: May 2021
+Category: Glific
+URL: https://projecttech4dev.org/3-days-induction-into-digital-communication-project-tech4dev-glific-cohort/
+==================================================
+
+Long story short;
+Civis
+,
+Headstreams
+and
+Save The Children India
+have joined the Glific bandwagon. They will be using the two-way digital communication platform to carry out their programs. These NGOs impact people’s lives by hearing out their voices, making education available, supporting their well being respectively. At Glific,
+we’re really excited to help them uplift many lives by creating a meaningful connectivity with their community.
+The
+Project Tech4Dev-Glific 5th cohort
+which ran for 3 days(May 17-19) trained them on the best practices in communicating digitally with their end-users.
+Unfortunately, Covid scenario in India made it difficult for some NGOs to continue with the cohort due to various challenges such as procurement of sim/phone numbers, availability of the team etc… To top it all, cyclones affecting the southern parts of India pushed things further for some others. We already feel a need for atleast 1-day session in the coming weeks for those who still want to continue. Overall, we hope things will get better soon. We will continue to extend ways to support them. We appreciate the efforts of the NGOs who could join us, here’s how they spent the 3 days:
+Day 1
+: Why & where to use the WhatsApp chatbot
+The cohort started with each NGOs sharing what they hoped to achieve through Glific.
+It was interesting to note that they wanted to start their community outreach & awareness programs using WhatsApp.
+Explore data collection methods. Create linkage between citizen and government on policy matters. Explore new mechanisms for communication to create those crucial linkages. Especially when people preferred WhatsApp to share their opinions. Overcome lockdown to continue education, leveraging over 60% people having mobiles with access to WhatsApp even in rural areas. Printing worksheets & distributing it was operationally challenging & costly. There was a need for a more real-time channel for progress. The logistics of using various tool such as google sheets, forms etc… was difficult especially with a scale of 5000 students. There were still more creative ways other NGOs wanted solve challenges unique to their organisation.
+After the discussion about goals & challenges, the
+Tech4Good Community
+team demonstrated all the
+features of platform
+so that it would become evident how Glific can help. This demonstration set precursor to the hands-on activity planned for day 2. We received a bunch of questions from all the NGOs – if you have any questions about Glific please feel free to message Glific team or ask our NGOs partners
+on this channel
+.
+Day 2
+: Building automated, digital conversation flows
+The goal for day 2 was for each NGO to prepare the system for program launch. To interact with their beneficiaries, they had already architected their automated conversations on paper. It was time to move it to Glific. We divided ourselves into three teams, each team comprised of members of the NGO + 1 to 2 people from Glific and Tech4Good Community team. Since it was all happening on zoom, each team moved into their zone via breakout rooms. It gave them a space to discuss and seek individual help for their program. The energy and focus was really inspiring. The drive for their mission was clear in their curiosity to learn as much about the platform as possible and align it with their programs. Be it training the Kannada speaking folks in spoken English to prepare them for jobs, or enabling effective dialogue on draft laws and policies between citizens and their governments, or saving children’s lives through hearing aid intervention.
+Using a new tool & technology generally requires time, practice, change in the behaviour which can be a daunting task. But in the company of others, through the cohort, it was wonderful to see collective learning. It’s almost as if people asked questions for each other by asking for themselves.
+We’re glad that these NGOs moved a step ahead. They overcame the second hurdle which was to gain a confidence in using the right tool in a short span of time.
+I believe each of the teams got a headstart for using the platform as opposed to weeks of discovery and exploration.
+The 3 days were packed with a lot of information. Day-2 was where things came together through hands-on experience of the platform.
+Day 3
+: Accessing communication data for impact measurement
+After the NGOs had created their flows, we went over some of the best practices and useful tips. This was a better time to think about optimising, cleaning up and organising their flows for a greater efficiency. We then moved into the more complex part which was about accessing & using the data itself. NGOs need to use BigQuery to save their data, DataStudio to generate graphs and charts and Google Cloud Storage to store media files. The Glific team demonstrated the integration of Google Cloud Storage and how NGOs can access their data on BigQuery. Since these tools can appear to be somewhat intimidating, seeing it through someone can make a big difference. Seeing it once can make it much more likely for NGOs to be self-sufficient in carrying out the required functions.
+The NGOs were able to run their program end-to-end. From a beneficiary messaging them and going through the chatbot experience to monitoring and guiding them, and seeing all the data collected in BigQuery and create analysis charts on DataStudio.
+Final words
+The new WhatsApp medium can be a game-changer for NGOs whose programs depend on interacting with their communities on a daily/weekly/monthly basis. And yet, for any organisation, a lot goes into adopting new technologies and tools. Such as aligning budgets and processes, training teams, deploying the solution, iterating and growing it further if it helps them achieve results. The adoption can be made easier through a team and a community that is on a similar journey.

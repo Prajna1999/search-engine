@@ -1,0 +1,44 @@
+Title: Thoughts  on  Open Source, FrontlineSMS, funding and social ecosystems
+Author: Kurund Jalmi
+Date: July 2021
+Category: Glific
+URL: https://projecttech4dev.org/thoughts-and-feedback-on-funding-applications-open-source-and-platforms/
+==================================================
+
+The past couple of weeks have been a wee bit disappointing and depressing from a Glific and open source funding perspective. At Tech4Dev, Glific and Chintu Gudiya Foundation, we sit at the intersection of open source and platforms, funder and fundee, NGOs and social businesses. This has both its good sides and the not-so-good sides, and this is my attempt to write down, review and reflect on some of what we’ve been through.
+To begin with, Sean at
+FrontlineSMS
+has started writing a series of blogs on closing FrontlineSMS. Frontline started at approx the same time as
+CiviCRM
+and its been good to see both projects grow and seemingly prosper. The news of it shutting down hit me a lot harder than I expected, primarily because Glific and Tech4Dev are in the same problem space, and we all want to fight and win the good fight.
+He’s published two so far:
+Frontline is Closing
+, and
+Frontline Business
+and his words truly do resonate with me, primarily because the path that groups like Frontline,
+CiviCRM
+,
+Avni
+,
+Glific
+and others are so similar and it is incredibly sad when you see an organization like them that is doing really good work close down. To a large extent, all of us in the social sector space, need to figure out how we can help sustain these organizations and ensure they thrive. I do think it is super important that the funding community realize the importance and impact of this, and help with building and supporting the ecosystem. We’ve come a long way in the past decade, but we have many more miles to go …
+In the recent past, Glific has advanced to the latter stages in a few funding rounds with 3 different funders, but we did not make it into their final list of selected projects. We did spend a fair bit of time on the applications and interviews, which in turn did help us a fair bit internally on clarifying and documenting some of our thoughts, especially in the areas of
+finance, sustainability
+,
+product roadmap
+, and
+marketing/branding
+. I’ll borrow a few quotes from Sean (in italics) which closely matches what we encountered in some of the above interviews and our current thinking,.
+its become increasingly obvious that there arent adequate support infrastructures for public interest technology and, candidly, there never have been
+Our intention – for ourselves and our clients – was to increase impact by simplifying things to their core elements
+.
+our goal was for our tools to be cheap, but the trade-off was that our time was expensive. For a lot of clients, that caused understandable whiplash – and it meant that we were selling project consulting to people expecting a software platform.
+Here are a few things, which I think can (and probably should) be improved.
+I’m happy with the open and frank conversations we had with the above programs. I also do hope that entities realize the importance of platforms, public interest technology and the importance of free and open source software.
+Its super difficult to hear and absorb statements similar to: W
+e don’t think we can add any value to your organization
+or
+We feel you are better positioned to partner with us
+. IMHO, Funders bring two main things to the table: financial capital and their networks, and both are equally important and can help organizations at multiple levels. Building networks is a long slow process, we will get there at some point, but would be great to have some assistance
+Finally, I would encourage funders to think about the amount of time and energy they expect organizations to spend in interviews and applications.
+Overall, I’m glad we are doing this. The team is getting a broader exposure and growing. They also are getting used to the highs and lows of trying to raise money, which will serve us well in the long run.

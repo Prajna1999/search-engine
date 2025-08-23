@@ -1,0 +1,43 @@
+Title: Trip Report – Sustain2020 and FOSDEM 2020
+Author: Kurund Jalmi
+Date: February 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/trip-report-sustain2020-and-fosdem-2020/
+==================================================
+
+Late last week, I attended
+Sustain 2020
+and half a day of
+Fosdem 2020
+. This was thanks to my former colleague at
+CiviCRM
+, Michael McAndrew who had written an incredibly detailed blog post on his
+experience at the second Sustain Summit.
+Since we are working on a couple of open-source projects at Tech4Dev, I decided to attend the conference to learn and get a better idea of what?s happening in the space right now. So, a few random thoughts, observations, and comments:
+The conference was facilitated by Gunner @
+Aspiration
+, who did an amazing job of getting people on the same page, talking about and directing people to be focused and making the day fun and lively. Personally, I loved that sessions had ‘coming up with an explicit set of next steps’ as their output.
+The agenda was determined collaboratively before the conference with the participants. The format throughout the day was small group discussions and knowledge sharing, you pick the things you are interested in.
+As with any word,
+sustain
+, means different things to different people. I was amazed at the breadth of the topics that come under what sustainability means to organizations. From financials to governance, from community management to licensing, from contributions to organization transitions and a lot more.
+It was awesome and encouraging to see so many companies present and active at the conference. Even better was the presence of the Ford and Sloan foundations. I?m glad that these foundations are supporting sustainability and open source and hopefully demonstrating to other foundations the importance of doing so.
+I?ve been involved with non-profit tech (nptech) open source for good for a long time now. So to a large extent, we have been content in our little bubble. At Sustain, I realized that this aspect of open source is such a small percentage of all the amazing open-source work going on out there. There are differences in the ecosystem of NPtech open-source projects compared to the others (smaller developer base, committed NGO user base with an in-built ethic of sharing and doing good), but also lots of similarities.
+There were a few NPTech organizations: Simpy Secure, CiviCRM, Ushahidi, and Avni/Tech4Dev, however, we were missing many of the other prominent NPTech open-source projects at Sustain or Fosdem (OpenMRS, Kobo, ODK, Medic Mobile, Kolibri, MiFOS, ?). I think it is important in future for the NPTech community to be a part of these events for multiple reasons:?
+They get the exposure and share their learning to a much wider group.
+Others can learn from their experience.
+All of these projects have done an amazing job for years and decades. It is important to celebrate that as part of the larger open source community.
+We should create a track at Fosdem 2021 for NPTech
+While I thought the agenda was largely focussed on multiple aspects of sustainability, I do wish that there was a sharper focus on it. There were quite a few sessions, where I found it hard to draw a link to sustainability.?
+I always think of: what are my learnings from any conference/session I attend. In some cases, it is sharing my experience. In other cases, it is getting a quick education and/or learning from other people’s experiences. Connecting with people who are doing similar things and/or folks you can collaborate with. I do think there are potential areas of collaboration for Tech4Dev with SimplySecure and other individuals.
+Given the above, I do think some of the sessions should have focussed on conveying specific things to the group during the discussion. This was important during the first round-robin session, where I was expecting to get a better view of some of the topics. I?m a bit biased here, but the sessions also seemed a bit sponsor heavy.
+One of the last sessions I attended was giving feedback to a group on building a database of the monetary grants that open source projects receive on a yearly basis. This has been a need for a long long time, and I?m glad to see other folks also thinking about it. The
+project scope document
+is being created as we speak 🙂 This could potentially make an interesting research project for Tech4Dev
+On my way to the conference, I learned about a
+seed grant for Open Source Projects
+facilitated by Open Collective, Mozilla, Ford Foundation, Indeed and others. I decided to apply on behalf of
+Avni
+with a focus on using the grant to help build the community. The amazing thing about the process was the group really minimized the time and effort that they required from the applicants. The application was super short and simple. The ?speed dating? session was 15 minutes long – no PowerPoint, no demos. They have a great format on how to structure your 5-minute pitch. I lucked out since one of my judges knew a fair bit about mobile data collection and hence understood the need and importance completely. It would have even better if they had announced the results at the end of the evening 🙂
+It also ended up also being a mini CiviCRM reunion. I met a few members of the Civi Community, and Civi had a booth at Fosdem along with videos and marketing material. I did a couple of interviews with Alain and Nic about the origins and motivations behind Civi. It is personally so gratifying to see the community be so active and present at events.
+I?m glad I made the trip over the big pond to attend the events. I learned a few things, made quite a few good connections and hope to collaborate with a few folks in the next few months, doing good together

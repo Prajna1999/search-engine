@@ -1,0 +1,58 @@
+Title: Trip Report India: NGOs, Funders and meeting a few legends
+Author: Donald Lobo
+Date: March 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/trip-report-india-ngos-funders-and-meeting-a-few-legends/
+==================================================
+
+Being an empty nester has its privileges. I can take extended trips, and I’m making the most use of this. Some of the team stayed on in Kenya to take a holiday, whike I flew on to India. When I was planning the trip, I did not realize that Kenya was so close to India, just a 6 hour hop across the ocean, and this allowed me to attend
+Dasra Philantrophy Week
+2024.
+DPW in Ahmedabad
+We started DPW 2024 in Ahmedabad and took a short break there. Great city, good food, an amazing long stretch of walk/bike path across the Sabarmathi river which was definitely the highlight. Spoke (actually more of sitting back and listened) on a panel with Gagan Sethi from
+Center for Social Justice
+and Binoy from
+Unnati
+. I enjoyed listening to to both of them who’ve spent so much time in the sector, their depth of understanding, their empathy, their way of looking at things over time and measuring progress.
+Also spent an hour with a group of 8 NGOs from Kutch that are being supported by the
+Empowerment Foundation
+. Repeated a similar process in Mumbai a few days later with a group of 20 small NGOs from the
+Rebuild portfolio
+. A few observations from those conversations
+As we grow, to be effective we’ll need to localize and communicate in the local language. Hindi does work for many of the NGO leaders, but I suspect that when we go into the field we will need to have people who can speak the state language (Gujarati, Tamil etc). Rajiv Kuchal from Dhwani foundation had mentioned this to us a year ago based on their work and interactions.
+We can do a lot of simple quick and cheap things with many of these NGOs for very little money. This will enable us to position them nicely as the depth and/or scale of their work increases. I do think a cohort based model of NGOs with similar needs with a lot of support will potentially work here. Another set of experiments to do 🙂
+On the way back from Ahmedabad, we took the latest fast train:
+Vande Bharat
+from Ahmedabad to Mumbai which was a very nice experience and show cased the progress India has made over the past couple of decades. Managed to get a fair bit of work done on the 6 hour journey as we rumbled across Gujarat into Maharastra.
+DPW, Rebuild and more
+The next few days were spent at DPW, Rebuild and a ton of meetings. Lots of conversations in the corridors and cafetaria. We also use events like these as introductions to technical folks who have not had interactions with NGOs of different types. We had a prospective new hire come and hang out for a few days and meet some of our existing partners and also interact with NGOs large and small. Its a really great marketing tool for us, since it shows the impact our work has with NGOs so nicely and in their own words.
+Some more observations from these events
+Data is becoming the new queen of the block. Many NGOs had conversations with us that focussed on data, especially on the anaylsis + visualization part and edging towards learning and experimentation. A few conversations on the feasibility, implications and business model of data sharing and responsibility.
+Funding collaboratives have been successful and have the ability to raise the sector across multiple orgs simultaneously. Great examples of this include the GROW fund from Edelgive and Rebuild Fund from Dasra
+Tech4Dev has a good name and brand across the sector (I think and hopefully we are not drinking too much of our own kool-aid). My days in Mumbai were packed with multiple meetings with some amazing funders and partners who wanted to learn more about our work, collaborate and more.
+Meeting the legends
+Mari and I visited CSJ’s office and met the team with Gagan and Nupur. It was quite nice to see how Gagan and Nupur made the young fellows on their team answer most of our questions and explain to us the importance of their work and impact. Have long been an admirer of the work they’ve done, and the visit served to strengthen it.
+Had my first conversation with Dr. Anand Bang from
+SEARCH
+in Gadricholi. Another legendary organization doing amazing work for a long time. Kinda cool to see how the next generation of the Bang family is also deeply involved with the work. Hope to learn from them and thinking about spending a few weeks at their campus this summer.
+I got to spent half a day with Safeena and Rishi and the
+Educate Girls
+Team. We’ve started to realize that we can play a role with large organizations also. Many of the hurdles they encounter are common across the sector. So some more experiments on these lines this year. They also nudged me to share my story with the EG team and have an open, honest conversation with them. It was a lot of fun to interact with the group and go back and forth about the role of technology, problems over solutions, the role of AI/ML going forward and is technology bridging or increasing the divide?
+Met Ashif, Kapil and Nishant from the
+Jan Sahas
+team to get a better sense of how they should approach their platfrom from an open source, scale, multi-party collaboration perspective. Lots of different models are applicable here, but in our opinion, for NGOs to grow and strengthen the sector, we need to open-source all of these systems, and potentially govern them with the
+benevelent dictato
+r model to ensure everyone can benefit from the development and funding of these systems.
+Had an incredibly interesting conversation with Ashok from Bhansali Trust at his place. I can spend days listening to his stories of how he thinks about the work and the comprehensiveness of their approach. Why malnutrition in children is a lot beyond nutrition only, how to understand mental health and their approach towards it, how to work with and around government systems while being in harmony with them and more.
+I’d be remiss if I did not include our friends and partners forever who are also legends (in my eyes at least): Vanessa from SNEHA, Pratima from Shelter, Raj from Lend-a-Hand India, Suparna from Aangan and Naghma from Edelgive.
+Wow, that was a lot of meetings!! No wonder, I’m so jazzed and inspired 🙂
+Back to reality
+Many of you who know me, know that while generally an optimist, there are a few things that deeply bother me. Since writing is my sort of therapy, I might as well put it out there and highlight a few concerns and/or struggles
+NGOs are spending a lot of money on strategy documents via the prominent sector consulting firms. Yes, these are funded directly by the donor, but when an NGO spends approx 10% of their budget on a strategy document, I wonder if its really worth it. Can’t we use that money to pay folks in the sector a lot better?
+We had a short term need of raising Indian money for our NGO in India, so we can put it on the track for an FCRA application in a few years. I reached out to a small set of funders in our network. The good news was we had 3 of them respond quickly and offer their help asap, which resolved our situation. Its great to see how supportive the sector is. Thank you to the funders who responded.
+Talking to some of the organizations I mentioned above, I’m sad that they dont have a long line of donors wanting to support them with minimal hassles. The work that Gagan, Nupur and team at CSJ, Dr. Bang and his family at SEARCH in Gadricholi, they deserve our whole hearted support with minimal questions and process. If you’ve gotten this far, and can afford to, please go support these or other similar institutions
+While I love Digital Public Goods (DPGs) and Tech4Dev has benefitted immensely from that (Dalgo, Avni and Glific are all DPGs), the term is being overused, mis-used and destroyed at an incredible rate. Observed this both in Kenya at a funder talk and in India with some NGOs and funders. Building an open source platform is a lot of time, investment and hard work. The support, documentation and improvement is even more expensive from a resource and commitment perspective. Lets get real folks
+We work with NGOs large and small quite actively and try to be as helpful as we can. Very recently a fairly large NGO went with a competitor (even though their offering is inferior compared to Glific). In this case, we’ve been reaching out to them proactively over the past year, have interacted with folks multiple times over the course of the year, but did feel blindsided by their decision and lack of communication. Our goal is to build a trust based ecosystem, and for that I do think clear and open communication is important. We understand reasons why folks might choose someone else, but letting us know about it and why would help us a lot.
+And finally, in my continuing saga of getting old and forgetful (why, oh why!), I managed to forget my phone this morning at the check-in counter in Delhi. Luckily I remembered at security, and the airline staff managed to retrieve it. Unfortunately, I dont think this is going to get better, so I’ll need to add even more tricks to my arsenal to minimize similar things from happening. ARGHHHHHHH
+This has probably been my longest blog post, so i better stop here. These serve as important memory markers and are great to read and reflect upon after a few years or even a decade! Ended the day having dinner with Erica (our CEO) and Sneha (Glific BizDev lead, new Tech4Dev Mom!)
+Onwards and Upwards

@@ -1,0 +1,38 @@
+Title: Building Dalgo’s UI for transformation
+Author: Abhishek Nair
+Date: April 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/building-dalgos-ui-for-transformation/
+==================================================
+
+Dalgo’s UI for Transformation is our next big towards enabling nonprofits to use and learn better and more easily from their data. Through this update you can perform a wide range of operations such as renaming, filtering, aggregating, and joining data sets, all through a simple and intuitive interface. This eliminates the need for users to have extensive programming knowledge or expertise in data manipulation, making it accessible to a wider audience.
+It’s now as simple as clicking on a function, setting it up (ex: Subtract column B from column A to create new column C), creating a new table, and checking if it looks and works the way you want it to.
+Ishan has covered the why, what and how of the feature in
+this amazing blog.
+This feature release makes Dalgo accessible to a new and much larger section of our nonprofit ecosystem.
+If you want to build stable, sustainable data pipelines easily then you should reach out to us at
+support@dalgo.in
+. We’re happy to offer you a trial and/or run a short proof of concept with you to get you up and running on the platform.
+From a product development perspective I think we’ve learned and grown immensely while working on this.
+Inform your specs with data:
+We referred to the transformation models for all our existing nonprofits and checked to see which functions were used most often. These became the functions that we picked to include in our first release of this feature.
+Respect the Process:
+Spec>Design>Develop>Test, test, test
+Giving this process the respect it deserved allowed us to execute far more efficiently than before. That’s not to say there weren’t gaps, but just being dedicated to the process has allowed us to spot them and know to fix them the next time around.
+Design: Shoutout to Vrushabh and Kewal from
+Think201
+for creating the designs for our feature. Think201 has been building designs for Dalgo since the outset. Having designs and discussions on the same with Vrishabh and Kewal helped us think through our user flows in a lot more detail and gave engineering clarity on what needed to be done. Sometime later this week they’ll audit our release and let us know how we can do better for our users.
+An open question we have now is how much design is the right amount of design for different types of feature releases to ensure effective and timely execution.
+Adapt and Iterate: At each stage in the process we have had to rethink some assumptions, review our plans, adapt, and then move forward. Our specs doc has seen at least four major iterations, without which this feature release would not have been possible.
+Test, test, test:
+This gets to be its own point because it’s been a great learning curve for us and really brought us together as a team. We put down over 160 test cases (thanks to Tejas for showing us how
+Glific
+does it) and tried them out. This helped us catch bugs, identify new feature requirements, prioritize them, and polish the feature out, and inspired even more testing.
+We also tried to replicate a few pipelines with some real NGO use cases. This helped us spot some high priority features that we need to add in our next update of this feature.
+Demos and Beta testing: We ran an early demo for some of our current users and requested them to become beta testers for our product. We’re also looking for more Beta testers! (email us at
+support@dalgo.in
+to become a beta tester).
+All in all, the testing, prioritization, and fixing loop really helped build fluid teamwork between product and engineering.
+Really looking forward to seeing this feature grow and to our
+future releases
+. Particularly excited about working towards building AI functionalities into the platform to make it even easier for you to learn about and from your data!

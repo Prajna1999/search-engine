@@ -1,0 +1,39 @@
+Title: Dasra x Data Catalyst Program
+Author: Abhishek Nair
+Date: October 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/dasra-x-data-catalyst-program/
+==================================================
+
+This blog is written by Nirali Trivedi from Dasra
+During our interactions with non-profits, philanthropists, intermediaries and academia at
+Dasra
+, we noticed a dire need for building capacities of NGOs specifically when it comes to data. Data literacy; having resource constraints; lack of spaces for collaboration and peer learning focused on data, are some of the common challenges we identified, and wanted to do something to solve for – hence the Data Catalyst Program came at the perfect time for us. On a personal note, my interest in harnessing the potential of data and technology to catalyze real-world impact found a perfect outlet in this partnership of Dasra, Project Tech4Dev, Goalkeep & The Agency Fund – allowing me the opportunity to strategize, innovate, listen deeply, & learn.
+In the lead-up to these two workshop days in Kochi, the atmosphere was charged with excitement and focus.
+Day 0
+was dedicated to laying the groundwork and ensuring the comfortable integration of our NGO participants. The energy was a blend of uncertainty, nervous anticipation, and genuine excitement, as our agenda encompassed a wide array of topics  spanning from data leadership to data culture to  LLMs and AI to data collection & privacy.
+The day commenced with an ice-breaker exercise arranged by the Dasra team. Our aim was to prompt participants to conceive three distinctive data points that could serve as an introduction to themselves. These data points could range from personal preferences such as favorite foods to particulars like their hometown. After contemplation and data point selection, participants put down their chosen pieces of information and crafted two-line introductory sentences based on their selected data points.
+During the ice breaker session
+However, what truly elevated this exercise was the collective transformation of these individual narratives into a single, imaginative group story. Thus, we embarked on our journey, transforming a collection of diverse data points into a shared story that mirrored the diversity of our cohort.
+Day 1
+kicked off with NGOs sharing their data stories, which isn’t easy, given that summarizing years of hard work in just 10 minutes is a challenge. But our NGOs pulled it off, explaining what they’ve been doing, how they’ve been doing it, and why it matters.
+TAP Team presenting their data story
+One remarkable session was facilitated by Goalkeep. They divided us into groups and presented a simulation exercise where we were tasked with creating an action plan and evaluating the data strategy of the “North Star Foundation.” I must confess that this exercise seemed exciting, albeit slightly daunting. However, as I delved into it with my fellow team members, Rob and Vinod, I discovered it to be surprisingly manageable. The exercise was aptly named the “Data Culture Simulation,” and I used logic to approach it much like solving a test paper. I did consider what kind of data strategy would be the most inclusive, involving the voices of not just the leadership but many others within the organization.
+We progressed as we moved on to the session focusing on building data-leaders of tomorrow by Dasra, where the emphasis was on managing the softer aspects of leading data strategy within organizations. This session was followed by parallel worktime sessions  one led by the Dasra team in which the participants got on a hypothetical train journey of 1.5 hours to go through the FAST (Fundraising, Articulation & Negotiation, Stakeholder Management, and Team Building). Given Dasras work on building NGO leadership through the Dasra Social Impact (DSI) Programs over the past years, we were able to connect with the participants and start a candid conversation around challenges faced by them in their respective roles. The other session facilitated by the Tech4Dev & Goalkeep teams, guided the participants on areas such as data collection, visualization, and kickstarted working on their 3 month action plan. Observing the Tech4Dev PoCs and teams engaging in one-on-one interactions with the participants, diligently dissecting the problem statements, articulating goals, and devising strategies to achieve them, was truly inspiring.
+Toshals representation of the Data Leadership Express
+Day 2
+stands out for me, especially due to my inclination towards structured frameworks. Rob’s session on data-driven decision-making – breaking down a program into a “user funnel,” where it’s segmented from the candidate state to the impacted state – provided valuable insights.
+I’d like to give a special mention to Edmund. I consider ChatGPT to be a modern-day best friend and I had no idea ChatGPT-4 could perform the tasks demonstrated in his demo, and it seems many of our participants shared that sentiment based on their feedback. Edmund’s use of Indian food dishes and ingredients in his live demo was highly appreciated. It showcased his effort in contextualizing the session for our specific audience (yes, we’re always eager for a good Indian meal!)
+The 2 day workshop concluded with Kavneet leading the participants through a sort of “reflection meditation.” She encouraged them to revisit the past two days in their minds and share their immediate thoughts.
+Last day of the workshop
+Some reflections:
+–
+The power of deep listening & unlearning
+: Regardless of an organization’s maturity or an individual’s experience, there is a wealth of knowledge to gain and even more to shed through unlearning.
+–
+There are (data) miles to go before we sleep:
+Always inspiring to hear NGO leaders talk about the work they do  setting aside dedicated 2 days to upskill themselves on data for impact, demonstrates their commitment to driving positive change.
+–
+It takes 4 to transform ideas into action
+: While Dasra & Project Tech4Dev initially partnered to set the groundwork, having Goalkeep and The Agency Fund as knowledge partners solidified the foundation of our program, and we are grateful for the synergies the four organizations could tap into, to finally come up with the first 2-day workshop of the first cohort of the Data Catalyst Program.
+Looking forward to the conversations with our cohort over the next 3 months leading up to the eagerly awaited workshop in January 2024 (with a sincere intention to make it for Lobos 6:00 am walks!)

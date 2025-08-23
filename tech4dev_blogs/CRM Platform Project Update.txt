@@ -1,0 +1,45 @@
+Title: CRM Platform Project Update
+Author: Kurund Jalmi
+Date: June 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/crm-platform-project-update/
+==================================================
+
+The primary aim of the CRM platform project is to provide a ready to use development platform for the software partners for the CRM’ish projects. We are hoping it will save considerable time and effort involved in research and bootstrapping the project.
+Overview
+Currently, we have implemented a backend for this platform. Below are the details of the functionalities which have been implemented for this project:
+Define and manage a set of contact types and details
+Activity Management
+User Management
+Access control and Roles
+Geographic data for the world (countries, states), with a focus on India initially (States, Districts, Blocks, Villages)
+Easy to extend all in-built objects as per NGO needs
+Strong API suite that can be used to implement cross-platform applications
+CRM Platform is implemented as a Strapi Local plugin, so tightly coupled with
+Strapi
+platform.
+We have used
+Mochajs
+for building API test suite.
+The API documentation is generated using
+slate
+project and it is published on GitHub pages.
+Please check:
+https://webaccess.github.io/crmplatform-docs/
+We are also using
+CircleCI
+for Continuous Integration.
+Projects using CRM platform
+Medha: State Training and Placement Cell project is already using the CRM platform. You can see how they have extended the plugin at
+https://github.com/webaccess/medha-STPC
+We also plan to use CRM platform project for SeSTA FMS project.
+Project Repositor
+ies
+Code:
+https://github.com/webaccess/crmplatform
+API Documentation:
+https://github.com/webaccess/crmplatform-docs
+Next plans
+Evaluate using Graphql for API
+Switching to Typescript for the project
+Easy to extend frontend interface

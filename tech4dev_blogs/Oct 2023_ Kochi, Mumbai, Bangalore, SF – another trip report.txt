@@ -1,0 +1,27 @@
+Title: Oct 2023: Kochi, Mumbai, Bangalore, SF – another trip report
+Author: Donald Lobo
+Date: October 2023
+Category: Glific
+URL: https://projecttech4dev.org/oct-2023-kochi-mumbai-bangalore-sf-another-trip-report/
+==================================================
+
+Keeping up with tradition (and its getting harder to do so, since seems like everyone else is beating me to it these days), another trip report, some thoughts and reflections and a look back at my evolution (and growth, I think) in the sector.
+As always, I’m both exhausted (yes, I say this every time, but believe me, this trip really was the most exhausting in a good way) and super energized. It’s great to see so many folks in the Tech4Dev Ecosystem and also the broader NGO ecosystem that I’m so ingrained with. Lots of high highs, and a few lows but overall the Tech4Dev team is excited at what we are doing and where we are headed.
+I’ll retreat to one of my really old tricks, and list a few of the highs and lows on this trip and include the past few weeks
+I feel so fortunate that we have Erica Arya leading Tech4Dev, and Vinod Rajasekaran rounding up our management team. It’s really nice to have people you sync with so nicely across multiple levels and being able to be honest and upfront with them. Thankful, that they put up with me 🙂
+Our ecosystem work and collaboration was in full display at the Data Catalyst program in Kochi, with 4 different orgs with very different skillsets and vision coming together (Dasra, GoalKeep, Agency Fund and Tech4Dev). All of us made compromises, but seeing things come together was so beautiful. It was a good start, we can and will improve, but seeing the collaboration come together was very gratifying.
+We’ve hired a few new senior FCxO’s to the team (Ashwini L, Thomas M, Radhika B). The one thing that I’m struck with is how much trust and faith they put in us, how much they are willing to believe in us. I hope we live up to their expectations and faith
+Over the past few weeks, I’ve had long conversations with a few of my ‘heroines / heroes’ in the sector. Sucheta B , Vishal T, Anshu G, Sunanda M, Sapna K, Srikanth. I’ve gotten to know many of these orgs a bit more with some of the work we’ve done with T4D. From the Chintu Gudiya Foundation perspective, I’m beginning to appreciate and understand why we need to support ‘larger’ orgs with unrestricted funding also. Over time, I’ve realized that we are in the business of supporting people and their passion, and it’s ok for us not to understand completely what they are doing and/or their impact. I trust that Sucheta, Anshu, Sapna and others are more deeply connected and concerned with that, than what I’ll ever understand. Totally fine with this.
+We had our advisory committee meetings (Sanjeev, arun, Kurund and Nidhi) and got good feedback and mostly positive reinforcement.. We followed that up with an executive committee meeting (which became a 1-on-1 due to various scheduling and sickness issues). We’ve improved our processes, financial reporting, mid term thinking thanks to the feedback we’ve recd from these groups
+It’s great to see the blog posts flow out from each sprint without me having to nudge, cajole and please. If you’ve not done so, check out the
+Tech4Dev Blogs
+and
+Glific Blogs
+to read the latest reports. This is such a great lead generator for us and serves as an excellent report for funders.
+In my last two trips I’ve managed to spend close to a week with the young developers on the team (Akhilesh, Siddanth, Shamoon and Amisha). Its always such a joy to spend time with them. I still think of myself as a developer, love to code and solve problems (they might disagree). I also see a younger version of myself in them, and hope they listen to a few things I say and avoid some of my mistakes. Love the passion of Akki, the calmness of Siddanth, the strength of Amisha. Here’s a photo, they selected to display here: (we missed u Shamoon)
+In the things we can do better
+We can and will improve on managing people better. We need to set expectations better, give people the strength to speak up and say their views, listen closely to their feedback and figure out how we can help them in their career trajectory, Our team meeting and pulse check within the group highlighted some areas that we can improve.
+Sometimes it feels like we are trying to do too many things at the same time. Are we pushing people too much? and/or setting our expectations a bit too high?
+We try and be as transparent with our work and approach with our partner NGOs. Our goal is to improve the ecosystem around us and help uplift the sector. At times, it seems we need to convince our NGO partners of this. We need to understand and realize we are all in this together.
+We wrapped up our relationship with a close partner since we were on two different trajectories. Its a bit sad for me personally, since we are still trying to get the collaborative open-source-product-building model to work nicely with software partners, and this partnership seemed to be on the right track. Back to the drawing board on this to see what we could have done better
+We always tell people to not spend more than 60-90 minutes on a blog post. I’m coming close to the limit, this post is getting a bit too long, so will save the rest for another day

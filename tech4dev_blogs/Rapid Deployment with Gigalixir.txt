@@ -1,0 +1,30 @@
+Title: Rapid Deployment with Gigalixir
+Author: Kurund Jalmi
+Date: November 2020
+Category: Glific
+URL: https://projecttech4dev.org/rapid-deployment-with-gigalixir/
+==================================================
+
+Talking with NGOs and understanding the processes they are using to communicate with their beneficiaries and the challenges they were facing, we were set on a path to create an application that would empower non-profits communication with their beneficiaries. After spending months and working on design and implementations we were ready for deployment of Glific.
+Before deep dive into the processes and platforms we used to deploy, here is some insight into the product that we need to deploy.
+Glific is a two-way-communication tool that runs on the Whatsapp platform. It is written in two parts with the front-end being written in React and the back-end is written in Elixir Phoenix. It heavily uses Elixir Phoenix features like distributed clustering, hot upgrades, Genserver
+Our Journey of Deployment:
+1. Initial approach with Docker-based manual deployment on AWS
+Starting with a single NGO onboarded, we tried to keep the overall cost at minimal as the cost can be a deciding factor. So when an NGO required infrastructure for hosting Glific for them. We decided to release new changes on a monthly basis and opted for a low configuration server infrastructure setup. After spending some time researching for a platform, we went with the AWS manual build process.
+But as the NGO started using the application, deploying updates and quick fixes became crucial. Thus the initial plan for releasing new changes every month quickly went out of the window. With Build cycles becoming frequent, we were facing hiccups with a low configuration server infrastructure as each build would take hours to complete.
+2.Our next approach with Continuous Deployment with AWS ECS
+Next, we moved to AWS ECS with automated deployment. With AWS ECS the majority of our problems were solved and the automated deployment reduces the overhead of deployment of frequent updates and fixes.
+But as the ECS is a serverless deployment, we were not able to access the server and fully utilize the many advantages which Phoenix provides.
+Know more about AWS ECS deployment here:
+https://chintugudiya.org/focus-areas/tech-work/overview-deploying-glific-on-aws-ecs-fargate-with-cd-in-place/https://coloredcow.com/overview-deploying-glific-on-aws-ecs-fargate
+Implementing Multi-tenancy
+As there was no multi-tenancy, so any new NGO that gets onboarded, needed a separate infrastructure setup for each of them bringing up the overall cost and separate build for each organization would make deploying frequent updates impossible.
+So, we started implementing the multi-tenancy in Glific. But updating the app for multi-tenancy would require changes at the elemental level of an application, which would take time for implementation and testing. So we were left with two choices to either wait for multi-tenancy implementation or upgrade to a better server configuration infrastructure.
+Thus we were again researching for a platform that supports our need and as well as is compatible with the elixir. Thats where we came across Gigalixir which is a fully-featured, production-stable platform-as-a-service that supports Elixir Phoenix features which were helpful for a multi-tenancy environment of Glific.
+Deployment on Gigalixir:
+Gigalixir was originally built for Elixir but any language with a build pack can run in Gigalixir. It even supports hot upgrades that let us deploy new code with zero downtime keeping NGOs in constant contact with their beneficiaries and at the same time updating the application for NGOs with the latest features.
+It also provides some outstanding features for elixir deployment like the observer, remote access to the server, IEX terminal, updating configurations from the dashboard, and running migrations which makes it ideal for deploying elixir applications.
+Initially, we did face some hiccups with deploying our app in Gigalixir like Cross-origin issues and establishing a WebSocket connection but with the rich customer support that Gigalixir provides and the build packs, it offers we finally realize that it is because of some wrong configurations in the release file.
+It took some time but we were able to resolve this issue. Apart from that deployment on Gigalixir is pretty straightforward. You can have a look at the deployment
+steps here.
+In case you are also stuck with some issue here is our sample release file we used for the deployment.

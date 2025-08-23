@@ -1,0 +1,21 @@
+Title: HAQ – Primero issues and the workarounds
+Author: Kurund Jalmi
+Date: June 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/haq-primero-issues-and-the-workarounds/
+==================================================
+
+We are using Primero for implementing case management for HAQ project.  While it meets most of our requirements there were few issues with conditional and file upload fields as mentioned earlier in our previous post. Here is an update on our analysis and the solutions that we went ahead with.
+Conditional Fields
+For conditional fields instead of making any major changes in Primero?s default functionality, we implemented this logic by adding JavaScript at the form level. For adding JavaScript in Primero we followed basic Ruby On Rails fundamentals. Primero is using vendor/assets/javascripts folder for all its JS files. We have a choice of three locations for the local JS file:
+* app/assets/javascripts folder
+* lib/assets/javascripts folder
+* vendor/assets/javascripts folder
+In our case, we added all our JavaScript files in the app/assets/javascripts folder and then invoked the JavaScript in the application.js file.
+File upload fields
+For file upload fields, project requirement was to add the upload button inside multiple forms. We successfully managed to configure file bundle in Primero to add a document upload field in required forms. However, only one file upload was working when there were multiple upload fields on the same form.  We were unable to find a solution for this.  For now, we are using a separate form for uploading all the document files.
+Moving forward with our requirements there were some more challenges. Our next requirement was to provide Read/Write permissions to different roles and creating reports.
+The project requirement was to allow view access for case information & workflows to all the users and give write permission only to those forms where the user is the owner of the form. Currently, Primero does not allow creating view only permission at the form level. So basically we cannot have roles with edit permission for few forms and view for other forms.
+The workaround for this was to create two identical forms for such cases which are mapped to same DB name and then in one form we disabled the fields in order to make them read-only.
+Finally for creating custom reports. As per the specified requirement, HAQ asked us to create 28 reports which consist of basic and complex reports. We were able to create some basic reports but we were facing difficulty for generating complex reports. Primero cannot generate reports from a text field it can only generate reports from fields like dropdown, radio button, date fields, etc which means it generates a report only from those fields whose predefined option values are already stored in DB. We came across one more issue where only two columns or two rows can be used in the group by clause for report generation so we cannot create reports that require multiple rows or columns for grouping. In light of these issues, we are evaluating a third party tool like Metabase/Superset for report generation. Primero uses CouchDB as the database backend and Metabase /Superset does not accept CouchDB as a data source. Hence, we are trying to export CouchDB data to PostgreSQL and then build a report on that.
+Any feedback is highly appreciated.

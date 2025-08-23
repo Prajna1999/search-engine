@@ -1,0 +1,101 @@
+Title: Open City: Asking the right questions
+Author: Kurund Jalmi
+Date: August 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/open-city-asking-the-right-questions/
+==================================================
+
+As part of the Tech4Dev cohort, in March 2020, we kickstarted the re-design of Open City, a city level data repository hosted and developed by
+Oorvani Foundation
+and
+Data Meet.
+The purpose of the redesign was to make the platform more accessible and user friendly.
+It was exciting to start this because it let us experiment and explore more of CKAN, which is an open-source open data portal for the storage and distribution of
+open data
+as it forms the core of most of the platforms
+CivicDataLab
+has been building, be it Open Budgets India or the Justice Hub.
+On doing some initial digging, we found that Open City gets close to 60k new users/month!
+Check Aruns blog When Cookies Tell Stories
+. It houses close to 534 Datasets and 1323 Documents and is continuously growing to cover more information and data from cities like Bengaluru, Chennai etc.  As designers, we were curious to study how data is being collected and more importantly,
+consumed
+at a city level. Towards exploring this we asked the following questions –
+Who is seeing this data?
+How is it useful to them?
+These two primary questions, we realised, if researched well could not only benefit the redesign but also future engagements and expansion of Open City itself.
+Our initial Waterfall Method approach to project management
+The design research initially involved interviewing key stakeholders and as many Open City users as possible and was to be followed up by design implications report that would then feed the wireframing and development stages.
+And then there was the pandemic.
+Interviewing in the age of the pandemic:
+Initially we thought it would be a breeze to line up interviews, everyone is at home, time slots shouldnt be too difficult to arrange. Well, how wrong we were! We made the classic mistake of being overly optimistic!
+People and businesses were readjusting to the sudden disruption and though everyone was glad to talk to us,  mutually convenient slots were hard to come by, many subtle things were shifting we realised.
+For example:
+Boundaries of work and home were blurring, it was difficult and unrealistic to expect to not be interrupted while conducting an interview
+and
+Doing interviews through a screen, sometimes became a challenge when we had to switch off screen to save bandwidth or wait for the plane to pass or ask people to kindly repeat because of a fruit vendor out voiced the interviewee or of dropped signal and hoping their patience didnt!
+This turned out to be a blessing in disguise, because we also got invited into peoples personal spaces. We caught  glimpses of their private selves, on the walls which had their artwork or books stacked up to the ceilings, fascinating knick knacks neatly arranged on their works spaces, all very telling of the people we interviewed.
+We heard pets, children, partners and their music(best part) which I dont think we would have known about in a typical design research exercise, conducted in an office or a clinically set up workshop. We truly learnt more about our interviewees, which helped us get a truer and a more holistic empathy map of our stakeholders.
+We managed to interview key stakeholders who were extensive users of Open City
+Civil Society Organisations
+Journalist
+Resident Welfare Associations
+Student
+Technologist
+Researcher
+We primarily wanted to understand
+Why did they use Open City?
+To uncover the motivation and entry points
+How did they generally use Open City? This would uncover user behaviours and patterns
+What were the challenges they faced?
+This would help understand usability issues and bugs that may have been overlooked
+Post the interviews
+we took a pause and pivoted!
+We restructured our Design Research approach. We realised that the user research needed to be more extensive but keeping within our project timelines and being mindful of the limitations that the pandemic brought, so we split our research up into two parts.
+Shorter User Research
+to design UI/UX
+Longer Design Research
+to suggest changes on sustainability and explore probable partnership models for Open City
+Our new Staggered Method approach to project management
+User Research to Design UI/UX
+The user research to develop a platform involved:
+Reading case studies on other such attempts across the globe
+Studying the Google Analytics data of the platform
+Conducting in-depth qualitative interviews with key stakeholders
+Conducting quantitative research of close to 130+ urban dwellers to understand the most pressing issues they face, to structure the information hierarchy on the platform
+Evaluating the usability of OpenCity platform and a review of other city-level data platforms
+Synthesizing and analysing the above to provide a coherent understanding of the research
+Mapping our Users
+Empathy Maps
+An empathy map is a collaborative visualization tool used to articulate what we know about a particular type of user. It externalizes knowledge about users in order to
+Create a shared understanding of user needs, and
+Aid in decision making.
+We created empathy maps to understand the motivation, fears, needs and user behaviour, traits and characteristics that would help us design the user flows.
+Affinity Maps
+Affinity diagramming has long been used in business to organize large sets of ideas into clusters. In UX, the method is used to organize research findings or to sort design ideas in ideation workshops
+2
+We used it primarily for quickly organizing:
+Observations or ideas from our interviews
+Ideas that surface in design-critique of Open City
+Ideas about UX strategy and vision
+Affinity Maps collating the Key challenges & Aspirations of interviewees
+and condensing them to Insights
+Open City�s User Persona
+After analysing the Affinity maps and Empathy maps we conceptualised 4 primary User personas for Open City
+Data Browser
+Data Sharer
+Data Deep Diver
+Data Uploader
+Open City User Personas
+We also conducted a co-ideation session, to come up with more ideas from a technology, design and community perspective, with Oorvani Foundation and Citizen Matters team and the bigger team at CivicDataLab. Which saw a good and enthusiastic turn out from both sides, more about it in the next blog.
+The ideas collated from the affinity mapping and ideation workshop are being sieved, sorted and analysed, from a design, tech and community lens. An exhaustive feature list has been generated and is currently being wireframed (design perspective) and developed (technology perspective) simultaneously.
+In the last two months we found answers to a lot of problems, we are still figuring a few out and were sure well uncover more as we go ahead. But thats the beauty of Design Research as they say
+Knowledge is having the right answer, Intelligence is asking the right questions.
+We are excited to see how this would piece together to develop a visually good looking, functionally user friendly, technically less buggy and community driven platform in the next few months!
+Are you interested in ideating or conceptualizing about Better Cities? Come say hi to us at
+bettercities@civicdatalab.in
+About the Authors
+Charlie Vincent
+is a Design Researcher at CivicDataLab who is curious about enquiring into the intricacies of human experiences with technology. Specialsed in Human Centered Design, he strives to facilitate social change through thoughtful design of technology, systems and services, keeping human experiences at the center. In his free time he enjoys writing fiction and poetry.
+Divya Rani
+is a Designer at CivicDataLab who loves observing the human to human to society behaviours and patterns to design experiences and narrate stories. Shes a graphic designer who loves crafting brands and narrating their stories visually.
+Having worked with companies of varied sizes and across continents, shes currently exploring the possibilities of designing and telling stories for change.

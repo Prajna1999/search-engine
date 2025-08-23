@@ -1,0 +1,37 @@
+Title: What I loved about the GarudMaachi Sprint
+Author: Kurund Jalmi
+Date: July 2022
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/what-i-loved-about-the-garudmaachi-sprint/
+==================================================
+
+This being my second time participating in the Tech4Dev 2.0 sprint (following the one in Gurgaon), I thought I had a fair idea of what to expect. With a wide smile plastered to my face, I’m happy to write that this one exceeded my expectations, and to put it in a few words – I simply had a blast!
+I am walking away from this sprint with tons of learnings from organizations who are a couple of years ahead of us in the journey (for someone early into the game, this was a goldmine), having initiated a bunch of potential collaborations, spent a relaxing time in the midst of nature and the best part of all- having made so many friends! (yes, I said friends, not connects)
+Heres what I loved the most about this sprint:
+Informal spaces to spend time together
+What I didnt anticipate and the best part about this sprint for me was that right off the bat, the entire atmosphere was super informal and casual which allowed free conversations to flow. We were all living, working and having fun together which inevitably led us to bond well.
+Lunch and dinner conversations were something I was always looking forward to (along with the surprise of which soup we were going to be served). Lobo challenged us to sit with a new group of people every meal – I didnt count but I think many of us actually did that!
+Post dinner shenanigans like super competitive (sometimes aggressive) card games, karaoke night, (and a mafia night I skipped :() broke the ice even further until it was a river flowing like the 100,000 waterfalls we saw along the way (sorry, not sorry). The late night and early morning long conversations with my roommate Krishna Priya reminded me of my good old college days and how wed spend hours discussing and solving problems.
+I also got the chance to go on a couple of short treks/hikes in slippers and rain, it was really a miracle I didnt break my legs.
+NGO/Tech Talks from diverse organizations
+From an education NGO perspective – it was super interesting to observe the work done by different orgs at different levels ranging the entire spectrum of a childs learning journey (early childhood and foundational: KEF, PAF, to primary/secondary: TAP, VOPA, SOL, Reap Benefit to senior secondary: Antarang Foundation, LAHI, Avanti Fellows).
+It was also super inspiring to learn more about how each org approaches learning so differently (through civic action, art, music, games, slam poetry, questions embedded in short video lessons and what not) and how each of them leverages tech to amplify their impact. There was something new to learn from everyone.
+Thanks to a bunch of people working with school children and teachers, we were bestowed upon with super fun energisers which Im going to take away for all my post-lunch meetings (Neha – Im talking peel banana and Tejas- thanks for NGOs of Wassepur). Whoever is the person who has the spreadsheet of all known energisers under the sun, please do share it with me.
+Working sessions and Collaborations
+Working sessions with the tech partners werent super relevant for our organization since we are more of an ecosystem partner that aims to diversify the tech space (we dont use Glific or Avni etc), but I never felt out of place since there was scope for collaboration with almost every single organization that was present here. Source learners from education NGO organizations and get them placed at software partner organizations! (sounds simple when put like that, wish it were so simple in real life)
+I also spent some time reminiscing about the
+work
+we did with Reap Benefit more than a year ago, during the Covid 2nd wave (one of the projects were super proud of), and finally shared that code with the Glific team! We learnt that this integration could be super useful for other organizations as well.
+Beautiful surroundings and weather
+Finally, the place we were put up was so extremely beautiful and breathtaking. The rains brought the entire place alive, and Id never seen so many waterfalls in my entire life put together.
+Also, monkey (and frog) sightings, witnessing Ranjanas superpower of recognising bird species through their calls, not being able to hear what people are saying since its raining cats and dogs outside, are just some of the memories I will take with me from this beautiful space.
+For me personally however – the icing on the cake was having Mohd Taqi Afsar be a part of this sprint. Taqi was one of our learners at
+HV Academy
+and is currently pursuing an internship with
+Samanvay Foundation
+contributing to Avni. My biggest pitch to education orgs and software partners at this sprint was – what if one of your beneficiaries is able to pursue a career in software development and able to sit at this sprint with all of us. Im hoping we could see a day where we have more developers from under-represented, under-resourced and under-served communities sit at this table (
+Women In Tech
+latest update here). Yes, there are challenges we are struggling with, and its a long road ahead, but I dont think that day is too far away.
+P.S. Huge huge shoutout to
+Arun Kadekodi
+for being the rockstar organizer who pulled this off and being, as someone said – the youngest person in the group. The energy was contagious!

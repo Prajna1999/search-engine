@@ -1,0 +1,27 @@
+Title: Dam Desilting Project update
+Author: Kurund Jalmi
+Date: February 2019
+Category: Avni
+URL: https://projecttech4dev.org/dam-desilting-project-update/
+==================================================
+
+Dam Desilting Mission caters as a monitoring platform for Gaalmukta
+Dharan Gaalyukta Shivaar (GDGS) scheme of Government of Maharashtra.
+As per GDGS scheme, silt is removed from water storage structures and this silt is made available to farmers free of cost. Farmers can cart this silt and spread it in their farms. As a result, there is an increase in water storage capacity of the water body, increase in percolation rate of water and improvement in soil fertility of the farmland. As per the scheme, farmers are required to carry silt from the water body to respective farms at their own expense while the Government provides funding for diesel required for desilting. Rental of machines required for desilting are required to be arranged through community contribution or through other sources such as CSR and philanthropic funds. The PPPP implementation model of the scheme ? Public, Private and People Partnership has been instrumental in creating the intended impact and ensures holistic involvement of each of the stakeholder.
+There is a need of mobile app to capture all the activities
+related to desilting. The primary activities includes:
+Ability to add Dam
+Record Desilting data against the dam
+Record machines working  on the site
+JCB details
+Poclain data
+Ability to record Beneficially data. i.e.
+Farmers
+We evaluated few options to implements this project and zeroed down to use OpenCHS. OpenCHS aims to be a comprehensive community health platform designed to empower health workers with supportive supervision of the clinicians.  Although this is being currently used in health sector we thought it could be generalise to meet this projects requirements. Hence, we are working with
+Samanvay Foundation
+the organization behind OpenCHS to make the platform generic so that it could be used by this and many more projects.
+Few enhancements done to OpenCHS platform includes:
+Ability to manage generic entities like Dam,
+Nala etc
+Added support for Videos
+Added support for Geo Fields

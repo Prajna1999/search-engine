@@ -1,0 +1,34 @@
+Title: Spring Sprint with Mukkamaar
+Author: Kurund Jalmi
+Date: March 2022
+Category: Glific
+URL: https://projecttech4dev.org/spring-sprint-with-mukkamaar/
+==================================================
+
+After the Covid crisis intensified, everyone was being pushed into tight corners and was still adjusting to the new norm of working remotely. Thus working together in a cohesive environment, jotting down ideas, and discussing work plans felt like a distant memory.
+However, as the situation in India has begun to improve, we decided to host a spring sprint in Mumbai from February 28 to March 6, 2022, with the goal of interacting with and working with our NGO partners in person.
+A few weeks before the sprint started, we requested our NGO partners to collaborate with us to knock off a few items off their Chatbot’s list of future plans
+For the second and third day of the Sprint, we were joined by
+Mukkamaar
+, a non-profit organization committed to ensuring that girls can connect with something that empowers them not just physically, but also emotionally and psychologically through their programs.
+They’ve been using
+Glific
+for over a year and began their pre-pilot in November 2021 with 50 individuals from several schools in three languages:
+Hindi
+,
+English
+, and
+Marathi
+. Then, in February 2022, they conducted another controlled pilot to assess the user experience with the bot, including how actively they interact, how well they grasp the content, and where they get stuck.
+After these two pilots, they are planning significant changes in their chatbot which includes setting up contextual nudge messages and  to brainstorm ideas around rephrasing the content of the message, changing overall structure, and many more things for better overall engagement with the chatbot
+Brainstorming Sessions
+There were long conversations with Mukkamaar about how we could better reach contacts through WhatsApp and how gamification may aid in maintaining continual engagement with the bot. Rewarding points for each successful activity, daily bonuses, redeeming points for mobile recharge, and keeping track of a leaderboard are all small pieces of a larger puzzle to keep people engaged.
+After a few hours of discussion, we realized that although keeping a leaderboard might be motivating for those at the top, it can also be demoralizing for those who are left behind.
+The solution, motivating them even more by fostering in them a sense of community and the importance of everyone’s contribution, no matter how tiny, to the larger good
+Instead of a leaderboard, it made more sense to display the total score based on everyone’s contributions, encouraging people to contribute more so that the community could progress.
+Setting up Nudge Message
+As Mukkamaar s chatbot program mainly focuses on girls in the age group of 11-14 years,  most of the girls interact with the bot with their parents mobile phones, which limits the interaction between the bot and these girls.
+This oftentimes led to conversations being left out once mobile devices are no longer accessible or their parents are out of the home.
+Through this sprint, As we worked closely with Mukkamaar we had finalized nudge messages and created webhooks to send out messages to contacts that are stuck in the middle of conversations. Moreover, to increase the odds of receiving a response, these messages will be delivered on a regular basis during the hours when most parents are at home.
+These nudge messages are also modified by gamifying the conversation to keep it interesting. As a result, anytime someone completes a task, they are awarded points, which can then be redeemed for mobile recharges.
+As Mukkamaar works to improve their chatbot for overall engagement, this Sprint enabled us to go the additional mile with them and advance their chatbot a few steps in the long run of empowering young girls through emotional and physical training via Chatbot

@@ -1,0 +1,21 @@
+Title: Medha STPC Project Update  –  student import, feedback flow, CRM platform integration
+Author: Kurund Jalmi
+Date: June 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/medha-stpc-project-update-student-import-feedback-flow-crm-platform-integration/
+==================================================
+
+Link to previous blog –
+https://chintugudiya.org/medha-stpc-project-update/
+This month, we took on module 3 for the project (modules 1 and 2 were completed previously). Module 3 includes –
+Student import for colleges
+Feedback for events and activities
+Additionally , we also integrated the CRM platform as a plugin into the STPC portal.
+Student Import
+The student import module lets college admins and the STPC admin bulk import students for the start of an academic year.
+Feedback Module
+The feedback module allows students to provide feedback to a set of quetions for events and activities after participation. The collated feedback is visible to admins at various organisation levels
+CRM Platform Integration
+Tech4dev is also currently developing a CRM plugin in order to generalise and have a configurable setup to bootstrap most common CRM scenarios –
+https://github.com/webaccess/medha-STPC
+We integrated the CRM platform as a Strapi plugin and moved much of the student and college related code to the user and organisation sections of the CRM plugin.

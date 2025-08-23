@@ -1,0 +1,47 @@
+Title: Data Catalyst Program: Our Journey from Data Chaos to Data Clarity with Dataform
+Author: Rohit
+Date: February 2024
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/data-catalyst-program-our-journey-from-data-chaos-to-data-clarity-with-dataform/
+==================================================
+
+Bringing back the Dataform from the Desert
+By Chello Yana, Saajha
+It is always overwhelming and scary to start something new. Beginning something is always confusing, filled with millions of thoughts, will it work or will not work. Where do we  begin and how do we proceed? Whom can I turn to when things are not working and you have doubts and questions.
+I got to know about Dataform at the beginning of 2023 through Robert and worked on it just a little bit and Robert told me to reach out anytime when stuck. But got stuck. I did not reach out to Rob since I was not going to use Dataform anyways at that point as I was working on other priorities and I felt it would be just a waste of his time so parked Dataform somewhere in the Sahara desert
+though I have never been to
+.
+Another reason I was not confident and courageous enough to work on it since I did not have a dedicated mentor, use case (problem) and time.
+So mid of the year I heard about the Data Catalyst Program from Prashast and applied along with him.
+So through the Data Catalyst Program module 1 we along with our POC team had identified the following problem statements.
+In many instances, the team, partners, and management face challenges when it comes to making timely decisions. This can be attributed to three significant factors. Firstly, the data required for these decisions is frequently not automated, necessitating manual interventions. Consequently, valuable time is wasted in this process. Secondly, inconsistencies often arise across various datasets, leading to additional delays in processing and cleaning the data. Lastly, the understanding of the data at the backend is limited to only a select few individuals within the organisation. These factors collectively hinder the prompt decision-making process and highlight the need for improved automation, data consistency, and knowledge sharing within the organisation.
+The back then of our situation involves the direct connection of our data visualisation tool to our data warehouse through queries. So only data engineers had the capability to build dashboards with SQL queries, as opposed to data analysts.
+We faced several challenges in this setup. Firstly, the sheer number of queries made it difficult to manage and resulted in inconsistencies and duplicates. Additionally, the complexity of these queries often led to computation errors. Moreover, the lack of data partitions resulted in high computation costs. Furthermore, since our users were enrolled in multiple programs, consolidating data across multiple platforms became a challenge. Lastly, we are scaling our programs next year so it will be difficult, as costs will increase linearly as programs grow.
+And through our follow-up few POC meetings post DCP module 1 helped us what we needed to work on for the problems we identified.
+To address these challenges, we implemented Dataform as our solution with guidance. Dataform allows us to understand how data gets transformed, improving data literacy across our organisation. It also automates the updating of data and running of pipelines, streamlining our processes.
+You can find more details about data form
+here
+.
+Back to the start of this blog: Starting was overwhelming. But the POC team helped me start Dataform from the beginning and I did follow their lead. But unlike the first paragraph where I mentioned I got stuck so I parked the Dataform somewhere in the desert.
+But this time I was confident to work on it because I knew dedicated mentors (DCP POCs) will be there for problems and also time.
+POCs encouraged me everytime I told them I was overwhelmed and confused. Guided me to take one step at a time and their encouragement helped me to explore more.
+We did work on it and our progress was presented during Goa DCP module 2. Rest are now the use cases we worked on using Datatorm.
+Firstly, making a pipeline for the program we were running.
+Figure 1.1
+is a snapshot of our earlier pipeline where we have our source data and followed by large and complicated queries with which the dashboard builds on looker studio. So Grey box is a mysterious box. It is hard for any team member to know clearly what’s going on with the query and if a bug comes it will be hard to debug and if changes need to be made it gets messy.
+Fig 1.1
+But in
+Figure 1.2
+The mysterious Grey box is broken into different stages and different chunks of queries. You get clarity from where data is coming from and what data is available. Final raw data is prepared and final calculations of metrics are stored in another production table from where the dashboard is connected. This helped in fixing the compute engine limitation error that occurred while running large and complex queries in looker studio directly and queries and data pipeline became more manageable. Easy to make changes or updates.
+Fig 1.2
+The second use case we worked on was optimising the computation memory usage by orchestration of the pipeline.
+Below Figure 2.1 and Figure 2.2 are simple queries, both query returns the same list of phone numbers to whom we have sent a type of message called template, but Figure 2.1 is data being queried from the original data table called message which has all kinds of messages . And memory used will be
+633.26
+MB.
+Fig 2.1
+Figure 2.2 returns same list of phone numbers but from new table built using dataform which has only information related to template message sent unlike message table which has lots other types message’s data and it takes just
+50.43
+MB of memory which is approximately 13 times lesser than Figure 2.1.a query
+Fig 2.2
+In conclusion, dedicated mentors and time and team members aligned on the same page helps us go forward.
+Thanks to the Data Catalyst Program through it I was able to work on Dataform, otherwise Dataform would have been under the sand completely in the Desert. And also enjoyed a mesmerising sunset at the Beach thanks to DCP.

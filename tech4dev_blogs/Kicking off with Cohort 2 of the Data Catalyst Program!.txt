@@ -1,0 +1,71 @@
+Title: Kicking off with Cohort 2 of the Data Catalyst Program!
+Author: Abhishek Nair
+Date: August 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/kicking-off-with-cohort-2-of-the-data-catalyst-program/
+==================================================
+
+Just eight months after our first cohort completed the program, the Data Catalyst Program(DCP) is back with its second cohort of 10 nonprofits who are on a mission to level-up their data game.
+If you’re curious to know how it all started then read this
+blog by Lobo
+.
+Check out
+this one-pager
+that summarizes outcomes and learnings from our first cohort, which fed into the design and implementation for the second cohort.
+All-in-all DCP aims to help nonprofits level-up on their data journey by identifying a key data-problem that the NGO is trying to solve and helping them solve it with the help of 1:1 mentorship, one-to-many expert led sessions on related themes, and cohort-based learning with other NGOs. This is done over 5 months, with two in-person modules.
+In this second cohort, NGOs were required to make a contribution to cover 20% of program-participant costs so as to encourage accountability at their end and build sustainability into the program at our end. We were happy to see that the number of applications matched cohort 1. Moreover, we saw stronger applications this year! Perhaps in-part, due to the specificity of the revised application form.
+Getting to know each other with a spin on Bingo facilitated by Goalkeep
+Our
+final cohort for DCP2
+comprised 10 nonprofits (
+Antarang Foundation
+,
+Avanti Fellows
+,
+Caring With Colour
+,
+Digital Green
+,
+Dream a Dream
+,
+Farmers for Forests
+,
+Fortify Health
+,
+Medha
+,
+Saturday Art Class
+,
+Shujaaz Inc
+), with two participants per NGO, one implementer and one leader, this way, we could get our hands dirty and crack down on data issues with the implementer while ensuring that the work is relevant to the org and effectively adopted with the leader.
+Half the organizations in the second cohort work in education, while the remaining half span climate, health, livelihood, and youth empowerment. DCP went international this year, with Shujaaz from Nairobi joining us alongside NGOs from Maharashtra, Uttar Pradesh, Delhi, and Karnataka.
+Our cohort comprised of relatively mature/maturing organizations that were ready to level up their data game; with 9/10 of organizations having an annual budget of over 5Cr, 6/10 of the cohort having committed 10-25% of their budget to tech&data and 8/10 organisations having more than 5 team members dedicated to data work.
+This time we ensured that most of the thinking work was front-loaded in the program. With all NGOs giving their
+data maturity assessment
+, discussing it with their mentors and aligning on their problem statement and scope of work before meeting in-person. This aimed to enable the participants to make the best use of their in-person work-time with their mentors in solving the problem.
+Based on our learnings from last time, we structured the first in-person module to have 50% of time focusing on sessions on key themes of interest and 50% of time for working sessions with mentors. Goalkeep started us off with a memorable exercise for all the organisations in the room to get to know each other. This was tremendously successful and a great use of time, I think it will become a standard practice for future cohorts and programs. Over the two days we covered the what, why and how of visualisation, automated data pipelines, AI for data insights (
+Jerome’s blog
+), and an excellent panel session on ‘building a data-led organisation’ facilitated by
+Deval
+, cofounder
+Dasra
+.
+Find the module’s
+agenda
+here and the session resources
+here
+.
+We had opened up a an informal and optional space for nonprofits to dive deep into their work with their peers towards the end of the day. This saw interest on Day 1, but not on Day 2, which was a bit disappointing. Looking forward to revising this so that it becomes more effective.
+All the planned sessions and worktimes have averaged a feedback of over a 4/5 . One major learning is to incorporate time for folks to put their learning to work during the session itself.
+From a program lense this DCP module was smooth sailing, really happy with how we’ve optimized time and effort towards planning and executing this. It felt like things were on autopilot during the two days!
+I am looking forward to the next couple of months to see how our nonprofits and mentors progress on their scope of work for the program and to spending more time with everyone in person at the next module!
+A big shout out to everyone who helped make this cohort a tremendous success, programs team, mentors, session facilitators, and NGOs. Look forward to more blogs from
+Goalkeep
+,
+Dasra
+,
+Tech4Dev
+, and our participating NGOs on the sessions and their experience.
+Find all blogs on the program
+here
+.

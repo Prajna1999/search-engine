@@ -1,0 +1,31 @@
+Title: AI for Social Impact Summit: Highlights from Bengaluru
+Author: Donald Lobo
+Date: April 2025
+Category: AI
+URL: https://projecttech4dev.org/ai-for-social-impact-summit-highlights-from-bengaluru/
+==================================================
+
+This year has been a super productive year for us from an ecosystem and collaboration perspective. We just wrapped up an AI for Social Impact Summit in Bengaluru on Apr 25th at Atlassian’s offices. We had approximately 20 CSR folks attend from Bengaluru and beyond, along with 4 consulting groups and a small group of 3 NGOs presenting their work on AI
+The genesis of this event came about during the
+Funder Day at the AI For Global Development Sprint
+, when
+Sumit Tayal
+, the CEO of Give remarked that a similar event would be super useful to the CSR community of funders also.
+Harshith Muppuri
+from Atlassian Foundation also chipped in saying he would love to do something similar. It made sense for us to group together and organize a small event for the CSR folks. Along the way we also felt it was good to include the consulting ecosystem players (Bridgespan, Dahlberg, Sattva and Dasra), since it was the logical thing to do to 🙂
+While all of us had interacted briefly with each other, we had not worked together or even knew each other well before the event. This being the social sector, the trust between all of us seemed implicit and quite strong from the very beginning and this helped a lot in making the event happen. We split up responsibilities very early on: Sumit would try to get folks from the CSR community to the event, Harshith would help with this and also coordinate the logistics of the event, and Tech4Dev would help with the agenda and design the content and bring in the speakers.
+The obligatory post event group photo 🙂
+From a community perspective, we wanted the spotlight to be on some of our amazing NGO partners who’ve been experimenting and piloting solutions with AI and LLMs. After a few conversations we decided on
+Aman Dalmia from
+Hyperverge Academy
+to talk about his work on
+Sens AI
+Kuldeep D from Reap Benefit on how they are using Data and AI at scale to engage with the youth to solve hyperlocal problems
+Anand G from The Apprentice Project to demonstrate how they are using tech and AI to reach students at scale and to give better feedback on assignments
+Jerome White from Project Tech4Dev to talk in depth about what it means to build from the sector with an engineering mindset
+We started off the event, with Pratiksha Rao from Project Tech4Dev talking about some interesting use cases where AI has been very useful and not so useful. In a random turn of events, we had the author, Nick Otis,  of one of
+our case studies
+at the event, so it was great to see have the experience of someone who has experimented on the field with GenAI to be present.
+Overall, I do think the event was a solid success. It was relatively easy to organize with a group of people chipping in with their expertise quite nicely. The time spent organizing and coordinating the event was quite minimal and the group worked efficiently and smoothly. From a networking perspective, exposure to the work the social sector does with regard to AI and the conversations that happened, it was an incredible investment. I’m always amazed and thankful to be part of this group of folks who are so kind and generous with their times. Events like thise help us see the bigger picture of the work we are doing and why
+And if you want to get a deeper perspective and some thoughts on the current state of AI and our response, Manohar from Sattva Consulting has written an excellent
+blog post here.

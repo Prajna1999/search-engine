@@ -1,0 +1,114 @@
+Title: Work in the time of Coronavirus
+Author: Kurund Jalmi
+Date: March 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/work-in-the-time-of-coronavirus/
+==================================================
+
+How can the CivicDataLab team help? Especially to teams new to remote working in the development sector
+With each passing day Novel Coronavirus (COVID-19) is spreading further and affecting millions of lives globally. In order to slow down the rate and extent of disease transmission, both
+MoHFW
+and
+WHO
+are urging people to practice social distancing and working from home. We understand most organizations working in the development sector are quite used to spending their majority of time in the field or brainstorming solutions with colleagues in the office. We hear from our partners that migrating to work from home is turning out to be quite a major challenge for individuals and teams alike. We really appreciate how most foundations globally have started to
+alter their philanthropic commitments
+to better support their grantee partners, but at the same time, we are sensing a need to enable our development sector workforce to be productive from home.
+In such demanding times, most of us have come home to spend more time with family and loved ones, and working from home is turning out to be more challenging than we could have imagined. As the
+lock-down periods are increasing
+, there is a much stronger need to keep our anxiety and stress levels in check. We need to ensure that we, along with our loved ones take good care of our mental well-being and physical health. At the same time, it?s essential to keep ourselves occupied and continue to focus on working to solve crucial problems, something which keeps all of us motivated.
+With an 11 member team (at the time of writing), CivicDataLab has always been a remote-first organization. We have accumulated some tested techniques and experiences of working remotely for the last 2 years. Our colleagues are currently working out of 9 districts spread across India, and we thought one of the ways we could help was to assist you in setting up a productive work environment in your home:
+1.
+We are offering help with your migration so you can Work Remotely yet Smoothly
+If your team has recently migrated to working remotely and are still figuring out tools and processes to be more cohesive and productive, then we can help you! We are committing some time every week (a couple of online office hours) to help partners in the development sector. Drop us a note at
+info@civicdatalab.in
+and we will be happy to schedule a short discussion with your team to help you migrate better. We are also doing check-in calls with our current & future partners, and also re-looking at our project plans as we all prepare to respond to the COVID-19 situation.
+2. Volunteering time to help organizations working on issues related to COVID-19
+As
+Jeni Tennison from ODI argues
+, there is a need to open up data, research, models and other resources to collaborate and fight against this pandemic. Our friends at
+Covid19india.org
+,
+DataMeet
+and
+DataKind Bangalore
+have already begun remote collaborations to collate resources and do some analysis of the disease spread situation in India. This is possibly the best time for everyone to volunteer some hours and harness your skills to help remotely.
+Are you an organization working to plan and execute rapid responses to the COVID-19 situation, specifically in India? Then we can help. We are parking a couple of hours every week to volunteer our time to remotely help organizations working on the current pandemic. The areas in which we can help are:
+Data Mining and co-creating Open Data
+Data Analytics, Monitoring, and Evaluation
+Data Visualization, Dashboards and Reporting
+Geospatial Analysis and GIS-related activities
+Social Media Campaigns and Analytics
+Annotations and Data-Driven Storytelling
+Design Thinking and Research
+Automated and Assisted Indian Language Translations ? we along with our network have some experience working with these 6 languages: Assamese, Hindi, Kannada, Malayalam, Tamil, and Telugu.
+Information dissemination and Chat-bots
+Various open-source tech and data tools
+If you are keen to collaborate with us on researching and responding to COVID-19 related issues then please drop us a note at
+info@civicdatalab.in
+.
+Image by
+thedarknut
+from
+Pixabay
+3. Bandhu-ism: Be there for your Team
+Working remotely can sometimes isolate you from your colleagues, giving you less opportunity to have required emotional bonding with your team. To avoid this, each member at CivicDataLab picks a
+Bandhu
+for themselves and is one for another teammate(s). Your Bandhu takes responsibility to ensure that you are mentally and physically well, making sure you are comfortable and in bright spirits at work. Bandhus wear multiple hats from being a personal growth hacker to being your agony aunt, they are there for you. They also help you get the work done when you are feeling low. Bandhus generally do weekly check-ins to discuss everything non-work, be it your current favourite dance jingle or recent book you are reading.
+4. ScrumJi: Sharing responsibilities and planning effectively
+Managing a remote team could be quite a cumbersome job, one needs to ensure a detailed oversight on how work in the organization is progressing, along with ensuring some regular housekeeping. This too much of an ask for one person to do it forever, especially in a small team like ours. Thus, we introduced the concept of
+ScrumJi
+? a monthly
+round-robin
+process to assign one team member as ScrumJi, being responsible to organize weekly team meetings, virtual standups, moderate teams, manage task boards, feedback and more. Read our bandhu
+Swati?s blog
+explaining her interesting journey for the month she became our ScrumJi. We have observed this rotation process makes everyone in the team slightly more empathetic about each other and balances out responsibilities. In these difficult COVID-19 times, our current ScrumJi Apoorv is using our team check-ins to ensure and boost the energy levels of our members and plan ahead as per the situation.
+5. Tools for Online Team Collaboration
+It?s very essential to have the right set of tools to enable online seamless collaboration among your peers. Here are some of our favourites for you:
+Rocket.Chat
+: We use this open-source team chat software to have important discussions, partner conversations, curating ? news, tech solutions, research, music, books, and all other chitter-chatter.
+Taiga
+: This open-source project management tool for multi-functional agile teams, giving you key features like Scrum, Kanban, Wiki and more.
+Github
+and
+Gitlab
+: These collaborative version-controlling platforms help us manage our codebase, documentation, designs and other things that require community participation.
+G-Suite
+: We constantly use Gmail, Google Docs, Drive, Calendar, Meet and other components of G-Suite to support team collaboration. Most of our Scrum calls, bandhu calls and partner calls happen at
+Hangouts Meet
+and occasionally on
+Zoom
+.
+We strongly encourage reliance on more open-source tools and self-host them on our servers to have more control over our data. Though we still rely on some proprietary tools, we are constantly looking for robust open-source alternatives to them. If you have a suggestion for us then please drop us a note at
+tech@civicdatalab.in
+, we will be keen to speak to you.
+6. Assistance for Home Office Setup
+We work to ensure that our bandhus have a comfortable home office to work effectively. We currently offer assistance of
+?
+25,000 per annum to every member to set up essentials like good internet connection (possibly a fibre optic connection with 10?12 Mbps and monthly usage limits of 40?50 GBs), comfortable ergonomic chair and desk, noise-cancelling headphones, microphones and more as per their need. We urge organizations migrating to work remotely to try allocating some basic budget to enable home office setup assistance to all your staff members.
+Image by
+Michael Jastremski
+We also have some allowances for
+Personal Growth & Development
+that broadly cover expenses on online courses, software licenses, summer schools, workshops, events & conferences. Lastly, some parked allowances for
+Wellness
+covering gym membership, yoga therapy, mental health counseling, music and dance lessons, and related activities for the well being of our members. Some of these activities are now being continued via online subscription during the precautionary lock-down period.
+7. Doing Quarterly Retreats and Planning Online
+Every quarter we organize a week-long in-person retreat and we call it
+CivicDays
+. Team members, from various locations, come together to stay and work at one place. As a team, we reflect back the quarter, onboard new members, brainstorm ideas, build roadmaps for the next quarter, and sometimes address issues that remain unattended. We do a few team bonding activities as well like , cooking together, playing games, trekking and more. Given the current lock-down situation, we are planning to do this quarter?s CivicDays online (no more beautiful AirBnb?s ?). We are aiming to conduct our quarterly review and planning sessions in a spread of two weeks, parking a few days and dedicated hours for key discussions and decision making. Our bandhus Divya and Preethi are helping us organize our first ever remote CivicDays. We also look forward to spend some time playing board games, watching movies simultaneously and maybe even trying an online version of Dungeons and Dragons! We will keep you posted on how this goes.
+8. Let?s be EXTRA Mindful of our peers
+Pandemics like these affect each person differently, we request everyone to show some extra love and affection to everyone, including people at work. Take out some time from your schedule to touch base with your team members and to talk about how they and their families are feeling. Conduct some group calls to plan responses to this ever-changing situation together as a team, with enough time for everyone to share their views and ideas. Also, one of the perils of remote working is sometimes your emotions are not properly communicated over chat/text, for most important conversations make sure to schedule an audio/video call so that you can understand the energy levels of your peers. P.S. Emojis do help, use them slightly more often.?
+Moreover, make sure you encourage your teammates to have some time parked for themselves. Times like these can cause a lot of anxiety and stress, thus our team members are taking out some time for some activities like ?
+Mini Anapana Meditation
+,
+Journaling
+, 30 mins home exercise, weekend matinees with family, indoor games and more.
+9. Ensure adequate family time
+Working from home sometimes comes at certain unforeseen costs, one of them being a difficult work-family balance. For some folks, working from home may result in spending less time with family members. In current circumstances, our bandhus are parking some time off to do the following activities with their family members ? group video calls, exchanging live food recipes, touching base with relatives in the extended family. We are planning to experiment and bring some of our family members in for our future all team calls, giving them opportunities to meet humans on the other side of the screens.
+I guess all of us acknowledge in our hearts, that these are extraordinarily difficult times for us, but how we together respond and come out of this, is going to define the humanity in us.
+About the Authors
+This blog has been written by
+Gaurav Godhwani
+, who works with
+CivicDataLab
+.

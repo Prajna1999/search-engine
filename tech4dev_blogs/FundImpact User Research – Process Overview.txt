@@ -1,0 +1,70 @@
+Title: FundImpact User Research – Process Overview
+Author: Kurund Jalmi
+Date: July 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/fundimpact-user-research-process-overview/
+==================================================
+
+Image Credit:
+Freepik
+In our earlier blog, we shared the conclusion of User Research program, which gave us a broader
+wishlist of features
+that can be prioritized in the Product Roadmap. In this blog, we shall explore the process that we evolved in managing Product ideas during the User Research program. Another purpose of writing this blog is to aggregate links to original documents and findings of the user study at one place.
+If you are interested in knowing how we are shuffling ideas in backlog and prioritizing features for Product Roadmap, please read our blog on
+Managing Ideas for Product Roadmap
+.
+Step 1: Free Flow Discussion with Stakeholders
+We are thankful to participants from various organizations who gave their time for this study and gave valuable insights on FundImpact from their practical ground experience. The interactions with the participants of the study have contributed greatly in shaping the roadmap of the platform.
+The interaction session was kept for one hour long. The objective of keeping a short interaction session was to keep the discussion focused on high level requirements and not digress into feature details or specific problem area of the organization. Again, the objective was not to gather detailed requirements but get a better understanding of problem areas of the stakeholders, how important the issue is, what solution design does the stakeholder prupose, etc.
+Another important aspect we maintained in our conversation was to keep it free flowing and not bring in the mould of FundImpact feature set. We didn’t want to ask if a particular feature or idea of FundImpact would fit their need, rather we wanted to know more about how problem they are facing and what kind of solution they are thinking of.
+Checklist of User Interaction
+Keep the interaction short and focused
+We are not capturing detailed requirements gathering
+Agenda should be to capture problem areas and stakeholder’s perception about solution
+Don’t restrict stakeholders to validate your own ideas of product, let them share what they think about the solution
+Have a list of questions ready that help you facilitate the discussion and lets the stakeholder explore/contemplate about solution
+Make sure you capture rough notes of the conversation for later reference
+Step 2: Finalize Notes of each interaction
+I extensively use Onenote to capture rough notes or meeting notes for any such interaction or simply dropping ideas, tasks or web links. It is a great tool and brings in a lot of discipline to work. I prefer this over any To Do list, Reminder Tool, Quick Notes, Sticky Notes or Google Docs because of sheer ease and accessibility. You can also try similar note taking apps Evernote, Notion.so, Coda.io.
+We interacted with stakeholders from six organizations working in different sectors and at different operational scale. The detailed notes for each interaction can be accessed via following links. Please note that we have removed names of organization and stakeholder due to privacy concern.
+SNo
+Link to the Note
+Date
+1
+Interaction Org1-T1 20200529
+A large scale organization working in agriculture and livelihoods sector
+29-05-2020
+2
+Interaction Org2 T1 – 20200627
+A large scale organization working several partner NGOs in agriculture and livelihoods sector
+27-06-2020
+3
+Interaction Org3 T1 – 20200704
+Organization working towards advocacy and rights of waste pickers in India
+04-07-2020
+4
+Interaction Org4 T1 – 20200708
+Organization working towards advocacy on good governance
+04-07-2020
+5
+Interaction Org T1 – 20200704
+Organization working in education sector for RTE
+04-07-2020
+Step 3: Prepare a Jamboard of Feature Ideas
+The detailed notes are extremely important when original conversation needs to be referenced back for further researches. However, they are not so handy format during team discussions and finalizing features during sprint planning.
+We have setup a process to synthesize these long notes into more manageable form during our Product Roadmap discussions. We try and identify the common elements of these features and label then under a feature category or module. Labeling or naming the features help us build a common vocabulary of the Product Roadmap and team members can easily recall the scope of a feature being referred. For example, team now has a better understanding of what a Donor Communication Management entails and how it is different from Donor/Proposal lead management.
+For each of the conversation, we have created a Jamboard to populate and label all important features/modules.
+Sticky notes used to create a Wall of Features using
+Google Jamboard
+.
+Step 4: Comparative Analysis of Feature Ideas from Stakeholders
+Finally we brainstorm to conduct a comparative analysis of feature ideas proposed by stakeholders and how much they are relevant for other stakeholders. This exercise helped in evaluating the criticality of the feature ideas and how badly are they required across the board.
+Now, we stand with a refined list of feature ideas that is prioritized as per stakeholders needs and can be included in the final version of the product roadmap.
+Comparative Analysis of Feature Requests from User Study Participants. (
+view
+here
+)
+You can access the Comparative Analysis sheet
+here
+.
+I hope you found this blog useful. If you have any tips or suggestions on how we could have improved the processes during this initial stage of User Research Program, please do connect with us. We’ll be happy to hear from you.

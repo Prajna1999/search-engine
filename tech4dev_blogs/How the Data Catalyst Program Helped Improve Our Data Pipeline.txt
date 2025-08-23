@@ -1,0 +1,58 @@
+Title: How the Data Catalyst Program Helped Improve Our Data Pipeline
+Author: Siddhant Singh
+Date: December 2024
+Category: Data Catalyst Program
+URL: https://projecttech4dev.org/how-the-data-catalyst-program-helped-improve-our-data-pipeline/
+==================================================
+
+Written By:- Heena, Avanti Fellows
+Our journey with the Data Catalyst Program (DCP) began in July, when we set out to improve our data pipelines. We knew there were gaps in our systems, but we needed something to push us into action. The DCP was just what we needed to turn our ideas into reality.
+A Step Into Data Maturity
+I first came across the idea of data maturity while working with NITI Aayog, the Ministry of Drinking Water and Sanitation (MoDWS), and the Ministry of Women and Child Development (MoWCD) on programs like Swachh Bharat Mission and Poshan Abhiyaan. Although the concept was introduced in 2022 as
+DGQI
+, it took some time for it to gain momentum. Last year, it was a challenge to get others on board with the idea, but the DCP gave me a chance to dive deeper into the topic and start meaningful conversations about it within the organization.
+Working with Our Mentor
+One of the most valuable parts of the program was the mentorship we received. Our mentor,
+Siddhant
+, helped us understand our data architecture and identify areas that needed improvement. With his guidance, we’ve made several key improvements:
+Reducing BigQuery Costs by 40%
+: By setting up precomputed tables on BigQuery for dashboards.
+Adding Version Control to SQL Queries
+: This helps us keep track of changes and ensures our data processes are accountable
+Setting Up Alerts
+: We now get daily alerts on Discord about BigQuery usage and costs, helping us stay on top of things.
+Building a Stronger Infrastructure
+: We set up a new data infrastructure using tools like Airbyte, dbt, and Prefect.
+Ongoing Transition
+: We’re working on moving all our scheduled queries and ETL scripts to the new setup.
+Data Governance: A Crucial Learning
+One of the most eye-opening sessions of the program was
+Unlocking Data Access
+by Ashwini Lotlikar. As a non-profit, we work with sensitive data of beneficiaries—like students, parents, and teachers—and we have a responsibility to handle that data carefully. The Data Governance Worksheets helped us reflect on how we collect, store, and share data, and it reinforced us to think about our ethical and legal obligations when managing sensitive information.
+Through the workshop, we learned important concepts related to data protection:
+Data Fiduciary
+: We act as the data fiduciaries, meaning we decide how personal data is processed and must protect it.
+Data Principal
+: These are the people whose data we collect—often students or children, who need extra protection.
+Data Processor
+: These are the third parties we work with to analyze data or manage databases. We must ensure they follow privacy standards.
+Consent Manager
+: For vulnerable groups, it’s essential to manage consent properly, ensuring people can control how their data is used.
+Key Takeaways from the DCP Program
+The DCP program was a turning point for me to align my understanding with data maturity. Here are a few key lessons I’ve learned:
+Use Common Terms
+: Everyone in the organization should speak the same “data language” to work together effectively.
+Focus on the Frontline
+: Real change happens when those who directly serve beneficiaries are involved in the process, not just technology.
+Balance Top-Down and Bottom-Up
+: Programs should be planned centrally but also take feedback from those on the ground to make sure they’re practical.
+Regular progress checks
+: Holding regular meetings with teams helps keep everyone accountable and allows us to adjust as needed.
+Separate Budgets for Data
+: It’s important to have specific budgets for technology and data in every program.
+Perfect Data is a Myth
+: You won’t always have perfect data. The key is to make the most of what you have and make decisions based on it.
+Looking Ahead
+The DCP has been a game-changer for us. It’s not just about improving our data systems, but also about understanding the importance of handling data responsibly. As we continue to improve our data pipelines and systems, we’re committed to transparency, trust, and ethical data practices.
+Data is more than just numbers—it represents real people and stories. Whether we’re using data to improve learning outcomes or fine-tuning our programs, we always prioritize the rights and dignity of the people behind the data.
+By participating in the DCP program, we’ve gained valuable knowledge. This journey has been one of learning, growth, and, most importantly, action.

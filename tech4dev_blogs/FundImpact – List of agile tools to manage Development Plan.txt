@@ -1,0 +1,67 @@
+Title: FundImpact – List of agile tools to manage Development Plan
+Author: Kurund Jalmi
+Date: July 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/fundimpact-how-we-are-managing-our-development-plan/
+==================================================
+
+Imagine a dream of embarking an adventurous journey to a remote island in Indian Ocean for hidden treasure. You have traveled enough islands, experienced enough waters, that you feel tired to give up your journey. But at last you stumble upon the treasure that can change your life forever. That’s how I felt when I discovered an amazingly feature rich platform to manage IT projects. I know it is bit dramatic, but I got joyful to discover this platform and how simple it makes to manage sprints and product delivery.
+This is not a paid promotion of the product (although the referral link would help us gain an extra mile). I am sharing a product review to let people know that there are amazing tools beyond JIRA, Asana, Trello, etc. to manage your IT projects.
+What’s out there in the market?
+The most widely used tool for large scale IT projects has to be Atlassian’s JIRA. It offers a whole suite of application from ticketing to product wiki. People also use Trello or Asana which offers them good flexibility in tracking
+just what is needed
+. I have tried categorizing these tools into two broad heads
+Agile Management Tool
+– These are tools are tailor made for agile development, and one can’t use it for non-IT projects.
+Project Management Tool
+– These are generic PM tools which focus on tasks to track project progress.
+Below, I present a decent list of tools that I have discovered so far. Please feel free to suggest more tools in the comment section below.
+Project Management Tool
+Clickup
+Trello
+Asana
+KeepSolid Goals
+Wrike
+Podio
+TaskDue
+Agile Tools
+Zepel
+quickscrum
+pivotaltracker
+icescrum
+Clubhouse
+ora.pm
+Zoho Projects
+favro
+Product Management / Roadmap Tools
+A special mention goes to more enterprise level solutions that help you on end to end product lifecycle management.
+Roadmunk
+Aha.io
+Productboard
+ProductPlan
+Note:
+I have not reviewed all the tools in the above list. I am sure some of them would be as good as the one we have decided to use for our context. The list is for reference purpose so that readers of this blog can discover and explore tools themselves.
+What suites our need?
+After evaluating a handful of tools, we have finally decided to give
+ClubHouse.io
+a long shot. I particularly like how neatly it is designed and gives a good workflow to those who are new to agile methodology.
+Developers and Managers who are familiar with Agile Methodology would find this as a complete package with Burndown charts and other reporting tools that can ease the management aspect and bring all the team members on one page.
+The crux of any Agile Tool are
+Stories
+and how you are able to organize these Stories into Epics, Themes, Iterations, Projects, Releases, etc.
+Stories can be further broken down into
+Tasks
+. The tasks can be promoted into stories. The tasks allows the developer to write down aspects of tech module that she or he needs to work to deliver the complete functionality under the story.
+Epic
+is a collection of stories. It represents a broader functionality or feature set that requires many modules to work together.
+Milestones
+: We are using milestones to manage product release cycles. One can assign epics to the milestones and group functionality that needs to developed and released at particular point in time.
+Iterations
+: Iterations or Sprints are a series of planned work cycles that help you prioritize stories and deliver product functionality in incremental mode without loosing focus from priority list and product timeline.
+The wonder box in this tool has to be
+Projects
+and
+labels
+. The projects and Labels act like meta tags to categorize various Stories in a more logical grouping. You can group all the stories under API project or FrontEnd or Dashboard projects. This can also help various teams to manage stories which are relevant to them and also see the bigger picture of how their work contributes to the success of sprint and product release.
+The projects can have customized workflow (Kanban workflow) to manage stories based on their context. For, example the team can have Knowledge Week to upskill themselves. The stories in such sprint would have a different workflow than the development sprint.
+There are tons of other functionalities that make this tool an ideal candidate for our context. I hope this blog gave you references to other tools to manage your IT projects. Please drop in your suggestions on this blog post or new IT tools in the comment section below.

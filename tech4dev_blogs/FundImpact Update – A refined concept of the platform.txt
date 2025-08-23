@@ -1,0 +1,81 @@
+Title: FundImpact Update – A refined concept of the platform
+Author: Kurund Jalmi
+Date: June 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/fundimpact-update-a-refined-concept-of-the-platform/
+==================================================
+
+We have been exploring product ideas for FundImpact through an extensive user research program and have come to realization that the product concept development is a continuous exercise. In our interactions, the stakeholders would present a unique pressing need that is ‘The Solution” they have been looking for, however, the workflow for such a feature is a specific to their organization and can’t be generalized.
+In our brain storming sessions for developing concept of FundImpact, we therefore, try to draw our attention to a generalized feature set that impart a proven management practice of getting things organized and done. We want features of the platform that facilitate organization in managing their projects rather than becoming another operational overhead. These overheads could be managing configuration of the platform, a workflow which requiring technical expertise, complex systems that require operational knowledge, or porting data from external systems, etc.
+We have kept the consideration of being “
+Flexible
+” in design of the FundImpact, so that varying need of users can be addressed but at the same time we are rooted to “
+Generalized
+” feature set that cater off the shelf solution to a large section of our target audience.
+The core concept of FundImpact is to help organizations
+manage funds
+,
+track projects deliverable
+and
+report impact
+“. These are the three pillars of FundImpact that would facilitate organizations in streamline workflows and help adopt a good practice, thereby saving time, effort and money.
+Core Solution of FundImpact
+Management by Objectives
+“Management by objectives” or MBO is a management approach coined by Peter Drucker in 1950s and later Hewlett Packard led to its popularity
+[
+link
+]
+. It is the process of defining
+specific objectives
+within an organization that management can
+convey
+to organisation members, then deciding how to
+achieve
+each objective in sequence.”
+They key concepts of MBO are:
+Review organizational goal
+Set objective
+Monitor progress
+Evaluation
+We are designing digital workflows of FundImpact that are rooted to MBOs. The organization will deliberate upon
+Goals
+and
+Objectives
+that they would like to achieve through the project being sponsored by Donor. The ‘O
+bjectives
+‘ would translate into
+Deliverable
+(the core activities project will deliver) and
+Impact
+(results of these deliverable). The organization would be systematically ‘
+Monitor progress’
+of
+Budget expenditure
+and Deliverable achieved and ‘
+Evaluate’
+the impact that the project is bringing on ground.
+A snapshot of Project Dashboard
+A project dashboard gives a snapshot of critical indicators of the project. It displays Fund Status, Project Achievements, Impact Indicators and Geographic Coverage of the project along with some basic information about the project. The
+card layout
+allows the user to modify the presentation of the dashboard. This conveys broader objectives and progress of the project to various stakeholders in the organization.
+A
+tabular view
+gives a detailed information of the three important components of the project i.e. Project Budget, Project Deliverables and Impact. It presents the targets vs actual position of various indicators along with requisite documents such a FUC, Field Reports, Fund receipts, etc.
+The three core features of the platform are explained in the following sections
+Fund Management
+The Budget Tracker or Fund Tracker on the platform allows the users to keep track of
+overall budget of the project
+. It gives a status of original budget allocated and budget spent till date under various line items and heads. The budget tracker is not intended to be used for tracking individual expenses or replace any accounting or expense reporting tool.
+Its purpose is to give a
+snapshot of the budget remaining
+for the project under various components or heads.
+Deliverable Tracker
+The Deliverables tracker allows the organization to report high level progress of the projects based on the deliverable set in the MoU. These are not intended to be operational level tracking of ongoing processes and achievements of the project, but rather achievements/objectives as stated in the Project Charter or MoU.
+Impact Reporting
+The Impact Indicators are the cornerstone of the FundImpact. They help organization report the impact of their programmes using standard impact library developed by FundImpact. The organization can also create their own set of impact indicators and link to the Sustainable development goals.
+End note
+Its has been a great learning experience interacting with various stakeholders who giving their insights and ideas about the platform. We would recommend you to visit our first blog on original concept of the FundImpact
+here
+. If you are interested in knowing how we are managing the user Research program and collating different concepts/ideas of the platform, do read our blog “
+Managing Ideas for Product Roadmap
+“

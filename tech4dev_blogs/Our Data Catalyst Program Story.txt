@@ -1,0 +1,17 @@
+Title: Our Data Catalyst Program Story
+Author: Abhishek Nair
+Date: October 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/our-data-catalyst-program-story/
+==================================================
+
+Written by: Himanshu Singh, Dost Education
+Data is often referred to as the new oxygen, and in today’s business landscape, leveraging data has become crucial for success. Business corporations across various sectors have been harnessing the power of relevant, reliable, and consistent data to drive their decisions. It’s high time that the social sector and development industries seize this opportunity to make their decisions more prompt and result-oriented, efficiently reaching their goals.
+In the beautiful city of Kochi, Dost had the incredible opportunity to be part of the Data Catalyst Program 2023. This special event, organized by Tech4DEV, Dasra, Goalkeep, and The Agency Fund, was more than just a gathering; it was a significant step towards using data to positively impact people’s lives.
+The program commenced with different organizations sharing their experiences with data. It felt like a puzzle where everyone held a unique piece, and had awareness about the importance of data. Some organizations showcased their robust data infrastructure, while others were still in the process of setting up their data systems. However, a common thread in all conversations was that most organizations are still grappling with fully utilizing their data.
+The organizing team there helped in imagining that there are many ways to use data to make the world a better place. We learned that using data isn’t just about numbers. It became evident that, in the realm of data, we aren’t just dealing with statistics; we are shaping narratives, influencing positive change, and crafting a better world.
+Dasra talked about how Data can help us in becoming good leadersnegotiating, being flexible, and thinking ahead.One of the best parts was when Dasra reminded us that learning and upskilling should happen regularly at all levels, including managerial and leadership positions. They emphasize on continuous learning ,and to keep adapting and learning as the world changes.
+Goalkeep guided us on how to turn data into actionable insights. They stressed the importance of clear goals and using data effectively to achieve meaningful outcomes..
+The Agency Fund provided valuable guidance on making decisions using data while reminding us that technology should always align with our values. They emphasized that, despite the use of advanced technology, it’s the human touch that makes a difference.
+Tech4Dev underscored that while data utilization is vital, managing data is equally important. Data can be sensitive and includes personal details, making it crucial to protect and secure it. Hence, having a data governance policy is essential to safeguard our use of data
+A big round of applause to Tech4DEV, Dasra, Goalkeep, and The Agency Fund who organized this event and who helped us understand some nuances of data. It is an excellent initiative toward enabling the social sector to leverage data for the benefit of society at large. It’s a big leap forward in how we use data to help peoplea call to action to apply what we’ve learned to make the world a better place.

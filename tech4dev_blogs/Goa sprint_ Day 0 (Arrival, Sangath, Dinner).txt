@@ -1,0 +1,21 @@
+Title: Goa sprint: Day 0 (Arrival, Sangath, Dinner)
+Author: Ishan Koradia
+Date: January 2024
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/day-0-arrival-sangath-dinner/
+==================================================
+
+It was a hot day in Goa and on my way to the location from the airport I could see those yellow, blue and red houses that are typical to goan streets. Our hotel was in the proximity of the beach somewhere in North Goa. As soon as I reached there, I could smell the fresh warm breeze that reminded me of the beach and the sand. First person who I met there was Siddhant who arrived early in the morning. We had lunch together and talked about the Dalgo clients we onboarded the previous 2 weeks.
+After lunch, I tagged along with Erica, Rahul (from
+JSS
+who arranged the visit) and 2 folks from Avni (Himesh and ) to visit a Goa-based NGO called
+Sangath
+. Sangath works in the area of mental health across Pan India. They have main offices (which they call as hubs) in Goa, Bhopal and Delhi . The Goa hub was a very beautiful cozy house turned office. The ground floor had their finance, admin and hr offices, while the first floor had different research departments, place for interns/grad students to sit & work and a quite spacious training room. The entire space had a very calm and welcoming aura. I wouldnt mind sitting there the entire day and doing some coding.
+Sangath founded in 1996 by 4 couples who were associated with a university as professors. It started out as a clinical organization that provided counseling services in the area of mental health but now is working in various areas relating directly/indirectly to mental health. Most of their funding and projects are research based in the areas of Health & Equity, Adult, Child development and Adolescent & Youth with Mental Health being at the crux. Mentors (project leads) at Sangath are highly accomplished individuals in the field of mental health graduated from reputed universities like Harvard. These experts also help in training government officials to scale their impact.
+Currently, most of the finance and admin related data is handled either by pen paper or excel. They have recently started using a free software called
+REDCap
+for data collection. They generally adopt software that is HIPAA compliant and REDCap was one of them. They have a small (4-5) dedicated data team that manages all reports, data needs for research and in adoption of softwares like REDCap. IT (maybe 2-3) team takes care of all their servers.
+Some of challenges that they face are
+Funding is very ad hoc so they cant continue working with communities for a longer period of time. Continuous source of funds is still a challenge.
+Data security has been a concern with people coming to the clinic for sessions/counseling. Although Sangath has adhered to data security norms and takes it very seriously, it is difficult for their beneficiaries to understand this.
+Most of the team had arrived by evening and we had dinner together. We had an informal kick off planned, which we decided to postpone to the next day since all of our team had not arrived.

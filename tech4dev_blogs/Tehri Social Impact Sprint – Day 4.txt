@@ -1,0 +1,31 @@
+Title: Tehri Social Impact Sprint – Day 4
+Author: Kurund Jalmi
+Date: November 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tehri-social-impact-sprint-day-4/
+==================================================
+
+The day began with the sun in the sky and only a few clouds – and it was quite chilly and cold. Overall, a beautiful day. Today was our day for a hike. So we got up early, got ready and walked towards the office from the guest house. The walk from the guest house to the office is a steep climb and we were a bit out of breath. We had our breakfast at our desks. For today’s breakfast, we had cabbage paratha accompanied by eggs, pickles, toast and hot tea. After having breakfast, we discussed a little bit about the days schedule and embarked on the hike.
+The Hike
+Everyone was pumped up and we began with a renewed energy after breakfast. Akhilesh and Shumon were our guides, as they were the only ones who knew the way. Our hike was from the office to Auli Chai to New Tehri. Everything was good in the beginning, but as we went up the hill, the route became slightly difficult. Lobo motivated us all to keep going. After 2 hours or so, we had covered half the trek route.
+We reached New Tehri from where we saw a wonderful view. After stopping there for a while and absorbing the view, we started our trek again. From here, we reached New Tehri Market where there were many simple shops vending fruits, clothes, food etc. After walking another hour we reached Auli Chai.
+After reaching Ali Chai and resting a while, we ordered food for everyone. The view made up for all the exhaustion and it was really beautiful up there. Needless to say, the food was great too. We spent about 3 hours here and started back for the office.
+The return was relatively simpler and it did not take us very long to reach the office.
+Hike to Aulichai
+Tech Talk
+After the lovely hike and afternoon tea, we began with the Tech Talk. The first presentation was
+Shelter Associates
+. Amar Kamthe & Kuldeep Lodha made a presentation on behalf of Shelter Associates. Shelter Associates is a Civil Society Organization (CSO) established in 1994 to improve the living conditions of the urban poor in India. Shelter has been using data and especially spatial data to map poverty. Amar and Kuldeep explained how the shelter visualizes the data using the dashboard that they have developed. They also talked about their One Home One Toilet mission.
+The next presentation was from the Dhwani RIS team.
+Dhwani RIS
+is a development-oriented technology enterprise envisioned to provide affordable, integrated, and smart ICT tools to organizations working at BoP levels. The Presentation was about Mform. Mform is a dynamic data collection and data visualization platform developed by Dhwani.
+Shelter Associates
+and
+Dhwani RIS
+presentation
+Deep Dive
+Today’s deep-dive session was organized by Aman Dalmiya of Avanti Fellows. Aman gave a talk on AI for Social Good where he shared his learnings from his experience at Wadhwani AI (prior to Plio & Avanti Fellows).
+Bonfire Night
+After these engaging sessions, we all left for the eco huts. Here, the Colored Cow team had organized the Bonfire Party. It was wonderful with drinks, barbeque and food on one side and people were around a bonfire. Lot of performances from the participants including playing musical instruments, singing songs, reciting poems even stand up comedy made the evening very lively!
+Bonfire
+What a day and what an evening with hiking, learning and enjoying with friends! We should have more events like these!

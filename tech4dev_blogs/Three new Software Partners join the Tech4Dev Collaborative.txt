@@ -1,0 +1,34 @@
+Title: Three new Software Partners join the Tech4Dev Collaborative
+Author: Kurund Jalmi
+Date: March 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/three-new-software-partners-join-the-tech4dev-collaborative/
+==================================================
+
+We’d like to welcome 3 new software partners that have joined the tech4dev collaborative. The new firms are
+Maverick Labs
+in Pune,
+CivicDataLab
+across India and
+Dhwani RIS
+in Delhi. With our existing 3 partners (
+Web Access
+,?
+Samanvay Foundation
+,?
+Soft Corner
+), we now have 6 software partners in the collaborative. We hope to grow this group by 4 more before the end of the year. Some more information on the above companies is below
+Maverick Labs develops web apps, iOS app,  and Android apps. They started in 2017 and have been growing since. Their platform of choice for backend server development is usually Django, PostgreSQL for databases, ReactJs for frontend web apps, all of which are open source. They usually prefer doing mobile apps in native android and iOS.
+Dhwani Rural Information Systems is a young organization, started in the year 2015 by Swapnil and Sunandan classmates from IRMA.
+Dhwani Rural Information Systems, is a development sector focused technology services firm based in New Delhi. They provide the following services to donor organizations, impact investment firms, NGOs, M&E consultancies :
+Custom built Mobile apps, Web MIS & dashboards for data  collection, analysis & visualization requirements
+Consulting services for design, evaluation of most suitable technology solutions in social impact space
+Technology related capacity building  for leadership, project managers & implementation teams
+Gaurav Godhwani and Deepthi Chand (aka DC) started
+CivicDataLab
+about a year ago. It’s a small research lab working with the goal to use data, tech, design and social science to strengthen the course of civic engagements in India. They work to harness the potential of open-source movement to enable citizens to engage better with public reforms. They also grow data and tech literacy of governments, nonprofits, think-tanks, media houses, universities etc to enable data-driven decision making at scale. The team has been instrumental in starting initiatives like
+DataKind Bangalore
+,
+Open Budgets India
+, etc.
+Please do welcome these new organizations to the collaborative. We hope to do bigger, better things with these new companies on board.

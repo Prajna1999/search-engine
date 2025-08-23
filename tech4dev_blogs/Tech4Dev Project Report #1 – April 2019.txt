@@ -1,0 +1,82 @@
+Title: Tech4Dev Project Report #1 – April 2019
+Author: Kurund Jalmi
+Date: April 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-april-2019/
+==================================================
+
+Welcome to our first project report for Tech4Dev. The goal is to keep it short and sweet, highlighting many of our successes and areas where we can improve. A lot more information can be found on the blog post links at the bottom of each report. Our plan is to issue these reports twice a year – in April and October.
+Highlights
+In the first half of the year, we started work with 8 NGOs. We deferred 3 NGOs to later in the year due to capacity constraints. The software partners rose up to the challenge and are working on multiple projects at the same time. We completed two projects, canceled one project and the remaining are in progress.
+Fundraising has been very good in the US. We?ve raised 90% of our target for the US
+We recruited 3 new software partners (Maverick Labs, Dhwani and CivicDataLab), a marketing and strategy partner (Lumen Consulting), a foundation/incubator in the first quarter (Social Alpha), and an individual (Sanjeev Dharap) to help with operations. Dasra is our financial partner and plays a key role in fiscal management.
+We had our first team meeting in Bangalore on April 15, 16 with all our partners. It was great for us to meet and share our experiences and challenges. We made good progress on governance issues and NGO application processes.
+Our project pipeline is strong and deep. We reached into our pool of applicants and chose a few new ones to get our new software partners started.
+We are on track to exceed the number of partners and projects for this year.
+Misses
+We canceled 1 project and had to defer on 2 projects. We could have avoided these issues by a better screening process. Our future application process improves on this by asking specific financial questions and with in-person interviews before selection.
+Gender diversity in the team is very skewed. We need to proactively address this with our next few software partners.
+Our Indian fundraising efforts are slow going. We are still building our network with funders in India. To help people understand our mission, we?ve created a
+2 page
+brochure describing our work and will keep refining it as we engage with funders.
+We need to have better tools and tracking processes to deal with multiple projects and partners. There are a few too many moving parts at the same time right now.
+Open Source Pipeline
+The list of open source projects that we use extensively and are contributing back in some way
+OpenCHS
+Kobo Toolbox
+Primero
+Open Data (
+Open Budgets India
+,
+Counting India
+)
+Financials and Stats
+We have spent more money than mentioned in
+Expenditure
+below. The invoices have not hit our books as yet, hence the smaller than expected number in that column
+Goal
+Current
+Remainder
+Funds to raise
+$3,000,000
+$2,250,000
+$750,000
+?21CR
+?15.7CR
+?5.3CR
+Expenditure (for the year)
+$750,000
+$75,000
+$675,000
+?5.3CR
+?0.5CR
+?4.8CR
+# of NGO Projects
+20
+13
+7
+# of Software Partners
+6
+6
+0
+Participation in Open Source Projects
+5
+3
+2
+Blog Posts and Project Details
+All our blog posts can be found on
+the project website
+. All project documentation can be found on our
+shared google drive folder
+. Each project blogs on a monthly basis, so we have quite a bit of detail and history as the project evolves. Highlighting a couple of blog posts
+Recap of Bangalore Meeting:
+Arjav?s Recap
+,
+Lobo?s Recap
+Marketing Brochure for Project Tech4Dev
+Hasiru Dala
+HAQ
+Dam Desilting Project
+Project READ
+Lakeer
+Tracking Flow of Public Funds through Open Data

@@ -1,0 +1,28 @@
+Title: Heres how a chat platform can improve human lives
+Author: Kurund Jalmi
+Date: May 2020
+Category: Glific
+URL: https://projecttech4dev.org/heres-how-a-chat-platform-can-improve-human-lives/
+==================================================
+
+The quality of information a person can access, can be a direct indicator of the quality of life they live. For some of the more vulnerable sections of society, it can play an even crucial role. In the most recent example of the COVID-19 pandemic, information became a matter of life and death. The right information can also be a key to accessing all other necessities such as food, shelter, clean water etc?For someone who doesn?t have access to the basic necessities, information on obtaining it can make all the difference.
+In our ever so connected world, a conversation or interaction is a source for any key information, with the potential to change a life. What nonprofit organizations do on a daily basis is to have these key conversations with members of the weaker sections of society. Bringing about an upliftment to the society requires such ongoing conversations. However, there?s an unmet need to stay connected and send out quality information through crucial conversations. We believe it can be made better through technology, through a chat platform that can help nonprofits keep up with the needs. There are various aspects to conversations that a chat platform can handle such as,
+1. Removing human where it is not required but bringing it back when it?s needed the most
+While some conversations can be deeply personal requiring individual attention, others can also be generic. The chat platform can allow nonprofits to handle each case efficiently. A set of automated messages engaging a beneficiary in the conversation will allow some of the generic conversation to be handled by the machine. When a more intimate input is required, a human can be alerted to take over.
+2. Immediate and long-term support for each beneficiary
+A record of conversations can allow the support to be built for longer periods. For areas such as employability, or education, staying connected over the long term can be beneficial to keep progressing with meaningful conversations. On the other hand, critical health-related conversations can be identified for a quicker response. Thus allowing the nonprofits to reach the beneficiaries and tackle the information challenges both immediately and long term.
+3. Reduce language barriers
+Some of the basic language support required to understand people from different communities can be solved via direct translations between different languages. And while language barriers cannot be eliminated since the use of colloquial, multilingual, and transliterated approaches can make a message more complex for the computer to understand, it can definitely enable and carry out a large part of simpler interactions.
+4. Handle information dissemination at a scale
+The most pressing requirement is to reach out to a large number of people. Hearing from many organizations, it became evident that IVR methodologies and using group chats on platforms such as WhatsApp weren?t very effective in handling large numbers. Hence, the right tools need to be built to use what exists and to eliminate the challenges it posits.
+5. An intelligent interaction system
+By building intelligence into the system that learns from conversations, and provides prompts and suggestions for replies, an ever-evolving structure can be laid down. Using the latest technology such as Machine Learning and Natural Language Processing, the platform can get better as more conversations take place. This enhances the quality of conversations as opposed to always having it the same way through manual interaction methods.
+6. A visible indication of improvement in lives
+The chat platform can enable the measurement of the quality of conversations and its ability to impact lives. It can allow all voices to be heard by making sure that the messages get responded to. Visual reports can indicate the adjustments required to be made, in response to the insights generated from analytics.
+Conversations are key to moving the society ahead but we don?t need more technology to chat. We need technology to be placed at the right intersection of human conversations that advance human lives. By creating tools that promote the quality of information sharing through meaningful conversations, the human lives that need it most can be reached at the right time by those who can reach them. This led to the inception of an open-source two-way chat platform between nonprofits and their beneficiaries.
+Since the kickoff
+, The teams have been moving nimbly on the technology front and
+understanding the challenges
+faced by NGOs. We’re excited to make this mission a reality in the coming months. We at
+ColoredCow
+find ourselves more enthused to be a part of another mission towards social impact. Watch this space to follow the journey of building and launching the product.

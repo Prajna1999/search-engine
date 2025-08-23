@@ -1,0 +1,70 @@
+Title: MEDHA – State Training Placement Cell
+Author: Kurund Jalmi
+Date: February 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/medha-state-training-placement-cell/
+==================================================
+
+About MEDHA
+MEDHA is an NGO that works towards improving employment outcomes for youth. They provide 21st-century skills training, career counseling and workplace exposure, ongoing job placement and alumni support to students at their existing educational institutions. Since 2011, Medha has worked with over 15,000 youth across 100 educational institutions, placed them into internships and full-time jobs with 1,000 leading employers and built partnerships with various departments with the state governments of Uttar Pradesh, Bihar, Haryana, and Uttarakhand.
+Project Details
+Medha currently uses the ?I Got Skills? (IGS) platform in Uttar Pradesh to provide its services. Due to limitations in the current platform, they are not able to maximize their reach and have the processes as per their needs. The proposed platform will be built to address the shortcomings of the current IGS platform.
+Project Requirements
+Different role-based login
+Manage Colleges state and zone wise
+Onboard students in each college
+Manage students and their activities
+Create and manage training and events for the students
+Submit and view feedback on the training and events
+Circulate information about Event through bulk SMS
+Email reminder about registration to students
+Specific dashboards showing statistical data for each admin role type
+The main users of the system include
+Super admin
+Medha admin
+The Zonal/RPC/IPC admin
+Student
+You can find below the different modules and the features in each module which we are including in this platform.
+Login module
+Super Admin modules
+Dashboard
+Ability to manage colleges/users and roles
+Add States and Zones
+College Module
+Dashboard
+College info
+Students management
+Training and Activities
+Events
+Feedback system
+Student Module
+Student registration
+Student profile
+Training and Activities
+Events
+Events Module
+This will be primarily used for recruitment drive events. The events will be created by Medha admins
+Information about events will be sent by bulk SMS
+An email reminder will be sent regarding the registration
+Training and Activity Module
+Training will be created by Medha Admin
+College admin will create a batch for the training which enrolls the student for the training.
+The student will get the list of training for which they were enrolled
+The student will add the training which will be validated by the college
+After validation, the training history will display the training
+Feedback Module
+The student will be able to provide feedback on the training/activity attended by them.
+The college will receive feedback from the students.
+College admin will also be able to provide the feedback on training/activity
+Technology Stack
+We are planning to use
+Frontend
+HTML / CSS / React
+Backend
+Nodejs
+Strapi.io
+PostgreSQL
+Versioning
+Github:
+https://github.com/webaccess/medha-STPC
+Any suggestions and feedback are most welcomed.

@@ -1,0 +1,40 @@
+Title: Glific v1.3 blasts off – Triggers, Stats, Notifications and more
+Author: Kurund Jalmi
+Date: April 2021
+Category: Glific
+URL: https://projecttech4dev.org/glific-v1-3-blasts-off-triggers-stats-notifications-and-more/
+==================================================
+
+We continue rolling out new versions of Glific loaded with new and improved features twice a month. At some point in time, we will slow down our release cycle, but at the current moment, release early, release often seems to be holding us in good stead. Documenting all the new features and improvement that are part of the 1.3 release.
+Easy identification for flows in drafts
+. If you make some unsaved changes to the flows or have some flows as a work-in-progress, you will see it in the flows list screen. The last time you published the flow and the last time you made any changes to the flow are displayed.
+Important alerts and notifications on the platform
+. You can access the notifications page from the flows screen. It serves as a centralized place to see any critical errors or warnings that happened in the background, like when sending a message failed, any errors in the flow due to unexpected input, errors from BigQuery and/or Google Cloud. This will serve as the system status page for your organization going forward.
+Organization phone number in settings
+. If you often find yourself scrambling to find your org phone number to send to beneficiaries or whenever you need it, you can now find it under Organisation Settings.
+Access more options for collection from the chat screen
+. Some time back we made collections accessible from the chat screen in the right sidebar. Now when you select a collection, you can perform more actions: Like adding contacts to the collection or viewing all the details of the collection.
+Added support for media in templates
+. You can attach images, videos, documents to all HSM templates now. We’re in talks with gupshup for audio with Template messages.
+Enhanced performance for higher messaging volumes
+. We worked with a couple of organizations:
+Weunlearn
+and
+The Apprentice Project
+to ensure the system can scale to meet their needs. We hit a few bumps in the road, but we now have a stable system as a result.
+BigQuery, next-generation
+. We continue to iterate on our BigQuery (BQ) Integration to make it reliable, and we’ve released another attempt at this. This has been one of the harder integrations, primarily because BQ is different from a regular database, and we are trying to merge the two in a seamless manner, to make it easier for reporting and analytics.
+DataStudio Reports.
+Organizations can now see stats based on an hourly, daily, weekly, and monthly basis. Stats include the number of active contacts, messages exchanged, flows started, and active users. This should give an organization a pretty good idea of their monthly bill.
+A few changes coming down the road in 1.4
+The pricing model
+. The base price includes up to 10 staff users and 250K messages. There is a charge for additional users and additional messages. This is primarily to offset the price we need to pay for additional capacity on our servers to handle the increased load. The pricing buckets are mentioned
+here
+under the SaaS platform section.
+Payment method
+. Starting in mid-April, current NGOs will be required to use a credit card to pay for the setup and monthly charges. This will streamline our invoice generation and collection process. We will be using Stripe as our payment processor, and will not be storing any credit card details on our servers.
+Localization: A new NGO has requested to have the interface available in Hindi. This gives us the required nudge to translate our interface to Hindi, and hence build in the ability to support the interface in any language. We will manage all our translations on
+Lokalise
+. Thank you to the folks from
+Lokalise
+for their generosity and support of free, libre, and open-source projects.

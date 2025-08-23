@@ -1,0 +1,24 @@
+Title: Apple Shortcuts Meets Glific
+Author: Mohd Shamoon
+Date: August 2024
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/apple-shortcuts-meets-glific/
+==================================================
+
+Recently, I learned from Arpit at Udhyam about a neat trick: you can use the iphone
+Shortcuts
+app to automate sending messages on WhatsApp. This is incredibly useful for scheduling birthday messages (especially if you tend to forget, like me) or, in Arpit’s case, for sending daily good morning messages to all his family members at 8 AM.
+Inspired by this, I thought, why not see if we can automate sending messages from Glific Since I’ve worked with APIs extensively, it seemed like a natural next step. We could even create quick snippets and shortcuts for others to use (unfortunately, this would only be available for iPhone users).
+As a prototype, I wanted to test if I could send a message to one of the recent users on Glific. Here’s the process I followed:
+Get the API token using the login API.
+Use this token to call the search API, which retrieves the latest contacts and messages.
+Display the list of contacts to choose from for sending a message.
+Get the text from the user to send.
+Use the send message API to deliver the message.
+https://videopress.com/v/bHcrXWmg?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+This simple test got me thinking about many scenarios where automation could be incredibly useful. For example, sending a message to a collection of contacts, even setting a timer for it. The latest 10 messages could be displayed, and all of this could be accessible as an app on the phone so easy!
+Moreover, I could create an automation and publish it for others to use, making it possible for NGO clients to take advantage of it. This quick POC shows that it’s workable, and it seems to function well.
+https://videopress.com/v/ym6db6nj?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+I also noticed an automation option that allows SSH into a server and ask ChatGPT. Maybe we could even deploy things using a shortcut app. The possibilities are endless!
+For testing this app on your Iphone or Mac you can use this link:
+https://www.icloud.com/shortcuts/cba0291373c743279fce4e45bc264d3d

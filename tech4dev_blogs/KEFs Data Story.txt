@@ -1,0 +1,13 @@
+Title: KEFs Data Story
+Author: Abhishek Nair
+Date: November 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/kefs-data-story/
+==================================================
+
+Written by Namratha and Naveen from Key Education Foundation
+In 2017, Key Education Foundation embarked on a mission to enhance the quality of early childhood education for 1000 children across five schools. In these initial years, we focused our energy on streamlining the processes for monitoring activities within the program.
+Fast forward 7 years, today we have 6 programs running across 8 states. With this expansion came the need for more robust data processes, not just for monitoring but for thorough evaluation as well. It was at this crucial juncture that the Data Catalyst Program gave us a clear vision for our data strategy.
+Members from Tech4Dev, Goalkeep, Agency Fund and Dasra conducted a 2-day workshop in Kochi, to kickstart a 3 month data journey together. Before the workshop, we engaged with the organising teams in a month-long exercise to bring together our problem statements and narrow down our areas of development. The team helped us deep dive into our projects, breaking them down so as to identify the gaps in impact measurement. We were introduced to Data Culture Rubric and engaged in an exercise with the team at Goalkeep to assess KEFs position on it. This provided a clear picture of how far we have come in our data journey and how much further we still need to go. By the time we arrived in Kochi, we were ready to engage, learn and apply our learnings actively.
+The two days of workshop were planned with a lot of care. The sessions were relevant, enabling several productive discussions, with enough breaks and opportunities for networking. One of the first sessions had us reflecting on the data culture in our organisation through a simulation exercise, which more or less set the tone for the coming months of engagement. It showed us what our journey towards a sophisticated data culture could look like. The remaining sessions that followed touched upon data in leadership, running experiments for data driven decision making and ways to leverage LLMs. These sessions were not only informative but also inspiring, providing us with fresh perspectives on how data could be harnessed to drive KEFs mission forward.
+We have left the workshop with valuable resources and questions to ask ourselves as we set on this data journey. These will now serve as building blocks as we work to integrate our newfound learnings into all our programs.

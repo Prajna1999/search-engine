@@ -1,0 +1,24 @@
+Title: The LLM Transformation Journey
+Author: Glific Admin
+Date: March 2025
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/the-llm-transformation-journey/
+==================================================
+
+This blog is written by
+Jayesh Ingale
+from
+Lend A Hand India
+Thinking of a word which shall describe my feeling at the recently concluded AI4GlobalDev sprint organized by
+The Agency Fund (TAF)
+and
+Project Tech4Dev
+.
+Um, Ah… Awesome, Fabulous, Mesmerizing. Yup, that’s close. Wait a sec. “Transformative” seems to be most apt word and here’s why
+Every transformation starts with an experiment. The social sector has multiple interconnected challenges which cannot always be solved by existing solutions. In this sprint, we got a closer look at a beautiful designed experiment engine for the social sector. Yes you heard me right. It gives us the ability to design, execute and analyze the experiment based on a specific problem before you develop your AI powered super solution.
+LLMs are so powerful that they can democratize the world wherein each and every person benefits from them or it divides the world and gives unequal benefits based on high or low resource language. Discussions and presentations revolved around practices of fine tuning of AI models using PeFT (Parameter Efficient Tuning). This involves training only on a small subset of parameters instead of the entire model. Specific case studies of fine tuning of Whisper using LoRA for low resource language was very much insightful.
+It is such an important decision to select the right model and cannot be underscored. This was highlighted through demonstration of a case study in the education sector. The AI chatbot powered by GraphRAG provides feedback to students based on tasks s/he performs. In this case GraphRAG clearly has more advantages than traditional RAG in terms of handling complex questions and better accuracy because of context. And maybe LightRAG may be the next candidate?
+Once chatbots are developed on chosen LLM, it is important to have a framework to evaluate the chatbot. We got a insightful journey of evaluating a chatbot starting with Application evaluation which tests latency, scalability, error handling capacities to AI evaluation which tests questions and answers generation to User testing which evaluates how well user understands, applies and benefits from the chatbot
+Well, you have built LLM apps, we have a good evaluation framework, but do we have the confidence that our apps will work as expected. We have lots of combinations to test for. GPT models, text to speech models, markdowns and more. That’s where we were introduced to the world of prompt automation. Manual approach is limited and inconsistent.
+What’s the fun of a sprint if the brains are not put to work. A well organized and guided approach was taken to make us evaluate our LLMs. The framework started with evaluating chatbot performance to user engagement to pragmatic RCTs. This is evaluating LLM for its correct response to whether it leads the user to make an informed choice/meets his/her needs.
+The sprint couldn’t have been lively without the lovely ice breakers. They got us talking with each other with the context of the sprint and in the spirit of the sprint!!!

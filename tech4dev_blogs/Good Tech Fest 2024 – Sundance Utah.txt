@@ -1,0 +1,30 @@
+Title: Good Tech Fest 2024 – Sundance Utah
+Author: Donald Lobo
+Date: May 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/good-tech-fest-2024-sundance-utah/
+==================================================
+
+Some reflections and thoughts on the
+Good Tech Fest Conference
+that I attended in Sundance, Utah from Apr 29 – May 2, 2024. I’ve organized and attended a fair number of these conferences to have a good sense of what to expect from the event. Was looking forward to meeting a lot of people from the US non-profit tech ecosystem and expand my horizons and thinking,. Was excited and nervous to talk to new folks, learn what they are doing and talk about the work that we are doing
+Overall, the event met and exceeded my expectations. I did not think so initially, but when talking about the various things and conversations about the event with Temina and Radhika, I realized that it was quite a few jam packed days with lots of conversations, discussions, walks and more. The venue and location (Sundance Resort, Utah) was amazing and I loved being in the mountains.
+Such a delight to be in the mountains alongside a rushing stream
+Just a few random highs and lows a week after I got back. This has given me enough time to absorb and reflect on the week and is a bit beyond the moment
+Loved the conversations that I had with multiple folks, in specific (and also a reminder to me to catch up with them soon), conversations with
+– Jim Fruchterman from Techmatters, I’ve been a long time fan of his work and he has been an inspiration for a long long time
+– Sid Ravinatula from IDInsight – We’ve been on a lot of email threads together, but was great to meet and learn more about Sid and the work they’ve been doing @ IDI. Seems like there are lots of places where we can and should collaborate with IDI
+– The team from DrivenData, Peter, Greg and Emily. Hoping to pick their brains as we build a data science and engineering team to work with NGOs in the Global South
+– Good last day walk with Jake Porway – co-founder of Datakind. Kinda interesting to see how we’ve all walked on similar yet different paths but landing in the same place
+– Very brief conversation with Matt Gee from Brighthive.io. Might be a good connect for the work we are doing with Dalgo
+– Learned a lot about Justice, Immigrants and Migration from Ana and Ben of Mobile Pathways. Was quite amazing to see Ben share his visual notes of presentations as they were happening, an example image below:
+Loved the open nature and conversations of the opening dinner and the small group discussions of the first day. Would have loved to see a few more in-depth technical talks, since a majority of the discussions were at a fairly high level
+Not a big fan of the second day format where we had approx 8 or so lightning talks of 15-20 minutes each. Seemed like some people (including me) had tuned out and were busy with their own work. I think a mixture of talks (maybe shorter) with small discussions might have been my preference. Also would have loved for it to be a bit more tech-heavy
+The final day was a mix, with many folks having to leave early. But listening to an artist (Jason) talk about Identity, Art & AI was quite fascinating and interesting. Quite mind-blowing to see how these worlds collide and intersect with each other
+The venue and location was great. The food was quite good, but could have used a few more vegetarian options. Coffee was decent, though due to some miscommunication, coffee was missing for breakfast the first day!
+Loved to see as to how strong the data culture is within the US ecosystem. There seemed to be a fair representations from data science consulting companies in the room. Lots of things we can learn and borrow from
+Would love to see more international representation and from NGOs doing work in the GlobalSouth. Seemed like there were just a few of us there
+Loved to hear this event is going international with the next one being planned for Nairobi. Would love to see this happen in Delhi also
+Expected to see a few more folks from the funding ecosystem in the room, but this was not the case. Not sure why I was expecting this
+Big thanks to Andrew Means and Brittany Biggs for doing such an amazing job organizing and managing this event along with the logistics etc. Was a lot of fun.
+Bottom line, it was good for me to re-connect with the US ecosystem and see whats happening, Lots of things we can borrow from here to deploy in India and elsewhere

@@ -1,0 +1,164 @@
+Title: Roadmap for co-creating the Fiscal Data Explorer
+Author: Kurund Jalmi
+Date: July 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/roadmap-for-co-creating-the-fiscal-data-explorer/
+==================================================
+
+The Tech4Dev collaboration between CivicDataLab and Centre for Budget and Governance Accountability aims at developing a comprehensive dashboard called the Fiscal Data Explorer with Himachal Pradesh(HP) as the focus state. This dashboard will be a unique addition to the already existing data platform,
+Open Budgets India
+(OBI), in bringing together data on state budget allocations for Himachal and its spending data in a single tool.
+What makes state fiscal data so complex?
+Citizen?s access to data on government budgets in India diminishes drastically as we go deeper from the level of the Union Government to the sub-national levels. The low usability of state budget documents is also compounded by the fact that most of the detailed information is locked away in closed formats like PDF and hence cannot be read or consumed by machines. Further, the lack of metadata hinders the process of easy searchability for relevant fiscal data.
+When it comes to data on actual spending of these allocated funds at the district level, only a handful of states actually do bring out this information in the public domain. Even for this latter subset of the states, district spending data is associated with complicated coding structures making it difficult to comprehend for the uninitiated users. Needless to say, such hurdles at the state and district level, crucially restrict public engagement with fiscal data and in turn, constrain public participation with fiscal issues.
+What is Fiscal Data Explorer?
+Fiscal Data Explorer is a unique tool where citizens can explore both budgets and spending data of state governments in an easy to comprehend and simple to use manner. Such a dashboard can enable users to obtain answers to their budget-related queries in an interactive fashion. Some of the key features to assist the users in their exploration are downloadable data in machine-readable formats, easily searchable data tables, dynamic visualizations, etc.
+What are we trying to address?
+The proposed project will aim at solving the dual problems of lack of easy accessibility to detailed information on state budgets and spending data in specific states and the lack of usability of such data due to the manner in which it is shared in the public domain. Further, with the introduction of comprehensive metadata, the Fiscal Data Explorer will help different user groups to curate information and insights in a more transparent and organized manner. With such an intervention, we expect to facilitate greater public engagement with both budgets at the state level and spending data at the district level.
+What will be the components/elements of Fiscal Data Explorer?
+The following are the various components/elements which will be included in the dashboard:
+Money Flow:
+This will provide aggregate and detailed information about the inflow and outflow of money in a state.?
+Overall Budget (Budget Highlights)
+: This will provide a brief representation of the budget on an aggregate level and information like major schemes, announcements, etc.
+Expenditure:
+This will be divided into the following parts for easy dissemination of expenditure information as follows:
+Expenditure Summary:
+This section will give an overall gist of how the state has performed in terms of its expenditure across years and among sectors.
+Detailed Expenditure:
+The objective of this part will be to dig deeper and give granular insights into each department, commonly classified as different demand numbers or grant numbers.
+Expenditure Tracker:
+This will help the user to track how money is being spent on a daily and monthly basis across various districts and expenditure heads.
+Receipts
+: This will be divided into the following parts for easy dissemination of expenditure information as follows:
+Detailed Receipts:
+Structured to provide both aggregates as well as granular insights on different sources of receipts like tax, non-tax revenue receipts, etc.
+Receipts Tracker:
+This will enable the user to track how receipts are being collected on a daily and monthly basis across various districts and receipts heads.?
+Schemes:
+This will provide detailed information related to various schemes across the years.?
+Sectors:
+This will provide sectoral information and comprehensive representation of how individual sectors have performed across the years. It will also enable inter-sectoral comparisons in the state and its various districts.
+What has been our roadmap for developing the dashboard?
+The unique feature of this project has been the close association between public finance knowledge and the sound application of technological solutions to it. Needless to say, the technical, research and design roadmaps towards developing this dashboard are dependent on one another and naturally do have overlapping segments.
+On the technical front, the following are the steps are being planned out
+?
+Technical Roadmap
+Components
+HP Budgets
+HP Spending
+Data Scraping
+Expenditure: POST request, budget code mapping
+Revenue: Based on the availability of machine-readable files from advocacy efforts
+Expenditure & Receipts: Collecting datasets from DDOs using Scrapy framework. GET requests to fetch dataset HTML
+Data Extraction
+(Note: This is subject to change based on our advocacy efforts)
+Expenditure: Extracting datasets from HTML and pdf to machine-readable format
+Other documents: Explore PDFs & extract data to machine-readable format
+Expenditure & Receipts : Extracting datasets from HTML to csv using the python csv module?
+Data Cleaning and Validation
+Data cleaning and validation using different tools (GoodTables) and custom validation logic(s)
+Process Manager
+Setting up Apache Airflow process manager
+Exploratory Data Analysis
+Exploring and analysing data using different tools/technologies such as
+Apache Superset
+,
+Pandas
+Data Modelling & Storage
+The data model for the budget will be read heavy, low volume with categorical data
+Further steps for data modelling:
+Identify Query Patterns?
+Database selection
+Schema planning & development
+The data model for spending data will be read and write heavy, high volume with time-series and geospatial data
+Further steps for data modelling:
+Identify Query Patterns?
+Database selection
+Schema planning & development
+Platform Building
+Steps of Platform building are:?
+Developing a basic platform
+User Interface and Experience Design
+Compiling a list of features
+Planning dynamic data Visualizations: Both Static & Dynamic
+Feedback Loops
+Blog/Stories/Case-Studies
+Publishing different blogs/Stories/Case-Studies on online platforms
+On the research side of the project, the following roadmap is being followed:?
+Research Roadmap
+Components
+HP Budget
+HP Treasury
+Research on State/sector related issues?
+Budget Speech scan and newspaper articles, sectoral issues reports for HP
+Civil Society Organizations and newspaper reports on fund utilization issues?
+Scheme selection
+National level schemes for HPs (prominent Centrally Sponsored Schemes)
+State schemes (based on highest budget share in 2019-20)
+Track those schemes in HP treasury
+Data Mapping
+Mapping based on budget codes and/or budget head descriptions
+Trend Analysis
+Analysis of trends in allocations and spending to build an analytical section on the dashboard
+Identification of sectors with low fund utilisation and how the trend changes over a fiscal year
+Content Development for dashboard
+Based on different components
+The textual content on budget highlights (capturing new announcements on schemes, programmes, focus area by the government)
+Curated content on sectoral budgets and focus areas
+Blog?
+?Blogs on
+OBI’s Medium platform
+Advocacy
+HP State Departments (Finance, select Line departments)?
+Outreach
+State level organisations working on sectoral issues in HP
+National and International organisations like World Bank, HAQ, etc.
+Educational Institutes
+?
+In terms of design and design research activities we have the following roadmap:
+Design Roadmap
+Components
+HP Budgets
+HP Spending
+Stakeholder Identification
+Which user groups primarily refer to budget data? Provide examples of usage.
+Which user groups primarily refer to spending data? Provide examples of usage.
+(Pre)Survey – Send it out and collect and collate responses
+Refer to the survey done for the Assam project
+Usability Eval using
+Heuristic Analysis(HA)
+HA of
+eBudget
+HA of
+HimKosh
+Usability Eval using
+Heuristic Analysis
+HA of
+Assam Budget Explorer
+Stakeholder interviews in Delhi and Himachal Pradesh
+CPR, CBGA, NewsLaundry, HowIndiaLives, World Bank, HP Govt.
+Analysis of Stakeholder Interviews
+Document motivations, use cases, workflows and challenges faced.
+Generation of User Stories
+Convert insights from the previous stage into clear and concise stories that can inform future design decisions of the platform. Follows format described in agile methodology.
+Identify and develop feedback loops for users?
+Look into some potential feedback mechanisms based on preliminary understanding of the needs of the stakeholders.
+Outreach & Dissemination? for HP Fiscal Data Explorer
+Plan for disseminating information about the platform and its usefulness to some targeted groups on channels like social media, newsletters, etc.
+Develop Fiscal Knowledge sharing mechanisms
+Find spaces in the user flow to introduce more know-how related information to grow fiscal literacy of budget curious users of the platform
+What do we expect this tool to achieve?
+We expect this tool to facilitate strengthened engagement with openly accessible public finance data at the state and district level by researchers, journalists and other stakeholder groups.? A deeper understanding of the priorities of the state government and the performances of the states in raising their revenues and spending the allocated funds have the potential to build stronger advocacy routes with the concerned government authorities by the civil society organizations. In doing so, the fiscal data on this proposed dashboard can be made extensive use of and therein lies its potential.?
+About the Authors
+This blog has been jointly written
+Gaurav Godhwani
+,
+Shreya Agrawal
+,
+Simonti Chakraborty
+and
+Thomson Muriyadan
+working on the
+Open Budgets India
+Initiative.

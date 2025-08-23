@@ -1,0 +1,24 @@
+Title: Understanding the East African Civil Society Landscape
+Author: Dawit Taddele Dessie
+Date: October 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/understanding-the-east-african-civil-society-landscape/
+==================================================
+
+By: Dawit Taddele Dessie
+As Tech4Dev continues to navigate the dynamic landscape of East Africa’s civil society, we’ve gained a deeper appreciation for the incredible work being done by these organizations. From the inspiring stories of DEK and SHOFCO to the insightful discussions at the Tech for Good Fest, AYPN Connect, and the T4D-hosted Roundtable on technology,
+Can Lessons from India Be Applied to East Africa?
+The short answer is yes. The lessons learned from tech development in India can certainly apply to the East African civil society sector. However, it’s important to consider the unique context and challenges faced by CSOs in this region. At the heart of our efforts is a suite of open-source, user-friendly platforms: Glific, Avni, and Dalgo. These tools are designed to streamline operations, enhance outreach, and equip CSOs with the data-driven insights necessary to make informed decisions.
+Witnessing Impact on the Ground
+Our visits to Deaf Empowerment Kenya (DEK) and SHOFCO were particularly inspiring. DEK’s livelihood projects and outreach to communities in Machakos, in collaboration with SHOFCO and local government, have resulted in a strong foundation, especially through their innovative approaches to youth engagement. SHOFCO’s deep-rooted connection with the community was evident in their respect as a de facto government support system. Their innovative solutions, such as the water and token systems and the youth insurance program, were well-tailored to the local context and demonstrated a remarkable impact.
+Tech for Good Fest: A Catalyst for Change
+The inaugural in-person Tech for Good Fest in Nairobi provided a platform for leaders from the social impact, technology, and funding sectors to come together and explore the potential of technology to address pressing global challenges. Key takeaways from the sessions included:
+Building AI capacity in the social sector requires equitable data collection and partnerships with the private sector (Woodrow Rosenbaum, GivingTuesday).
+SameSame’s chatbot demonstrates the power of technology in mental health, providing essential support to young people struggling with depression (Codie Roelf, SameSame).
+Hello Tractor’s success highlights the potential of technology in sub-Saharan Africa, with a focus on youth involvement and a hybrid model that combines technology with community interaction (Jehiel Oliver, Hello Tractor).
+T4D’s Role
+The T4D team co-facilitated a session on AI for nonprofits, emphasizing the importance of bridging the digital divide, leveraging AI for measuring impact, and addressing concerns related to responsible AI usage. Additionally, the T4D Nairobi Roundtable provided a valuable opportunity to connect with representatives from leading CSOs in Kenya, discussing shared challenges and opportunities for collaboration.
+AYPN Connect: The Power of Collective Action
+Our participation in the AYPN Connect event reinforced the importance of collective action, mentorship, and innovative solutions in the evolving field of Civil Society Landscape. The observation that “challenges and use cases of CSOs here are quite similar to those of Indian CSOs” suggests the applicability of our learnings from other regions.
+A Promising Road Ahead
+The past week has been a valuable learning experience, offering a deeper understanding of the East African civil society ecosystem. We’ve made significant strides in building relationships and uncovering collaboration opportunities. While challenges lie ahead, we are optimistic that with the right tools and a commitment to fostering partnerships, we can navigate them successfully. This region holds immense potential for collaboration and cross-learning, making it an exciting space for impactful work.

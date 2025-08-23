@@ -1,0 +1,28 @@
+Title: 9 packed days in India with Glific, Amazing NGOs and the Sharanam Women
+Author: Kurund Jalmi
+Date: March 2022
+Category: Glific
+URL: https://projecttech4dev.org/9-packed-days-in-india-with-glific-amazing-ngos-and-the-sharanam-women/
+==================================================
+
+Am sitting in Mumbai airport, 4:50 am in the morning, heading back home to SF to Mari and PJ, and I’m super glad its a long long flight (I need to catch up on my sleep and I’m just exhausted, getting old does suck in this regard). I’m glad that we seem to be getting out of COVID and we can meet and interact in person, have great conversations and meals with teammates, and learn from amazing individuals: Ishita@MukkaMaar, Jacob@Bandhu, Akshay@Avanti, and Jithin@Make a Difference, about what they do, and what inspires and motivates them.
+As with all my trips to India and meetings, I always come back inspired and excited about what we are doing and ideas for how we can do things even better. Some of the things that happened over the week include:
+Worked together as a team and discussed where Glific is headed and the features we need to add to the platform. It’s amazing how quickly we can progress when all of us are in the same room. We solved a couple of thorny issues really quickly.
+Met and interacted with a few of our partner NGOs, and get a better understanding of what they are trying to do. Having in-depth conversations with NGOs on their use cases, and how best we can help them is super important and guides our design and development process.
+Revised the
+Tech4Dev v2
+plan and let the senior members of the team interact and pitch the concept to existing and new funders. Giving folks on the team exposure to funders and the ecosystem is super important as we aim to get them to step up and run the platforms soon.
+Spent time with the young women and girls from Sharanam both at the home and also outside on different outings. The Tech4Dev teams met and interacted with the Sharanam Girls different times. It is helpful to the Sharanam youth to see what we are doing and why. It also help the Tech4Dev team see a larger purpose in the issues that the NGO sector is attempting to solve.
+We had two dinners where the team interacted with the founders of
+Make a Difference (MAD)
+and
+Avanti Fellows
+. In addition to great food, the team was inspired by the stories and passion that both Jithin (MAD) and Akshay (Avanti) shared about the reasons they started their organizations.
+While the trip was great in most aspects, we also had meetings which were not as successful as we would have hoped for. Getting folks to be open, transparent and sharing in the sector is a long slow process, and we’ll have to keep working at it. This is frustrating, but at the same time we understand it is part of the journey that we’ve chosen to undertake.
+As with all our sprints, we encourage everyone to blog about their experiences and learnings. Here are a few that have already been posted
+Spring Sprint at Glific – Abhishek Sharma
+Spring Spring with Mukkamaar – Akhilesh Negi
+A day in Mumbai – Gayathri Meka
+Glific Sprint – An opportunity to connect with NGOs – Mohd Shamoon & Vivek Amola
+Experience of our NGO Partners
+Our next sprint will be the week of April 11th in the Delhi / Gurugram area. Let us know if you are interested in being part of the sprint.

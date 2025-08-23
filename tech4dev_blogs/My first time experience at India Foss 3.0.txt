@@ -1,0 +1,29 @@
+Title: My first time experience at India Foss 3.0
+Author: Amisha Bisht
+Date: November 2023
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/my-first-time-experience-at-india-foss/
+==================================================
+
+Imagine going to your very first Free and Open Source Software (FOSS) event, where you get to represent your organization. That’s exactly what I did at India FOSS, a two-day event filled with learning and meeting amazing people. I was really excited and nervous at the same time.
+Everything was really amazing and very new for me.
+An Early start of the event
+On a nice morning, my team and I headed to India FOSS with a lot of excitement. We reached the event bright and early, ready to dive into the world of FOSS. The day began with breakfast at the venue, but honestly, the food wasn’t great. So, we decided to go out and find something better to eat. This turned out to be a long walk and some fun and also set  a cheerful and light-hearted tone for the day.
+Engaging with the amazing communities
+When we returned, we had a stall at the event with a TV to showcase our organization. It was interesting to see the different organizations at India FOSS, each working on their own projects and goals.Our stall became a hub for conversations about our work, team, and goals.
+We presented our products, namely
+Glific
+,
+Dalgo
+, and
+Avani
+to the people.
+I met many people there, and my seniors shared a lot of new insights with me. They gave me advice on how to improve myself and how to explain things more effectively.
+One of the best things about FOSS events is meeting all kinds of people. I talked to experienced pros who know a lot about the communities, development and had a lot of experience in this field and also met lots of excited students who want to learn and help out. I told them how they can contribute to our project and all. It was really interesting to see how much each person knew and how creative they were. It was pretty cool. Witnessing the vast pool of knowledge and creativity that each person brought to the table was indeed captivating.
+Networking and Learning
+During the event, I got involved in interesting conversations, worked together with others to come up with ideas, and had many chances to learn new things. It felt like there were learning opportunities everywhere. We talked a lot, and it was clear that people in the community work well together. There’s a saying that goes way back: “We learn the most when we teach.” This happened to me a lot as I tried to explain our projects to others. It made me understand our work better. Sharing our organization’s journey, insights, and accomplishments was nothing but inspiring.
+The event showed me that even casual chats with fellow attendees can be very educational.
+Additionally, I learned how to answer various questions from people and explain complex ideas to different audiences. These lessons will be very useful in all my future interactions, whether I’m talking with people in the FOSS community or elsewhere.
+Conclusion
+My first India FOSS experience was remarkable. It allowed me to dive into the world of Free and Open Source Software, meet amazing people, and represent my company. The event left me inspired and eager to continue my journey in the FOSS community.
+If you’ve never been to a FOSS event, I recommend trying it. You’ll be amazed by the friendly community and the wealth of knowledge and experiences waiting for you. India FOSS was just the beginning for me, and I can’t wait to see where this journey takes me next.

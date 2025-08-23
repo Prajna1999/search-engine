@@ -1,0 +1,42 @@
+Title: A Day in Mumbai – Women in Tech & Tech4Dev
+Author: Kurund Jalmi
+Date: March 2022
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/a-day-in-mumbai-women-in-tech-tech4dev/
+==================================================
+
+Last week, Donald Lobo came down to India for the Glific sprint and I got a wonderful opportunity to visit Mumbai and meet him and the ColoredCow team. The agenda of the visit was simply to get to know each other and also attend a couple of meetings with key stakeholders at a few philanthropic foundations to talk to them about Tech4Dev v2 and Women in Tech (a collaboration between Tech4Dev, ColoredCow and HyperVerge Academy). You can read more about Women in Tech
+here
+. It was a whirlwind day packed with meetings, travel and conversations – heres my attempt to summarize what went on.
+8:30AM – Landing in Mumbai, Meeting Lobo and the ColoredCow Team
+After landing in Mumbai, it took me a good 1 hr to reach Lobos house in Colaba where I was greeted by the Glific team. I got a chance to spend some in-person time with Akhilesh Negi – one of our mentors for the Women in Tech batches (and make a guest appearance on their daily standup), while observing Abhishek Sharma (who leads the product at Glific) devouring 4-5 eggs one after the other!
+Our plan- we had a total of 3 meetings scheduled with funders, scattered across the day (and the city) and we decided to wrap the day with a visit to the Sharanam center before heading back. Lobo was kind enough to plan the entire day taking into account travel times etc to ensure I have a super productive day and make it in time for my flight 🙂
+11:30AM – Building an Ecosystem
+Our first meeting with one of the 3 foundations was one of my first experiences pitching about our work in-person to a decision maker. It was Lobo talking about the last 2 years of work in Tech4Dev v1, the plan for Tech4Dev v2, Abhishek pitching in about the success seen with Glific and me talking about the WIT pilot.
+The big theme of the conversation was about working together to create an ecosystem where social impact organizations can leverage tech solutions from each other and not have to reinvent the wheel. Conversations about what different NGOs are doing to tackle certain problems were discussed. An interesting line of discussion was about how a lot of NGOs are not prepared to work with tech and how a tech product may not actually solve their problems. It was good learning about not force-fitting solutions when they dont make sense in a particular context.
+Specific to WIT, we received advice to make sure women who get placed at the end of the program, also end up staying in their jobs and not quit a few months down the line. This gave us further reinforcement to strengthen our alumni community engagement initiatives, and make sure whoever enters the HVA/WIT ecosystem once, is always part of the community and our intervention never really ends. We believe in the philosophy of paying it forward, and expect our alumni to also join back and mentor more students in the future.
+We also got to know about other organizations working on a similar problem as WIT. In the spirit of sharing and building on each others work – we concluded the meeting by aligning on making relevant connections and reaching out to the organizations recommended, looking for ways to collaborate.
+Somewhere around 1PM – Vada Pav Break
+Between the two meetings, we got the chance to squeeze in some time for a classic butter Vada pav right in front of Victoria Terminal (had only seen this in the movies!) Would highly recommend visiting
+Aram Vada Pav
+if you find yourself in Mumbai sometime 🙂
+1:30PM – What are Funders Looking For?
+Our second meeting followed a similar pattern with each of us talking about our experiences and the work we are doing. There was a discussion of forming a collective among funders to align on common reporting mechanisms in order to ease the burden on non profits for the same. I learnt about how foundations undertake various capacity building initiatives for the non profits they fund. There was again a focus on allowing the non profits from similar sectors to learn from each others work during these programs.
+Advice I received from this meeting on WIT was to be clear about whether we want to scale as an organization or not. It was refreshing to note that there are quite a few non profits who are very clear that they are not built to scale, and that is okay, and funders also support them on the same. From a personal standpoint, I refined my pitch for WIT a bit more in this meeting based on some tips I received after the last meeting – learnings ahoy!
+Around 3:30PM – A short interaction with the folks at Bandhu
+Once we headed back to Lobos house where the Glific sprint was happening, I got a chance to hear from Rushil about their work in leveraging tech to connect workers with jobs and housing at
+Bandhu
+. They also gave us a demo of their app and threw some light on the challenges faced in tech adoption and how to account for that. Some interesting examples were- minimal text on the app to account for most of the workers not being literate, reducing the complexity of workflows, figuring out how to deal with a situation where the worker doesnt carry a smartphone while at work, and so on. None of us had all the answers, but it was a super interesting discussion (maybe thats what made it interesting).
+4:30PM – Keep it Open from Day -1
+The conversation during our final meeting for the day had renewed focus on the philosophy of open source. Many a time we tell ourselves – This is not in a condition or state to be shared with other people. Let me share it with people once it is
+ready
+. Lobo spoke about how
+ready
+is a pipe-dream, how wed only be fooling ourselves if we think that wed start sharing when we attain that state of ready. He spoke about the importance of getting into the mindset of sharing from Day -1. We also discussed how if we are building something for the public good, we should be giving the public ownership of it, and let each other build on top of things.
+This is something I can personally relate to as well, in a different context. We always wanted to write a blog sharing our work at HV Academy (our philosophy, curriculum, method of screening etc), and never got around to doing it. Getting pushed by Lobo to write about some of our work a month ago, and right now as I am writing this, is helping us get over that resistance. If you are a person thinking twice about writing/sharing your work with the world, go ahead and do it! You may not reap the benefits of it today, but somebody somewhere may be inspired by what youve done, and the second order impact could be immense 🙂
+I think my pitch is also getting much better by now 🙂
+6:30PM – Visit to Sharanam Center for Girls and Heading Back
+My last visit to
+Sharanam Center
+was like the cherry on top to a whirlwind day full of learnings. I used this time to just relax, spend some time with the girls, play games, learn about their dreams and aspirations, what they want to do in their lives and also what they DONT want to do in their lives (which overwhelmingly turned out to be sitting on a desk behind a computer, which sadly didnt help for my women in tech narrative ????)
+I managed to find one girl who seemed to be rather excited about HTML and CSS, and building websites. Hoping to stay in touch with her and help in some way in pursuing her aspirations. I also learnt about all the wonderful work done by the caretakers in managing this center which put a lot of things into perspective for me personally and inspired me to continue doing what I do with renewed vigor. Before I left, I received a giant hug from a tiny girl for a good 10 seconds which honestly, just made my day!

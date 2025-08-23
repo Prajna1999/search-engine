@@ -1,0 +1,260 @@
+Title: Tech4Dev Project Report #5 – Apr 2020
+Author: Kurund Jalmi
+Date: April 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-5-apr-2020/
+==================================================
+
+Tech4Dev
+Mission
+Building the Open-Source Technology Ecosystem for the Social Sector
+Summary
+Q1 2020
+was the most interesting quarter in our lifetimes. COVID-19 came out of nowhere and is hitting the world hard and fast. All of us are still trying to understand and figure out the medium-term impact, while we are sheltered at home. On the positive side, as a global tech collaborative, we are used to working remotely, and so far things are going smoothly. We have reached out to our NGO and Software Partners with offers of help and assistance. I suspect we will get a few takers for this in the April-May timeframe.
+We completed the 12 projects from the first cohort in March. We have detailed project plans and cost documents for the 15 second cohort projects and the 12 chat for impact projects is off and running after a good training session in Mumbai in February. We welcomed four new partners and one new funder to our ecosystem putting us at 90% of our fundraising target with 14 funders. We represented Tech4Dev at events in Brussels, Bengaluru, and Mumbai. AnnieCannons, a Tech4Dev NGO Partner won a major grant from Novo Foundation and our chat for impact partner, Turn.io is powering the technology behind the WHO WhatsApp chatbot.
+Case Study of Avni Platform
+– Dam Desilting Platform
+Sedimentation is a problem faced by dams and water catchments, whereby the flowing sediments settle to the bottom of the dam because of the stoppage of water flow. This impacts the dams negatively. On the other hand, the silt present in these sediments is quite fertile and suited for agriculture. This presents an opportunity for creating a win-win situation if it can be taken out and given to farmers. The government of the state of Maharashtra initiated a desilting project in partnership with the local NGOs. The NGOs were tasked with monitoring the work in addition to farmers being mandated to collect the silt extracted.
+Given the large distributed scale of the activity, monitoring of this work was difficult without technology. A field-based data collection and a monitoring system was conceptualized using Avni. All the key details of the project work were recorded from the field, allowing for tracking of progress and expediting them. This project is being scaled now to a few other states in India. Avni allowed the organization to collect data from more than 29,000 farmers across 6,400 villages in realtime.
+Avni has been used in 20 NGOs predominantly in the field of community health (maternal, child, adolescent, sickle cell). But, it is a generic open-source platform designed for all kinds of fieldwork. Dam desilting is an example of one such project supported by Tech4Dev. A customizable, open-source platform reduces cost, risk, and time-to-field for NGOs who use them.
+Highlights
+|
+Ongoing Support
+for NGOs
+We initiated more formal review processes at multiple stages during the project lifecycle for the second cohort. Projects first submit a
+project scope
+document outlining the work that they will (and won?t) do as part of the project. This is followed by a
+project plan
+document that goes into milestones, timeline and cost estimates for the project. These documents are done with the NGO which makes the process transparent and improves communication.
+12 Projects
+completed with the first cohort – 2019
+15 Projects
+in the second cohort – Jan 2020
+10 Chat for Impact
+Cohort NGOs – Feb 2020
+|
+New Funders
+We welcome the Raghuram Family Fund who joined the Tech4Dev Funder Collaborative and will be supporting the project for the next three years. We are currently at 90% of our target of USD 3 million for the three years ending in 2021.
+From the third cohort onwards, we have started charging NGOs a percentage of the total cost of the project. We expect this fee to be approximately 25% of the total project cost. In addition to reducing our expenses, we expect to get the NGOs to be more responsive and vested in the project due to their financial commitment. This was validated in the response and some of the questions we got about the fee structure and our services by the third cohort NGOs.
+|
+New Partners
+We added two software partners in India –
+Colored Cow
+and
+DataOGram
+. We expect to start working on projects with them in Q2 2020. We also conducted our training session in Mumbai on Chat for Impact with our partner
+Turn.io
+. Finally, we are partnering with
+HZontal
+on adding features to
+Tella
+– a documentation app for android specifically designed to protect users in repressive environments. We will be deploying Tella with human rights organizations in India, starting with
+Empower People
+, a second cohort NGO.
+|
+Partner
+Highlights
+AnnieCannons
+, one of our first research project grantees towards an open-source
+survivor-centric continuum of care system
+has received
+$916,000
+in funding over three years as one recipient of
+The Life Story Grants
+, a $10 million,
+three-year initiative funded by the NoVo Foundation
+to close the on-ramps into the sex trade and open pathways to exit. We are super proud and excited for AnnieCannons and at the same time, this reinforces our commitment to investing in people and systems that have the potential to create a significant impact.
+Samanvay
+and
+Web Access
+are working with the state authorities to deploy the second version of the Dam Desilting Project (first cohort NGO). The work builds on last year?s project and will be supported by local foundations. This work will contribute functionality to the Avni Project.
+DataOGram
+has offered its SaaS Platform (Kobo + Metabase) free to NGOs and Govt bodies that are resource-starved or working to support the COVID-19 response. They are directly engaged with a group of NGOs and are also working with another large NGO to track the procurement and delivery of supplies across the country.
+In the past few months, we?ve come across two other organizations:
+Catalyst
+in the UK and
+Tech Matters
+in the US/Bay Area with goals and approaches similar to ours. It’s a good sign for the ecosystem when multiple entities arise to serve similar needs in different regions. We will work on partnering with them and learning from each other’s successes and failures.
+|
+Chat for Impact
+Cohort Update
+In mid-February, we gathered a group of 12 NGOs, 3 Software Partners and our chat for impact partner –
+Turn.io
+at
+Edelgive?s
+offices in Mumbai for an
+intense three-day training and implementation
+workshop. The training went great, it was a good combination of theory (the rules and regulations of the WhatsApp Business API Platform) and hands-on practice with NGOs implementing their use cases on the platform. More importantly, it was really awesome to see the folks from different organizations share ideas, network and learn from each other over the three days. We do think building this ecosystem and bringing folks together to discuss, plan, and work on issues that affect all of them is the key aspect of what we want to do. We followed the training with a meetup that was open to all NGOs to learn more about the power of two-way communication and what they can do to get ready and integrate this as a component of their outreach to their communities.
+We plan on either partnering with Turn.io or starting a new project to build an open-source platform to facilitate two-way communication. The ecosystem is lacking a solution and the need for something like this is pressing. We will make significant progress on this in Q2/Q3 2020.
+|
+Collaborations
+and Meetings
+We attended the
+Sustain OSS and Fosdem in Brussels
+,
+Change the Script in Bengaluru
+and the
+Dasra Philanthropy Week in Mumbai
+. The main takeaway from these conferences is the rising power of networks and collaboratives. Today, there is a lot more funding towards open-source software (OSS) than in the years past and some of the larger foundations (Ford, Sloan, OSF) are now actively funding open-source infrastructure projects. Weirdly though, the number of NGO focussed OSS projects at these conferences is close to zero and overall is an incredibly tiny part of the larger OSS ecosystem. We need to fix this and are trying to figure out how, why, etc.
+Another important aspect of being part of events in addition to the exposure is learning about new partners, interesting projects and potential new funders. Two of our recent partners came from events we attended in the past couple of months. The exposure we get at these conferences is also totally worth the time invested at these conferences.
+|
+Reflections from Persistent
+– our Industry Partner on Avni
+This section was contributed by Priya Singh, Heramb Abhyankar and Tarun Joshi from Persistent.
+Our team is gaining good experience in open-source development & contribution through this project. They learned pair programming, resulting in excellent team bonding & harmony.
+Teams resolve problems faster when they work in pairs. Most of the UI development team is being reskilled from Angular to React. This is an excellent platform to gain hands-on experience with the new technology.
+The product is complex and team members are taking extra time to understand the workflows and concepts. Dedicated bandwidth from Samanvay has proven a big help to the team.
+The product backlog needs to be captured well in terms of user stories and estimation. Avni has a long way to go in terms of documentation.
+Looking back we feel that the product training by the Avni team could be planned better and it should have covered significant application complexities/POCs.
+During application development, the team is required to do a lot of analysis like POCs, exploring existing code to understand details i.e. logs, workflows, etc. which impacts the final estimate adversely. Approaches/Strategies should be finalized as early as possible to avoid rework later.
+Overall this was a good experience for the Persistent team. This was the first time that Tech4Dev and Avni worked with an industry partner. We see this as a learning experience and have been working closely with Persistent to continuously improve on the pain points/issues raised by their team.
+Misses, Reflections and
+Improvements
+While our selection process improved significantly in the second cohort, we can do even better and minimize the mistakes we made in the second cohort. In specific, we need to ensure that organizations are of a certain size and budget and can integrate tech tools and support them outside our intervention. We also need to ensure organizations have good processes and validate them during the interview process.
+We need to continue working with partners and documenting our processes better. This will enable our partners to understand what we mean by scope and plan, and to spend the required number of hours on each of them, yet giving us enough information to tweak the scope. In cohort 2, many partners merged their scope and plan in the first phase. Some of the plans and costing were a bit too ambitious, and we could have tweaked it during the scoping phase. This will also help with onboarding new partners.
+This planning highlights any potential issues later, which might lead us to take a closer look at the project. This has resulted in us canceling one project (Vidhayak Bharti) and reducing the scope of another (Empower People). It also allows us to connect the dots at a higher level and find common threads between various projects and/or the broader open-source ecosystem.
+We continue to pursue the policy of reuse vs build and funded feature development for
+Tella
+We are using the data collected by our internal systems to drive a large part of the report and pages on the website. Our project and partner listings are below:
+List of Tech4Dev Projects
+List of Tech4Dev Partners
+COVID-19
+– Response, Reflections, and Implications
+We canceled our in-person meeting in Goa in mid-April. We also had to cancel a gathering of some of the tech4dev grantees and potential funders in late March in the Bay Area. We hope to reschedule these events when the world is at a more stable point.
+All of our community-based NGOs have pulled out of fieldwork due to the lockdown. We expect this will have an impact on the implementation of some of our projects. We do think that some of our NGO partners will have more important issues to deal with than our project. Our goal is to listen and follow their lead and work with them if possible, but support them in all the ways we possibly can.
+We do anticipate that for most of our NGO Partners, recovery after COVID will be a long and hard path. We do think that most of them will appreciate and try to incorporate more tech in the medium-long term to facilitate remote working, but in the short term, there is a strong possibility that our technology interventions might not be an important part of their plans. We are going back and revisiting our second cohort projects with a post-COVID lens to take this into account and to make better use of our resources to develop open-source generic platforms.
+We have also been engaging with NGOs and cautioning them against the hasty adoption of technology as a response to COVID-19. The hardest part of technology adoption is rarely the technology itself but in preparing teams for the change. Preparation, obtaining buy-in and training are all steps that would still need to be undertaken before the benefits of technology will become apparent.
+Remote working is not a big thing in India, so we do expect a fair bit of slowdown from our software partners over the next few weeks also. We expect this to get better over time. We anticipate that there will be changes to business inflow with some of our partners.
+Dries Buytaert of Drupal, has an interesting post on
+Is Open-Source recession-proof?
+This is a good opportunity for us to double down on our existing open-source investments and start a couple of new open-source projects as we get more talent into the space.
+We took advantage of the slow times to reflect and write down our
+Tech4Dev 2020 – Vision and Milestones document
+using a template borrowed from our friends at
+Mulago Foundation
+.
+If you are interested in specific details and our thought process, please do read our
+Tech4Dev COVID-19 Plan document
+. It is a work in progress and a living document, and hence subject to change at a significant rate. But this should give you an insight into what we are thinking and the hows and whys behind it.
+Financials
+Income
+Grants – Contributions
+Funders
+2019 (USD)
+2020 (USD)
+2020 (INR)
+Carry-Over from the previous column
+–
+?0
+International Funders
+$785,000
+$755,000
+?56,625,000
+Turn.Io Contribution from Cohort Organisations
+–
+$14,300
+?1,072,500
+Indian Funders
+$24,286
+$50,000
+?0
+Total Grants Received
+$809,286
+$819,300
+$57,697,500
+Expenditure
+Support for NGOs – Expenses
+Sector
+2019 (USD)
+2020 (USD)
+2020 (INR)
+Rights and Advocacy
+$178,096
+$14,425
+?1,081,875
+Education and Life Skills
+$198,799
+$2,500
+?187,500
+Governance & Public Finance
+$55,570
+?0
+Health
+$80,481
+?0
+Technology
+$25,000
+$50,000
+?3,750,000
+Rural Development
+$31,379
+?0
+Research
+$43,748
+$40,000
+?3,000,000
+Support for NGOs – Total Costs
+$613,073
+$106,925
+?8,019,375
+Other Costs – Expenses
+Area
+Description
+2019 (USD)
+2020 (USD)
+2020 (INR)
+Grant Management + Events, Travel
+Attendance at funder events + Cohort 1 partners’ meet
+$17,900
+$2,000
+?150,000
+Other Costs – Strategy, Legal, Fundraising
+All fees paid to Lumen Consulting directly from the Chintu Gudiya Foundation
+$18,500
+$16,755
+?1,256,625
+Other Costs – Total Costs
+$36,400
+$18,755
+?1,406,625
+Total Expenditure
+$649,473
+$125,680
+?9,426,000
+Surplus for the year
+$159,813
+$693,620
+?52,021,500
+Surplus to date
+$853,433
+?64,007,475
+Details on individual projects can be accessed
+here
+.
+Want More
+Details?
+All our blog posts can be found on
+the project website
+. All project documentation can be found on
+our
+shared google drive folder
+. Each project blogs every month, so we have quite a bit of
+detail and history as the project evolves.
+Trip Report Sustain 2020
+Data Collection and Reporting for GiveIndia.org
+Avni UI Designer
+FundImpact – Product Roadmap
+Chat for Impact – Who you build with matters
+Collaboratives similar to Tech4Dev
+Tech4Dev Project Report #4 – Jan 2020
+Tech4Dev Project Report #3 – Oct 2019
+Tech4Dev Project Report #2 – Jul 2019
+Tech4Dev Project Report #1 – Apr 2019
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Tech4Dev Project Tracker Using AirTable
+Reach out to us via
+email
+or find more information on our
+website

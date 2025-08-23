@@ -1,0 +1,33 @@
+Title: Dalgo Product Roadmap
+Author: Ashwini Lotlikar
+Date: March 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/dalgo-product-roadmap/
+==================================================
+
+Dalgo, our Open Source data development platform, was released in September 2023. This platform was born out of the common need to build capability in handling the data coming from multiple channels, for further analysis. The data transformation work being done with the non-profits like SNEHA, SHRI and Dost education saw a common pattern, which further got productised into Dalgo, low code, open source SAAS platform. Dalgo has helped our clients to streamline their data pipelining and dash-boarding process, by eliminating some of the manual effort in consolidating data and thus assisting them in data driven decision making.
+We see a growing demand for the platform in the sector as well as newer requirements coming from our existing clients. While we have been working with most of them on the data consolidation and dash-boarding, some have advanced requirements like  governance, identifying data patterns, platform extensions etc.  While we build the product roadmap, our goal is mainly to cater to the following
+Prioritizing Customer Requirements
+Increase platform adoption
+Align to New Technology Trends that matter
+Before we present the product roadmap, it is important to know who is a Dalgo user? Or what are the skills required to use the platform? While prioritising the features we have considered the user to be
+NGO User with basic or no SQL skills but M&E skills.
+And the user can further be described as someone who
+Knows what data the organisation is collecting, what insights they need to generate, how often and for whom.
+Has some familiarity with data for dashboards, reporting, M&E and programmatic requirements.
+Is not familiar with SQL or Github or having basic understanding/familiarity with SQL or Github
+Dalgo product roadmap for this (Q4 2023-24) and the upcoming quarter(Q1 2024-25) is primarily focussed on the following themes, keeping in mind our user.
+Platform Usability
+– to ensure ease of use of the platform
+Data Privacy and Governance
+– practices of sharing data across the organisation
+Data Quality
+– assess the quality of ingested data for freshness, anomalies etc
+Continuous improvements
+– ensuring the underlying components are up-to-date
+The features based on these themes will help strengthen the foundation of our platform, thus making it easy for us to extend these capabilities further.
+Dalgo
+Roadmap
+As we work on these enhancements for the platform, we would like to invite interested NGOs to signup as early validators(beta) for our platform. If interested, do leave a note below or write to us at support@dalgo.in
+Here is the link to Dalgo –
+https://dalgo.in/

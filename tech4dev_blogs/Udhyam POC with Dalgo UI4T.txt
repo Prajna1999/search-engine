@@ -1,0 +1,55 @@
+Title: Udhyam POC with Dalgo UI4T
+Author: Mohd Shamoon
+Date: July 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/udhyam-poc-with-dalgo-ui4t/
+==================================================
+
+At Tech4dev, our mission is to empower people in the social sector to enhance their program outputs through technology. Dalgo is designed to streamline the entire data process from source to visualization, making it accessible and affordable.
+The Challenge
+Data is crucial for gaining insights into program performance, whether through feedback or implementation metrics. Early access to high-quality data enables better decision-making. However, many non-profits lack the technical expertise to manage their data effectively. They often rely on data engineers and consultants, leading to complex SQL transformations or using transformation tools that only a few understand. Hiring skilled data engineers is also costly.
+Dalgo addresses these challenges by integrating the entire data pipeline process from data sourcing to visualizing key metrics into one platform at an affordable cost. Our latest enhancement, the Dalgo UI for Transformation, simplifies this process further.
+Key Features of Dalgo UI for Transformation
+User-Friendly Interface
+: No need for writing complex SQL statements. Users can build data transformation workflows using a simple flowchart interface.
+Affordable and Accessible
+: With basic database and visualization tool knowledge, users can create their pipelines in Dalgo.
+Comprehensive Data Management
+: Combines data extraction, transformation, and visualization in one platform.
+Case Study: Udhyam’s Vyaapar Program
+Program Overview
+Udhyam Vyapaar
+aims to empower nano-entrepreneurs in India, known as Vyapaaris, who earn between INR 5000 to INR 25000 monthly. The mission is to help these entrepreneurs reach their full potential, scale their businesses, and succeed in life.
+Data Collection and Challenges
+To engage with Vyapaaris, Udhyam conducts surveys using Kobo Toolbox. However, Kobo’s built-in dashboards and generic filters are insufficient for program-specific insights. Initially, Udhyam used R and custom code to extract data from Kobo, store it in Google Sheets, and visualize it in Looker Studio. This approach had several limitations:
+Maintaining R code and managing cron jobs.
+Handling form changes and new form introductions.
+Joining and cleaning multiple tables for insights.
+Google Sheets limitations with large data sets.
+Dalgo’s Impact
+Dalgo streamlined Udhyam’s data process without the need for code, all within 6 hours. Here’s a step-by-step breakdown:
+1.
+Data Warehouse Setup
+: Udhyam used PostgreSQL as the data warehouse, managed through Dalgo.
+2.
+Data Source Integration
+: Added Kobo Toolbox as a data source, providing the necessary credentials.
+3.
+Data Sync
+: Connected Kobo Toolbox to the PostgreSQL warehouse, selecting specific forms and sync types. Data was transferred via manual or scheduled syncs.
+https://videopress.com/v/LrtZgTkf?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+4.
+Data Transformation
+: Using Dalgo’s UI, Udhyam joined three forms using a key phone number, dropped unnecessary columns, created new columns, and produced a final output table for visualization.
+5.
+Pipeline Maintenance
+: The visual interface made it easy to maintain and debug the pipeline.
+https://videopress.com/v/xiC4Ixtb?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+6.
+Data Orchestration
+: Defined intervals for running the pipeline.
+7.
+Visualization
+: Used Superset (bundled with Dalgo) for visualization, though any BI tool could be used since the data is in the warehouse.
+Conclusion
+Dalgo’s UI for Transformation feature can improve Udhyam’s data management process, demonstrating the power of user-friendly, integrated data solutions for non-profits. By simplifying data transformations and visualizations, Dalgo enables organizations to focus on their mission without being bogged down by technical complexities

@@ -1,0 +1,26 @@
+Title: India Summer Trip Report – Reflections & Thoughts – July 2022
+Author: Kurund Jalmi
+Date: July 2022
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/india-summer-trip-report-reflections-thoughts-july-2022/
+==================================================
+
+Another blog post from the air as I make my way back to San Francisco from Mumbai. As with all my recent trips, Im super exhausted and looking forward to recovering and recharging at home. It was great to be in India during the monsoon season, and it was indeed a spectacular monsoon. I think the lasting image of the
+GarudMaachi
+sprint would be the constant rain for pretty much the entire time (even though I missed most of it).
+I did manage to get Covid on this trip. Belief in science is a good thing ???? Thanks to the vaccine and two booster shots the effect was relatively mild. It did give me an opportunity to spend a lot of time at home in quarantine, being pampered by my mom. Managed to get a fair amount of stuff taken care of during this period. Mari and Pranjali had also come to India this summer and spent part of their vacation hanging out with the young women at
+Sharanam Center
+and did some technology classes with the adolescents in
+Sneha Mumbai
+. It was good to listen to their experiences of the day and their adventures around Mumbai.
+The Tech4Dev group, Pratima from Shelter and the Suvita group
+Some random thoughts and comments from the few weeks I was there
+Everyone should experience an Indian monsoon at least once 🙂 It was quite amazing to see so such torrential rain over an extended period of time.
+Met a few funders on this trip. We seem to have made a good enough name for ourselves, that getting a meeting has become slightly easier. Most of the funders also resonate strongly with one or more of the initiatives.
+In-person meetings are so much better and so much more productive than online meetings. The group got a lot done with the Glific NGOs in the 4 days they spent together.
+We still need to figure out the right balance between being remote and away for an extended period. We know we get a lot done when we eliminate distractions and travel. Getting people to commit for an entire week (or 4 days) is a challenge, but having folks leave in between disrupts the rhythm. From the next sprint onwards, it will be an all-or-nothing deal for everyone, no exceptions.
+We also need to figure out how to reduce last minute cancellations. Most likely we will charge everyone a small amount which might help with decreasing the number of cancellations. Logistics is time consuming and following up with folks is never-ending. We will out-source this for the next sprint.
+While both NGOs and funders are seeing the benefits of being open, there is still a lot that remains to be done. Its kinda hard to hear NGOs talk about a “proprietary” curriculum or foundations talk about “we’ll make it open when its ready” (seems like it will never be ready). We need to set a higher bar for everyone involved
+Always amazed and blown away by the quality of work being done in the sector and the passion with which people approach it. Truly humbling and super informative to chat with folks on the work they do.
+Overall, super-proud of the progress we are making on multiple fronts with Tech4Dev 2.0. Great to see the various groups set goals and targets on what they want to achieve this year
+Onwards and Upwards

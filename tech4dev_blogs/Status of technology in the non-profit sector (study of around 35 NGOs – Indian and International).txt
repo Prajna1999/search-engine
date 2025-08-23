@@ -1,0 +1,28 @@
+Title: Status of technology in the non-profit sector (study of around 35 NGOs – Indian and International)
+Author: Piyali
+Date: March 2023
+Category: Fractional CxO
+URL: https://projecttech4dev.org/technology-in-the-non-profit-sector/
+==================================================
+
+From my experience of managing the NGO Pipeline for the
+Fractional CxO
+initiative at
+Project Tech4Dev
+, I have engaged in detailed conversations with approximately 35 NGOs (both Indian and international) and gained insights into their technological requirements. Based on my observations, I would categorize the technology needs of NGOs into three broad groups:
+Large-scale organizations with custom-built software solutions
+have technical platforms and systems in place, but lack the expertise to maintain and improve them effectively. These organizations need support to optimize their existing applications and process.
+Mid-sized organizations
+often have effective programs on a smaller scale and are planning to scale up. They require guidance on how to manage their operations on a larger scale and which technology solutions they should implement. Some of these organizations may have custom-built software solutions for specific projects, but based on prior experiences with software development, they may be hesitant to put in the effort of developing a new application from scratch. In some cases, the existing software (whether custom or off-the-shelf solutions) may not be suitable, and they require technical assistance to strategize their next phase or suggest alternative solutions.
+Small-sized organizations
+do not have any automated systems in place and rely on basic applications such as email and online conferencing. These organizations are interested in taking their operations online after the COVID-19 pandemic and require guidance on what applications to use and how to scale up their operations.
+Technology plays a crucial role in scaling operations and effectively managing them, regardless of the size of the organization.
+As different organizations have different requirements the skill set of a CxO would vary accordingly. For large organizations with custom-built software solutions, they would require someone with a software development background who can assess the technical architecture and ensure scalability. For smaller and mid-size organizations who are open to exploring off-the-shelf solutions, they would need someone who has experience in software research and implementation. Tech4Dev has a team of CxOs equipped to handle both types of organizations, and committed to only accepting engagements where they feel they can add value.
+In terms of technology required for NGOs to operate effectively, there are three main areas: office automation systems, communication systems, and project management and reporting. Despite this, many organizations are still managing different departments in traditional ways, using Excel or manual methods (yes, there are organizations that collect data from the field on pen and paper and then enter them onto Excel later). Those who end up using software often struggle in several ways, including:
+Small and mid-sized NGOs that incorporate technology often encounter difficulties in implementing appropriate technology solutions lack of documenting the essential features and insufficient research. In many cases, they rely solely on software demos and do not test the software before making a purchase, leading to the utilization of applications that are unsuitable for their requirements.
+For larger organizations that have custom-built solutions, it is challenging to retain an in-house tech team because corporate salaries are higher. Moreover, the relationship with software vendors is often not optimal for various reasons. NGOs tend to lack a fixed plan and strategy before starting a software project. They may have a broad idea of what they want, and software firms may still proceed with a broad discussion. However, as things keep changing for obvious reasons in the coming days, the relationship often turns sour.
+One of the challenges we have encountered is instances where software development was done on a pro-bono basis. However, after the development phase, the cost of maintenance and training becomes unsustainable. Consequently, immediately after the development, the organization finds it difficult to continue funding the expenses and starts looking for alternatives. This situation arises due to a lack of proper planning and foresight. Read a related article here
+Pro-bono aint free
+.
+During my experience, I have encountered several instances where a platform was selected, and the team was asked to start using it without proper training and guidance. As a result, the adoption of the platform was poor, and employees felt compelled to change their working methods without adequate support.
+With all this in mind Tech4Dev and I are committed to supporting as many NGOs as possible in the near future. While the specific programs may differ, we have observed that most NGOs require similar office automation and communication systems. As a result, we will be working to create a knowledge base and research documents that can be made publicly available to assist more NGOs. I am thrilled about the possibilities this endeavor presents and the potential to make a significant impact in the sector. By providing reliable technology solutions to NGO leadership and employees, they can focus more on their ground-level work, which is why we are all passionate about working in this sector.

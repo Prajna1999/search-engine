@@ -1,0 +1,52 @@
+Title: Fast Cycle Monitoring using Machine Learning on user voicemails
+Author: Kurund Jalmi
+Date: March 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/fast-cycle-monitoring-using-machine-learning-on-user-voicemails/
+==================================================
+
+This post was written by Sindhuja Jeyabal and appeared on the
+Dost Blog
+. It seemed relevant to our community and hence reposting here.
+Dost supports parents of any literacy level to unlock their child’s full potential. We use simple accessible technology already in the hands of the parents to nudge and motivate them to adopt quality education practices at home. Our main product, “
+Phonecasts
+” – supports parents through daily 1 minute phone calls that share activities they can do right at home to get their child school ready.
+We follow rapid iteration and a data-driven approach in our product development process; we incorporate user feedback through conducting focus groups to co-create our content and monthly user conversations to collect feedback on product features. We wanted to extend the same approach to monitor and evaluate our impact. This is when we came across
+Acumen’s Lean Data Field Guide
+which emphasizes efficiency and rapid response in data collection while still achieving a sufficient degree of rigor. The overlap in the approaches made a compelling case for us to design a rapid-cycle monitoring system
+Lean Data Monitoring Design
+Our monitoring goal was to understand if our users like the school readiness practices we recommend, if they adopt them at home and if they see an impact on their child. Since our core product is phone call based, IVR (Interactive Voice Response) touch tone responses were our natural choice to collect this information. But as the Acumen guide points out, IVR is not suited for getting qualitative data – data that is crucial to explain why something is happening. To overcome this issue, we used
+Exotel’s in-built voicemail prompt feature
+to help users record their message on the phone call. Since we started this process in Oct 2019, users have recorded 890 voicemails across the 3 different question areas mentioned above! This is a treasure trove of data but the immediate bottleneck for our small team was to get insights from it – manually going through the voicemails did not scale 🙁 This is when we worked with an
+Insight Data Science
+Fellow who used machine learning to cut down the manual work and get insights faster.
+Using machine learning to get user insights
+While recording feedback via audio was easier for most of our users and the quality of information was higher, many users were not familiar with the feature; leading to 65% of recorded voicemails being invalid – either silence or background voices. We used machine learning to automate the process of identifying valid voicemails and automatically transcribing them.
+Machine learning on user voicemails reduced our manual workload to identify insights by 75%
+The technical details
+We built a 5 step machine learning pipeline to identify if a voicemail is valid and transcribe it. We started with 400 manually labeled voicemails to train our models. Read ahead if you are interested to know how we built the pipeline:
+1. Voice selection:
+This step trims out the dead time/silence at the beginning and end of the audio using Python’s
+pydub
+library. Doing this helped the program to directly focus on where people were speaking directly into the phone while also filtering out a majority of the “silent” voicemails.
+2. Auto validity identification:
+This is a classification model that identifies a voicemail as valid or invalid with the help of
+MFCC audio
+features extracted from the audio using the
+librosa
+python library. These features allowed the program to separate someone speaking directly into the phone from the remaining background noise/voices that were above the silence cut. This model has an 86% recall value.
+3. Auto gender identification:
+This is again a classification model that uses the audio features generated using librosa to identify the gender of the speaker, useful for us to understand a basic profile of the speaker. The defining feature for this model was to break the audio into pitch-frequency space with the male voice being concentrated at lower frequencies and the female voice spanning to higher frequencies. This model has an 81% accuracy.
+Dost?s voicemail processing pipeline
+4. Quality check:
+While the goal is to automatically transcribe all the audio, because of the low quality of the voicemails most state-of-the art speech APIs did not work for us. So we added an extra step to only transcribe voicemails that were above a certain quality threshold. The threshold that worked for us were voicemails that were identified as valid by our model with more than 80% confidence.
+5. Transcription:
+We used Google Cloud?s Speech API to transcribe high quality voicemails.
+Input a voicemail audio, this pipeline returns an output in the following format: {valid_tag: ‘valid’, valid_score: ’95’, gender_tag: ‘female’, ?speech_start?: 5s, ?speech_end?: 25s}. With the pipeline saving 75% of our time, the speech_start and speech_end features are especially huge time savers for the remaining manual processing since they help us seek to the exact point in the audio where the user starts speaking.
+The code is available under MIT license on
+github
+.
+Takeaways
+Through working on this project, we have identified a scalable method for us to stay in touch with our users and continually assess the value we provide. We are now adding more options for users to provide feedback to improve the product further. We thank
+Dr.Jeff Cumings
+for volunteering his valuable time to work with us on this project 🙂

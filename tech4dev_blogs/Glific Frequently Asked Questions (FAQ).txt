@@ -1,0 +1,150 @@
+Title: Glific Frequently Asked Questions (FAQ)
+Author: Kurund Jalmi
+Date: July 2020
+Category: Glific
+URL: https://projecttech4dev.org/glific-faqs/
+==================================================
+
+A quick way to understand the possibilities of communication with WhatsApp -for-Business and Glific is to have a quick look at the FAQs.
+What are the pros and cons of using WhatsApp for business for your communication requirements?
+WhatsApp for business as a solution is a good way to handle your organization level conversations with your audience. However there are few advantages and disadvantages to it-
+Cons:
+You cannot use a group structure for conversations or send bulk messages to contacts. All conversations are 1-2-1.
+If you want to message your audience, you can only do so within a 24 hour window which opens with them messaging you first. However, you can send them template messages outside the 24 hour window, which needs to be approved by WA.
+WA chat method is not very effective for collecting
+structured data
+. Ex. you may ask your audience of the current weather expecting to hear Sunny or Rainy etc but you might receive completely disconnected responses like depending on the chat context and their understanding.
+WhatsApp for business API incurs a cost for sending each message.
+Pros:
+It allows you to send your message/content to a large scale audience. You can send rich media content with images, videos, emojis, and formatting.
+It provides an available channel to receive response, hence setting up a two-way communication between you and your audience.
+You can have personalized 1-2-1 conversations.
+You can have your audience OPT-IN to your no. to freely exchange messages without the limit of a 24 hours window.
+You can send google form links to collect data. While it created a disconnect between the messaging app and where the data reside, it does open a possibility.
+What are the benefits of using Glific?
+Leveraging WA for business, Glific allows you to do the following:
+You can schedule and send time-based content.
+You can categorize your chats to send contextual messages/content, and prioritize when you respond to them.
+You can set up automated messages to handle a common pattern of conversations. In case you have to send the same message to many different people at different times, those cases can be automated.
+You can assign specific conversations to be managed by your staff members.
+Handling various languages, as we continue to find better ways to build language support.
+What are some of the use cases that Glific can help with?
+Communications targeting a community are generally a good use case. Ex. community healthcare, or education and counselling where the beneficiaries need to seek information from time to time.
+Glific helps with connecting over quick information as per the beneficiary needs or to build a long term connection with multiple touch points for a prolonged period.
+Glific is suitable for use cases where your conversation can be handled through a chatbot structure.
+Apart from these, well be happy to hear from you with a potential use case and find ways to support it via Glific.
+What are some of the not so good cases with WhatsApp for business?
+While Glific which is built on WA for business API is great to handle a large scale of communications, there are some cases which may not align for a maximum output:
+Handling a user base in hundreds might not be beneficial with Glific. And you may want to do that using whatsapp groups.
+Having a lot of options (more than 9) for beneficiaries to access will not find great support since indicating an option after 9 will be challenging over chats.
+An unresponsive audience which means sending messages one way over longer periods of time would not be a great use case.
+What makes Glific relevant despite the various limitations and challenges?
+Looking at alternative solutions, NGOs would have to build their own custom application to carry out conversations over WhatsApp for both the use cases Glific offers and any other custom features.
+Some of the existing applications may pose challenges for onboarding and matching the use case for various NGOs. Most of them like Telegram, ChatWoot, Twilio will have an additional threshold of onboarding the beneficiaries onto these platforms.
+On the other hand, the 24hr window for sending a session message to beneficiaries isnt that big a concern as many workflows can be created to keep them engaged and to keep the 24hr window alive.
+Were continuously thinking of better ways to manage the 24hr session window and keep the conversations going.
+With Glific we’re also working on better ways to reduce costs for some of the indirect uses such as setup, hosting etc… as much as possible so that, the budget only applies to the most important use. Glific being an open source product is a testament to that.
+Is there anything an NGO can do to know whether Glific is right for them?
+Running a pilot with 30-40 beneficiaries is a good first step. The pilot can help you discover:
+How similar or different are the questions asked by your beneficiaries
+Identify a pattern in conversations
+Try a question answer process with about 20 beneficiaries
+Create an FAQ database based on your conversations
+Create a set of data points you generally need to collect
+These inputs can help create a right fitment between your communication needs and what Glific can offer.
+Will there be options to build it further and customize Glific to a specific NGOs needs?
+Definitely. Glific is open source and the way were building the platform right from the beginning, organizations will have options to customize and build features into it for the specific use cases. It will also support webhooks and APIs to integrate any other applications.
+Can you create or continue to use groups for conversations?
+WA for business API now does not support group functionality anymore. It was supported earlier, and has been discontinued starting July 8, 2020.
+NGOs wanting to use two-way chat platforms will have to orient their conversation structure and communication workflow to match with the 1-2-1 model.
+It could be a good sign for many use cases avoid the issue spams and losing connects. Also in many cases for using groups, the admin itself would be driven out by the members since knowing the admin and their credibility gets difficult as time passes and the group grows.
+Are there any steps before starting Glific?
+Yes, there are three steps that need to be checked off before starting with Glific since it relies on WA for business API:
+You will need to get a verified facebook account to apply for the business API.
+Here are some steps to do that
+.
+Once that is done, you need a
+gupshup.com
+account also, which is our current whatsapp business provider
+Before that, it also helps if the org has done a small pilot project (with 20-100 users) from their personal phone or a whatsapp business account. This gives them a better idea of how they might want to structure the interaction to begin with.
+Once this is done, for all alpha and beta users, we’ll setup your Glific account to use.
+Documenting a use case of conversation is a good idea too.
+Here’s a good example of use case created by Slam Out Loud
+. It is not the only way but a good reference. You may want to still keep in mind when documenting, that you’d be catering to 1000’s of stakeholders.
+Are there any good implementations we can refer to create our communication flow?
+You can refer to FunDza for their brilliant literacy program (
+here’s the link
+).
+You can also check out Arist and how they use WA for business to run course program (
+here’s the link
+).
+What is the Technology Stack powering Glific?
+Glific is currently built as two different application. The frontend and the backend exposing all the functionality via a GraphQL API. The frontend is a React application built using typescript, Apollo data graph platform and Material UI components. The backend is an Elixir + Absinthe + PostgresDB application.
+What is the Glific Pricing Model? Is Glific free?
+Glific is a free, libre, open source platform. As such you can download and use the codebase for free. While the platform per se is free, it is built on the WhatsApp Business API and there is a cost involved with sending and receiving messages via WhatsApp Business API. The exact cost of this depends on your Business Service Provider (BSP)
+Glific today using Gupshup.io as its BSP. Gupshup rates for India are 0.1 cent (7.5 paisa) to either send or receive a session message and 0.5 cent (38 paisa) to send an HSM message. Thus for example if your NGO is in touch with 1000 beneficiaries sending/receiving 40 messages from each of them and sending 10 nudge messages to them, your messaging cost will be $90 (INR 6,750)
+For the
+SaaS platform
+run by ColoredCow, they have not yet determined rates. Our initial guess is that for low volumes, it will be in the range of INR 5,000. For higher volumes, it will be a percentage of the messaging costs.
+What languages does Glific support?
+Glific is designed to have built-in support for internationalization (i18n) and localization (l10n) from the early releases. The platform per se, does not constrain the NGO from using the language of its choice. Our goal is to add additional languages as we work with our pilot NGOs. Some of the advanced AI and ML technologies might be restricted to a smaller subset.
+How does Glific track and analyze impact?
+Glific does not support this in v0.4 and below. We anticipate working
+What is the difference between WhatsApp, WhatsApp for business and WhatsApp Business API?
+WhatsApp
+is the regular communication platform available to all users, how we normally use,  for personal 121 or group communications.
+WhatsApp for business
+is a separate app by WhatsApp specifically for small businesses to connect with their customers easily by using tools to automate, sort and quickly respond to messages.
+And lastly, WhatsApp allows medium and large businesses to use their
+Business API
+to build custom products on top of WhatsApp. Glific is an example of that. It runs on WhatsApp, meaning, a custom application built using Business API can interact with WhatsApp to get the relevant data, information and send/receive messages without disturbing the WhatsApp experience for the end users.
+Is there a possibility of having documents/file management in WhatsApp?
+By itself, WhatsApp does not have a file/document management system. Using Glific you can send documents/files/video links in a separate message. And each document will be sent as a separate message.
+Can we send a message to a group or a batch of users?
+The answer is yes and no both. You will be able to create groups of users in Glific and can trigger messages to all of them at once. However, these messages will go out as 121 chats, think of broadcasting a message. But you will not be able to leverage group chatting functionality here, which means users cannot chat with each other. After you send a message to a group, each user will be able to respond to your message in a 121 format.
+Additionally, if there are users in the group/batch for whom the 24 hr session window is over, the message will not be sent to them.
+Other than that, you can use the group message feature to send a message to multiple users in one go.
+How do you send the FIRST message to users i.e how do you on-board?
+After the Glific setup process, you will have a phone number that your users/stakeholders can message directly at, similar to messaging any other family or friends phone number. This will initiate a conversation between you and your users. You will be able to see their message on Glific. There are multiple ways to do this:
+Your users can save your number and message like any other contact
+You will also receive an optin link which you can share with your users. Click on this link to see how it will work >
+Optin to Glific whatsapp
+. Once this happens your users will be able to send you a message.
+They can also scan a QR code to onboard to your no. and begin chatting.
+You can advertise your number in many ways to get users onboarded and start a conversation.
+You can share the phone number and QR code on print materials or digital communications
+You can place a push button on your website which redirects users to optin link
+How can you be a part of the pilot?
+To be a part of Glific pilot youll need these three things:
+Your use case and how you plan to use it. For what programs, the scale etc…
+Your proposed workflow. See here for an example from Slam Out Loud:
+https://docs.google.com/document/d/1CQAFkDsktgk-2dUb_qOkeVZyLuObCyBql5wI3V3kT2E/edit
+Details and description of any pilot experiments your NGO has done using their personal whatsapp account
+To be a part of Glific pilot youll need these three things:
+Your use case and how you plan to use it. For what programs, the scale etc…
+Your proposed workflow. See here for an example from Slam Out Loud:
+https://docs.google.com/document/d/1CQAFkDsktgk-2dUb_qOkeVZyLuObCyBql5wI3V3kT2E/edit
+Details and description of any pilot experiments your NGO has done using their personal whatsapp account
+You can copy
+lobo@chintugudiya.org
+and
+abhishek@coloredcow.in
+with these inputs and we can plan with you how to move forward.
+Where does the engagement data such as conversations, inputs received from beneficiaries stored?
+All the data is stored locally on Glific servers. All NGOs will have complete access to their data. NGOs can also host Glific on their own servers.
+How do our partners and team members access the platform?
+Glific supports any number of your team members and partners to login in and access the platform. We will also build an access control support, so that the NGO admin can decide the level of access each team member has.
+If an NGO already has a dedicated member base, how can they be on-boarded when using Glific?
+NGOs with an existing member base can advertise the phone no. where Glific will be set up along with other methods for opting in before you can send them a message. There is no feature to bulk upload or import contacts since WhatsApp only allows users to initiate the conversation to avoid spamming.
+How does automated communication flows get created, does Glific team help NGOs with that?
+The Glific team will support the NGOs to learn and create automated conversation flows. However, NGOs will themselves have to prepare content and create the flows.
+If NGOs self-host Glific, will the upgrade path from version to version be complex as new features are added?
+Since our aim for Glific is to build a great community, well try to make it as simple as possible for self-hosted platforms to adopt new updates as per the version releases.
+Are SMS and IVR also supported with Glific?
+Sorry, SMS and IVR are not supported with Glific. Since it is built on top on WhatsApp. SMS may be employed later on to manage the fall through cases, and if the users do not have WhatsApp.
+Is there a cost for signing up for WhatsApp Business before we can start using Glific?
+No, theres no cost for signing up for WhatsApp business and neither for Glific. Theres a monthly subscription fee when you go the SaaS route for the platform. And the rest of the charges are pay per use for the number of messages you exchange.
+Is it possible to integrate the bot with google sheets?
+Yes, in Glific, there is the concept of web-hooks that you can integrate with any data source. For common data sources like Google Sheets, we’ll have tighter built-in integration
+How can we get our users to discover our bot?
+There are various ways you can do that. Channelise your whatsapp groups. If you run IVR broadcasts and call centers you can certainly onboard users from there. You can also send an SMS blast to your beneficairy contacts.

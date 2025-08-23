@@ -1,0 +1,18 @@
+Title: More conversations with our NGO Partners
+Author: Kurund Jalmi
+Date: September 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/more-conversations-with-our-ngo-partners/
+==================================================
+
+Last week (the week of 2
+nd
+Sep) we talked with the rest of the cohort 1 grantees ? Lakeer, The Read Project, Hasiru Dala, HAQ, and Spandan – about their experiences with Tech4Dev and with their respective software partners. We had talked with the rest of the grantees earlier and a blog post detailing highlights from those conversations is here –
+https://chintugudiya.org/tech4dev-ngo-feedback/
+While these new conversations reiterated the points coming out in the last round of conversation, on communication, role definitions, both the NGO partner and the software partner doing more research on each other, and the need for building technology capacity of the NGOs,  some of the newer insights that came out of last week?s conversations are as follows:
+Coordination and project management can be improved ? While the NGOs and the software partners are on the same page on most projects now, some of the initial hiccups in understanding deliverables, timelines, and milestones could have been reduced if both parties had had a clearer picture of the level of time and effort commitments from their side.
+Also, while the primary coordination is between the software partner and the NGO, a need was also expressed for Tech4Dev to be present within the coordination and update environment in some form. We need to think more on structuring the operational role of Tech4Dev in the regular interactions between software partners and NGOs for the second cohort.
+Timelines need to have some buffer built in ? We need to communicate to the NGOs in cohort 2 that solution development is an iterative process and is often a process involving multiple rounds of development, refinement, testing. Nevertheless, given that the NGOs will be working with software partners for the first time, we could do with some buffer in estimating timelines and project duration.
+Important for both software partners and NGOs to be responsive to each other ? It would be good to have some sort of guideline for both partners to respond to each other?s communication within 48 hours. Responding need not mean acting on requests but coming back with feasibility and/or time needed to take action. Would also help greatly in points 1 and 2, above.
+Expectations on skills ? We heard some comparisons between solutions developed for NGO partners and more expensive commercially available software. For cohort 2, it would be a good idea to set expectations on the skill set of software partners and the nature of solution development being undertaken for the grantees. The one-pager template each software partner, to be shared with all the cohort grantees is a good first step in making that happen.
+Hand-holding post solution deployment and project duration ? We also heard a few requests for allowing tech support by the software partners after the solution has been deployed and even beyond the original duration of the project. Extension of length of engagement was also a frequently requested input. For cohort 2, we either put some thought into the feasibility of such an approach or make very clear in our communications on why this is not feasible.

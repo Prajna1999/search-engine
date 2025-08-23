@@ -1,0 +1,78 @@
+Title: Education cohort??sprint2
+Author: Kurund Jalmi
+Date: September 2022
+Category: Glific
+URL: https://projecttech4dev.org/education-cohort-sprint-2/
+==================================================
+
+This is a second in series of a four part update on our Education cohort. Read the first part here??
+link
+Brief intro
+On Friday 16th September, Glific concluded the second of the four education cohort sprints of the year. Glifics Education cohort is a year long engagement with NGO partners who work towards improving learning outcomes for students. The program is structured as four1-week long offsite??one each quarter, where the Glific team and selected NGO partners work together to identify and solve the problems for tech-enabled education programs that use Glific. The program is supported by our funding partners??The Agency Fund and Cisco.
+The empty chairs waiting to be filled with eager, passionate folks. A conversation happening at the back- listen in or start your own. A movement is waiting to happen. Have a seat and join in to make some impact.
+Exciting highlights at a glance:
+We were
+joined by 5 more amazing NGO partners?
+?Quest Alliance, Bhumi, SNEHA, Suno Sunao and STiR Education apart from our Education cohort NGOs.
+The
+presence of our ecosystem partners
+such as GramVaani, Aam Digital, IDInsight, Omidyar Network India, Avni, Tech4Dev group, Dhwani and ColoredCow further enriched the group with their perspectives and tech products.
+Were seeing the
+power of cross-shared learnings across NGOs
+which was one of our primary goals of the cohort. For example, this time Rishis(Quest Alliance) idea of Conversational pedagogy, Gautams(Reap Benefit) idea of using storing long term data for a user, Aparnas(STiR Education) findings from their chatbot gave everyone immense food for thought. And there was a lot more to go around the cohort.
+We discovered some more
+common areas to be automated in Glific
+so that NGOs dont have to reach out to us. NGOs discovered further possibilities with Glific such as using IVR and audio based interactions facilitated on WhatsApp.
+We have made
+good progress on the features
+we had planned for the cohort such as Multiple profiles, User tracker, Natural Language Processing and Visualisations via maps.
+This sprint also brought
+focus on data and analytics
+led by the Data Development Platform group.
+Based on our past learnings we
+recorded all the sessions and happenings
+at the sprint (videos coming soon!) so that we can share our stories in a better manner.
+Glific has really taken a different shape in the last year. Our definition of the product is not only limited to a certain features that our users use to achieve their goals. It goes beyond that. Its an experience of being in a community. Learning from others, validating thoughts and experiments with them. Weve emphasised the use of Discord(instant messaging platform for communities) to congregate our community in one place and have herded people to find us there whenever they wanted. It was not just about good practice but an opportunity for people to find answers to common concerns to see that there are others in in it too. Yet, it seemed like there needed to be a stronger interaction and exchanges within the community. Education cohort sprint just takes things to another level by bringing the interaction out from the virtual into the real world.
+The sprint is an amazing collective of intents from NGOs, funders, product designers, engineers, all coming together toward one goal of improving beneficiary lives through effective technology solutions.
+Happenings at the sprint
+Its always bustling with conversations. Its high on energy. Passionate people who care about the society and how they solve problems on the ground get together with a mindset to learn and share.
+Huddle:
+We started the sprint with getting to know the expectations of all the participants. Thanks to Tejas for running a great show and finding interactive ways to explore the thoughts from the group. We came closer to understanding their limitations, recent achievements, what they want to learn and take away from the sprint. Thats a lot of thoughts we need to process and help each other with. Itll require a continuous conversation and we hope to circle back to each of the unresolved points from time to time.
+Round table support group discussions
+: These were quite helpful to understand challenges that each person was facing specific to their use of Glific. Our key findings were:
+Automate creation of segments of users after onboarding onto the platform
+Need for a mobile app to enable swift manual responses
+Interest in the IVR system and the calling functionality weve built by integrating Exotel
+There were some specific operational issues which the Glific team worked individually with the NGOs and helped resolve at the sprint
+Need for analytical dashboards
+Round table support group discussions
+Tech talks and intros
+: This time morning tech talks were presented by Abhideep(Gramvaani) about their communication platform, and Nadeem & Vinitha(SNEHA) about their data platform and monitoring processes helped everyone peer into the possible outside of what each one of us does in our everyday. Similarly the intro talks by each new NGO also helped to understand what others are doing in a similar space and opens room to be curious and learn more about something that clicks with someone else.
+Excursions
+: We missed planning for excursion that gives a necessary break to everyone. However, thanks to the planning committee led by Erica a trip to Mussoorie was planned and people were able to spend a few hours outside of the work zone. The enthusiasm for the trip ran high in the group and it was great to see that rains didnt damped the spirit.
+Not Mussoorie excursion
+In all there were a lot of discussions, individually, in groups, on stage. There was a lot of exposure and tracks to take away. It was made easier with a comfort of good food, a good location, great company. Although it almost feels overwhelming whether we can take action on all the things we discussed but as Nadeem rightly said It gave a direction which one can go into details when required.
+Report on the cohort??NGO stories
+Some of the progress our NGO partners have been making are as as follows:
+VOPA(Vowels of People Association) has onboarded 10K beneficiaries on Glific and are segmenting them based on their specific needs and information collected from them. This segmentation will enable them to send highly personalised messages and nudges such as sending weekly learning report, sending prizes and building a dashboard. They will follow it up by analysis how the interaction and behaviours changes as a result of this channel and their personalised messages.
+The Apprentice Project had deployed the NLP feature with about 4K students after the first sprint and they are evaluating how it has impacted students interaction with the bot. They will further be exploring user tracker system to create personalised learning streams for each student.
+Reap Benefit has deployed the user tracker system. They have been pooling all of their structured/unstructured data into this one tracker and all of the information collected on WhatsApp will also be added to the tracker. They have also launched their
+Mapping report
+which acts as a great visualisation tool when presenting their finding to stakeholders.
+Key Education Foundation is going strong on the use of Google sheets integration we built for them. They continue to manage and build further content on the sheet. As they plan to scale their program to a lot more schools and parents, theyre working towards some behavioural challenges to make the WhatsApp channel a lot more effective at scale.
+Quest Alliance has been designing their computational learning program for students in Odisha. It was really fascinating to see how they have localized the content without compromising on the quality of visuals and messaging. Well be working with them in the coming months to launch this program and I cant wait to see how it is received on the ground and the learning outcomes they achieve. Here’s a work in progress preview of the bot:
+https://www.youtube.com/embed/884vAMiJGAw
+P.S. read from other’s experiences
+Tejas(Reap Benefit)
+,
+Sheetal(Key Education Foundation)
+,
+Shamoon(Glific)
+,
+Akhilesh(Glific)
+,
+Rahul(VOPA)
+,
+Lobo(Glific)
+and
+lots more…

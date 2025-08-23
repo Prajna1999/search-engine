@@ -1,0 +1,34 @@
+Title: My journey through building a Data Pipeline + Thoughts on Jaipur Sprint
+Author: Siddhant Singh
+Date: December 2022
+Category: Dalgo
+URL: https://projecttech4dev.org/my-journey-through-building-a-data-pipeline/
+==================================================
+
+NGOs in recent times and especially in a post-COVID context are collecting large amounts of data – operational and beneficiary related that could drive insights across their programs and internal organization. In the past few years, this data comes from multiple sources (Apps, Surveys, Messaging, IVRS). But, lack of technical personnel capacity, cost, and knowledge of modern data pipelining tools all combine to make this a difficult endeavor to make the jump from digital data collection to program and operational efficiencies and insights.
+What is a Data Platform?
+So at Tech4Dev, we are building a Sass product that can pull data from different sources, and easily perform transformations on it. So that pipeline can run every day at a given time without doing any manual work.
+These are the different platforms we have chosen for our pilot program. Our goal is to build a full data pipeline using these tools to be able to visualize the data in an easy way.
+1. Airbyte:- Airbyte is a data ingestion tool that pulls data from the source and pushes data to the destination. We do this by using the connectors and we can even make our custom connector which we will talk about.
+2. Postgres:- Postgres will be our primary focus where we will push data from different sources from Airbyte.
+3. dbt :- dbt will help you solve the use cases which you cant solve with SQL. You can perform analyses using tools available in open source Python ecosystem.
+4. Superset:- After data goes through this pipeline we will have a merged dataset to visualize the use case.
+So this is what we are trying to do for a few months and we have successfully built one solid pipeline for one of the NGOs
+My first connector for Airbyte
+So coming from a functional programming language(Elixir) I got an opportunity to work as a data engineer. Starting with learning python, understanding the whole pipeline, and how it works was a great learning for me. A few sleepless nights and late-night discussions with the Airbyte team helped me tremendously.
+Our first source connector was built for Stir Education – SurveyCTO. This connector supports features like full refresh, incremental sync + dedup. We had to go through lots of challenges building this connector. We tackled one problem at a time and discussions with
+Vinod
+helped us solve the problems.
+Finally, we submitted our first
+PR
+to the Airbyte team, and after successfully writing successful test cases and acceptance tests it was ready to be merged. This is one of the major contributions I have done to the Open Source community other than Glific.  Im really proud of what we have done as a Team to help NGOs to get a better understanding of their data. We will build a few more connectors as we move along with our data platform.
+This is what our source looks like for SurveyCTO. For other users, we have added the docs for it so they can use it without any hassle.
+Our discussions at Jaipur Sprint.
+Meeting with the team in person is always a great fun and learning experience for me. Here are some highlights of what we are going to focus on for a few weeks now and some interesting thoughts.
+1. We discussed building a strong support team to help NGOs as much as we can. We have also come up with a few solutions which you will see in action in a few days.
+2. One of the major things we are going to do is move our docs from Slab to Docusaurus. Which supports search in the documentation. We will release this soon.
+3. I had a lot of good conversations with
+Lobo
+and he answered a lot of questions which helped me clear my thoughts. Just wanted to appreciate his time.
+4. Other than work we explored Jaipur with the team and we did a lot of fun activities with the team. What I enjoyed the most is the lunch discussions where everyone used to have one meal together.
+So far we are doing lots of interesting work with NGOs and to improve our community we will keep having these sprints where other NGOs can come and share their thoughts.

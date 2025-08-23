@@ -1,0 +1,26 @@
+Title: MEDHA STPC: Project Update
+Author: Kurund Jalmi
+Date: May 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/medha-stpc-project-update/
+==================================================
+
+In continuation with our
+previous blog
+, here is an update on the current status of MEDHA STPC application. Despite of the current lockdown challenges the project is progressing as per the timeline.
+The project timeline was divided into 3 modules, out of which we have completed the first and second modules and they are currently under testing.
+The first and the second modules included
+Login/Forgot & Reset Password
+System to add colleges, states, zones and RPC’s
+Student registration and validation
+Events System
+Training and Activity system
+Here are some of the few screenshots
+Next in pipeline we have Module 3 which includes
+Student import functionality
+Dashboards specific to the user roles
+Feedback system
+Data Migration
+As always you can track the project progress on our Github
+repo
+.

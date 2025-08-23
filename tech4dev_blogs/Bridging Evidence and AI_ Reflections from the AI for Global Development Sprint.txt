@@ -1,0 +1,15 @@
+Title: Bridging Evidence and AI: Reflections from the AI for Global Development Sprint
+Author: Glific Admin
+Date: March 2025
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/bridging-evidence-and-ai-reflections-from-the-ai-for-global-development-sprint/
+==================================================
+
+This blog is written by Anand Gopakumar from
+The Apprentice Project
+For someone who has worked in the impact space for years, this sprint was a unique experience, witnessing how rigor in evidence and technology can come together. I have attended countless discussions on AI, but never one that delved this deep into the technical fine-tuning, validation strategies, and benchmarking of AI models.
+From understanding how AI models are fine-tuned to specific contexts to exploring evaluation frameworks that ensure AI actually works, the level of depth in these conversations was remarkable. A key takeaway was that AI is not just about building models—it’s about proving that they work, that they are equitable, and that they drive meaningful change. Hearing about golden datasets, ground truth validation, and iterative improvements made me realize the sheer effort required to make AI solutions reliable, especially in high-stakes development sectors.
+At the same time, the sprint was not just about technology—it was about the people, the conversations, and the community. One of the most insightful discussions revolved around when and where AI should be used—and more importantly, when it shouldn’t be. Not every problem needs AI. Sometimes, an age-old rule-based algorithm or a finite set of parameters can work just as effectively. This balance of excitement for AI with a deep understanding of its limitations was refreshing.
+Beyond the formal sessions, it was the informal discussions, shared insights, and hallway conversations that built a sense of camaraderie. Nonprofits working in this space often feel isolated—there are few organizations navigating both tech and impact with this level of depth. This sprint helped build a community, a network of practitioners who can reach out, learn, and share openly. Knowing that others are also struggling, experimenting, and innovating makes the journey feel less daunting.
+What stood out most was the spirit of openness—organizations sharing their fine-tuning strategies, their methods for validating AI, and their experiences with building scalable models. The idea that knowledge should be shared freely so that others can build upon it resonated deeply.
+This sprint wasn’t just about learning—it was about finding a community that will continue to push the boundaries of AI for impact. The conversations don’t end here; they are just the beginning of a shared effort to ensure AI is built responsibly, rigorously, and in service of real-world challenges. Excited for what lies ahead, and grateful to have been part of these powerful discussions.

@@ -1,0 +1,39 @@
+Title: Dalgo’s Upcoming Feature: Data Statistics
+Author: Glific Admin
+Date: June 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/dalgos-upcoming-feature-data-statistics/
+==================================================
+
+Imagine this: You’re building a transformation pipeline using
+Dalgo?s UI
+. You want to investigate a particular model after transformation to understand its contents better. Previously, you could only preview the data in a table form. Now, we’ve taken a significant step forward to enhance your experience and understanding of your data.
+Introducing Data Statistics
+Data Statistics provides an easy way to analyze your data and gain valuable insights. Here’s a quick demo of the feature:
+Table Insights:
+Total Rows:
+The total number of rows in your data.
+Total Columns:
+The total number of columns in your data.
+Column-Specific Insights:
+Data Type:
+The type of data in the column (e.g., String, Datetime, Integer, Boolean).
+Distinct Values:
+The number of unique values in the column.
+Null Values:
+The count of null values in the column.
+Data Distribution:
+Visual representation of data distribution.
+Supported Charts for Each Data Type:
+String:
+Visuals that help you understand the distribution and uniqueness of string values.
+Datetime:
+Charts to visualize time-based data and trends.
+Integer:
+Graphs to display numeric data distribution.
+Boolean:
+Representation of true/false values.
+This feature aims to empower users to make better-informed decisions when creating their pipelines.
+Currently, Data Statistics will only available in Dalgo?s UI for transformation. However, we are considering extending this feature to the GitHub method based on user demand.
+For future versions, we plan to enhance this feature further based on your feedback. We also aim to add support for Large Language Models (LLMs) to summarize data and generate comprehensive reports.
+Stay tuned for more updates, and let us know how we can make this feature even better for you!

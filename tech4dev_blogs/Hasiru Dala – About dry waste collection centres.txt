@@ -1,0 +1,17 @@
+Title: Hasiru Dala – About dry waste collection centres
+Author: Kurund Jalmi
+Date: November 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/hasiru-dala-about-dry-waste-collection-centres/
+==================================================
+
+I am not an expert in waste. So at a very broad level if we consider waste to be dry and wet – this blog is about how dry waste is managed in Bangalore. Dry waste mainly consists of plastics, paper, metal, glass.
+There are a few ways in which these waste end up getting handed over from consumer to the first step in the recycling chain.
+1. They are picked up by the door to door collection vehicles
+2. We drop them off to dry waste collection centres
+3. We sell them to waste pickers
+4. Waste pickers pick them up from roads and public places
+Door to door collection drop these waste to Dry waste collection centres (DWCC). Each ward in Bangalore has a DWCC run by independent entrepreneurs who come from waste picker community – with support from BBMP and Hasiru Dala. Here the dry waste is sorted into different categories and then sold to the private recyclers.
+Hasiru Dala helps the waste pickers via training and systems in managing the DWCC in a sustainable way. One important part of this system is to maintain data of incoming, outgoing and sales information for various types/sub-types of waste. This is one of few data sources we have for Bangalore that quantifies the amount of dry waste.
+Currently this data system in on excel, which makes it difficult to use (analysing, reporting, gaining operational insights). Needless to say, the quality of data is not reliable since it is excel.
+We have started the development of the data management system that where all this information will be fed from all the wards in Bangalore. The tech stack is React, Java/Spring, React Admin, Postgres and Metabase.

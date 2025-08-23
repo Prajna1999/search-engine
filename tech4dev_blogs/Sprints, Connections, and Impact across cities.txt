@@ -1,0 +1,105 @@
+Title: Sprints, Connections, and Impact across cities
+Author: Akhilesh Negi
+Date: August 2024
+Category: Glific
+URL: https://projecttech4dev.org/sprints-connections-and-impact-across-cities/
+==================================================
+
+It’s been almost a month since I’ve been away from home, traveling to different cities for sprints and meeting new people. Usually, I work remotely from Pauri, a town in Uttarakhand, but these sprints have given me a chance to explore new places, meet interesting people and see their work. It’s been a fun journey.
+I started with the Agency Fund sprint in Bangalore. The sprint had two tracks: User Engagement and AI/LLM. I attended the AI/LLM track. You can read about my experience here
+Bangalore Sprint: Innovating User Experience with LLMs
+We had some fantastic NGOs presenting their work, including
+Digital Green
+,
+Bandhu
+,
+Jakaranda Health
+,
+Udhyam
+,
+Kabakoo
+, and
+Noora Health
+.
+I met Sylvia and Stanislaus from
+Jacaranda Health
+and attended a fantastic workshop on prompt engineering by Edmund from Agency Fund. You can check out the workshop details here:
+Prompt Engineering 201
+I also met Godwin and Ousmane from
+Kabakoo Academies
+. After the first sprint, they came to the Omidyar Network office in Bangalore, where the rest of the Tech4Dev team was working together for a week. Later that day we went out for dinner with them
+Met Varun from
+OpenNyAI
+. He shared the work
+OpenNyAI
+is doing, including their successful product Jugalbandi, which many NGOs use in Glific. We’ve had calls with Varun and
+OpenNyAI
+team in the past to help NGOs experiment with Jugalbandi. Here’s a blog about one of our early experiments:
+ChatGPT Comes to Glific
+.
+After the Agency Fund sprint, I joined the
+Dalgo
+sprint, where the
+Dalgo
+team hosted its first sprint with new NGOs. You can read more about it here:
+Bangalore Sprint First NGO’s Sprint for Dalgo and Quarterly Review
+The next few days were spent working from the Omidyar Network office and visiting a few NGO offices in Bangalore.
+Met with Akshay, Ramesh, Mekin, and the
+Udhyam
+team at their office. During lunch, Chris from
+Medha
+, Linus and Jake from
+The Agency Fund
+, and Abhishek from
+Noora Health
+joined us. Akshay talked about the Udhyam program and the challenge of analyzing images from children. I mentioned our recent integration of GPTVision in Glific, which could help with initial image evaluation. We also had a brief community engagement session to understand their needs and explore ways we can offer more support.
+Met Gloria, Mekha, Navneeth, and Sujith from the
+Guardians of Dreams
+. We had dinner and had fun talking. They invited us to visit their office whenever we get the time. It was in Koramangala, and I thought I might not get a chance on this trip as it was far from our Airbnb.
+After the LLM sprint, I stayed in touch with Rajsekhar from
+Digital Green
+and planned to visit their office in Koramangala. Since our meeting was set for 1 PM, I planned to come early to meet the
+Guardians of Dreams
+first, then go to Digital Green. Starting early also helped in avoiding Bangalore traffic during the day
+Met Rajsekhar from
+Digital Green
+, and Vineet, their CTO, joined us., and we talked about making conversations more unstructured and easy, as it can take multiple iterations to get all the information from beneficiary. We had lunch at a nearby North Indian place, which I was missing in the south. We then discussed how they used
+Ragas
+to improve their farm Chatbot.
+The next day, I visited the
+Key Education Foundation
+office and caught up with Swarupa and Sheetal, who have been part of a few of our sprints. I also met the rest of the KEF team. I showed them different possibilities using OpenAI in Glific, which sparked a few ideas as they are preparing for upcoming academic session.
+Here’s the slide:
+Exploring possibilities with Open AI
+I talked with Mangal Pandey during a walk about how LLMs work and how KEF can use them for their program. Later, I had a community session with Swarupa and Sheetal, who suggested hosting more sessions for NGOs from similar sectors to brainstorm and learn from each other. We’re planning meetups in Delhi, Bangalore, and Mumbai soon.
+After Bangalore, I went to Delhi for the Glific sprint. Before we had our first informal team meeting at the sprint location with the rest of the Glific team on Sunday evening we had an informal team dinner with Amit Ji’s family
+Glific Sprint was a 5-day long event with a good mix of everything. We spent the first two days at the Tech4Impact Chatbot Accelerator, had a quarterly review on the third day, visited Goonj and worked on the fourth day, and wrapped up with a city meetup and happy hour on the final day.
+Tech4Impact Chatbot Accelerator
+This was the 3rd cohort of the program, designed to help NGOs digitse and scale their program using WhatsApp. Over two days, 24 NGOs built their WhatsApp chatbots. They were split into nine groups, each with at least one POC from the Glific Team for support. I worked with three NGOs and met many new people
+Met Dr Ninad & Dr Tushar from
+Apnalaya
+. Apnalaya supports the urban poor, offers civic education, and helps with essentials. Their vision with the chatbot is to connect volunteers, address community issues, and direct them to the right resources. In two days they were able to understand the basics of Glific and how to build flow. They even tried GPTVision where one can share the picture of their civic issue and use GPT to categorize the issue.
+Met Nitesh, Balaa & Shivani from KER. KER partners with innovators to rethink education, empowering students and teachers. Their vision with a chatbot is to use gamification to teach 21st-century skills. They’ve been planning their conversation flows for over two months and now need to build them in Glific. Can’t wait to see how their program turns out!
+Met Shubham and Mohit from
+Wedogood
+.
+Wedogood
+connects organizations with skilled people to boost their impact. Their vision with a chatbot is to plan projects, recruit volunteers, and get updates on current projects. Mohit is an Enthusiastic developer exploring every API and 3rd party integration in Glific while Shubham, has a clear vision for the bot and completed a number of activities quickly during the program, including outlining the bot’s future steps which he later presented to the entire group as well
+Met Harshvi and Jerin from
+Sol’s ARC
+.
+Sol’s ARC
+focuses on helping vulnerable learners with education and jobs. Their vision with a chatbot is to give teachers, special educators, and parents tools and strategies for kids with special needs. They already have a few documents that they want to use as knowledgebase to leverage OpenAI file search. In a brainstorming session with them, we were able to plan version 1 of Chatbot with a basic flow and then will keep making small enhancements in the flow over time
+City meetup
+CityMeetup is for all NGOs to connect and collaborate with others using Glific. Hosted in your city, you’ll hear success stories, explore Glific’s tools, learn to boost impact, connect with fellow NGOs, pick up best practices for conversational design, and end with key takeaways and next steps.
+Met Kriti from
+Dost Education
+and Shuchi from
+Indus action
+. We talked about how they’re using Glific and what’s new with them. With Kriti, we tried out GPTVision to create images from a storybook for their bot. Normally, this takes them a week, but we did it in half an hour with just a few prompts.
+Key takeaways from
+Not every conversation has tangible immediate outcomes. Sometimes, just being present, listening, and seeing the world from others’ perspectives is equally important. I talked with many people during these sprints, and it was a nice break from daily development. It was great to see the amazing work everyone is doing.
+While we all work remotely, it’s always nice to meet in person and have random non-sense conversations outside of work. Go for walks, dinner, drinks, and explore the city. Especially enjoy those morning breakfasts we earn after a 30-minute walk.
+Building a platform is a rewarding journey, but seeing others use it is even better. Small enhancements or bugs can seem big to non-tech users and might become obstacles to adopting new features.
+As our team is growing with new members joining every quarter, we should make an extra effort to make them comfortable and check in on how they’re doing. Though we meet quarterly and have a lot to catch up on with our groups, always keep an eye out for new members and try to involve them too.
+A great product isn’t just about features or intuitive UI; it’s also about the community and how easy it is to get help. Documentation and product videos are useful, but people still value a human touch.

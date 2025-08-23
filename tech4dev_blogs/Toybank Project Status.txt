@@ -1,0 +1,30 @@
+Title: Toybank Project Status
+Author: Kurund Jalmi
+Date: December 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/toybank-project-status/
+==================================================
+
+As mentioned in the
+previous blog
+post, we have been working on the complex and tricky workflow requirement i.e. “Generating game request on behalf of the play center”. We have finished the development for the same. Below is the screenshot of the Game request generation flow.
+Reports generation
+As per the requirement, the next task was to create few reports which consist of warehouse and Play center inventory details.
+We have been also implementing the changes as per the feedback received from the Toybank team.
+A brief summary of technical specs
+We have implemented the Inventory Management System for Toybank, using an Open Source software platform Drupal 8.
+Here are the key features that were implemented as a part of this project.
+User Management
+Play Center Management
+Game Management
+Inventory Workflows
+Request Generation
+Stock Auditing
+Report Generation
+Record Activities
+Current status
+The project is deployed on a staging instance and is being reviewed by the Toybank team.
+Next steps
+Evaluate the feedback and if possible make the necessary changes.
+Deploy the project on the production instance
+Project handover process.

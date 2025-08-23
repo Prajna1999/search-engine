@@ -1,0 +1,73 @@
+Title: Dabbling in the Indian Social Sector
+Author: Rohit
+Date: October 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/dabbling-in-the-indian-social-sector/
+==================================================
+
+This post was originally written and published by Radhika Bhagwat
+here
+.
+Few weeks ago, I stumbled upon a conversation, that opened up a wealth of more connections for me. This really proved to me how the conventional way to search for a new job or passively applying to job postings doesnt come anywhere close to having active conversations and creating connections you never imagined you could have.
+I emailed
+Donald Lobo
+on a Friday evening, and heard back from him almost instantly flying back to SF from India. Can meet over the weekend, once I land. This was the fastest Id heard from anyone Id reached out to so far in the last 8 months (cold reach-outs). I was excited and humbled to hear back from Lobo (as he is famously called). A friend of a friend had mentioned Lobo, as someone who is working on bringing open source technology to the Indian social sector. I read up on his private foundation
+Chintu Gudiya Foundation
+and its work with
+Project Tech4Dev
+, before I met him for a virtual coffee the following week. Lobo himself was in the tech industry until the early 2000s, before he moved to the social sector and started his private foundation. I was struck by Lobos humility and generosity. He shared tons of information with me on the first meeting, how his Tech initiative functioned, what products they have developed and more.
+The same week, I received invitation to attend
+Give-Indiaspora event
+(thanks to Atul Satija) at Stanford. The event had the whos who of the Indian development sector. Lobo was on the panel for climate philanthropy. The respect and following Lobo had in this event was impressive. He also took it upon himself to introduce me to a couple dozen people in the event, most of whom were founders or CEOs of non-profits working in or impacting India!!
+I learnt about several initiatives like
+Goonj
+, founded by
+Anshu Gupta
+, the India Literacy Program (ILP), managed in US as a volunteer by
+Padmaja
+,
+Project Echo
+, founded by
+Sanjeev Arora
+,
+Mentor Together
+, founded by
+Arundhuti Gupta
+,
+Udhyam Learning Foundation
+, founded by
+Mekin Maheshwari
+, The
+India Inclusion Foundation
+, founded by
+Ferose V. R.
+, CEO of Give North America
+Ashish Shah
+, and
+Give.do
+and
+The/Nudge Institute
+, founded by
+Atul Satija
+. The climate action talk, by Dr. Arun Majumdar, Dean of Stanford Doerr School of Sustainability, concluded the event, and was thought provoking (less than 20 years left on this Earth if we carry on like this!!!). I even got to meet
+Kivas
+CEO,
+Vishal Ghotge
+, and convey my appreciation for the initiatives Kiva has kick-started with refugee loans, and corporate partnerships, under his leadership. Id had at least 25 conversations in a day, cause of this event, which otherwise would take me 6 months!!
+Following couple of weeks, I continued to be invited by Lobo, to meet with some of the folks I had connected with in the event. I got to know a lot more about Anshu and his teams impact with
+Goonj
+, and the challenges they faced during COVID and post-COVID. Anshu is a Ashoka and Schwab Fellow and Magsaysay Awardee, who founded
+Goonj
+almost 25 years ago. At the event, he urged philanthropists to go beyond their conventional barrier of validating the right non-profit, and give with faith and kindness in their hearts. He stressed givers to visit the NGOs on the ground in India and feel the impact they bring in-spite of the challenges they face. I certainly plan to visit Goonj this year, when I visit India. I also met several like-minded people like
+Pranay
+and
+Sanjeev Dharap
+, and Vinod, working alongside Lobo in Tech4Dev.
+Since Tech4Dev work is open source, the code is on Github and most documents are on google drive. This made it so easy for me to start engaging and observing their work, and getting involved. Lobo invited me to three different non-profit meetings, where they intended to deep dive and learn about the non-profits challenges. I was even more excited about these calls because all of them were working to bring equity in education specially for girls in the rural parts of India. Their challenges mounted from being able to chart out areas or villages where girls arent coming to school, to keeping attendance, collecting data consistently and being able to derive inferences through visualization of metrics. Since India has a good portion of its rural parts outside of internet coverage, real-time data collection is a challenge, paired with field cadres who are not as tech-savvy, and still prefer using pen-paper to record information. On top of this, since non-profits are constraint on resources, maintaining tech apps and data is not their forte. This is where Tech4Dev comes in and helps bootstrap the process of data collection, transformation, security and visualization for the non-profits, using open source tools they develop and maintain, like
+Glific
+and
+Dalgo
+.
+I look forward to learning more in the next few weeks as I join Tech4Dev in their sprint off-site at
+Kochi, Kerala.
+Super thrilled!!

@@ -1,0 +1,30 @@
+Title: Tech4Devs F CxO Program with Indus Action- Ankit Saxena
+Author: Sneha Trivedi
+Date: December 2023
+Category: Fractional CxO
+URL: https://projecttech4dev.org/tech4devs-fcxo-program-with-indus-action-ankit-saxena/
+==================================================
+
+Indus Action (IA)
+works towards bridging the gap between policy and action by easing welfare access to
+vulnerable citizens. IAs vision is to consolidate India’s 500+ low-impact welfare schemes into 5-10
+high-impact and accessible schemes, called the Power [Portfolio of Welfare & Entitlement Rights]. IAs
+goal is to support 1,000,000 families with Power benefits by 2025.
+Image courtesy: Indus Action website
+IA has been leveraging tech to solve key challenges around welfare access. Last year, leadership observed that they were facing challenges around completing key tech projects. They also felt that there was an absence of a sound tech strategy that was aligned with their org strategy. With PoWER as a 2025 goal, tech became an even more of a key strategic lever for them. When IA got introduced to fCXO, they found it potentially addressing the tech challenges; they enrolled for the program & I was assigned as their fCXO.
+My journey started with spending the first month doing deep conversations with different stakeholders
+within the organisation – the leadership and program teams (both leads and associates). Through these
+conversations I gained valuable insights into the different programs, their strategy, and challenges. This
+initial phase was crucial in developing a comprehensive understanding of the organisation. At the end of
+first month, I presented my assessment of the org challenges and priorities along with my planned
+approach to tackle them in the upcoming months.
+As I delved deeper into the programs and engaged with team members, I realised that in most cases the
+root cause of the challenge was broken tech processes and an imbalance in tech team. Tech team didnt
+have the right number of project managers to effectively handle projects with the government. The critical role of product manager had not been considered by the org before. Developers were spread thin juggling between the development tasks and project management responsibilities. From a process perspective, there were significant gaps in aligning tech teams work with other departments, and important discussions happened verbally without proper documentation and tracking. To address all of these issues, I took immediate action by personally overseeing key projects, while simultaneously focusing on devising a long term tech strategy and improvements in tech processes.
+So far, the journey has been both challenging and rewarding. We successfully implemented the first version of PoWER platform in Delhi. I am pleased that IA team has been very receptive to suggestions and changes proposed, making the progress smoother. To further strengthen the development and expansion of the project, we hired a skilled product manager who would drive the vision, strategy, and projects for PoWER. However, hiring and retaining a capable tech team remains a big challenge that I plan to address by having a combination of inhouse team and reliable vendors, thereby ensuring the project’s continued success.
+Looking forward, my focus will be on developing an exit strategy for the fCXO program and transitioning
+out within the next few months. I am positive that with the system and process changes we have
+implemented and along with the tech strategy we have put in place, it has laid a solid foundation for IA to
+achieve its desired welfare outcomes. Technology will continue to play a vital role as an enabler in IAs
+journey and I feel confident that it is now well equipped to thrive even without the fCXO program.
+Written by: Ankit Saxena, fCxO, Project Tech4Dev

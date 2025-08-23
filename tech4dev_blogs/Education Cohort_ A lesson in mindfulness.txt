@@ -1,0 +1,32 @@
+Title: Education Cohort: A lesson in mindfulness
+Author: Kurund Jalmi
+Date: July 2022
+Category: Glific
+URL: https://projecttech4dev.org/education-cohort-a-lesson-in-mindfulness/
+==================================================
+
+This blog post is written by Kalindi from
+Key Education Foundation
+This piece comes from a beautiful setting in the Sahyadri Mountains, an outdoor retreat location called
+Garud Maachi
+, about 80 km away from Pune, Maharashtra. I am here with my colleague Sheetal, representing our organization
+Key Education Foundation
+in the first sprint of the
+Glific
+Education Cohort for the year 2022 23 organized by
+Tech4Dev
+.
+Before leaving Bangalore, I was imagining the sprint as a 5-day residential workshop event, where we would learn about the work different NGOs do, how they use technology in their solutions, and the different features available in the Glific platform that we could include in our solution. While that isnt far from the target objectives of the sprint, it didnt capture the larger purpose (which I will get to by the time I end the blog). What I should also mention is that in my visualization, the learning was confined to structured sessions inside a hall.
+Group session on Day 1 of the sprint
+The fact that I was proven wrong on that last sentence is something that I feel very fortunate about.
+On the second day of our sprint, about 15 of us decided to hike to a waterfall in the morning. It was drizzling when we started, but we proceeded amidst some initial concerns about safety since we had two expert guides with us. The only instructions that our guide gave us were to walk in single file and to keep our hands’ free while climbing which meant not walking with hands in our pockets, and not using our phones while walking.
+In hindsight, that second instruction might as well have been be present.
+That the scenery was beautiful would be an understatement. You cant put together mountains, forests, monsoon, mist, streams, and birds and not be mesmerized. Every breath was invigorating, every direction you looked at was filled with serenity, and the native sounds of streams and birds carried over our chatter and the occasional noise of vehicles crossing the highway, making their presence felt, and adding to the richness of the experience. To reach the highest point where we climbed to, we had to hold on to a rope that our guides had buckled around some trees and rocks. While the walking distance might not have been more than 200 meters, it was definitely the most difficult part of the terrain that we covered during the trek. But the clearing where we reached after that, made the entire effort worth it. On our way back. We spent time at a waterfall. While some in the group went all the way under the falling stream, I satisfied myself with just my feet dipping in the water. It seemed like the perfect way to catch my breath and let some of that serenity fill me.
+But as we sat that night discussing and reflecting on that hike, what I realized is that more than anything, the walk was a lesson in mindfulness. At every moment I was aware of everything around me the uneven, wet ground, the trees, and branches to duck under or step over or hold on to for support, the crevices between the stones to put my foot on so I wouldnt slip, the moss to avoid stepping on, even the length of the stride to take, the person in the front or the back who could provide or need support. And all this while taking in the beauty of the environment that I was in.
+And this is how I now connect the experience of the trek to the sprint, and even to our daily lives.
+A big part of learning is the source the people, the conversations, the presentations, the content etc. But it all comes to naught if one isnt present. During meetings, and alone or group work times how much progress would we be able to make if we are engaging in too many conversations, or working on too many problems at the same time? At home, would we do justice to our role as a family member child, sibling, spouse, parent if were only focused on completing chores or thinking about work? Wouldnt we be neglecting the beauty that our life, our world has to offer to us if were always on the run?
+The fact that the sprint was in a remote (and picturesque) location, and bereft of too much structure, adds immense value to the strengthening of the ecosystem of the development sector. Here, at the sprint, we had organizations working on housing and sanitation sector, civic engagement of citizens, education of children of ages ranging from 3 to 18, art education, career and livelihood coming together apart from various organizations that provide technological support, and monitoring and evaluation support as open-source solutions. The opportunity to really be present in the space, and engage with people in different kinds of discussions formal, informal and outright fun is what paves the way for these different organizations to come together and continue to work for the one common passion that unites us all social impact.
+We leave for Bangalore today. I dont think I speak just for myself in saying that this experience has been valuable in more ways than one. Sincere respect to
+Tech4Dev
+for holding this space, to all the participants who helped in planning the logistics, making the arrangements, and keeping things running smoothly, and of course to everyone who shared their time and attention for these conversations.
+Who knew an exhausting but refreshing trek would have connected all these dots together?

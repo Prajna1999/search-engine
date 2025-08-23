@@ -1,0 +1,45 @@
+Title: Load Test Using k6
+Author: Kurund Jalmi
+Date: September 2020
+Category: Glific
+URL: https://projecttech4dev.org/load-test-using-k6/
+==================================================
+
+Moving forward with Glific development now we have started thinking about testing the application for handling high traffic, monitoring performance trends over time, and be alerted of performance regressions.
+We decided to start using k6 for load testing. It is
+an open-source load testing tool
+to catch performance issues. It provides enough features to write smoke, load, stress, and soak tests. It also provides options for performance testing automation.
+It is a well-documented tool, which gives an easy head start for load testing with enough material at initial steps answering
+why and how
+,
+It suggests starting small with unit load tests and then move to more scenario-specific load tests.
+As load tests need time to ramp-up and execute the user journeys with the simulated traffic to gain enough measurements/data that can be acted on. Hence it is better to run it when merging code into a release branch or as a nightly build perhaps.
+Load testing should happen pre-production.
+To achieve maximum performance, the tool itself is written in Go, embedding a JavaScript runtime allowing for easy test scripting.
+Now before going deep on features available, let’s look at the scripts code for reference
+To understand complete code structure refer to the
+test life cycle
+. To get started scripts must contain, at the very least, a default function. Here we keep the check / assert for API responses. This defines the entry point for all VUs.
+And the
+results standard output
+looks like this:
+Lets try to understand the features available here one by one.
+When using VUs concept it runs tests with more than one virtual user parallelly. We can also specify it while executing the k6 run command.
+k6 provides a list of
+built-in metrics
+that will be displayed in results standard output after completion of each test. Also, we can add custom metrics.
+We can start with basic metrics like checks and http_req_duration to analyze our tests and to understand how the application is behaving with high load. We would need to use other metrics to analyze it in more detail and reach conclusions for performance improvements. A few of the metrics are:
+Vus, vus_max, iterations, iteration_duration, dropped_iterations, data_received, data_sent, checks
+HTTP-specific built-in metrics : Http_reqs, http_req_duration
+Types of metrics are: gauge, counter, trend, rate.
+To
+visualize the result output
+over a period of time we can store it using
+JSON
+or InfluxDB output plugins (there are more options available).
+And then create the graphs as per our requirement. To visualize data stored in InfluxDB,
+Grafana
+open-source package is used, which provides charts, graphs, and alerts.
+More options can be added to the test scripts which include tags and groups, thresholds, stages (for
+ramping up/down the VUs
+).

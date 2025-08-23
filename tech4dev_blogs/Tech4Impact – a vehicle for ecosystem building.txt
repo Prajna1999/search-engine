@@ -1,0 +1,32 @@
+Title: Tech4Impact – a vehicle for ecosystem building
+Author: Ashwin Srinivasan
+Date: July 2024
+Category: Fractional CxO
+URL: https://projecttech4dev.org/tech4impact-a-vehicle-for-ecosystem-building/
+==================================================
+
+Tech ecosystem building for the social sector is core to the vision and mission of Project Tech4Dev. A strong vibrant, collaborative and open ecosystem enables the entire sector to move faster at a lower price point.
+Towards this end, in April 2024, Project Tech4Dev hosted its inaugural Tech4Impact event in Bengaluru. Unlike our regular sprints which involve NGO participants from all disciplines, this event was exclusively for technical experts and leaders working in the sector. We had enthusiastic participation from over 100 representatives of non-profit organisations, tech companies, and social enterprises.
+The event was designed as a platform for learning, networking, and collaboration. It featured plenary sessions from industry leaders, as well as interactive roundtables run by community members on a range of topics such as leveraging data for social impact, advancements in LLMs and their use, and hiring / retaining technical talent. We also had a panel discussion with funders to get their perspective on how to pitch innovative technical ideas and initiatives.
+Most importantly, the event left a lot of time and space for technical leaders in the sector to connect, engage and interact with each other. Often, people in roles such as CTO for a non-profit organisation are heavily burdened with the responsibilities their organisations throw at them, and don?t have sufficient time or opportunity to spar and exchange ideas with technical folks facing similar challenges. We hope that Tech4Impact will help foster serendipitous connections that will help move the ecosystem forward.
+Challenges of Ecosystem Building
+Vibrant technical ecosystems facilitate innovation, enhance resource efficiency, and foster a culture of continuous learning and improvement. However, the journey to building such ecosystems for the social sector is challenging for many reasons.
+Funding and Resourcing Challenges
+One of the primary hurdles is securing adequate funding and resources. The demand for software professionals and related fields in the commercial sector is high, often accompanied by competitive salaries that nonprofits struggle to match. This disparity makes it challenging for social sector organisations and the vendors serving them to attract and retain skilled technical talent.
+Limited Pool of Experienced Vendors
+Another significant challenge is the limited pool of vendors with deep experience in the social sector. Building this expertise takes time, and the scarcity of experienced partners can slow down the adoption and effective use of technology within nonprofits. There are definitely good vendors with a commitment to the sector, many of whom attended the Tech4Impact event, but the size of the vendor pool doesn?t match the demands of the sector. Furthermore, these vendors struggle with the same challenges as NGOs to hire and retain great technical talent. Up-levelling the expertise of existing vendors and adding new vendors to the available pool serving the social sector in the face of these constraints is challenging.
+Ecosystem Must become Self-Sustaining
+For an ecosystem to be sustainable, it must grow organically over time. This means fostering an environment where initiatives and collaborations naturally flourish, where everyone is motivated to contribute and assist each other independent of ongoing support from individual organizations like Project Tech4Dev. Ensuring the ecosystem’s growth and self-sufficiency is a complex task that requires alignment of vision and incentives, as well as careful shepherding.
+What?s next
+Even keeping these challenges in mind, we are going to take Tech4Impact forward in a big way through:
+Regular Online Sessions:
+Facilitating regular online Tech4Impact sessions to keep the community connected and provide opportunities for technical leaders from different organisations to share their experiences and insights. The first such session was run on July 18th with presentations by ImpactHire and CivicDataLab. Keep your eyes open for our next session in late August.
+Face-to-Face Events:
+Organising periodic face-to-face events in different cities for deeper engagement. These events will allow for more meaningful interactions and stronger network building among participants.
+Intensive 2025 Event:
+Planning a more intensive event in 2025 with the aim to dive deep into addressing systemic challenges that have thus far been hard to resolve. This event will focus on creating actionable solutions and long-term strategies.
+Synthesizing Sector Learnings:
+Synthesising our learning about the sector and the challenges organisations face through various initiatives, including Fractional CxO engagements, and cohort programs like the Data Catalyst Program. These insights will be applied to develop solutions useful to multiple organisations.
+Partnerships for Scaling Digital Public Goods:
+Wherever possible, Tech4Dev aims to partner with NGOs, funding organisations, and other technical partners to identify, pilot, refine, and scale digital public goods. These collaborations will help in creating scalable and sustainable solutions that can benefit the broader social sector.
+The success of the first Tech4Impact event in Bengaluru is a promising start towards building a dynamic ecosystem that empowers social sector organisations with the technical capabilities needed to amplify their impact. But we are only getting started and there is much more to come ?

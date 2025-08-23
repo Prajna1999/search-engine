@@ -1,0 +1,57 @@
+Title: Goalkeep at the Tech4Dev Sprint Jan 2023
+Author: Swapneel Rane
+Date: February 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/goalkeep-at-the-tech4dev-sprint-jan-2023/
+==================================================
+
+How do we build data culture within nonprofits, and what does that even mean?
+… is a question we have been obsessing over at Goalkeep this past year. Weve figured that one key element of data culture is the ability to put data into the hands of individuals and teams with minimal repetitive effort. But thats easier said than done.
+As non-profits grow out of their bootstrap/startup stage, manage to walk the tightrope between impact and scale, get more professional and establish second lines of leadership, and continually iterate on their program design and delivery, we believe that they are bound to ask a common set of questions.
+How do we get a holistic view of my program / organization?
+How do we consolidate data from multiple data sources?
+How do we get accurate measurements of key metrics?
+How do we quickly respond to changes in program design?
+As organizations evolve, the volume and diversity of data that organizations collect increases significantly and the questions that teams ask of their data become more nuanced. The classic solution to this problem has been to manually collate data from multiple sources in the form of spreadsheets and consolidate them using complicated Excel formulas and pivot tables built on top of pivot tables. However, this is far from sustainable as the entire process needs to be repeated every quarter, if not every month, is prone to human error, and the knowledge of how to do this lies with a small set of individuals.
+As we were evaluating different tech solutions to solve this data consolidation issue (see the work-in-progress landscape below), we stumbled upon the same set of open-source tools that the Tech4Dev team was also considering for the
+Development Data Platform
+(DDP).
+A WhatsApp message from Lobo followed by a couple of meetings over coffee led to us (Goalkeep) drafting a proposal to build a proof-ofconcept (PoC) for Dost Education, one of our existing clients, and also an invitation to the Jan Glific/Avni Sprint in Goa.
+As part of a past engagement, we had built a system to analyze responses to prompts embedded within Dost Educations IVR-based ECCE program:
+M&E Framework configured in Google Sheets
+Responses to IVR Prompts available on Google BigQuery
+17 tables across both data sources
+170 Questions (73 legacy questions that are currently inactive)
+2.3 million rows of data (~ 600 MB)
+13+ user dimensions
+6+ program dimensions
+Baseline vs Midline vs Endline comparison needing
+300+ lines of data transformation code (written in SQL)
+This set up posed several challenges:
+it was really difficult to build new data assets as one had to navigate through 300+ lines of code every time a new metric or dimension needed to be added
+this also made it very difficult to debug issues with current dashboards
+all data aggregation jobs were run on full data (instead of only the data that had been modified since the last run
+The objective of our current proof-of-concept was to rebuild the same (IVR Prompt Response Analysis system) using the latest set of open-source data engineering tools:
+Airbyte (
+airbyte.com
+) for connecting to multiple data sources (e.g. google sheets, surveymonkey, Zoho CRM) and loading them into a single data warehouse (e.g. Google Bigquery, Amazon RedShift, Postgres DB)
+dbt /  data build tool (
+getdbt.com
+) to transform data within the data warehouse itself; here transformation = aggregation, joins, unions, pivots, unpivots
+Prefect (
+prefect.io
+) to trigger airbyte and dbt on an hourly schedule and also to send alerts in case of sync failure
+A key principle that we tried to follow when designing this proof-of-concept was that we would not solve a new problem (or calculate a new metric), but solve an old problem with a new set of tools, and in the process evaluate whether these tools were better (i.e. faster, more accurate, scalable).
+Here is how we configured these different components:
+Over the 2 weeks leading up to the Tech4Dev sprint, we had our basic infrastructure in place:
+a linux server running on Dosts Google Cloud Platform account
+Airbyte installed and pulling data from google sheets and uploading to google BigQuery
+A dbt project and associated github repository with all data sources and staging queries documented
+We used the time at the sprint to
+finish migrating all data transformation code to dbt, and also setting up data integrity tests (e.g. checking if all tables had unique records)
+setting up Prefect to run data ingestion and transformation on a hourly schedule
+conducting a walkthrough of the Dost project for the DDP team
+An indispensable output of this approach is the birds eye view it provides of an entire data pipeline, letting us build, upgrade and validate data transformation code in much smaller manageable chunks:
+As I spent time on these tools, I really came to value the ease with which one could debug issues that earlier took several hours to solve, and the confidence that this approach gives us through its automated set of data integrity tests that can be run each time you make changes to the data pipeline. This really sets up Dost Education to even more complex analytics for future projects such as their WhatsApp program (which we have already started building on DDP).
+We ended the sprint by preparing a demo for all Glific-user NGOs who were present at the sprint as well as for two prospective funder organizations and received some immediate interest.
+We hope that many organizations sign up to evaluate the Development Data Platform, and that it revolutionizes how the now-profit sector uses data in the next 2-3 years.

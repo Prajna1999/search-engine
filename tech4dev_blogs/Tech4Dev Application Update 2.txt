@@ -1,0 +1,26 @@
+Title: Tech4Dev Application Update 2
+Author: Kurund Jalmi
+Date: November 2018
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-application-update-2/
+==================================================
+
+Happy Diwali! Hope you had a good holiday and a nice break. In the meantime, we’ve been hard at work on reading and responding to the applications in the Tech4Dev Project. Here is the latest status on the Tech4Dev Application Process.
+A couple of weeks ago, we informed 53 organizations that their application was not being considered further in this cycle. There were a few reasons behind that decision:
+The application form and information provided was incomplete – 32
+The application was not clear on the exact scope of the project or assistance required, and thus we could not decide if we could undertake the project or not – 13
+We did not have the skill set or were not sure of the role played by the tech project in the overall impact being created by the organization – 8
+This left us with 28 remaining applications. We asked for additional information from a few of the organizations to ensure we understood the application and their needs better. The decision committee was composed of Prapti Patel from Dasra, Arun Kadekodi from Soft Corner, Kurund Jalmi from Web Access and Lobo from Chintu Gudiya Foundation. Each application was reviewed by at least 2 people. We scored each application on 5 factors:
+Impact
+– How impactful was the work being done by the organization, how vulnerable the beneficiary group or geography of operation was, whether the organization would be able to find another tech provider to help them, etc
+Importance
+– How important/ necessary/ crucial to the organizational impact was the project which required tech assistance/ how many degrees of separation lay between the overall impact of the organization or the program and the tech needs
+Reusable
+– How reusable would the final tool created be/ how many other organizations might have similar needs or requirements for their own programs
+Skill Set Match
+– From a skills perspective, can we do justice to the tool to be created/ tech assistance to be provided, can we actually add value to the organization given the skill set our team has
+Prior work
+– Have we worked on a similar project with other organizations in the past, thus reducing the amount of time and effort required, freeing up resources to help more organizations
+After each application was individually rated by 2 people, we discussed each application among all 4 of us and then categorized each application in 2 buckets: Interview and Others.
+Overall, we were super impressed with the quality of each application and it was tough to decide. In the end, we selected 14 applications to take forward into the interview stage. We will start the interviews next week.
+We do think there is a screaming need for help and assistance in developing software tools for nonprofit?s projects. To try and support more organizations, we are going to reach out to our network and see if we can double (or even triple!) our support. If you are a funder, please get in touch with us at tech4dev@chintugudiya.org.

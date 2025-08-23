@@ -1,0 +1,56 @@
+Title: Building Data Culture within Non-profits
+Author: Kurund Jalmi
+Date: July 2022
+Category: Avni
+URL: https://projecttech4dev.org/building-data-culture-within-non-profits/
+==================================================
+
+This blog post is written by Swapneel from
+Goalkeep
+I had the privilege of attending the
+Glific
++
+Avni
+Sprint this week at the beautiful Garudmaachi Training Center near Pune and had the daunting task of kicking off the week with the first session.
+With more than twelve non-profits and four technology partners in attendance, it was an extremely valuable platform to introduce
+Goalkeep
+and our work to the Glific + Avni ecosystem and get everyone thinking about data culture:
+We talked about three critical outputs that Goalkeep holds close to its mission:
+Investing time in discussing, articulating, and prioritizing
+key questions
+helps bring focus to a project/solution/pilot program; they also act as the measures-of-success
+Data models
+serve as a bridge between planning and execution and (if kept updated as solutions evolve) make data analysis almost effortless
+Embedding
+data reviews
+within regular team routines, delegating the responsibility of facilitating them to different team members, and closely tracking the next steps to ensure accountability makes working with data is fun, intuitive, and rewarding
+We also demonstrated the values of these outputs by sharing the work Goalkeep has done with Dost Education in automating the analysis of IVR prompt data, which now allows Dost to:
+Track user journey from
+knowledge retention
+to
+attitude change
+to
+behavior change
+track outcome achievement by comparing desired response rates for baseline to the midline to endline questions for the same set of users
+I was particularly happy that questions continued for more than an hour and a half after the presentation, and also over the next two days; these include:
+Wouldn’t you need to ask a nuanced question (e.g. have we signed up this month) to answer a high-level key question (example: how is my program doing)?
+If I have a very well-defined measurement framework with multiple inputs, outputs, and outcomes, with indicators for each, how do I go about prioritizing which indicators to measure?
+I particularly loved this sprint because it had teams and individuals working hands-on to implement solutions that would make their programs better. I saw how far
+the Glific platform
+had come and the various features planned in its roadmap. My favorite was the Profiles feature that lets multiple users (think siblings or parents) interact with WhatsApp on the same mobile phone while still tracking individual user journeys independently. I also learned about
+the robust Avni platform
+and its case management feature. Its integration with Glific,
+Exotel
+, and
+Salesforce
+(currently under development) really got me excited.
+The culture of inclusiveness is at the center of these sprints, from ensuring that program staff (and not just org leaders) attend to actively encouraging non-native speakers of English to share their work and stories. Lobo,
+the Tech4Dev team
+, and Arun,
+SoftCorner
+should take credit for setting this high standard. My special thanks to Arun for (among many other things) helping out with logistics and showing me the Ghats of Western India like I have never seen.
+For everyone who attended, I hope the session and subsequent conversations sparked some curiosity about the need for building a strong data culture within our programs, people, and processes. Do reach out on
+LinkedIn
+or
+team@goalkeep.net
+if you have any questions.

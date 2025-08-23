@@ -1,0 +1,26 @@
+Title: My First Sprint in Bangalore with Tech4Dev
+Author: Siddhant Singh
+Date: July 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/my-first-sprint-in-bangalore-with-tech4dev/
+==================================================
+
+Written By:- Himanshu (Dalgo)
+Hi, Himanshu here. I recently joined the Tech4Dev (Dalgo team) as a software developer. Before joining Dalgo, I worked with tech startups for around two years. Mhd Shamoon, a senior developer at Tech4Dev, is the reason I joined T4D this time and also why I couldn?t join Dalgo last year (thanks to his habit of ignoring WhatsApp messages and now Discord messages too).
+I joined the team this July, and this was my first team sprint in Bangalore and my first time meeting everyone in person. It was also my first time taking a flight and visiting Bangalore, so my excitement was at its peak. On the morning of the 16th, I landed in Bangalore. I loved the weather, but the traffic was a different story!
+I headed directly to WeWork, where I met Siddhant (Data Engineer at Dalgo). He gave me a warm introduction to the company and the project. Later, Shamoon joined us, and at night we met the Agency Fund people (huge thanks to Sid for getting me in there). I also met Abhishek Nair (Product Manager at Dalgo) later that night?a professional as well as a friendly person.
+The next two days were similar, and I met Ashwini (Lead at Dalgo). We had a chat about her visit to Uttarakhand and my hometown, Bageshwar.
+Serious Business Starts
+?Day 17
+The 17th and 18th were the core reason for the sprint. We had a meet-up with NGOs already using our Dalgo platform and those interested in exploring Dalgo to suit their needs.
+The day started well as I got my laptop from Rohit (Manager at Dalgo). He was so occupied with so many things that our only interaction was when I asked him for my VaultWarden credentials.
+The business began with Abhishek Nair giving a brilliant presentation about Dalgo, sparking curiosity among the new NGOs about the product and its use cases. Some of the notable NGOs present were The Apprentice Program (TAP), Noora Health, Goonj, Arghyam, Udhyam, CHMLP, Arogya Health, GoalKeep, and KEF. All of them are doing great work in their respective fields.
+I was paired with Ishan (Senior Developer at Dalgo). The understanding and clarity I got from listening to him explain Dalgo to the NGOs were unparalleled. He knows the product inside and out. As my assigned buddy, we had some serious work and serious fun together.
+Understanding the NGOs, their work, and their challenges with handling data helped me grasp the Dalgo platform better. I sought feedback from the NGOs about the platform, and the one thing everyone mentioned was the user-friendly UI (UI4T). People from different fields and backgrounds were initially hesitant about understanding and using the product. However, they not only understood the product but also performed some cool data quality tests and transformations. I was really happy to be part of such a great product.
+Day 18
+The day started with Ashwini presenting Dalgo?s Quarterly Review. The cross-questioning and Ashwini?s clear responses were the highlights of that review. Then began the consulting work with the NGOs, and the day ended well with all NGOs being happy and satisfied with the resolutions to their queries. We got some great feedback from all the NGOs.
+These were two of the most enlightening days of my life.
+Fun After Work
+Every evening, I met some great people during dinner or at the hotel. Apart from India, I met? folks from Africa (Osumane), Taiwan (Linus), Austria (Ashwin), and more. We visited some fantastic restaurants, enjoyed crispy dosa, great filter coffee, and other delicious delicacies. The early morning breakfast at CTR with Lobo and team will be missed.
+In conclusion, my first sprint with Tech4Dev in Bangalore was a memorable blend of learning, networking, and fun. I?m excited about what lies ahead and grateful for the experience.
+P.S. There are some great slides regarding Dalgo Support in the Quarterly Review PowerPoint. They are hidden for some reason, but one should refer to them to gain great insights????.

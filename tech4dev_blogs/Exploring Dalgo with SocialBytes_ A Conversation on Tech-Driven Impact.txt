@@ -1,0 +1,52 @@
+Title: Exploring Dalgo with SocialBytes: A Conversation on Tech-Driven Impact
+Author: Deepak Nanda
+Date: January 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/exploring-dalgo-with-socialbytes-a-conversation-on-tech-driven-impact/
+==================================================
+
+At the Chai Pe Charcha event hosted by Project Tech4Dev,
+Girish NS
+from SocialBytes engaged in a thought-provoking conversation with
+Deepak Nanda
+, emphasizing the importance of understanding organizational needs and tailoring solutions to meet grassroots challenges. With decades of experience in addressing grassroots challenges, SocialBytes discussed how tools like Dalgo can streamline operations, enhance decision-making, and foster collaboration between NGOs and technologists. Drawing from the sessions, Girish highlighted the unique challenges faced by social organizations, such as defining problem statements, aligning expectations, and scaling solutions sustainably. The discussion underscored how Dalgo’s capabilities, including automation, data visualization, and problem-solving frameworks, align with the sector’s needs, paving the way for a more efficient and impactful future.
+Girish Dalgo Sprint
+Deepak:
+Thank you so much for joining us today. If you can, just begin by introducing yourself and SocialBytes.
+Girish:
+We have been working in the social sector for about 23 to 25 years. Our organization, SocialBytes, focuses on co-creating solutions for the problem statements that NGOs and other social organizations face. We work towards building an ecosystem that contributes to the larger social good, aligning with policies and creating impactful initiatives.
+Deepak:
+And like you talk about creating an ecosystem—that’s what you’re looking to build—and that’s where I think you are customizing your approach right now. If you could talk about that a little.
+Girish:
+In terms of the ecosystem we’re building, we’ve been exploring tools like Dalgo over the last couple of years. It allows us to streamline operations and reduce manual efforts. For example, we’ve been working on how Dalgo can help automate processes, align data, and improve decision-making for our clients.
+What we’ve noticed is that many social sector organizations lack the clarity or capability to fully leverage their data. Often, they rely on tools like Excel, which, while useful, can only handle basic tasks. Dalgo offers a solution by reducing the time and trust issues associated with manual operations. It’s about simplifying complex processes, creating better experiences for end-users, and offering a cost-effective way to improve decision-making.
+Deepak:
+You mentioned that the social sector is very different from the corporate sector. Could you elaborate on the challenges you’ve identified in your work with NGOs?
+Girish:
+Sure. The challenges are multi-layered:
+Requirement Clarity:
+Many organizations struggle with understanding their requirements. This is often due to tight deadlines and project-oriented planning without centralized oversight. NGOs may start with a certain set of requirements, but these evolve over time as the project progresses.
+Misalignment in Execution:
+As the project unfolds, donor expectations may not align with the outcomes. Sometimes, the initial problem statement doesn’t fully capture the actual needs at the grassroots level. Often, reviews happen midway through a project, revealing gaps between what was expected and what is being delivered.
+Training Gaps:
+Training the trainers and grassroots teams is another major challenge. If the people implementing the solution don’t fully understand the tools or processes, it leads to inefficiencies and rework.
+Organizational Changes:
+Changes in program teams or leadership during a project’s lifecycle can derail progress, as new stakeholders may bring different priorities or technical understandings. For instance, a change in leadership often leads to changes in project priorities, sparking delays or realignment efforts.
+These challenges are interconnected. For example, if the problem statements aren’t clear, the training may not align with the grassroots teams’ needs, leading to rework. Tools like Dalgo can address some of these challenges by providing better data visualization, actionable insights, and streamlined workflows.
+Deepak:
+That’s an interesting point. Many IT organizations come in as consultants with a product to sell, often without aligning with the actual needs of NGOs. How do events like Chai Pe Charcha help address this?
+Girish:
+Events like this are crucial because they bring stakeholders together in a collaborative space. Instead of pushing a product, these meetups focus on co-creating solutions. For example, we’ve seen organizations come to these workshops and realize that they don’t need an entirely new product but rather better integration of existing tools or even a simple dashboard.
+This collaborative approach helps NGOs align their needs with what technology can realistically offer. It’s about building an ecosystem where technologists, NGOs, and other stakeholders can work together to create solutions that are scalable and sustainable.
+When organizations have clarity on their needs, it eliminates a lot of the inefficiencies in projects. For instance, instead of adopting a completely new technology, they might simply need to automate a manual process or refine their data collection methods. These workshops help bridge that gap by focusing on human-centric, solution-driven approaches.
+Deepak:
+When we talk about products, platforms, and people, it’s clear that data plays a significant role in the social sector. What are your thoughts on the challenges and opportunities that data presents?
+Girish:
+Data is critical, but it’s often underutilized. Many organizations collect vast amounts of data without a clear plan for how to use it effectively. The key is to focus on actionable data. What decisions are we trying to drive? What insights do we need? Instead of gathering everything, organizations should prioritize quality over quantity.
+Security is another important consideration. NGOs must ensure their data is ethically used and well-protected. They also need better training to understand what not to do with data. It’s about building a system that is sustainable, scalable, and aligned with the organization’s mission.
+Most organizations need to be more thoughtful about data collection. Often, they don’t ask the right questions, leading to data that is either irrelevant or underutilized. The focus should be on collecting data that drives actionable insights and understanding the security implications of managing sensitive information.
+Deepak:
+That’s a valid point. Any parting thoughts?
+Girish:
+The social sector is unique because it operates on trust, collaboration, and shared goals. Tools like Dalgo have the potential to transform the way we work by addressing operational challenges and enabling better decision-making. But the success of these tools depends on how well they are aligned with the actual needs of the organizations.
+Workshops like Chai Pe Charcha are a great step forward in fostering dialogue and collaboration. They help bring everyone to the same table, enabling us to co-create solutions that are impactful, scalable, and human-centric. The key takeaway here is that technology is a means to an end—not the end itself—and we must focus on aligning it with real-world needs for meaningful social impact.

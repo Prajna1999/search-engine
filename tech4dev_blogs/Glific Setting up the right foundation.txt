@@ -1,0 +1,60 @@
+Title: Glific  Setting up the right foundation
+Author: Kurund Jalmi
+Date: June 2020
+Category: Glific
+URL: https://projecttech4dev.org/glific-setting-up-the-right-foundation/
+==================================================
+
+The strength of a building is heavily influenced by its construction process. Planning and plotting of the site determine its fitment with the terrain and the society. Well, it?s the same for software too.
+Like buildings, the foundation of software determines its longevity and adaptability in the world. To sustain, it should be able to cope up with the needs of the people it is built for. And for that, the base work needs to be solid.
+A recap of the first month which had been the most crucial time for us. Everyone had a single target to work on:
+Starting It Right
+. Like any other project, Glific too had a lot of abstract areas and the team not knowing where to begin.
+Here?s what we did to overcome these challenges.
+Devising a process
+We knew that each phase of the project has several unknowns. Be it requirements, research, design, tech, processes, tools, customers,? everywhere. Breaking down complex items into smaller pieces helped to set a direction and get the
+action items
+ready.
+The first step was to set up a process to tackle these unknowns. A communication channel and regular team meetings were set up to keep everyone in sync and foresee anything going off track.
+Conquering abstraction
+After breaking down the areas of abstraction, the teams were ready to work on all the unknowns.
+Content team targeted the following:
+Documenting requirements
+A clean and detailed requirement
+will guide the team on what to build.
+Release plan
+A
+comprehensive release plan
+setting up direction on where to begin.
+The tech team worked on the following:
+New frameworks, languages, and tools
+Getting familiar with the
+building blocks
+to leverage the advanced concepts and utilizing various design principles.
+Setting up best practices
+Coding conventions
+and guidelines will be there with the project forever. Important to have them in place from the beginning.
+Planning the architecture
+Both the backend and frontend teams had been rigorously focusing on shaping a robust architecture.
+Integration with external services
+Most of the rework is needed here if things go haywire. Flexibility to switch third-party services was the target.
+Aiming for the long run
+While it’s always exciting to work on new areas and deep dive into specifics, it’s important to not lose focus on the larger picture. With the following items, the team ensured we’re there for the long run.
+Naming the project
+Everybody wants their software to stand out from the rest. That’s why we put so much effort into getting it right.
+Read the story
+behind naming Glific.
+Planning for community engagement
+An open-source project will thrive if people find it easy to contribute.
+Documentation and guidelines
+were priority from the beginning.
+Bringing in automation from the beginning
+Be it as simple as code formatting or complex as
+Continuous Integration
+, reducing manual work would definitely help.
+Understanding the market
+Weekly demos
+with the various non-profits helped to understand the accurate use cases.
+It had been pretty much the first month of Glific. A lot was covered and still a lot is remaining. The team had been persistent and patient to cover this milestone through small steps.
+As of now, most of the unknowns have been resolved. We’re progressing towards the first release with a strong foundation in place with the hope to contribute to a greater cause.
+Stay tuned for more updates!

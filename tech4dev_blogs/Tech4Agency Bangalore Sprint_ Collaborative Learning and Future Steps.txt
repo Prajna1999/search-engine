@@ -1,0 +1,43 @@
+Title: Tech4Agency Bangalore Sprint: Collaborative Learning and Future Steps
+Author: Donald Lobo
+Date: July 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/tech4agency-bangalore-sprint-collaborative-learning-and-future-steps/
+==================================================
+
+Approx 9 months ago, we collaborated with the Agency Fund to run two sprints with some of their grantees in India and Africa along with a combination of Project Tech4Dev and Agency Fund personnel. The
+first sprint in Naivasha, Kenya
+was the warm up act, a true unconference, with no specific focus (other than the broad concept of tech and data). It helped us learn a lot from each other between both NGOs and partners, get everyone (or mostly everyone), comfortable with the idea of sharing in an open way, learning from each other and building on each others work. You can read more about this event, in the
+multiple blogs here.
+We agreed to take it to the next level at the Bangalore, India sprint and focus on two specific tracks. We started off with three, but would up with two based on some initial feedback from the participants. The two tracks were the User Engagement Track and the AI/LLM track. There will be quite a few blog posts (I hope), about both of these tracks, so rather than dive into those tracks per se, I’ll talk about some of my learnings and observations both before and during the sprint.
+Broad Agenda and Goals
+The UE track folks (Rob, Temina, Patricia, Jamie along with Rocket Learning) spent a lot of time and energy prepping for the talk, giving the NGOs a lot of pre-work, and came in with a definite mission and objectives they wanted to meet. Rob and Temina have been experimenting with different variations and sections of this curricula across the SPC Fellows Cohort 1 and 2, DCP Cohort and the Dasra gathering. So they came in with some tried and tested curricula and an amazing NGO partner in Rocket Learning, who they have worked with over the past year to fine tune some of these concepts. From my perspective, the UE track was quite brilliant, well executed and everyone came out of it with a good idea of potential next steps. The UE track has 8 NGOs participating, with 30 participants.
+The AI/LLM track did something completely different. This track had 6 NGOs participating with 20 participants. Since LLMs are relatively new, and each NGO knows a little bit about the work that they did, it was more a peer learning and knowledge sharing track. All the participants got introduced to tools and techniques that they had heard of, but probably not used. The most useful sessions were the ones that onboarded the rest of the NGOs on the tools that one NGO was using (langfuse, ragas, prompt engineering, filesearch, auto-agents etc). Overall, though very different, also as useful and all the participants came out super engaged and energized
+We ended the event with an open happy hour in Indiranagar, Bangalore for NGOs in the region. Such open events rarely happen (maybe never happened), and it was great to see the 50+ NGOs attend the event, catch up with old friends (mostly), meet a few new ones and just have a good agenda-less time. There were no expectations or agenda at this event, but I’m glad we got a chance to bring together the local NGO community. We failed/forgot to invite our foundation/funding partners, and in retrospect, it was big mistake on my part. Need to figure out a way how this can happen across India
+Hits and Misses
+This writeup has gone a bit longer than I expected, so here are some things, which I suspect we’ll iterate on and improve for the next event and some of the joys
+We had an organized meet-and-greet on Day 0 of the event, and an impromptu one on Day 2 of the event. The Day 0 event was a lot calmer and people were tentative. Day 2 event was a lot more boisterous. It was in a much smaller space etc, so maybe switching the two gatherings makes sense for future events
+We missed doing a group introduction of participants and NGOs on Day 0. I think this is the best time to do it (even though we would be missing a few folks), and let folks know each other better. At the end, I knew the AI/LLM track NGOs fairly well, but only a few on the UE track, and I tried to make a concerted effort to chat with as many folks as I could. Maybe borrow the haiku idea from Mulago foundation and get each NGO to present their work as a haiku.
+We did not have any combined sessions between the two tracks. We kinda knew this going in, but could not figure out how to make it happen, and took the easy way out. The next time, we need to make it happen.
+For each session, we need to ask the question:
+What is the one key learning we want from this session for the group
+For the AI/LLM track, I suspect asking this question, would have eliminated at least one session a day. We needed to be a bit more brutal here.
+We need to work with the participants, to ensure their presentations are crisp and get to the heart of the problem quickly. Many presentations focussed a fair bit of time on what the NGO does at a very broad level. This is definitely interesting, but sometimes not useful when we are doing a technical deep-dive
+We got feedback from the participants after the morning session and at the end of the day. This allowed both tracks to make adjustments both mid-day and end-of-the-day. This was super awesome, and definitely cool to see this play out in real time. Listening and responding to your audience is important!.
+The most common issue was the packed agenda (for an unconference!). We did loosen it up a lot in subsequent days, but still grappling with how can we discover the right balance and still keep it productive
+Is 3 days enough Should we make it 5 days Will the folks running the tracks go a bit crazy in 5 days (I know, I would!). But questions to ponder
+For something like the AI/LLM track, could we work on 1 or 2 large problems collaboratively and come up with a solution. Should we assign each NGO to go investigate and teach the team one of the more recent things that has come out in the past 6 months
+We got a bunch of new ideas and thoughts for our soon-to-come AI platform. We also kickstarted the XPlat platform (Experiments Platform) with Rob and Linus.
+The last few Tech4Dev sprints have been very product focussed or team focussed. It was quite nice to organize a broader sprint which reminded me of the early tech4dev sprints, the Tehri sprint in particular comes to mind.
+Next Steps
+Temina started and ended the event with two critical things (which i’ve not seen/done before). Commitments from everyone at the beginning to: Be on Time, Be involved and engaged, Be open and sharing, and (I forgot the 4th, will get this soon)
+At the end, we repeated it by committing to a few things going forward after this event. Different folks made different commitments (which they may or may not share), but broadly the T4D team committed to
+Continue holding such spaces for the NGO community for the next year
+Incorporate our learnings from the AI/LLM track into our platforms
+Work with AF into making XPlat an open source platform and Digital Public Good
+Talk with NGOs in the broader community more often and learn from some of the cutting edge work that they’ve been experimenting with
+References and other Information
+(will add links to the information as they come online, including what we can publically share)
+Bangalore Sprint: Innovating User Experience with LLMs
+Community at Agency Fund <> Tech4Dev sprint
+Sprint Reports from Kenya

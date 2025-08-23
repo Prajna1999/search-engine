@@ -1,0 +1,12 @@
+Title: Development Data Platform
+Author: Kurund Jalmi
+Date: December 2022
+Category: Dalgo
+URL: https://projecttech4dev.org/development-data-platform/
+==================================================
+
+The Development Data Platform (DDP) provides a low maintenance, low cost, SaaS data platform composed of open source software elements to tackle data ingestion, storage, transformation and visualisation. It mirrors a modern data stack found in the private sector, while specialising in integration tools and is tailored to the needs and goals of the development sector.
+This platform came about from our experience of working with multiple organisations in the Indian NGO ecosystem where we saw challenges in disjointed data sources, data ingestion pipelines constantly breaking down and needing to be fixed with changes in data schemas, data synchronisation problems between source data and data warehouses, data quality issues, up-to-date versioned documentation of data transformations and aggregations, and usage of open source visualisation tools.
+It was also influenced by how we can work with NGOs to use data in a “smart” manner to provide better, deeper and more meaningful insights for greater impact.
+DDP leverages the power of data to optimise processes and program operations. The platform replicates data from multiple existing tools used by the social impact space organisations (like CommCare, SurveyCTO, Glific, Avni, Google Sheets) as part of an open source data integration pipeline that has high visibility of issues and maximum uptime. Using top of the line open source packages for transformations and visualisations, DDP aims to satisfy the analysis and visualisation needs across most NGOs.
+We are currently in beta mode piloting with a few non-profit  organisations.

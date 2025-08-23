@@ -1,0 +1,36 @@
+Title: Empowering Women Entrepreneurs through Financial Education: The Story of Creador Foundation and Multiply
+Author: Deepak Nanda
+Date: June 2025
+Category: Glific
+URL: https://projecttech4dev.org/empowering-women-entrepreneurs-through-financial-education-the-story-of-creador-foundation-and-multiply/
+==================================================
+
+In 2018, the
+Creador Foundation
+was born out of a deep desire to give back to the community. Established as a trust in Malaysia by its trustees, including Shanti Kandiah, the foundation set out with a bold vision:
+to empower local communities and drive sustainable, transformational change
+. One of the most pressing gaps it identified was the lack of accessible, relevant financial education—especially for underserved populations in Malaysia and India.
+From Malaysia to India: Building a Digital-First Education Model
+The foundation’s flagship initiative, Multiply, was conceptualized as a digital-first financial education platform. By 2020, Multiply had already reached over 600,000 users in Malaysia. Encouraged by its success, Creador Foundation expanded its focus to India in 2021.
+In India, Multiply specifically targets young women and micro-entrepreneurs, especially in Tier 2 and Tier 3 towns. These women often fall through the cracks of traditional financial literacy programs, which are either embedded in broader financial inclusion efforts or tied to livelihood programs—and rarely digital.
+Creador’s strategy was different. Rather than relying solely on face-to-face interventions, Multiply aimed to build an ecosystem of accessible, mobile-first financial education content. This included not just basic financial concepts, but also up-to-date, practical information—like government schemes, safe investment options, and business strategies—that could actually make a difference in women’s lives and businesses.
+The WhatsApp Shift: Learning from the Field
+Initially, Creador experimented with a custom-built web app. But user testing and field research revealed a hard truth: people didn’t want to learn on unfamiliar platforms. They preferred to engage on platforms they were already using.
+So, the team pivoted—creating engaging short-form videos and distributing them via Facebook and YouTube. These videos quickly gained traction, amassing over 800,000 users across India.
+But even social media has its limits when it comes to interactivity and feedback. To bridge this gap, in 2024, the foundation began working with Project Tech4Dev and transitioned to a WhatsApp chatbot model. The chatbot allowed them to create personalized, interactive, and behavior-informed experiences—reaching over 10,000 women entrepreneurs in the first year.
+The shift was transformative. Unlike the one-way communication of social media, WhatsApp enabled real-time conversations, learning, and insights. The team could ask users questions, receive direct feedback, and update content based on real challenges faced on the ground.
+They also learned valuable insights about user behavior—for example, women were more likely to engage with content late at night or early in the morning, once daily chores were done. This informed how and when content was delivered.
+Building for Scale and Personalization with AI
+Looking ahead, Creador Foundation is setting its sights high.
+Goal: Reach 300,000 to 400,000 women on WhatsApp with continuous, interactive financial learning journeys.
+Next Steps: Integrate AI-driven personalization to gamify the learning experience, offer quizzes, and track progress.
+Vision: Equip women not just with knowledge, but with the tools and confidence to implement these learnings in their lives and businesses.
+Through its collaboration with Project Tech4Dev and platforms like Glific, Multiply is also exploring ways to measure learning outcomes directly within the WhatsApp flow, ensuring that women are not just absorbing content but actively applying it to improve their economic outcomes.
+What Sets Multiply Apart
+Hyper-relevant content tailored to women’s lives and financial realities.
+Real-time updates on government schemes and current financial products.
+Two-way learning through WhatsApp, giving voice to user needs and challenges.
+A clear shift from content delivery to user-driven engagement and transformation.
+“Financial education transforms not just individuals, but entire families and communities. Multiply is our way of scaling that transformation, one message, one video, one conversation at a time.”
+—
+Surya Banda, Creador Foundation

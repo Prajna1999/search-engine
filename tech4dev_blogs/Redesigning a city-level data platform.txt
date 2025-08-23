@@ -1,0 +1,71 @@
+Title: Redesigning a city-level data platform
+Author: Kurund Jalmi
+Date: March 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/redesigning-a-city-level-data-platform/
+==================================================
+
+In the age of urbanisation that?s seeing cities grow at a fast pace. Meaning larger, more diverse problems in urban planning. In such challenging times, an open data platform that captures and gives access to quality city data would help drive better citizen-led governance and arrive at collaborative ways to address the rising urban challenges.
+We have partnered with Oorvani Foundation, which works on open knowledge platforms, that help catalyse better cities.
+Their vision is to:
+Better cities with the informed, engaged and active citizenry.
+And their mission is to: Build open knowledge platforms for civic media, open data, and citizen engagement.
+Their initiatives include:
+Citizen Matters
+– an independent news media focused on cities and citizens, with professional journalists and citizen reporters offering insights and solutions to India?s urban issues.
+Co Media Lab
+– a community media lab to support civic engagement and collaborations.
+What is OpenCity?
+OpenCity.in
+is a data portal focussed on city-level data and its usage. It was developed in collaboration between the
+Oorvani Foundation
+and
+DataMeet
+, a community of Data Science and Open Data enthusiasts.
+The platform helps citizens and civil society by bringing visibility and transparency into local governance and enabling data-driven decision making.
+Why do this?
+Currently, there are 534 Datasets and 1323 Documents hosted on the platform and it is continuously growing to cover more information and data from cities like Bengaluru, Chennai, etc.. On average, over 60K users use the platform every month.
+With a vision to make this already widely used platform more accessible and increase advocacy, OpenCity.in, Tech4dev and CivicDataLab banded together in February.
+We plan to create an easily scalable platform with more city level pages detailing high-level statistics and analytics to drive more research from the platform. With a few well-placed design research workshops and working sessions with data and civic collaborators, we hope to improve public participation and contribution to the platform.?
+How we plan to do this:
+Design and Background research
+We plan to study the existing OpenCity portal and other City portals to see how they are designed to benefit civic engagements. We would study user journeys, possible pain points/drop offs and other site level patterns. User Research would be done to understand the reasons behind some of these problems while also helping us better gauge emerging user needs and opportunities for OpenCity.
+Setup Base for CKAN and analyze CKANext universe
+We plan to study existing open data platforms and CKANext universe for city-level data publishing and find features, extensions and plugins that can be replicated for OpenCity. Also, develop a comprehensive meta-data form to ensure metadata is collected from the OpenCity team which would make usage of data and datasets easy but also replicable and scalable.
+Design and develop the user interface for CKAN based on user requirements
+We plan to conduct user workflow testing of low fidelity designs to understand user journeys and experience. Use the learnings to create high fidelity designs complete with palette, iconography, typography and other visual components. Finally, build skin and interactions for OpenCity.
+Develop to Integrate Data Visualizations?
+We plan to research the prominent category of datasets available on OpenCity and integrate appropriate visualizations on the platform using D3.js, NVD3.js, Leaflet, Mapbox and Apache Superset
+Migrate to CKAN
+Write scripts to migrate data and documents from WordPress pages to CKAN to build a robust search which enables faster searchability and discoverability of data. Better maintenance and structure of data making it more scalable.?
+Build City Explorer Pages for 5 Cities and Handover to Team Open City
+Design and develop and thoroughly test City Explorer pages for select 5 Cities so that it?s scalable to other cities in the future. Set up Google Search Console for publishing timely sitemaps, Google Analytics and Matomo(for usage heatmaps and more features) for collecting user behaviour on the platform and create timely usage reports.
+Conduct a 2-day workshop for the OpenCity team to get them on board to the new ecosystem and do a handover for further development cycles.
+Tech Stack
+Primary Data Platform: CKAN
+Language: Python
+User Interface: WordPress
+Peeking into the future
+We can process and search for Non-machine-readable formats (like images, pdf etc.)
+Develop other City level dashboards to enable exploration and analysis between various cities
+Integrate a data collection app to OpenCIty to enable the collection of primary data.
+Use linguistics and Natural Language Programming methodologies to increase the access to resources by translating to Indian vernacular languages.
+Working to create impact through data
+City Planning
+– More mindful and holistic approach to building transportation routes, based traffic and citizen feedback and needs
+Citizen-led change
+– Better data-driven decisions to run campaigns to rectify potholes, environmental campaigns
+Times of COVID-19
+– More awareness of city-level local campaigns
+– Activation of neighbourhood resources to help the affected, in times where immediate action is critical.
+Additional Resources
+City Portals
+https://opendata.cityofnewyork.us/
+https://carto.com/blog/mapping-urban-transit/
+https://jhaddadin.github.io/trashcity/index.html
+https://www.splcenter.org/hate-map
+https://kamba4.crux.uberspace.de/#what
+https://data.smartdublin.ie/mapexplorer
+https://urban.jrc.ec.europa.eu/#/en/thematic-analyses
+https://colombia.infoamazonia.org/
+https://futurecity.glasgow.gov.uk/data/

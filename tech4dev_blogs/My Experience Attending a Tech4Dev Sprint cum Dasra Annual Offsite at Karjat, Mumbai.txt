@@ -1,0 +1,16 @@
+Title: My Experience Attending a Tech4Dev Sprint cum Dasra Annual Offsite at Karjat, Mumbai
+Author: Piyali
+Date: April 2023
+Category: Fractional CxO
+URL: https://projecttech4dev.org/my-experience-attending-a-tech4dev-sprint-cum-dasra-annual-offsite-at-karjat-mumbai/
+==================================================
+
+As a regular attendee of office events, I’m used to having my calendar fully blocked, with no time to do anything else apart from attending the sessions. But my recent experience attending a Tech4Dev Sprint was different, and for the better.
+During the first two sprints (Goa and Jaipur) I wasn’t sure how to make the most of my time. But after attending two Sprints and my third one at Karjat, Mumbai, I got the hang of it and appreciated the flexibility that allowed me to work on my regular tasks while attending the sessions.
+One of the highlights of the Tech Sprint was the session with the Dasra Team. We talked about the platforms and services that Tech4Dev has, and at the end asked the Dasra programs teams to think about the challenges they have and if any of the solutions Tech4Dev has can solve them. To provide additional support, we allocated one Tech4Dev team member to each table (each table had one program team). Having one member of the Tech4Dev team assigned to each table helped the Dasra team to ask questions and think through the challenges and possible tech solutions. This session was incredibly productive, and it helped me feel more connected to the Dasra Team and passionate about the work that they’re doing.
+In fact, I was so inspired that I spoke with Erica, the India Head of Project Tech4Dev, about the possibility of volunteering one day a month to help them navigate their technical challenges. Many of their problems don’t even require sophisticated solutions and could be solved using tools like Google Forms or WhatsApp communities, etc.
+Tech4Dev Introduction Session with Dasra Team
+Another session that stood out to me was the one on how to come up with a dashboard, conducted by Swapneel Rane, the founder of Goalkeep. It provided a useful framework for asking the right questions to reach the dashboard that we want to see.
+Aside from the productive sessions, the unstructured fun time towards the end of the day was also helpful for bonding with the team. The karaoke and DJ night organized by the team provided a much-needed break from the work.
+Team Picture After Bowling
+Overall, attending the Tech4Dev Sprint with the Dasra Team was a great experience. The flexible schedule, joint sessions, and useful sessions made it a productive and enjoyable event. I’m looking forward to attending more of these sprints in the future.

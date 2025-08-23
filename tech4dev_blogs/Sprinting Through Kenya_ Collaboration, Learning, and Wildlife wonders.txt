@@ -1,0 +1,34 @@
+Title: Sprinting Through Kenya: Collaboration, Learning, and Wildlife wonders
+Author: Glific Admin
+Date: February 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/sprinting-through-kenya-collaboration-learning-and-wildlife-wonders/
+==================================================
+
+Written
+By: Krishna Priya
+People who know me well at work also know that I procrastinate when it comes to writing. I think it’s because I often struggle to find the right words (See! Even here, the word “articulation” didn’t come to my mind first). But this is the blog that I really felt like writing because I don’t want the conversations I’ve had or the things I’ve learned in the last two days to fade from memory ever!
+To give some context, we (
+Project Tech4Dev
+) &
+The Agency Fund
+(TAF) co-hosted a sprint at Naivasha, Kenya. The aim was to bring together organizations tackling different issues, enable cross learnings and create a strong community of learning and collaboration. I, along with four other team members, had the opportunity to attend.
+We’ve been conducting sprints for the past couple of years in India, and I’ve always been excited for them. They give me a chance to meet passionate people, hear exciting ideas, and learn from experiments and experiences (Read
+my last blog
+on the Goa sprint experience). So, when Lobo asked if I’d be interested in joining the sprint in Kenya, I was more than happy. I was curious to learn how the NGO landscape in Kenya/East Africa is, what the similarities and differences are compared to India.
+Over the past two days, through multiple sessions (amazingly designed & hosted by TAF), lightning talks, dinner table conversations, and outings, I had the chance to engage with people from diverse nations, educational backgrounds, and professions (designers, behavior scientists, data scientists, developers, academia, program & product managers, founders- Wow!). They’re all working on addressing various challenging issues faced by less privileged communities, such as maternal & child healthcare, mental health of youth & LGBTQ+ community, and education. Each conversation and session gave me valuable insights. Every conversation and session left me with some learnings & thoughts – but here are a few that will stay with me for a longer time.
+Kenya & India share so many cultural similarities hospitality, norms around gender inequality, the education system, stigma around mental health, etc. I never realized that 2 countries from 2 completely different continents could have so much in common. How can NGOs learn more from each other while designing models?
+The
+Shamiri team
+(Rahim & Shadrack) shared the “4 enoughs approach,” which they follow when creating dashboards, strategies, or models to ensure scalability GOOD ENOUGH (sufficient impact to matter), BIG ENOUGH (adequate scope given the problem’s scale), SIMPLE ENOUGH (for easy replication by other organizations), CHEAP ENOUGH (affordable at scale to sustain the model)- This is something that I am going to keep asking myself whenever I am designing something.
+All NGOs are facing challenges related to Data (be it data collection, cleanup, drawing actionable insights, correlating with impact, and building data culture). We need to collectively solve the problem by creating/sharing more common resources, learnings, best practices and tools which might solve the problem to some level.
+Leah Mwai from
+Shujaaz
+& I had an interesting conversation, where she passionately spoke about how the education system often asks us to choose between the left & right brain, but does not encourage all of us to use both to solve problems creatively yet rationally. She spoke about how it is important in NGO sector to have team members from varied sectors to strike a balance between implementation & taking a scientific/research approach to solve problems at scale.
+She also shared her idea on involving university research scientists/students in local NGOs for their Ph.D. projects, benefiting both parties (University students – to find projects where there is a lot of scope to research and NGOs who will get scientific minds on board who understand local context & culture). And this will also help to build a stronger ecosystem. I feel this is a powerful idea worth exploring.
+One question has been my dilemma for years: If scaling programs compromises impact, should NGOs even scale? Why not focus on achieving a significant impact with smaller groups? While I understand the breadth of the problem, I’ve never gotten a satisfactory answer from any of my discussions. I had brought this up with Lobo as well, and he said, See, many NGOs have shown us how we can effectively solve the problem in comparatively smaller groups. But none of us know how to solve it at scale – hence right now it might look like we aren’t impacting or we are just experimenting. But if we don’t do those experiments now, the problem will multiply so many times that we won’t even be able to have money, human resources to experiment at that scale. I am not sure if it’s the person who told it & the way it was told made the impact- As I connect the dots based on my experience, I think I now understand the importance of scaling, experimenting, and learning from failure better than before.
+This sprint reinforced in me the importance of bringing people together to share their work, learnings, experiences, and failures. Based on conversations I had or the presentations I heard, I realized that there is so much in common that can be shared with each other, without the need to reinvent (or minimize) the wheel. How can we make that happen? What will it take for all of us to do that?
+Last but not least, Kenya’s nature, wildlife, and beauty have been a HUGE highlight. The nature walk to Lake Naivasha, outing to Crescent Island with the whole group, and the beautiful stay will be remembered forever.
+Team Project Tech4Dev at Crescent Island
+Lake Naivasha- During the morning Nature walk
+I look forward to discovering what the coming days hold in store.

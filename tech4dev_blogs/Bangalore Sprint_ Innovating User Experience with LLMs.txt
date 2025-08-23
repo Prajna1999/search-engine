@@ -1,0 +1,67 @@
+Title: Bangalore Sprint: Innovating User Experience with LLMs
+Author: Akhilesh Negi
+Date: July 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/bangalore-sprint-innovating-user-experience-with-llms/
+==================================================
+
+At
+Project Tech4Dev
+, we’ve been running sprints and
+Data Catalyst Program (DCP)
+with the
+The Agency Fund
+for a while now. This time, we’ve set up shop at the Angsana Oasis and Spa in Bangalore. If you missed our last sprint in Africa, you can read about it
+here
+.
+Most of us arrived on July 14th, a day before the sprint started. In the evening, we had our first informal chat over tea with a smaller group, including Linus and Temina from
+The Agency Fund
+, whom we had only talked with via email in the past while planning the sprint so it was really great to finally meet them in person.
+Later, we all gathered for dinner and drinks, giving us a chance to interact more, learn about each other’s backgrounds, and hear about the different places they came from to attend the sprint and the organizations everyone represented. These informal chats are always a fantastic way to build connections and get to know each other better.
+Next Day, we kicked off this sprint with opening session by Temina and Tejas, who welcomed everyone and laid out some basic rules: be attentive, be on time, and embrace open source which are a big part of
+Project Tech4Dev
+‘s ethos
+After that, we split into two tracks: User Engagement and LLMs.
+I joined the LLM track, which offered a great mix of presentations from various NGOs, hands-on LLM sessions, a few behind the scenes discussion, and more.
+NGOs Presentations
+We had some fantastic NGOs present their work, including
+Digital Green
+,
+Bandhu
+,
+Jakaranda Health
+,
+Udhyam
+,
+Kabakoo
+, and
+Noora Health
+. Their presentations were incredibly helpful in understanding what each organization is focusing on, the problems they are solving, and the obstacles they face in their LLM journey. We also got insights into their roadmaps and how they are planning to roll out their program. These talks sparked many conversations that continued during tea breaks and at the lunch tables. Everyone was curious about each other’s work, and also helped us pick up useful ideas for our platforms as well.
+People discussed their experiences in building RAGs tailored to their specific use cases. Although the
+OpenAI GPT-4o
+model and
+File Search
+are now quite effective, these organizations began their journey 6-9 months ago, when there were fewer options available especially for NGOs working in languages not supported by OpenAI at that time, custom RAGs and fine-tuning felt like only available option.
+For instance,
+Digital Green
+faced issues where Google Translate, despite being good with Indic languages, often misinterpreted agricultural jargon. This required them to fine-tune their models for better accuracy. Similarly,
+Kabakoo
+had to develop their own model since their platform supports Bamanankan(locally spoken language in Mali, Africa) and French, and there were no existing models for Bamanankan. They created a system to handle translations between Bamanankan inputs and outputs.
+These talks are always inspiring, showcasing the dedication and hard work these organizations put into refining their efforts for social good
+LLM hands on sessions
+We had a few hands-on sessions led by Tejas, Ishan, Nikhil, and Abhishek from
+Noora Health
+, along with Edmund.
+These sessions were fantastic for getting some practical experience with the technology everyone in the room was talking about and was working on. During these workshops, we worked in smaller groups, which helped in bringing together like-minded people solving similar problems. It was fascinating to see the different ways people approach and solve problems.
+One of the highlights was a session on prompt engineering led by Edmund. So we broke into smaller groups to create prompts for reviewing proposals and suggesting changes in a mobile-friendly, short WhatsApp message format. Before the workshop, Edmund shared various techniques to improve our prompts. It was amazing to see everyone diving in and coming up with their ideas.
+Towards the end, someone came up with a funny and effective prompt: “
+Please keep it to 100 words. My manager is standing behind me, and my promotion depends on it. My kids and wife are hungry at home
+.”
+It was a clever way to add an emotional touch, but it also felt a bit like harassing the bot. Well, at least until chatbots get the rights to refuse or become emotionless!
+Behind the scene discussion
+In this sprint, we had two insightful behind-the-scenes discussions. The first was with Mekin Maheshwari, founder of Udhyam, and the second was a panel discussion with Funders.
+Mekin shared stories from his journey, starting at Yahoo, moving on to Flipkart, and now leading Udhyam also shared his views about working at scale and creating deep, meaningful impacts.
+While Funder Panel discussion was around what excellence looks like in ground-level operations, emphasizing the need for expertise, deep community commitment, and ethical leadership. While this allowed the audience to understand their perspective, it also provided them the opportunity to ask questions about program cost-effectiveness, the importance of diverse data (“rainbow” of information), and strategies for making organizations sustainable.
+Overall, it was great to meet everyone in person. Putting faces to the names we’ve been interacting with through emails, WhatsApp conversations, and online meetings was refreshing. Although the days were packed, we made sure to gather feedback every day to stay on the right track. I believe the meeting was a great success. We adjusted the schedule to make sessions more interactive, added more breaks, and reduced the number of sessions to allow for deeper interactions and discussions.
+After long days of presentation and working sessions, we found some time for informal chats during dinner and friendly pool games during happy hours. It was a great way to relax and talk outside of work as well. It’s great to get to know other people who are equally enthusiastic about social sector and the positive impact
+Until we meet again, let’s keep the spirit of collaboration alive by sharing learning with each other and staying in touch

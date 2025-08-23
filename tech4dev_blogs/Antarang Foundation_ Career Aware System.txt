@@ -1,0 +1,25 @@
+Title: Antarang Foundation: Career Aware System
+Author: Kurund Jalmi
+Date: November 2018
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/antarang-foundation-career-aware-system/
+==================================================
+
+The same technology that we often take for granted in our day-to-day lives is, in reality, a key factor in the progression of our societies. New technological advancements are entering the digital world every single day- it all comes down to pinpointing which technology is the most applicable based on your requirements.
+In November 2017, the tech-savvy Donald Lobo
+and Kurund Jalmi offered to work with Antarang Foundation, pro bono, in order
+to develop a technological solution to process the large amounts of student
+data we collect. The aim was to enable our foundation to continue to provide
+standardized yet individualized input to the students- on a larger scale,
+without increasing manual labour.
+The development and production process involved two softwares- Yoctel and Salesforce. A decision was ultimately made to redesign the content and simplify the process by utilizing Optical Mark Reader (OMR) Sheets to input the student data. What seemed like a simple transition from manual data collection to digital data collection resulted in a dramatic change in the number of students we could reach out to and guide.
+Prior to the implementation of the technology, our process of data collection and processing used to be time consuming and manual labour-heavy. Every facilitator would individually fill in data from each student into excel before drawing a conclusion on their career path. While there was a specific guidance framework for our trainers, individual differences are inevitable and may have led to subtle biases in the analysis of students? abilities.? In addition to solving the issue with the investment of time, we were seeking a solution that would eliminate any individual biases and enable a standardized analysis for each student.
+As of now, Indian municipal schools have
+limited digital infrastructure. Considering the quantities of students,
+attempting to provide a tablet to each student is not a feasible solution. The
+alternate solution to use OMR sheets to collect data served as the perfect way
+to solve the problem with regards to quantity: price-friendly and sustainable.
+The OMR sheets enabled us to draw connections between high-level inputs from counselors and the inputs from students. Students? answers were digitally available and within seconds, an IARP + Student Aspirations (Interest-Aptitude-Reality-Personality) score was created. The algorithm was designed in a standardized manner to map students? profiles to industries or organizations to find the right match. The students? reports were computed on Salesforce and then reports were created such that concluding information would be easy to digest for both the students and their families. While we were once able to reach only 2,000 students a year, thanks to this technology, we were able to reach 14,500 students this past year and are projected to reach 25,000 in the upcoming year. Additionally, since the system is automatically doing the work, the trainers also have more time to spend focusing on the quality of their direct interactions with students.
+Through the impacts we have seen from the technological intervention, the emerging prevalence of technology in our society has become clear. It is evident that technology is soon going to work its way into most work fields and it is important that we continue to build our resources. Thanks to technology, we have been able to reach a much larger youth population and we are hoping that we can continue to scale this impact in the future.
+Author: Insiyah Rangwala, Process Optimisation and Technology at
+Antarang Foundation

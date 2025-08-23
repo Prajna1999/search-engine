@@ -1,0 +1,21 @@
+Title: Applications Open for Tech4Dev’s Fifth Cohort
+Author: Kurund Jalmi
+Date: March 2021
+Category: Glific
+URL: https://projecttech4dev.org/applications-open-for-tech4devs-next-cohort/
+==================================================
+
+We recently started accepting applications for our fifth cohort. For this cohort, we are focusing on training 10-12 NGOs that work in India on best practices in digitally communicating with your end-users. The details of eligibility, application process and timelines are available
+here
+.
+The training will be run by the
+Glific
+team and our partners
+Tech4Good Community
+. The goal for the cohort is to on-board NGOs on Glific, our two-way communication platform. The cohort runs for 3 months with NGOs sharing half the cost of training and onboarding.
+The Tech4Good team and the Glific team will provide 2-3 days of in-depth training on two-way communication and Glific. We will help the NGOs get onboarded on Glific and, over 3 months, provide 10 hours of consulting on areas such as creating effective communication flows, designing messages for better engagement and interaction, and the mechanics of working with WhatsApp business API.
+The deadline for application is
+April 11, 2021, 11:59pm IST
+. Application details are available on the
+Tech4Dev web site
+.

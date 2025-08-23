@@ -1,0 +1,93 @@
+Title: Starting the new year with reflections on Dalgo’s direction
+Author: Ishan Koradia
+Date: January 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/starting-the-new-year-with-reflections-on-dalgos-direction/
+==================================================
+
+The first sprint of the year 2025 and this time we were camped out of Mahabalipuram (58 KMs from Chennai), a city of rock temples and monuments filled with ancient history. With its shore touching the Bay of Bengal, the town is blessed with an evening breeze that helps you calm down and reflect on the activities of a long day. This sprint week was also full of reflections, meaningful conversations with NGOs, and internal discussions about potential future features of Dalgo.
+We had around 8-9 NGOs (~12 participants in total) attending the sprint for a period of 2 days. And the Dalgo team had a couple of goals/aims with them going into the sprint
+Facilitate/co-facilitate sessions on “Leveraging AI for non-profits” and “Practical challenges on data” (Aditya from Goalkeep took the lead on this session) to help NGOs
+Discuss our roadmap to the NGOs and get feedback from the NGOs
+Prepare a prototype for the chat with data feature and get feedback from the NGOs
+Get some quick wins during the work time
+In addition to the above, I had some goals of my own
+Listen & understand how the NGOs are currently using Dalgo
+LIsten & understand what other problems are they facing in their org that Dalgo could potentially help them with
+Get a rough blueprint in my mind of Dalgo’s direction for the next 2 quarters based on internal discussions and conversations with NGOs
+NGO sessions/workshop
+s
+Leveraging AI with non-profits (Ref
+ppt
+)
+Pratiksha and Sanjeev did a great job curating the presentation & facilitating the session. The session started with some high level explanation of topics like token limits, context windows and chat poisoning in the context of chatbots, to help understand NGOs some limitations of using LLM models. It then moved on to show a comparative analysis of most popular LLM providers (ChatGPT, Perplexity, Claude AI, Meta AI) out there and what could be their best use cases.
+Prompt engineering was up next. Due to internet issues, facilitators couldn’t conduct the exercise for prompt engineering and thus the session felt a bit monotonous. However, the session was more of a refresher since many NGOs had been using ChatGPT in their day to day work. Pratiksha then took the participants through some of the Gen AI tools (you can find all the references/names of the tools in the ppt attached above)
+Sanjeev concluded the session talking about the risks of using AI and how to approach a problem with a potential AI solution. The picture below sums it up very nicely
+Practical challenges on data
+This session was one of my highlights from the sprint. Aditya (from
+Goalkeep
+) did a great job facilitating this. I found the framework of
+5 Why
+s, that he introduced to drill down a problem statement and figure out its root cause, very interesting and something new that I learned from the session. The idea behind this is, many times the problem doesn’t exactly seem to be what it is and you have a different view of it when you try to dig deeper.
+Each NGO had a Tech4dev team facilitating or asking the “whys” to drill down on the problem statement. I was sitting with Vinod with Akshata (Product/Data engineer) & Rohit (MnE) from
+Antarang Foundation
+. One of the problem statements we discussed, started off with a data quality issue where an MnE team member had to do more ad hoc analysis to figure out why the numbers seemed the way they were. After drilling down, we understood that the issue was more of data trust and access. The numbers were off due to pipeline failures/reset on Dalgo. A simple solution to start with was to give the MnE team (Rohit) access to Dalgo dashboard so they have more visibility over the data pipeline of the org and can access the elementary dashboard. A more thorough approach we discussed was to build a data validation/quality dashboard that will help the MnE team to trust it more. We agreed that the MnE team should be involved more in this exercise.
+Following the “5 Whys” exercise, the participants had a choice to go to any of the three round table discussions to share their problem(s) & learn from the other NGO participants. Each table had Tech4dev team member(s) facilitating the conversations.
+Data Quality & Pipeline Reliance
+Operationalize data to enable decision making
+Communicate our story effectively using data
+All the 3 topics were very well thought out and apt based on what we heard the previous day from conversation with participants and the work we have been doing with them.
+Chat with data feature demo
+Our current data analysis feature lets users ask one off questions on their data. It has two inherent limitations
+Users need to write a sql filter which sets the context for the question
+The answer given is a one time summary in the sense that one cannot ask any follow up questions
+The prototype we developed takes in a user query in natural language and does the following to reach to an answer
+Convert the text to sql
+Run the sql to show results and then ship them off to LLM provider (Open AI)
+Setup a file search assistant on data uploaded in step 2 and ask the query
+We wanted to validate our idea of chat with data and how useful it would be for the NGOs. We ran it against sample/synthetic data of the donor, projects and details of the fundings the donor has made against various projects. The session was very engaging, participants were excited & asked a lot of questions. Some of them were (participants didn’t know what columns/tables were there under the hood)
+I want to know more about the projects donors are funding – Our bot was able to answer this correctly, it gave a list of 5-6 projects with donor details, project details and the amount of funding
+Describe your data to me in English – The bot responded with a schema of the columns and their meaning
+What’s the correlation between project length and budget ? – The bot first responded with a python code that computes the correlation coefficient, we had to ask it 2-3 more questions to force it to compute and spit the value of correlation coefficient
+I have a program that helps children with their homework, how likely is it for the donors to fund us and why ? – It answered it very nicely in a generic manner.
+Summarizing the overall feedback based on the comments/feedback from the NGOs during the demo
+This feature could be used for exploratory data analysis and ad hoc analysis/reporting by MnE teams.
+How do the users trust the analysis done by LLMs (bot) ? For example, the correlation coefficient
+Is it possible for the chat feature to spit out visualization/charts when prompted with a question ?
+How do we handle the limitations on context windows ? If a question requires sending a large amount of data to the LLMs, it might exceed or exhaust the context limit.
+To this point, I questioned a few participants to come up with queries/questions in their use case that would require sending millions and millions of rows to LLM. In most cases, the users are interested in looking at a slice of data (eg, give me aggregated “metric” by year or by age or by state etc.)
+How can we export the analysis that the bot has presented in a format (maybe excel or csv) that is easily shareable to various stakeholders ?
+How can we hide the PII information to use this feature safely
+During the next two days of the sprint, I sat with folks from
+Antarang
+and
+Janaagraha
+to run the “chat with data prototype” on their own datasets. It worked quite well, it was able to answer 75-80% of their queries. An additional observation was that folks weren’t interested in doing a lot of back & forth (i.e. chat) rather they asked very specific questions – got the answer to it in the first go and moved on.
+Dalgo roadmap
+Based on the conversations during the sprint and the consulting work we have doing with our NGOs, the broad areas in the roadmap on which we will focus or work to build Dalgo features look like
+User interface for Data transformations
+Integrating the chat functionality
+Tools for presentation and storytelling
+Operational reviews with qualitative insights
+Mobile access for non-power users
+One thing that our Dalgo team agrees on is that Dalgo needs to be more NGO centric and its features need to move in this direction. Catering to the ecosystem will set us apart from other tools out there in the market who might be equal to us in terms of tech.
+On the closing day of the sprint, we also identified people from various organizations who agreed to collaborate in building various features listed above. I am very excited to work closely with them in the next few months
+Highlights from the week
+The weather in Mahabalipuram was beautiful and evening beach walks with everyone were so soothing. We would just go to the beach and sit there for sometime
+Playing basketball in the morning with the Avni team and folks from Tech4dev was so much fun. I didn’t expect the hotel to have a basketball court but we lucked out.
+I had some amazing seafood, mutton and biryani. Food just keeps getting better and better every time I explore a new city/town in South India. There are a whole lot of places I haven’t visited in South India and hopefully I get a chance to visit them this year.
+I had an interesting conversation with Vinod and Sanjeev on our way to get some filter coffee at Ananda Bhavan (2km walk from the hotel).
+We discussed/debated if “chat” in “chat with data” is really the way to go, NGOs just want an answer to their question and shouldn’t have to go back & forth for it. In most cases, they do know the question they are asking & the metric they are looking for.
+We also talked about if traditional ML like prediction, forecasting etc. would be useful to the NGOs. It might in some cases like maybe for Anandita (MnE) from Sneha who currently uses Strata to do her statistical analysis.
+Could we just use an agentic framework to generate python code for the question they are asking and then run it to get the answer. This way we would be able to “trust” the answer and then convince/market it to the users in that way.
+I sat with the
+Antarang
+team to help with their bigquery cost issue. They have been seeing spikes and wanted to understand where it came from. We were able to figure out the root cause of the spikes which were some of the queries from the old pipeline which are still running. Bigquery’s information schema has a jobs table (
+INFORMATION_SCHEMA.JOBS_BY_PROJECT
+) that tracks each & every query along with the amount of data processed (which can be used to compute cost).
+Another quick win was with the
+Sneha
+team where we figured out their missing cases in Dalgo. Some cases were visible in their commcare instance but not in Dalgo.The case didn’t have a form attached/filled for it and commcare’s list api doesn’t fetch such kinds of the case. These cases entered sneha’s commcare via the migration exercise that happened a few months back. And this was done via the backend, so these cases didn;’t have any kind of registration form filled even with the status being open. To have sync in the pipeline, we decided to attach some dummy form to it and fill it programmatically.
+I got to know more about Bhumi and their processes from the “Chai Pe Charcha” event.
+Bhumi
+has a little over 2,00,000 volunteers to help them in their mission. One of the problems they face managing this staggering number of volunteers is in data collection. Volunteers don’t follow the template when collecting data from the field and hence requires more manual efforts to validate it.

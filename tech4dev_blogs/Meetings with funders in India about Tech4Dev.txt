@@ -1,0 +1,26 @@
+Title: Meetings with funders in India about Tech4Dev
+Author: Kurund Jalmi
+Date: August 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/meetings-with-funders-in-india-about-tech4dev/
+==================================================
+
+During the period between the 2nd and 9th of August, members of the Tech4Dev group met with a variety of funders in India, to discuss the technology needs of the social sector, understand their perspectives on supporting the development of software solutions, and to explain the approach that is being followed by the Tech4Dev initiative.
+We met philanthropists who run family foundations, representatives of companies with major CSR initiatives as well as intermediaries that support development sector initiatives.
+A theme that ran through most of the meetings was that there was a great need in the sector for what Tech4Dev provides, and that as a group, we should aim to be more ambitious. This increase in ambition spans multiple aspects of our work, and has been drawn out below. We now need to discuss and decide as a group about the path that Tech4Dev will take over the next few years.
+1. Scale of supported organizations
+Funders appreciated that Tech4Dev had mostly focused on working with smaller social organizations. While the challenges faced by these organizations were clear, the funders also asked about our plans to work with medium and large organizations in order to reach many more people. One person asked about which of these approaches would be more valuable ? supporting one NGO that worked with 100,000 people or 10 NGOs, each of which worked with 1000 people. Our answer was that each of these was possibly valuable in its own way. We have gained experience over the past few years of how to support smaller NGOs and now want to support a few medium and large NGOs, so that in a year or two we can support a range of organizations of different sizes.
+2. Government
+Government is a key stakeholder in the Indian development sector. The question was raised on how Tech4Dev would help government develop and adopt open source solutions which could then be shared with multiple state, central and local government ministries and departments. We were also told that since NGOs that work with government often take cues from the latter on what technology solutions to adopt, building an ecosystem of open source software would require Tech4Dev to have a plan to work with government. While working directly with government ministries or departments is perhaps not something that the Tech4Dev team is set up to do, we hope to support software partners and NGOs that can play this role.
+3. Selecting NGOs
+We had to explain the criteria used to select organizations for cohort 1 of Tech4Dev as well as share thoughts on the criteria for cohort 2. We will have to think about strengthening our diligence process to make sure that funders have the confidence that any NGOs that they support through Tech4Dev are doing good work, and that they have the required compliances and registrations in place. As Tech4Dev works with a greater number of NGOs and software partners, the selection process needs to be streamlined to make sure that the quality of organizations as well as the work remains paramount.
+4. Dissemination
+This was called out by a few people as an essential part of ecosystem building; that it would be important to not just support good organizations but also make sure that others in the development sector knew of the solutions that had been built and used. Dissemination will need to cover focus areas in which Tech4Dev has helped build solutions, e.g., public health through OpenCHS, as well as educate the sector on how to effectively leverage technology.
+5. Education
+The need for supporting NGO leadership at all levels to understand and adopt technology within their organizations was underscored. This was considered a key aspect of a successful technology deployment, and especially important to do upfront, before a technology project began in earnest.
+6. Impact measurement
+This question was raised a few times ? ?How does Tech4Dev measure its impact?? While we were clear that we have a long way to go to be able to measure impact effectively, we did describe the changes that each organization in cohort 1 had experienced, and how these had helped the organization achieve certain social outcomes.
+7. Structure and governance
+We had to describe what Tech4Dev was a few times. There was some confusion about whether it was an organization, a platform or an initiative. There were also questions about where it was housed in India (currently it is a virtual org), who ran the organization and who made the payments to software partners. We were asked to prioritize the establishment of an entity in India that would be the long-term home of Tech4Dev.
+8. Organizational systems
+While Tech4Dev has focused on providing technology solutions for NGO?s programs, some funders mentioned the importance of guiding NGOs on the backend systems to deploy – for accounting, donor management, emails, etc. For a number of NGOs, the addressal of these needs is as urgent as the use of technology for programs.

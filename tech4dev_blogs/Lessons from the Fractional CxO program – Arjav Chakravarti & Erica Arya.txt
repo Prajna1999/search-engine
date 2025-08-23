@@ -1,0 +1,47 @@
+Title: Lessons from the Fractional CxO program – Arjav Chakravarti & Erica Arya
+Author: Kurund Jalmi
+Date: November 2022
+Category: Fractional CxO
+URL: https://projecttech4dev.org/lessons-from-the-fractional-cxo-program-arjav-chakravarti-erica-arya/
+==================================================
+
+We are quite happy with the way our Fractional CxO(x:Tech,Data and Strategy) initiative has been received by the community. We were confident of the need for such a program but post running it for the last 3 months with 3 different NGO partners both sides are actually getting to see first-hand the significant value that is getting created.
+Our fractional CxO effort with NGO A advising on technology strategy, data architectures and streamlining of internal IT processes is well on its way in its 4th month. With sustained management support for the endeavor, we have made good progress in our deliverables with the high point coming up for this month of piloting a new open source dashboarding tool, Apache Superset, for the organization. This will create the basis for our future endeavors on the data platform architecture for this NGO. The organization has also started to capacity build with training workshops and job postings setting the stage for a good chance at long term success.
+Another fractional CxO effort is with NGO B where the need and focus is more on the execution of projects, building products, and ensuring that seemingly different tech initiatives align with the broader vision and objectives of the organization. We took a holistic view of the tech team structure and how it fits into the NGOs overall systems and processes. As a result we have already reorganized the team structure, opened new hiring positions, reprioritized tech initiatives and paused a few. This helps set the right base and practice to build and execute the technology strategy.
+For the last one month we at Tech4Dev have been evaluating applications and holding conversations with leaders from over 20 NGOs with the aim of building a larger cohort of such NGOs who could benefit from the fractional CxO initiative. Here are some of the lessons that weve learned in this short time.
+There are very few different pain points that are unique
+Weve been surprised by how much the needs of vastly different NGOs overlap. Even though the NGOs work in different domains – health, education, community empowerment, research, etc. – and they operate in different countries, some common themes persist across:
+Collecting data from field teams who still use pen and paper
+Analysing and using data effectively, for both program improvement and M&E
+Having the right visualisation tools and data abstraction clarity to present just the relevant data points to enable and ease data-based decision making at different levels of the organisation
+Integrating systems that have been built by different vendors, at different times and for different purposes, to give a consistent and at times a consolidated view of the key indicators of the various programs that the organisation is driving
+Reaching a large number of community members who have access to mobile devices
+Not having the necessary technical expertise to ensure that the technical design of any software application (either being developed or being procured) supports the envisioned use cases or the realisation of the intended benefits
+Not having the necessary expertise to evaluate different software applications and to do build vs buy analysis
+Existing platforms might well solve many of these issues
+A number of open source and freely available platforms have been designed to solve such commonly-encountered issues. For example:
+Glific
+DDP- Development Data Platform (under development)
+Avni
+Frappe
+Apache Superset
+To illustrate the point, NGO C uses scripts to manage data pipelines coupled with data transformations introduced at multiple spots in the pipeline like at data collection layer, transformation layer and at the visualization layer. Though things work well mostly once setup, this framework does not lend itself to troubleshooting when things go wrong – syncs fail, schemas change, visualization assumptions break, analysts make changes on transformations for a dashboard that cascade to other team dashboards. A platform approach like DDP that manages this entire pipeline approach with good error alerting and notifications and tracking and visibility to changes will serve this NGO better in the long run as it scales
+Technology is not a substitute for clarity
+Technology is an immensely powerful scaling tool but its potential will be realised only if there is clarity on the part of a program team on goals, process, SOPs and metrics. In general, an organisation should not attempt a scale up without a clear idea of what works and what doesnt, otherwise there is the likelihood of investing significant time and money in a solution that does not work as desired. The exception is the use of technology in small experiments that will inform future programs.
+Alignment of technology with org strategy is critical
+Some of the questions that we ask NGOs at the outset have nothing to do with technology and everything to do with strategy: What outcomes is the organisation seeking to achieve? Is there a long-term strategy in place for how the orgs programs will achieve the outcomes? How well understood is the strategy within the organisation?
+A long-term technology strategy is only one part of an overall organisation strategy. Other parts include talent management, fundraising, communication, mindset of people to adopt behaviour change etc. An org that has a good handle on how it will evolve over the next few years will be able to use technology effectively to achieve its goals.
+A tale of two NGOs and how the long term strategy of the organisation can change the direction of technology use: NGO D intends to provide data for evidence based interventions and is pushing for the transfer of the interventions to the public sector. In this case, technology has to align with the goal of the exit strategy to hand over to governmental bodies. Any software technology use is constrained by the way governmental bodies function. NGO E is expecting to scale tremendously and is building the organisation. In this case, the primary need is for technology to match and scale with organisational growth.
+Data is too often an afterthought
+Weve seen NGOs, even large ones, that are clear that technology solutions will help them deliver programs at scale. However, the element that is sometimes overlooked is how to effectively collect, analyse and use data. Data can be used to improve programs as well as for M&E and effective organisations make use of the right kind of data to assist decision making at all levels. Multiple programs of an NGO may generate data about the same households and people, and consolidating that data is critical to be able to draw an accurate picture of what is happening on the ground.
+A phased tech implementation makes sense but the strategy needs to be long-term
+Organisations sometimes prefer to think about a technology rollout in phases – implement one phase successfully and only then move on to the next one. We are in agreement with this approach but with a caveat: An NGO will maximise the use of tech for a scale up only if it has a long term tech strategy that supports the organisations overall strategy. Only then will the program, tech and senior management teams know how each implementation phase builds on the previous one and towards a larger goal for the organisation.
+NGOs are likely to face challenges in implementing technology
+NGOs faced some interesting and deep-rooted challenges:
+Fear of switching to unfamiliar technologies leading to resistance
+It can be difficult for the program teams at times to fully assess their technology needs comprehensively and articulate the same in a manner that is fully understood by a technologist. This can lead to lack of alignment between the teams, and the end product not being very usable for the intended end-users
+Tech solutions need a sustained investment to keep them alive
+Establishing the importance of using technology in driving demand/reach for social programs is a challenge with different internal and external stakeholders. Each being at a different level of understanding and comfort with technology also leads to varied acceptance of technology use in programs.
+These learnings help us understand the challenges our NGO partners work in and we feel all the more confident and definitive that there is space for the CxO initiative to be adopted by them.
+If you are an NGO or know of an NGO who could benefit from the fractional CxO initiative then do reach out to us at Project Tech4Dev
+(Thanks to our CxOs – Vinod Rajasekaran and Ankit Saxena for their contributions to the blog)

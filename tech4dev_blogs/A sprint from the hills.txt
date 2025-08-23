@@ -1,0 +1,55 @@
+Title: A sprint from the hills
+Author: Kurund Jalmi
+Date: November 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/a-sprint-from-the-hills/
+==================================================
+
+The article is written by the Plio team(Aman, Karn, Deepansh). Originally posed
+here
+.
+You know how so many people have been taking full advantage of remote working by working from very exotic-looking places? Yeah, we haven’t been like those people.
+Until last week. We got a chance to travel to Tehri (Uttarakhand, India) where multiple organisations working at the intersection of technology and social impact had assembled for a week-long sprint.
+New Tehri is a modern town developed at the hilltop, spread over an altitude from 1550-1950 metres above sea level overlooking the gigantic Tehri lake and the Tehri dam. Every morning, we woke up to an amalgamation of the lake, mountains, clouds, chirping birds, a troop of rafters and the clingiest of dogs in our wooden huts.
+View from our rooms
+We have to be honest. It was really hard to get ourselves out of our bed. But the fact that the entire day had so many exciting things planned got us going (along with the fact that if we didnt board the last cab at 8:45, we’d have to walk for 90 minutes to reach the workspace).
+Our daily workspace was the office of ColoredCow – the lead organiser and facilitator of the entire sprint. Yes, they have an office in the hills. No, it did not happen due to the recent surge in remote working. The team is comprised of several members, including the founder, born and brought up in the hills. So, they figured why not just work out of the hills too. They even have all sorts of instruments in their office. Let that sink in!
+The cool office set up consisting of instruments and a green screen
+And you could always spot one person playing the role of barista for their group!
+The buzz around the coffee machine
+Each team brought food and sweets representative of where they are coming from!
+Sweets brought by various team members
+To cap it all off, we were treated with a variety of super delicious and healthy home-cooked food by the cooks in the house!
+Delicious home-cooked food being prepared
+Okay, we did do some work too! 😛
+Each day started off with a technical talk given by 2 organisations. We got to hear about the amazing and important work that each organisation has been doing. Some of the examples include:
+Glific: an open-source, two-way communication platform for NGOs to connect with their beneficiaries
+Dost Education: promotes early-childhood development by providing actionable steps to parents through short, friendly audio content using IVR
+Aam Digital: an open-source tool to enable high-quality case management for the social sector
+IDInsight: uses data and evidence to help decision-makers design effective programs and rigorously test what works to support communities
+Our talk probably didnt qualify to be called technical because it was full of one thing: memes. But we did make a few people laugh while sharing the story of how the three of us have come together over the last year to build open-source products for helping students from low-income backgrounds learn better. This is how we began our talk.
+If you are interested, you can view the slides
+here
+and let us know what you thought about it! ????
+The tech talks were followed by people working with their teams as usual. It was like being a part of a co-working space along with mission-driven people. The energy in the room used to be quite infectious and I am really missing it now!
+In the evening, some of us used to go for mini-hikes of about 5-6 km. It reminded us that we are amidst the beauty of the hills and we were, once again, breath-taken by the miracle that we usually call nature.
+The view of the Tehri lake during one of our evening hikes
+The work part of each day used to typically end with a deep dive on one particular topic presented by one of the teams. Some of the topics included: Data Studio and Big Query, Progressive Web Apps (PWAs) and offline-first, Highly-Scalable NLP to Answer Questions on South Africas COVID-19 WhatsApp Hotline. We gave a talk on AI for Social Good where Aman shared his learnings from his experience at Wadhwani AI (prior to Plio & Avanti Fellows).
+Aman presenting in one of the Deep Dive sessions on AI and Social God
+If youre interested, you can check out the slides
+here
+.
+Once the work part of the day was over, the entire workspace would transform. On one of the days, we had a StoryClub session – its an
+initiative
+by the ColoredCow team to encourage their team members to share a story about their journey – personal or professional. I personally feel that this is a great initiative as storytelling is such an important skill that we are rarely taught and because of the fact that we, as humans, love stories as a medium to connect with each other. You can check out all their stories on their
+YouTube channel
+. Deepansh and I got a chance to share some of our stories too!
+A glimpse from the storytelling night organised by ColoredCow
+On our final day, the entire group went for an 11-km trek. It was my first time trekking with such a large group and I think many of us came out as good friends towards the end of it. We even saw some snowy peaks and cherry blossoms along the way!
+Left: snowy peaks during our trek on the final day. Right: cherry blossoms during the same trek
+To bring a close to the sprint for us, we had a night with a bonfire, lots of stories, music, lighting and amazing food from none other than Prakash Ji from the earlier photo!
+One of the few moments when the entire group was together.
+We had one of the most memorable trips where we made a lot of new friends, had amazing conversations and learnt about the different journeys of every person. It was fundamentally very inspiring to see so many smart and passionate people working towards using their skills to improve the world. I am a strong believer in the power of communities and if anything, this trip simply reinforced that belief.
+Logos of all the organisations which made the sprint happen
+As I write this, I really do miss being around everyone and am already looking forward to the next time that this group gets together. Deepansh, Karn and I rarely get a chance to spend time together and this trip increased our own personal bond. We got a chance to spend a lot of time with Donald Lobo, the founder of the Chintu Gudiya Foundation. Lobo has been our mentor for some time now but meeting him in person, hearing his thoughts on everything from open-source to his concern and optimism towards climate change to ideas on how we can increase woman participation in the intersection of tech + social impact and seeing his enthusiasm for healthy living has deeply affected all of us. I still remember how we were a bit nervous before giving our meme-filled presentation when everyone else was talking about deeply technical things. But everyone in the sprint accepted and appreciated us for all our quirks. We will always remember how everyone made us feel!
+Till next time! 🙂

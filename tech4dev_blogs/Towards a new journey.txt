@@ -1,0 +1,26 @@
+Title: Towards a new journey
+Author: Mohd Shamoon
+Date: August 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/towards-a-new-journey/
+==================================================
+
+This month all-hands meeting was quite special for me. I received several mentions and was praised for my work, which felt really nice. Specifically, I was recognized for my contributions to the Janaagraha project and my efforts in optimizing the CI pipeline. However, I couldn’t help but feel a bit surprised by the attention. In my view, I was just solving problems that seemed obvious to address.
+For instance, I was frustrated with the CI checks taking 70 minutes to complete, delaying my PRs. It didn’t make sense to me since everything ran smoothly on my local machine. Given that the CI machines should be even faster, I spoke to Rohit and proposed an optimization to speed up the checks.
+Similarly, with the Janaagraha project, I simply pointed out areas that could be improved and shared those insights with the team. I believe anyone assigned to that role would have done the same.
+But this recognition made me realize that it’s the culture we have in Tech4dev that enables me to make these contributions. We have the autonomy to raise issues when something could be improved and the freedom to voice our opinions across different areas. We’re encouraged to innovate and experiment, even outside our core responsibilities.
+Before I dive deeper into my experience with Janaagraha, let me share a brief history of my journey at Tech4Dev.
+For those unfamiliar, Tech4Dev focuses on three main initiatives, and I’ve had the chance to contribute to all of them. There are also collaborations with partner organizations where I’ve gained valuable lessons.
+The main initiatives include two products
+Glific
+and
+Dalgo
+and the
+Fractional FCXO program
+. Until March, I spent three years working on Glific. It’s been a rewarding journey, watching the product grow from an idea developed with a few NGOs to a fully-fledged operation with a dedicated team for sales, support, marketing, product development, and consulting.
+This year, I felt the need for a new challenge. I wanted to transition into a role that would allow me to work more closely with an FCXO, focusing on strategic tech decisions and gaining a deeper understanding of both the tech and business aspects within an organization.
+However, circumstances led me to join the Dalgo team, which turned out to be a fantastic experience. I gained substantial knowledge in data, server security, remote machines, DevOps, and data visualizations, while also completing two POC consulting projects.
+Finally, the time is coming for me to transition into the Fractional FCXO team, where we’re exploring a new model. The idea is for the fractional FCXO to focus on higher-level strategic decisions while a fractional tech and data expert handles the implementation, closely collaborating with the team.
+And that brings me to
+my journey with Janaagraha
+.

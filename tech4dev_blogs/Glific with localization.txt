@@ -1,0 +1,31 @@
+Title: Glific with localization
+Author: Kurund Jalmi
+Date: April 2021
+Category: Glific
+URL: https://projecttech4dev.org/glific-with-localization/
+==================================================
+
+Application localization is the process of adapting an existing application to the target market’s native language and culture. It refers to the process of translating an application into a different language and culture.
+We are pleased to announce that the
+Glific
+interface is now available in Hindi beginning with v1.4. Users simply need to go to My Account and change the Change Interface Language setting. Since the majority of the NGOs are from different parts of India, this Hindi language interface might be useful to them; however, we would like to add other languages to provide more support.
+When it comes to React localization, there are also plenty of internationalization (i18n) libraries to choose from.
+18next
+is one of the most common, and for good reason: the library is stable, feature-rich, and frequently updated.
+i18next
+is also learn once, translate everywhere, as it works for a variety of front-end and back-end frameworks.
+I’d like to express my gratitude to
+lokalise
+for providing us with a complimentary license.
+Lokalise
+is a localization and translation management tool that allows you to integrate with your code repository so that any changes you make to the code are automatically imported into Lokalise for translation. After it has been imported, we should add the translations for all of the keywords that have been added. The
+lokalise
+dashboard is depicted in the screenshot below.
+Steps to change/update interface language:
+After login, click on the Profile icon
+Select My Account
+Change interface language
+Screenshots
+:
+1.Default English
+2. After selecting Hindi

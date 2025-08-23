@@ -1,0 +1,66 @@
+Title: 6 months of Persistent contributing to Avni data entry app
+Author: Kurund Jalmi
+Date: June 2020
+Category: Avni
+URL: https://projecttech4dev.org/6-months-of-persistent-contributing-to-avni-data-entry-app/
+==================================================
+
+Recap/Background
+It’s been 6 months since
+Persistent
+team started working with
+Avni
+team to contribute to building the data entry app (online web app). We have talked about the start of this project in a?
+previous blog post
+.
+Journey
+After completing an initial 2-week face-to-face orientation cum training the team estimated all the stories and created a project plan.
+Teams and responsibilities
+: The Persistent team was split by front-end and back-end. Respective teams started working on their stories. Samanvay team members were responsible for guiding the product development direction, removing tech hurdles the team would face and merge the pull requests and signing off the work completed.
+Avni Models and a revisit of design
+: After we completed working on some initial stories related to subject dashboard and registration, we realized that we should have used our?
+models
+?module because we need to pass those models to our rules system. This was the first time that the team got introduced to the model. It took some time for them to understand how the models work and use them.
+We started working on a spike to execute server-side rules. We decided to keep the rule execution on the server-side for performance reasons. At the end of the spike, we came up with an architecture where we use Node.js on the server-side to for rule execution. Again considering that the team was new to both product and tech stack, this was a complex task which team completed.
+We started working on different form workflows like registration, enrolment, program encounter.
+Most of the stories in form workflows require rules, so one of the streams simultaneously started working on server-side rule execution.
+The team followed a 2-week iteration with demos at the end of each iteration.
+COVID Impact
+: Come mid-March, suddenly the COVID crisis and lockdown hit the country. Due to this, the team members without much preparation had to move to work from home. Most of the team members from Persistent were using the desktop machine and so they were left machine-less. They had to figure a machine to work on. As everything was shut down including commute it was a challenge to arrange for machines. It took about a couple weeks to get this sorted.
+Due to various factors, the team was lagging much behind the plan. So we revisited and adjusted the timelines. Samanvay team also put in some additional capacity mid-way to catchup.
+Initially, we had decided for a monthly release, however, we could not achieve this. The team was also assigned only till May. As the end of this duration was approaching, we decided to rearrange the priorities and do a
+“Readonly App”
+release. This would make something useful available for the clients.
+At different points during this journey, Persistent kept putting in additional people for short duration like business analysts who helped the team put more details into the story and quality analysts who helped the team uncover the bugs.
+Avni team kept benefitting from the Persistent UI designer for other features in Avni as well.
+Learnings
+It takes at least a month’s time for a new developer to get acquainted with Avni product.
+It’s important to map the skill levels of team members before we start the project. If required, start with extensive training that makes the fundamentals of the used technologies very clear.
+For a project of this size and complexity, it’s vital to have a full-time and full-stack tech lead on the project from the start.
+All members of the team have to focus on developing full-stack understanding. They don’t have to be able to write the other stack code but they should be able to understand it from a high level.
+Existing big JavaScript codebase can be hard to understand. We require more comments and documentation like Entity-Relationship Diagrams. Maybe in future, we can explore using TypeScript which makes it easier to understand big codebases by the virtue of having types.
+Code Reviews:
+Pull requests have to be small. It’s very hard to review big pull requests well.
+Current Status
+Readonly App is released to production. If you would like to try this out visit
+https://app.avniproject.org/
+. If you don’t have the credentials you can
+sign up for free
+and get one for you.
+Persistent extended team allocation by at least another couple of months. Yayy!!
+With the experience in the last 6 months, it was realised it would be better for the team to learn tech stack in a focussed manner. For the last two weeks, they are taking training from Sanjeev Dharap, one of the senior-most members from Tech4Dev. The training would complete this week with the team members demonstrating what they have learnt through the course.
+What’s next
+After the team completes the training they will resume work on the project and try to finish from the following as much as possible
+Integration of rules with web app
+Encounter workflow
+Full-fledged search with support for custom filters
+Access Control
+Location, Subject data types in forms
+Support for Groups and Household
+Growth Chart/Vaccination
+Attendance
+My Dashboard
+Acceptance Tests
+We will also continue to work on improving the documentation and engagement practices.
+It’s absolutely essential for an open-source product like Avni’s growth and development to have a vibrant community with such contributions on the development front as well. And this has been a first-of-its-kind and a very enriching experience. We have had many opportunities to learn and grow on people, process and product.
+We continue to be thankful to Persistent for this.

@@ -1,0 +1,14 @@
+Title: Community is the key to success for any Language/Framework
+Author: Kurund Jalmi
+Date: July 2020
+Category: Glific
+URL: https://projecttech4dev.org/community-is-the-key-to-success-for-any-language-framework/
+==================================================
+
+As the title suggests, I am also a very strong believer in this thought. When you start learning a new language or a technology the one thing you need is a strong community around it. The documentation of the technology and other things helps but you solved the most real case issues via discussion with your community and learned more about it.
+When I started working on
+Glific
+(an Open Source project which helps to NGO in two way communication) I needed to do a lot of experiments with Elixir and Phoenix. The documentation of both the tech stack is fairly easy to understand but there were some issues that I put on the forum and got resolved and got a deeper understanding about them.
+As my mentors say, if you are taking help from the community its your prime responsibility to give some help back to the community as per your capacity. So while working on the project I found some areas on a few packages where we could contribute. So we worked on them and created the PRs on the go. Some of them got approved and some did not :), But the experience is really good there. I also joined some open-source platforms and discussed the problems there and so far I am happy with my contribution.
+Participating with the community not only makes a difference to the people being served, but it also helps to enhance work-related skills, builds good references in regards to community involvement, and provides a forum to network with so many experts and great people. And of course, it helps to develop civic and social responsibility skills.
+As I am growing more in the elixir field with the elixir community I am hoping that I will be able to contribute more in it in the future and build some more useful ideas/libraries for the community.

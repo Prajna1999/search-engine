@@ -1,0 +1,29 @@
+Title: Glific v0.3 takes off …
+Author: Kurund Jalmi
+Date: September 2020
+Category: Glific
+URL: https://projecttech4dev.org/glific-v0-3-takes-off/
+==================================================
+
+A new month, a new glific release.  Really like the pace and duration of these sprints, makes the entire team accountable and focussed towards a specific goal with everyone pulling in unison towards it. I’ll let the video do most of the talking and highlight a few things and next steps for the team
+We’ve accomplished a lot in the short span of 3 months and as a team, we are incredibly proud and thrilled to see how far we’ve come at this time. A couple of highlights and other tidbits:
+We have a new logo for the product. Kudos to Sunna, Abhishek, and the team at
+Colored Cow
+. Our website will be up later this month.
+We’ve onboarded two NGOs in the pilot program and getting a fair bit of feedback and insights from them into how to make the product work in the real world and in their day-to-day operations.
+Focus on automated testing, comprehensive documentation, and API first build philosophy.
+Functionality to manage tens of staff and thousands of beneficiaries via groups, collections, and flows.
+Ability to customize flows and track usage of how beneficiaries are interacting with the flows.
+Improved Search and Tag Management.
+Support for sending and receiving rich media messages (video, documents, audio)
+With that in mind, we are switching gears a bit for v0.4, and rather than a big release, we will focus on all the small things that will make the platform a lot easier to use and deploy. We will focus on testing for scale and make it easy to add both new organizations and new languages. This also gives us a chance to take a step back., look at the bigger picture, polish off a few things we’ve recently added and improve the codebase. So instead of one large release, we’ll come out with improvements on a weekly basis. We are tracking this in our
+GitHub project list
+In addition to the above, our goal will be to onboard 3 new NGOs in September. If you are interested, please read the
+Glific FAQs
+and if your NGO is. good fit, get in touch with us via
+email.
+We’ll also have our monthly webinar to give you a broad overview of what we’ve accomplished so far, showcase an NGO or two using two-way communication effectively, and answer your questions. The webinar is scheduled for:
+Wednesday, Sept 23 @ 10:00 am IST.
+You can
+register for the webinar here
+Onwards and Upwards

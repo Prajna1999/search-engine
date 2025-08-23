@@ -1,0 +1,34 @@
+Title: From Glific to Something Bigger
+Author: Akhilesh Negi
+Date: May 2025
+Category: AI
+URL: https://projecttech4dev.org/from-glific-to-something-bigger/
+==================================================
+
+It’s been three months since our small team started working on the new AI platform. You can check out the full list of our initial goals and ideas in
+this kickoff blog
+.
+As we wanted to centralize our AI efforts, which were previously scattered across multiple products like Glific, Dalgo, and Avni. We also want to make them accessible to NGOs without needing to be customer of one of the platforms while still be able to use the AI in their existing solutions. To kick things off with version 1.0, we began migrating Glific’s filesearch use case onto this centralized platform, starting with a few NGOs and then expanding gradually. By doing this, we’re also setting the stage for integrating helpful tools like Langfuse for better observability and evaluation.This blog is around Glific migration and changes we did to make it happen
+About Glific
+Glific is an open-source, WhatsApp-based communication tool we’ve been building over the past 5 years. It helps NGOs connect and communicate better with their communities on a larger scale. Last year, we integrated OpenAI Filesearch into Glific. This lets us quickly create a searchable knowledge base from uploaded documents, link it to an AI Assistant, and get answers directly from it.
+Read more about our journey here:
+Enhancing Communication with AI and Text-to-Speech in Glific
+OpenAI has a Python SDK for Filesearch, but we built our integration using Elixir because there weren’t any existing packages for Elixir at that time.
+AI Platform Implementation
+Initially, we’ve created a new endpoint,
+/threads
+. It accepts a user’s question, an assistant_id, and optionally a thread_id. It either creates a new OpenAI thread or uses an existing one, runs it, and produces an answer. We also include a callback URL parameter, which OpenAI will ping with the results once the thread run finishes.
+The process looks like this:
+Glific Implementation
+In Glific, we’ve added two things:
+A new node,
+call_and_wait
+, which takes, API Key as headers, input parameters and an endpoint to call.
+A new endpoint,
+/flow_resume
+, which validates responses via a signature, and then resumes the conversation flow based on contact_id and flow_id provided in the response.
+While these two things are right now configured to be used AI Platform, it can also be used by NGOs to plug and play with their own hosted models and try on Glific.
+While these additions are wired to work with our AI platform today, but they’re flexible enough for NGOs to experiment with their own AI models as well using the same steps
+Wrapping Up
+This migration was more like a step toward making AI more accessible and modular for NGOs. We’re keeping things small, focused, and transparent—starting with Glific, but with the flexibility to support other tools and custom use cases down the line. It will also help us stress-test the AI platform with real users and real workflows. More updates soon as we continue to expand and learn.
+Is there a specific use case you’d like to see integrated next?

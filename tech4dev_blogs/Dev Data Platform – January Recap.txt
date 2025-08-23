@@ -1,0 +1,39 @@
+Title: Dev Data Platform – January Recap
+Author: Siddhant Singh
+Date: February 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/dev-data-platform-january-recap/
+==================================================
+
+Here Im sitting near marine drive writing this blog and thinking about all the conversations I had with NGOs over the last two weeks. I have a lot to talk about regarding what were doing with the Data Platform. We had our third sprint with NGOs this year and for me personally, this was different from the other two sprints. For this sprint, I was more open to conversations with NGOs and trying to understand the problem that they are trying to solve.
+As
+Lobo
+explained to me in the cab when I asked him a question about If
+Glific
+is fit for a
+MAD
+(Make a Difference) NGO. He explained to me that think about what problem they are trying to solve and dont just think from a tech perspective. Which gives me enough perspective to think outside of the box.
+While the location was so beautiful we used some time to talk about data challenges with Tejas from Reap Benefit which I got to know in detail. He also showed us the there dashboard and different data sources of the data they have. Also I had a really great conversation with Sushmita about there data and how CRM can help them to solve some data problems. Other than this we really enjoyed talking to funders and explain them about the data platform.
+So now I want to give you some updates on how are we building the data platform and different
+POC (proof of concept) is going on.
+1. We have
+STIR EDUCATION
+an international NGO that supports education systems to reignite intrinsic motivation so that every child, teacher, and official is motivated to learn and improve. Our vision is a world where teachers love teaching and children love learning.
+So Stir Education was facing some data challenges and this is our first POC which we started a few months back. We completed the full pipeline for them which includes data ingestion and cleaning up the data. Which was a lot of learning for me.
+2. Then we started working with
+SNEHA(Society for Nutrition, Education and Health Action)
+around the same time. We build the full-fledged pipeline which includes pulling data from Commcare through airbyte, DBT to clean their data, and finally showing the data on Superset.
+But this time I visited them in Mumbai just after the sprint to work closely with them and met their whole team. We showed them the whole data pipeline which weve built for them and answering their questions on the spot was a wholesome feeling. I also asked Abhishek to come with me because he can think outside of tech space which I used to think about all the time.
+3. Our third POC is with the partnership with
+goalkeep
+. We have been working with
+Swapneel
+who is helping
+Dost Education
+with their data and they believed in us and the DDP platform which can help with the whole data related problem which Dost Education was facing.
+Goalkeep and we got a chance to show our work with the DDP work to NGOs and many of them were interested to know more about the Data Platform. Swapneel has written a really nice
+blog
+that can explain this a little bit more.
+These few months I really enjoyed working with different NGOs and trying to understand their data-related problems. Weve been talking to TAP(The Apprentice Project), Reap Benefit and
+Antarang Foundation. Lots of exciting work coming for us and seeing different use cases and data problems will really help us with what we want in a Data Platform.
+Now Im leaving you with one more pic from Lobos place and he was really kind enough to invite me to stay at his place. Just wanted to say Thankyou for that. Hopefully, we can do many long walks 🙂

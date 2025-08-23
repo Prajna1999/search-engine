@@ -1,0 +1,49 @@
+Title: Women in Tech- Recalling the Journey from start to the end?
+Author: Kurund Jalmi
+Date: August 2022
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/women-in-tech-recalling-the-journey-from-start-to-the-end/
+==================================================
+
+This blog is written by Ruchira Ragavan from
+HyperVerge
+Starting the Partnership
+Since I joined
+HyperVerge
+in October of last year, we have undertaken several new initiatives and participated in numerous others. One such initiative began one fine day in February. We were going to partner with
+Tech4Dev
+and a company called
+ColoredCow
+that was offering to mentor learners and they also were going to get the learners. If this name stops you in your tracks, you might not be the only one. This is not the name of every other company. We asked the team to explain their reasoning and if you, the reader, are curious, you can read more about it
+here
+. I might botch the explanation and that wouldn’t do justice to their efforts. My only other experience working with college students was with another batch. Up till this point, we as a team had not thought of working with college learners for an extended period of time.
+Why this partnership?
+One of the most attractive reasons to partner with the team was their mission They wanted to improve the ratio of women in tech companies and identified that they can train women from the
+THDC IHET
+college campus that they are already affiliated with in Tehri, Uttarakhand.
+Being an outskirts town, there was a possibility for the girls at this college do not have many opportunities. But another dire reason is that the learners did not have exposure to real-world tech projects. They had not done anything to implement their coding knowledge. As Michael Deng says in this article titled
+,How to land a top-notch tech internship  and a tech job  while youre still in school
+, it is important to start applying the fundamentals while being in college. It is also important to know what the tech companies are actually looking for. And so, what better place to start than a tech company that wants to mentor girls in a college town? This kind of exposure would be aimed to reduce the gaps in hiring and increase the training period so that the learners can take on large-scale projects before they even leave college. We were excited to start the intervention with
+Tech4Dev
+and
+ColoredCow
+called – Women in Tech.
+Read more about it
+here
+Sourcing candidates with a Vision
+We started the interview process rapidly and it went so smoothly. The entire team of
+ColoredCow
+set up the interviews, found the learners, got their profiles and sent it to
+HyperVerge
+team to conduct the interviews. They shadowed the calls and this was yet another unique experience. Usually, we conduct interviews in isolation with the candidate but this time around, we had another person shadowing the call and then we could discuss and debrief after the call got over. This was helpful for many reasons. Primarily, it helped us to come to a consensus and see some blind spots in each other’s thinking. Just like folks at HVA who love the work we do, every call with the CC team was a pleasant surprise. One of the interviewers, Akhilesh Negi, took his laptop and started showing around his office in Tehri which is located right next to the largest Dam in India.
+It didnt feel like it was a work conversation, which is the best kind of work there is out there. Now, lets get the intervention started.
+Intervention Period
+The total intervention period for a learner varies in two ways. In the beginning of the program, we had identified learners who were interested in pursuing an internship with CC. But, naturally, life goes on and people change their minds. Some learners wanted to discontinue with this vision or wanted to explore other opportunities. We had determined that for the learners who were interested to complete the project, they would continue the online mentorship and for those who wanted to do an internship with the CC team, they would be required to work on-site at the office. Both offer exposure and both offer an opportunity to work on hands-on projects. The major difference accrued is in whether they are real-life projects or simulations. However, both have the benefits that a classroom cannot offer. It is a practical application of the concepts. In addition, working at the office gives the learners an opportunity to understand if they are a good fit for the working environment and shadow their mentors in real-life situations.
+What is the major take-away of this intervention
+Life may not go according to plan or the way we strategize. But what is better is to learn from the shortcomings and celebrate the wins as we see it. To quote an advisor for our team,
+If you’re early on in your career and they give you a choice between a great mentor or higher pay, take the mentor every time. It’s not even close
+. If learners take anything from the program, may it be that they have made some lifelong contacts and mentors to who they can reach out to for questions.
+Till then, we will keep tweaking the intervention and hoping that more women get confident in pursuing careers in the tech industry. If we can give them hope that they are more than welcome and they belong here just as much as anyone else, then that would be a successful day.
+Checkout here for
+progress report
+of WIT by Sanjeev

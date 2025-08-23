@@ -1,0 +1,26 @@
+Title: Data Testing Framework Implementation with Quest Alliance
+Author: Mohd Shamoon
+Date: January 2024
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/data-testing-framework-implementation-with-quest-alliance/
+==================================================
+
+In this
+follow-up
+blog post, I continue to delve into my ongoing work with
+Quest Alliance
+on the data testing framework. Building upon my previous discussion about the definition of a testing framework and its initiation for Quest Alliance, this post provides insights gained during the second month of implementation.
+To provide context, our project involved a datasource created using a Talend pipeline, and our goal was to replicate this pipeline to produce the same desired output in Google Sheets. The initial step involved identifying all data sources used in constructing the pipeline and its final output, which comprised three pipelines:
+Pipeline one, utilizing 10 source tables
+Pipeline two, incorporating 5 source tables
+Pipeline three, a query that combined pipeline one and two with specific filters and cleanups
+Once the pipelines were outlined, the next step was to gain an overview and document them. Joseph from the QA team played a crucial role in providing this overview, making the process relatively straightforward.
+The subsequent task was to determine the timeframe for data extraction. Given the limitations of Google Sheets in handling a large number of rows, we opted for a sample timeframe based on the largest table’s row count, restricting it to around 10,000 rows.
+Following this, we extracted data from all source tables for the specified timeframe, paving the way for the next stage – performing joins in Google Sheets. Notably, Google Sheets’ functions such as VLOOKUP, QUERY, and MINIFS played a pivotal role in streamlining the pipeline replication process.
+As we delved deeper into the data, the role of a data analyst became more apparent. Questions arose, offering insights into why certain data was required and prompting considerations for alternative approaches. This reflective process is essential for ensuring the efficiency and relevance of the pipeline.
+Finally, we are approaching the critical stage of comparing the calculated data in the sheets against the original data post-pipeline execution. This step is crucial in identifying any discrepancies and building trust in the accuracy of the data.
+In summary, the reconstruction of the pipeline highlighted several key realizations:
+New Perspectives: For individuals new to the organization, the process offers detailed insights into the program’s intricacies and the reasons behind data collection. This fresh perspective can lead to more efficient pipeline reconstruction.
+Continuous Improvement: A reevaluation of the entire process, facilitated by a different set of eyes, provides a valuable perspective on whether things are aligned with requirements or if adjustments are needed.
+Trust in Data: Ultimately, rebuilding the pipeline contributes to a heightened level of trust in the accuracy and reliability of the collected data.
+Through these experiences, the data testing framework not only serves its primary purpose but also acts as a catalyst for organizational learning and improvement.

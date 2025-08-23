@@ -1,0 +1,36 @@
+Title: One year and beyond: Looking back and forward
+Author: Donald Lobo
+Date: April 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/one-year-and-beyond-looking-back-and-forward/
+==================================================
+
+Another India trip, another long airplane flight(s), another blog post. You probably got the pattern by now 🙂 The nice part of the trip(s) back and forth is I transit thru Japan (and sneak into Tokyo for a meal) which is becoming one of my favorite countries.
+Weve got the
+publish our thoughts culture
+fine tuned at tech4dev. Im both happy and sad to see that I’m one of the last folks to post my blog about the team meet. Weve had some amazing posts from
+Ishaan
+,
+Akhilesh
+,
+Robert
+,
+Piyali
+,
+Ankit
+and
+Sneha
+(who provides a good overview and summary of the sprint). Please do go read them, a lot more entertaining than what follows.
+Our team meet was happening fairly close to the larger annual retreat of Dasra. We realized that this is a great opportunity to piggy back on thier shoulders and avoid dealing with the logistical issues. And once again, Dasra rescued us, and in the process also raised our bar of team retreat locations and organization. Karjat was insanely hot during the day, but really nice in the mornings, and I managed to get a couple of long walks in with Deval and Robert. The biggest reason we wanted to do this with Dasra, was to give everyone the experience and feeling of being part of something bigger than us, being part of a larger entity that we can work with, learn from and collaborate with. Every time I meet and spend time with Deval and Neera, Im truly humbled and walk away with an immense sense of pride, for what they have achieved, and gratitude for being a part of the Dasra ecosystem.
+The power of in-person gatherings for a remote team like Tech4Dev is immense. We get to know each other in a deeper and more meaningful way, talk about issues and concerns, and make an attempt to build a strong vibrant culture within the team. I started the trip by hosting the Glific developers (much to the dismay of the rest of the team) in Mumbai and showed them a few of my favorite eating places. I also ended the trip by hanging out with Siddanth and Abhishek and managed to drag Siddanth to my multiple meetings with family and the sharanam girls & young woman.
+We also extended the concept of the tech4dev team, by inviting a couple of our board members (Arun and Kurund), our partners (Ishaan @ Think 201 and Swapneel @ Goalkeep), our partner/funder (Robert @ Agency Fund) and
+Rajeev Mohan
+, a potential future Fractional CxO for us. We also seem to be settling into the pattern of alternating smaller work gatherings, with larger sprints with multiple NGOs. At a meeting like this one, we got to spend a lot of time on who we are as a team and our focus, do a lot of product planning, and also a fair bit of development and coding.
+Pre-sprint, we decided to split into 4 groups (Data Platform, Glific Development, Glific BizDev and Fractional CxO). Each group planned their own agenda for the 4+ days we were there, but we did have a couple of all-group talks and discussions to get everyone to see the bigger picture and what we want to accomplish as an organization. We are doing quite a few things right, but I also think we need (and will seek) external help in building the culture of the team along with helping us with people management. Erica and I have learned that we need to make things a lot more explicit, let people know of our expectations, and ensure that they know that they have the power and responsibility of deciding the vision of their respective program areas. Quite excited to see how things play out over the next few months, and see people thrive and prosper.
+I ended my India trip with a visit to Pune, to meet Raj, Ravi, Vinita, and Akash @
+Lend a Hand India (LAHI)
+. Weve been working with LAHI for the past couple of months now in a tech advisory role and wanted to deepen our relationship. While typing out my notes earlier today, I realized that LAHI is the first NGO to use all of T4Ds core services. They use both Glific and Avni (and also helped fund the Avni+Glific integration), Im acting as their Fractional CxO, and weve started the discussion with onboarding them onto the Data Platform.
+We discussed this during the sprint, and the meeting with LAHI kinda crystallized this for me. For some of our platforms (specifically Avni and Glific), we are at a stage where we are meeting the needs of most NGOs. For us to take these platforms to the next level, we need to innovate. For this to happen, we need to understand the program needs of a few NGOs a lot better and to a large extent be part of their team. We are headed down that road with NGOs like LAHI and
+TAP
+(The Apprentice Project), and I suspect this will steer us in new directions that will help us serve the ecosystem better.
+Lots and lots more thoughts, but I should save them for future posts and let them settle down a wee bit so we get more clarity. The one hurdle that we really need some help (and maybe different thinking on) is how to build more tech muscle and capacity both for our software and data partners and our NGOs. For us to succeed, we need to make a dent in this problem, and for that we need your help. If you have any crazy ideas, random thoughts or magic solutions, let us know. We are all ears!

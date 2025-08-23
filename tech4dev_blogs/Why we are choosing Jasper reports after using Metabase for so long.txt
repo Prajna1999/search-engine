@@ -1,0 +1,48 @@
+Title: Why we are choosing Jasper reports after using Metabase for so long
+Author: Kurund Jalmi
+Date: June 2020
+Category: Avni
+URL: https://projecttech4dev.org/why-we-are-choosing-jasper-reports-after-using-metabase-for-so-long/
+==================================================
+
+For the last 4 years, we have been using
+Metabase
+to create reports and dashboards for all our customers using
+Avni
+. Metabase is a really nice tool. It’s feature-rich with an easy user, query, reports, and dashboard management. It has a user-friendly interface. A person with a little excel experience can use Metabase and start analyzing data if the underlying schema is simple. Avni, being a generic product, the schema is a bit complex and not conducive to out of the box analysis using Metabase. For most cases, we have been writing reports using custom SQL reports option of Metabase.
+As we started having long-running projects, the data size started to increase, and there were complex reports requirements on bigger projects. We started facing roadblocks with the current feature set of Metabase. Wherever possible we started using some workarounds. It was time to start looking for another open-source reporting solution that would solve our below problems especially for biggers projects:
+Big queries involving unions bringing down database availability.
+Long-running reports which used to timeout on the users.
+Bad interface for linking reports for drill down use-cases.
+Not able to have the Reports in multiple languages.
+Cascading filters
+Out of all the open-source reporting / BI products available,
+Jasper Reports
+seemed like a good fit. So we gave it a spin. We?ve done some initial spikes, found it to solve our problems just enough, and have decided to go ahead with it on a couple of projects. We have created a few reports using Jasper. So far so good.
+Let?s delve deeper into the problems and how we are able to overcome them
+Big queries involving unions bringing down database availability
+There are many reports where clients want to see trends for different indicators together. In Metabase, there is no way to have separate queries whose output can be shown together in one report. So we have to combine queries for each indicator using SQL unions and form one single big query. A sample report looks like the image below.
+Running these kinds of big queries started causing a spike on memory and CPU, at times making the database unavailable. Throwing more resources wouldn?t be a scalable approach because as and when data volume increases this problem will keep arising.
+Jasper has a concept of sub dataset or sub reports, which means now each of the unions will be an individual query. You can also configure these sub-datasets to use the same DB connection as the main report so that each of these individual queries doesn?t run together in parallel and doesn?t make the database unavailable.  This means that we can control the database load by controlling the number of connections in the DB connection pool settings. Although now reports might become slow because each query runs one after the other but we fixed this using report scheduling and report snapshots which is discussed next.
+Long-running reports which used to timeout on the users
+Another thing that we wanted was to schedule these slow running reports and save the result into the reporting server so that the user doesn?t have to wait long for the result. Metabase provides caching of the long-running reports. However, we found this caching solution is quite simplistic. For the reports having filters caching does not work if you change the filter value. And most of our reports have filters. Also when caching expires the first user opening the report still faces the problem.
+On the other hand, using Jasper reports one can enable data snapshots feature and reports can be scheduled for the different filter values. A new snapshot is created for each filter value, these snapshots can be refreshed periodically using report scheduling. Now every day a new report snapshot is created which the user can view instantly and doesn?t have to wait. Users can schedule reports themselves as well. This not only creates significant improvements in user experience but also prevents load on the database during the active hours.
+Linking reports for drill down or navigating to other application
+Providing hyperlinks in reports is a great way to enhance user experience. For instance, aggregate type reports can be linked to the line list report, so when a user clicks on any number they get to see all the information for that indicator. We also use hyperlinks on the line list reports where users can click on any name and they are redirected to the actual record on the Avni web app. In Metabase to achieve this, we have to add a new column and pass all the filter values as URL params to the next report. This approach is not very neat and there is a lot of possibility of mistake. The report looks something like below
+Jasper, on the other hand, supports hyperlinks natively and it?s pretty easy to use and configure.
+We can make any column clickable by adding hyperlink type to that column and the filters can be passed as hyperlink parameters to the line list report. The below picture shows the same report with the hyperlink configured to the ?Number of Individual? column.
+Not able to have Reports in multiple languages
+Metabase right now does not support creating reports in different languages. Avni is a multilingual platform and we wanted a way to reuse the same translations for our reports as well. To make the data and insights decentralised, it is important for it to be available in local language. In Jasper, we can create a resource bundle with all the keys and it?s translated values. This bundle then can be linked to a report and translated values can be accessed using a particular key. A sample report in Hindi looks like the image below.
+Cascading Filters
+There are situations where you need one filter to be populated based on another filter. E.g. State, District, Block, user hierarchy.
+Metabase does not provide a way to setup something like this
+as of now. So we have to populate each filter with all the values. If user chooses values in the filters such that the combination does not exist, you get empty results. This is not very user friendly. Jasper provides a way to set this up.
+Apart from these listed features, there are a whole lot of other features like user designed layouts, the ability to put static text, user parameters, and more which makes Jasper a much better candidate for writing and designing complex and efficient reports without affecting the user experience. Although you get a lot in Jasper there are some downsides when you shift from Metabase and start using Jasper, especially if you are using community edition.
+The powerful but out-dated user interface of Jasper.
+We get styling out of the box in Metabase and it’s good. With Jasper, we have to work on styling ourselves and create report templates that can then be reused for similar kinds of reports.
+Custom reports feature of Metabase where users can create a report from the UI without writing any query.
+In Metabase, users can change the visualization or hide/show certain columns or perform conditional formatting which is not possible in Jasper.
+An easy way to create a dashboard (Dashboards are not available in community edition)
+To put everything together we can say that Metabase is limiting for developers but powerful for advanced end-users, and Jasper, on the other hand, is powerful for developers but limiting for advanced end-users.?
+As I said earlier no product can satisfy all the use cases and it depends on the use case which product to use. Right now we are using these two reporting tools in Avni and we decide based on the requirements on the project.
+We are still exploring GIS reports, and much more. Well, let?s keep that for our next blog post.

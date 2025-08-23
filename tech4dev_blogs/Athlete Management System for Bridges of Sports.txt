@@ -1,0 +1,19 @@
+Title: Athlete Management System for Bridges of Sports
+Author: Kurund Jalmi
+Date: October 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/athlete-management-system-for-bridges-of-sports/
+==================================================
+
+Bridges of Sports
+(BoS) works with athletically gifted tribal communities in northern Karnataka and other parts of India to identify potential olympic athletes and train them to their full potential. The coaches involved with BoS conduct training sessions at schools and local playgrounds in the villages of these communities.
+We are working with Bridges of Sports to build a comprehensive athlete management system. The system will enable coaches to access and run diet and exercise programs for each athlete under their guidance, collect data for every training session, and monitor the athletes’ progress over time.
+Exploring existing solutions
+After discussion with BoS, we explored a few existing solutions, to see if any would suit the needs of BoS. We explored OpenCHS, and while it seemed to work for a good part of their data gathering needs, their curriculum structure and league management would not fit well within it. After talking to other t4d members and the team from BoS, we came to the conclusion that a custom solution would work best.
+Tech Stack
+We decided to go with a native Android app for use by the coaches and a ReactJS web frontend for the admins, with a Python/Django backend. Data gathering will take place mainly on the app – both online and offline, with other organisation level management done by the admins on the web frontend.
+Progress so far
+We have customised React admin for the web admin portal, it seems to be quite good so far, and easy to work with.
+We have also started work on the android app after going through some feedback regarding the resource/curriculum management with BoS in the past week.
+We have also set up user permissions for coaches and admin, and the resource management portal.
+More updates to come.

@@ -1,0 +1,38 @@
+Title: Ecosystem Thinking in Action: Insights from Dasra Philanthropy Week and the AI Sprint
+Author: ericamiglani
+Date: March 2025
+Category: AI
+URL: https://projecttech4dev.org/ecosystem-thinking-in-action-insights-from-dpw-and-the-ai-sprint/
+==================================================
+
+Attending two incredible events in February and March—Dasra Philanthropy Week (DPW) and the AI for Global Development Sprint—gave me the chance to reflect on the sector more, reconnect with old friends, and build new relationships. Both gatherings deepened my understanding of how NGOs are thinking about AI and philanthropy, making them fulfilling experiences that I hope to see more of in the coming year.
+Reflections from Dasra Philanthropy Week
+This year’s in-person Dasra Philanthropy Week in Mumbai took on a refreshing new format. The first day focused on closed-door, deep-dive discussions, while the second day brought together the broader ecosystem – funders, NGOs, and enablers for open conversations and panel discussions. I found this structure particularly effective: a day for focused engagement followed by a day of diverse perspectives.
+While there were many insightful sessions, one that really made me think was
+“
+Shaping New Paradigms in Corporate Giving
+“
+. As I listened to CSR leaders and grassroots NGO representatives, one thought kept surfacing while both aspire to collaborate effectively, there’s often a disconnect in understanding each other’s realities. NGOs, already stretched thin, struggle with the heavy burden of reporting requirements, while CSR teams, though empathetic, are bound by the rigid processes of their larger corporate structures. The key takeaway more dialogue, more understanding, and more internal advocacy. CSRs need to push for more relevant, flexible reporting frameworks, and NGOs need to recognize that corporate funding comes with its own set of constraints.
+In the late afternoon, Project Tech4Dev hosted a closed-door session for NGOs looking to shape their tech strategy. Led by Vinod (Fractional CxO Program Lead), Anto (Fractional CxO), and Abhishek Nair (Product Manager), the session took a hands-on, gamified approach -an attempt to make tech decision-making more engaging for non-tech leaders.
+I was initially curious – how do you gamify a discussion on tech strategy? But as the session unfolded, I found myself fully engaged, pleasantly surprised by how well it worked. As participants started discussing the path they would take when defining their tech interventions most organizations defaulted to thinking about building custom tech solutions rather than leveraging existing platforms.
+This left me with mixed feelings. On one hand, I felt a bit sad that despite years of challenges with custom-built tech, NGOs are still willing to try again, hoping this time will be different. On the other hand, I saw a huge opportunity to shift mindsets toward platform-based solutions that are cost-effective, scalable, and sustainable.
+If there’s one thing I would love for more NGOs to consider, it’s this:
+Why start from scratch when platforms already exist to support your work?
+It’s faster and more cost-effective—you’re not building alone but benefiting from a community-driven approach.
+You don’t have to worry about maintenance—the developer community takes care of that.
+Even if a platform meets 70% of your needs, it’s often a smarter choice than investing resources into a custom-built solution.
+This is a conversation I want to keep having, so if you’re interested in learning more, reach out at
+erica@projecttech4dev.org
+.
+Beyond the sessions, DPW was also a wonderful opportunity to reconnect with sector peers. A huge thanks to the Dasra team for curating such a thoughtful gathering—it provided plenty of food for thought, opportunities to reflect and collaborate, and a chance to reshape narratives for the better.
+AI for Global Development Sprint
+In March, I attended the AI for Global Development Sprint, a 3-day gathering organized by The Agency Fund and Tech4Dev in Bangalore. The sprint brought together 90+ participants from healthcare, education, agriculture, and tech, all eager to explore how generative AI and ML can address development challenges. Designed for peer learning and hands-on collaboration, it created a space where funders and implementers could deeply engage, ensuring AI solutions stay grounded in real-world needs.
+At the heart of the sprint were seven incredible organizations – Jacaranda Health, Rocket Learning, Reach Digital Health, Digital Green, Precision Agriculture, Youth Impact, and Noora Health each embarking on a year-long journey to develop their AI use cases, backed by funding from The Agency Fund and guided by AI experts.
+I’m becoming a huge fan of cohort-based programs especially in evolving spaces like AI, where many organizations are still shaping their strategies. These cohorts foster open, honest conversations about successes, failures, experiments, and lessons learned. More and more, I see organizations willing to share deeply and authentically, making gatherings like this invaluable.
+What made this sprint even more special was the rare but much-needed collaboration between funders and implementers in the same room. It was great to see Rohini Nilekani Philanthropies, BMGF, ATECF, Fidelity Foundation, Koita Foundation and Give Grant engaging directly, keen to understand where AI in the sector is headed and how we can align efforts for greater impact.
+We also had two fantastic keynote speakers – Manu from Karya and Vivek Raghavan from Sarvam AI – who shared rich insights from their experience in the space.
+The discussions were dynamic and thought-provoking – each NGO presented their AI use cases, followed by breakout groups in health, agriculture, and education, where funders and implementers came together to explore challenges and opportunities in AI-driven solutions. The day wrapped up with a funder roundtable, offering a platform for reflection and alignment on how we can collectively strengthen the AI ecosystem.
+The sprint was a powerful reminder that we’re all navigating this AI journey together some a few steps ahead, others just starting, but all learning and evolving. The group will reconvene in Nairobi mid-year, culminating in a year-end showcase where NGOs will present their progress. I’m truly excited to witness this evolution—how much we’ll have learned and grown as a community in just one year!
+Looking Ahead
+At Project Tech4Dev, we would love to enable and run more cohort-based programs like this – if you’re a funder looking to support such initiatives, happy to have a conversation!
+This sprint was an incredibly fulfilling and rich learning experience from thought-provoking discussions to new friendships and collaborations. It feels great that Project Tech4Dev can convene such ecosystem-building events with like-minded partners. In April/May, we’re planning a similar roundtable with CSR heads – if you are interested in being part of it do reach out.

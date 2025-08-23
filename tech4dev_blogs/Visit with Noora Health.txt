@@ -1,0 +1,27 @@
+Title: Visit with Noora Health
+Author: Rohit
+Date: February 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/visit-with-noora-health/
+==================================================
+
+Rohit Chatterjee, Feb 2025
+Every few months I visit Noora’s office in Indiranagar. We all enjoy the face-to-face meeting and their being only two metro stops away from me is an added bonus.
+It was a large meeting – Abhishek, Ammar, Harsh, Jake, Nikhil, Poorva, Santhosh, Sreeram, Vineet from Noora, and Ashwin, Pratiksha and myself from Dalgo – eight of us in the room and the rest over Google Meet.
+I started by giving them an update of what the Dalgo team has been up to since our last meeting, the major part of which was our transition of Airbyte to Kubernetes. Poorva was already familiar with this since she was led the majority of this transition effort while volunteering with Project Tech4Dev last quarter. I then told them about our recent sprint in Mahabalipuram and the roadmap we announced as well as the feedback we received during that workshop.
+Noora is a client who is not terribly interested in AI, we know this and they know that we know this. They are much more interested in data sync and orchestration and in fact have suggested several enhancements in the past which have been included into Dalgo. This meeting also produced a host of suggestions which have been added to our backlog, including:
+Cancelling a queued job
+Cancelling a running sync
+Auto-cancellation of a “clear” job which is taking too long
+Show the position of a pending job in the queue along with an estimate of when it will start
+Categorize notifications by type and allow users to subscribe to the ones they want
+Run daily connectivity checks on sources and the warehouse
+Replace Prefect logs with Airbyte logs in the Pipeline History page (for Airbyte jobs!)
+Some error messages should move from a toast to the main page so they don’t disappear
+Publishing our Elastic IP addresses in our documentation and in the platform
+In addition to these there were other requests which I need to look at in more detail before adding to our backlog, such as
+Can Airbyte copy a small subset of data from a source, so the user can inspect it before syncing the entire dataset?
+Can we include a “Generic HTTP request” as an orchestration action?
+They also asked, and not for the first time, about our upgrade schedule. This is something which I need to decide on and publish for visibility to all our clients and partners.
+Once this part of the discussion was complete, we moved on to talking about Dalgo’s upcoming Chat with your Data feature. I showed them what we already had, and the modifications we have in mind for our next release at the end of this month. They asked what would be sent to the remote LLM service (OpenAI or whoever else), and what our plans were for masking PII (answer: replace with UUIDs). They suggested that in some cases we might be able to avoid sending raw data to the LLM, and instead ask for Python code using which we could summarize the data and then send those summarized results to the LLM. They asked about token windows and cost monitoring, and enquired into whether we could connect to a self-hosted LLM should they choose to run one.
+All in all it was a good meeting, I certainly came out of it with a lot of actionable feedback, and they all said they were pleased as well.

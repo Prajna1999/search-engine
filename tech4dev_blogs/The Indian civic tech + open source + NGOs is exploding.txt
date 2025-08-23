@@ -1,0 +1,25 @@
+Title: The Indian civic tech + open source + NGOs is exploding
+Author: Donald Lobo
+Date: September 2023
+Category: Avni
+URL: https://projecttech4dev.org/the-indian-civic-tech-open-source-ngos-is-exploding/
+==================================================
+
+Back home in SF from yet another amazing, awesome and all the superlatives you can think of trip to India. My experiences over the past decades and specifically over the past year is very similar to what we went thru at Yahoo! and Web 1.0 25+ years ago! We’ve got a great group of people and organizations, multiple initiatives with different groups of partners, and so many events all happening in the same week that brings the community together
+So, how do I start. Being an engineer, let’s start from the very beginning of this trip 🙂 This trip was supposed to be an off-calendar trip for me due to a family gathering. Can’t afford to say no to a family gathering in India, considering how often I go back for work, else they’ll completely disown me. Balancing family and work obligations made this trip quite long, and while exhausted (mentally), I’m glad I did it.
+After the family gathering, I flew to Delhi to hang out with the Glific Developers and knock a few big infrastructure items off our list. This included fixing a few issues highlighted by the security audit, optimizing our DB storage (i.e. doing what we tell NGOs in our privacy and data retention policy), planning a major DB upgrade (yes, we want to be on relatively latest versions of our entire stack) and in general hanging out and doing stuff that truly brings me joy. Glad we did it, and will ensure we do this at least twice a year. We got a lot of stuff done, ate some amazing home cooked biryani (thanks @mohdshamoon) and ate a lot of mediocre food for the rest of the trip (definitely my biggest disappointment of the trip, and need to educate our young techies on the great food that we could have had, but did not!). Thanks to our friends and close partner, Dhwani RIS, for opening their office to us for our offsite and feeding us during the day.
+We organized a developer meet in Gurgaon, primarily since all of us were headed there for a super successful Code For GovTech Summit (C4GT) in Delhi on Sept 11. This was a culmination event for the C4GT program, where we had 10 interns across our four projects. Thanks to the amazing interns, we had major additions to Glific Backend with Internal Dashboard, Glific Frontend releasing a Mobile App, Dalgo adding lots of new connectors and deploying Prometheus/Grafana for logging and Avni adding improved reporting to its system.
+The C4GT mentors taking time off for the conference to offer their best look 🙂
+From Delhi, we flew to Bangalore to meet the Dalgo team and also finalize the hiring of two new Fractional CxO’s. We were quite successful and happy to report that we’ll have two new senior tech talent join our team in the next few weeks. Introductions coming soon 🙂 We met with a bunch of ecosystem partners (Sattva, Veddis Foundation, Janagraaha, Ooloi Labs, Goonj, Samanvay Foundation) and had a couple of dinners with the team while getting a fair bit of work done at the hip and happening cafes in Indiranagar (SF cafes seem so boring compared to these cafes!)
+The main event in Bangalore was the
+Oasis conference
+organized by the OASIS alliance, where Project Tech4Dev is a founding member. We were at the event in full force, with presentations from Glific, Avni, and Dalgo. The conference was a great gathering of 400+ people across the social sector, from NGO partners, to software & data partners, from funders to individual contributors. It was a long day with a lot of conversations and reconnects with many people across the sector. The organizers did a terrific job of making the conference open and inclusive to everyone and we came away super impressed.
+Project Tech4Dev booth showcasing Dalgo – Data Development Platform
+Some closing thoughts and remarks
+Really cool to see how far the Indian tech + open source + social sector ecosystem has evolved
+Super proud of the Tech4Dev team to see how much we’ve accomplished in such a short time
+Networks are important and crucial for the sector to grow
+Technology is never the solution, it is just an enabler – We need to make sure people understand this and use the power of the network to figure out the solution
+So grateful to see the community post Covid in such beautiful spaces
+Opening up our work to folks thinking of joining us is a good recruiting tool. We gave our two new hires an immersive experience, to help them decide if they wanted to be part of it. We think it exposed them to reality and the problems they will have to tackle if they so choose to
+Looking forward to the next trip and the sprint in Kochi (Oct 15 – 20)

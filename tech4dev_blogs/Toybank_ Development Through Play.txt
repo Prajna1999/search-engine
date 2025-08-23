@@ -1,0 +1,54 @@
+Title: Toybank: Development Through Play
+Author: Kurund Jalmi
+Date: July 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/toybank-development-through-play/
+==================================================
+
+As a part of the Tech4Dev initiative, we are working on a project for
+Toybank
+.
+Introduction
+Toybank, an initiative under The Opentree Foundation is an organization in India that promotes the Right to Play for all children. It provides a platform for all individuals of all ages to participate in this movement of propagating the Right to Childhood.
+Toybank reaches toys and board games to underprivileged children through distributions and the setting up of toy libraries called Play Centers.
+Toybank believes in the philosophy ? “It is easier to build strong children than to repair broken men.?
+Toybank Founded in August 2004. As of March 2018, Toybank has set up 285 Play Centers and impacts the lives of 43,919 at-risk children every day.
+Mission- To address developmental needs in children through games, toys, and play.
+They are in the process of mapping the Game and Behavioural problems & have developed programs and initiatives particularly focusing on,
+Tracking behavioral problem
+Mental growth of children
+Current Process
+Toybank regularly organizes collection drives in schools, corporate houses, etc. through its volunteer network. And keeps track of these toys manually at each warehouse. Then these toys are then dispatched to its play centers or wrapped and set aside for distribution. The inventory dispatch sheet is also issued manually by the admin staff.
+Toybank program officers/ field officers conduct these programs.
+They also conduct training for NGO partners and other school teachers who teach at the play centers.
+Project Details
+After our initial engagement with Toybank, at their office in Mumbai, we identified that there were a lot of areas needing technology support, which could bring in a significant change in their day to day work. Those areas are,
+Inventory Management
+Play Session Management
+Tracking of Volunteers
+Center Management
+Delivery Management
+Program Delivery Management
+Donor Management
+Document Repository
+We also visited their Warehouse and Play Center in Mumbai to understand the requirements in detail.
+After discussion with the Toybank team and based on the requirements it was decided to work on their inventory management & play session management work.
+The project has been divided into 2 phases.
+Phase 1
+Inventory Management
+Ability to manage Toys inventory
+Ability to issue toys to Play Centers
+Ability to track the status of the toy at the warehouse
+Ability to track the status of the toy at Play Centers
+Implement access control
+Reporting
+Inventory
+Play center
+Phase 2
+Play Session Management
+Technology Solution
+We have evaluated Odoo an open source all in one management software:
+https://www.odoo.com/
+. and after analyzing the requirement we think the Odoo warehouse management component might be a good fit for this project.
+As a part of the Tech4Dev initiative, Phase 1 will be implemented. The development of the project has started in the last week of June.
+Any suggestions and feedback are most welcomed.

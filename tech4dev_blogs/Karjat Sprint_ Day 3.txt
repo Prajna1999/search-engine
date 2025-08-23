@@ -1,0 +1,28 @@
+Title: Karjat Sprint: Day 3
+Author: Glific Admin
+Date: April 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/karjat-sprint-day-3/
+==================================================
+
+This blog is written by Robert from
+Agency Fund
+We kicked off day three with an excellent talk from Swapneel from
+Goalkeep
+titled “Data Eats Code for Lunch”. It was an engaging presentation and discussion of the role of code in enabling data and how to arrive at those use cases for these data through a process of enquiry.
+We had a number of follow up discussions focusing on these use cases and how to set expectations for what data can and cant do for orgs. We discovered that were kindred spirits in data literacy and culture change and had many lessons and learnings to share with each other. If
+Data Eats Code for Lunch
+, Data Use Cases eat both for breakfast.
+The afternoon session was an open QA with
+Tech4dev
+‘s founders, Lobo and Arun, about anything and everything under the sun, from core values to open source licenses. It reminded me of the early days of Google when we would have direct and engaged access to its founders and set a core culture of accessibility and humility in leadership.
+For me, the two sessions were interleaved with working on and fixing an
+Indus Action
+data problem with Ankit, strategizing on data culture change strategies with Swapneel, and a design discussion about data lakes and client-side javascript with Siddhant and the DDP team. We didnt just talk, we got things done.
+It’s my third day as a Project
+Tech4dev
+sprint guest from the
+Agency Fund
+and Im full of thoughts and feelings that are slowly coming together. What I can say so far is that I’m very humbled and inspired by what everyone brings to the table every day of the week: purpose, drive, humility, curiosity, drive, enthusiasm, gratitude, intelligence, fun and collaboration – just to name a few. What Im realizing is Culture eats everything for breakfast, lunch and dinner. The
+Tech4dev
+team makes the 3x all-you-can-eat buffets look like nothing and Im left feeling full with inspiration.

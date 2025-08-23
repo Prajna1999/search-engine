@@ -1,0 +1,16 @@
+Title: Insights from the Data Catalyst Program: Learn, Unlearn, Re-learn
+Author: Siddhant Singh
+Date: October 2023
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/insights-from-the-data-catalyst-program-learn-unlearn-re-learn/
+==================================================
+
+By – Ramlal Suthar & Dyu Pattnaik, Educate Girls
+We appreciate our participation in the Data Catalyst Program. It was fantastic, and we are eager to keep going. Big thanks to Project Tech4 Dev, Dasra, Goalkeep, and Agency Fund. In addition to our program partners, the exchange of ideas and insights among all participants has been truly great. We have learned a lot from each other, and this program will help us share and implement ideas to improve our organization.
+The two days of in-person training sessions gave us insights that we categorized into what we learned, unlearned, and re-learned.
+Learn:
+The data levers by Goalkeep were really helpful in understanding our data challenges and framing the problem statement. We also learned to assess our organization’s data culture using these levers and work on the required subdomains.The scenario-based sessions taught us essential data leadership skills, and we picked up some useful tricks for optimizing dashboard loading time.
+Unlearn:
+We relied solely on the theory of change to measure impact but the funnel metrics showed us a new way to assess program effectiveness and identify bottlenecks. We realized that running RCTs is not as daunting as we thought. While we might not run sophisticated RCTs, running small experiments can help us evaluate programs and gain useful insights.Making visualizations that can convey actionable information in ten seconds, even if they are not fancy, was really helpful.
+Re-learn:
+Thinking about the user and asking clear, measurable questions when designing data processes was truly beneficial. Emphasizing the use of technology for data collection with proper validation and checks is a lesson that we need to keep reinforcing. Maintaining data quality during collection, building data repositories and creating reports and dashboards are crucial for any organization.

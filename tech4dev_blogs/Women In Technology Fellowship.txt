@@ -1,0 +1,22 @@
+Title: Women In Technology Fellowship
+Author: Kurund Jalmi
+Date: October 2022
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/women-in-technology-fellowship/
+==================================================
+
+This is a paid fellowship for women from technology institutions; we solicit candidates from all years of college. Tech4Dev runs this fellowship with its partners and focuses on engineering institutions from Tier II and Tier III cities.
+The program mentors fellows in a wide range of non-tech related subjects such as written and oral communication in English, business communication etiquette and tech-related subjects such as digital technology, programming in general and Python and front-end technologies. The goal is to make them more confident, well-spoken and technically proficient candidates as they enter the workforce for internships and beyond.
+Tech4Dev plans to run this fellowship in cohorts from engineering colleges in different parts of the country, The fellowship cohorts are run by two partners at a time: one partner providing mentoring on soft skills and one partner focusing on their technical development.
+The first cohort is in the Tehri area with
+Hyperverge Academy
+(HVA) and ColoredCow. HVA on soft skills development and has deep experience in running such fellowships and they have demonstrated success in previous cohorts before this Tech4Dev cohort.
+Technology mentoring and standups for the first cohort are managed by
+ColoredCow
+, a Tech4Dev partner with offices in Gurgaon and Tehri. ColoredCow manages the technology part of the curriculum, holds regular standups and guides the fellows in their technical advancement.
+Our next cohort will be run by HVA and
+Soft Corner
+with students from various colleges in Nashik/Satara area. Soft Corner is a founding partner of Tech4Dev and has been in the software business for over 25 years. They are headquartered in Pune.
+Our fellows write regular blogs describing their experiences and learnings. Read the blogs from our fellows
+here
+.

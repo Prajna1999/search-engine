@@ -1,0 +1,50 @@
+Title: People+AI
+Author: Rohit
+Date: May 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/peopleai/
+==================================================
+
+Bangalore International Centre, May 7 2024
+By Rohit Chatterjee and Thomas Mampilly
+Yesterday the two of us had the privilege of being invited to attend an event hosted by
+people+ai
+at BIC in Bangalore. We did not know what to expect so we showed up with open minds for the three-hour-long event.
+The theme of the presentations was building population-scale digital public infrastructure for AI. The organisers included the team who built Aadhaar and UPI, which was good to know because when people make predictions or give advice you always want to know why you should listen to them.
+The Big Picture
+The evening kicked off with Tanuj Bhojwani, who heads up people+ai, asking a simple question: “Can we have a future where technology serves us and not the other way around?” A question set up by examples of how we have gotten used to adapting our lives to the demands of SEO, social media attention and the like. Is AI the answer?
+Tanuj posits four essential components to unlock the potential of AI in India:
+Use cases to build for
+Infrastructure to scale
+Community of builders with space to experiment and grow
+Advisors and cheerleaders to accelerate growth
+AI applications
+The sessions started with a presentation by
+Driefcase
+, who onboard patients at government hospitals onto the
+ABDM
+. The ABDM identity, called ABHA, allows patients to share their medical histories with healthcare providers. Registration is not simple for everyone, so Driefcase built an app to help. With a simple app they were able to reduce waiting times for doctors appointments from 4 hours to a few minutes, and when they noticed that this still wasn’t good enough they enhanced it with a chatbot which users can speak with to lead them through the process and address any concerns they might have. And to close the loop they allow users to provide feedback on the service they received.
+Next was
+Sarvam AI
+which provides a natural-language interface to create a WhatsApp chatbot.
+Users provide their knowledge-base for their chatbot to refer to, APIs to external services which their chatbot can connect to, and descriptions of how the chatbot should work. Sarvam AI then creates the chatbot to this spec.
+Next up was
+Stage
+, an Indian language video platform that currently serves content in Haryanvi and Rajasthani, who demoed an AI voice customer service agent that could respond to questions around a trial subscription, its cost and automatic renewal. Impressive considering the interaction was in Haryanvi and the AI agent was able to retain context and successfully direct the customer to a satisfactory call closure. Use cases for this kind of tech in the social sector abound: from AI interviewer-assisted surveys to health-related triage. I’m excited to see how we can experiment and leverage this in the near term.
+Rohit’s favourite demo from this session was by Setu who unveiled an LLM called Sesame. The first use-case was for users to upload bank statements to the LLM which reads them and creates summary reports on inflows and spending, all through WhatsApp (TBH I’m not certain it was WhatsApp… it looked like WA on the screen though). The next one was even better, through the chat interface a user can talk about a planned purchase, get information, product recommendations, and even place an order. It was pretty impressive.
+Compute Capacity
+After a few more AI presentations, the organisers addressed the obvious question – “where is all the compute power going to come from?”
+The first presentation in this session was by
+Vigyan Labs
+, who built an air-cooled solar-powered micro-data centre in Mysore. The building sits on a modest plot of land, is maybe three storeys high, and is so energy-efficient that they give surplus power back to the electrical grid.
+Von Neumann AI has built a PC-sized AI server for 2 lakhs; it’s tiny and you can see it in the photograph below:
+(It wasn’t clear who the target market is, but it could be MSMEs and NGOs).
+Looking ahead
+The evening ended with a keynote by Nandan Nilekani, in which he said
+Start your AI deployments now, don’t wait. Make mistakes, learn etc
+Don’t chase the big parameter models, we can do a lot with less
+Attack the population-scale problems
+Private players on Public “rails”
+There is money to be made at high volumes
+What the sessions told us though was a) look, people are doing this already, and b) we haven’t solved the shortage of compute power yes but people are working on it. So don’t wait.
+In fact, the entire event was intended to tell people to Start Now. With LLMs and their applications progressing as fast as they have been, and without good estimates or heuristics on costs, it’s natural for some innovators to want to “wait for clarity”. For those on the fence, People+AI aimed to give them a little nudge, a little boost of confidence.

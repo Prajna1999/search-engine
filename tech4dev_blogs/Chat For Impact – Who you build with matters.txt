@@ -1,0 +1,48 @@
+Title: Chat For Impact – Who you build with matters
+Author: Kurund Jalmi
+Date: February 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/chat-for-impact-who-you-build-with-matters/
+==================================================
+
+This post is via Neelke Stadler from
+Turn.io
+Three members of the Turn.io team recently spent a week in the bustling city of Mumbai, India. The main purpose of the week was to onboard 12 organizations to understand and use Turn.io. Turn.io is a web-based application that enables social organizations to have impactful conversations at scale. The heartbeat of Turn is to drive conversations to become actions, thereby providing evidence of the impact organizations are having. Turn provides access to the WhatsApp for Business API and applies a human-in-the-loop principle. Meaning you do not have to choose between a
+fully-automated-but-often-impersonal-chatbot
+service and a
+very-intimate-but-not-scalable
+service. At Turn, we believe you need a combination.?
+We spent our three days with the third
+Tech4Dev
+cohort talking about all things “chat” and most importantly building hands-on prototypes to use WhatsApp for good. The third day also included
+Noora Health
+,
+Leap For Word
+,
+Meraki Foundation
+and
+Digital Green
+sharing challenges and victories on their journey to use chat for impact. On Thursday
+Lumen Consulting
+facilitated a meetup, with an open invitation to any NGOs interested in two-way communication.
+The visit to India was made possible through a collaborative effort, initiated and driven by Project Tech4Dev from the Chintu Gudiya Foundation. You can read their thoughts and impressions of the week in
+this blog post
+, alongside some participants’ experiences of
+Days 1
+,
+2
+and
+3
+.?
+So what were our key learnings from last week?
+The development space in India is inspirational!
+It is driven by a host of innovative and competent teams that are tackling hard social problems with relentless energy in the world’s second-most populous country. Being a small team ourselves it excites us to build a product to enable other agile and aspirational teams to amplify their impact.
+Tracking is important.
+It is one of the fundamental reasons why we started Turn – to enable impact tracking as it happens instead of at the end of long programmes. The more we know, the more we can grow in the right direction, making sure that resources are applied to solve the right problems in the right places. We love how committed the teams are to using data, and we are committed to building a data-led product. Small changes can change a lot of lives.?
+Context is important.
+To deliver scalable programs we need technology solutions, things like machine learning, natural language understanding, real-time two-way communication, and automation. However, to solve hard social problems we need empathy, creativity, and human connection. Listening to the participants? use cases we were inspired to continue to build Turn as a human-in-the-loop product. We believe it should not be a choice between a fully automated chatbot (which often results in impersonal and frustrating user experience) OR an intimate but small-scaled service. It needs to be an AND. It needs to be empathy powered by technology.
+Community is important.
+The synergy of peer learning, the inspiration of hearing one another?s stories, the motivation of collaborative problem solving all seem to strengthen when shared with others. Likewise, group functionality in WhatsApp is a critical feature for social organizations. As Turn we agree and will continue to advocate for the group functionality to move out of beta on the WhatsApp for Business API.
+Our time in Mumbai confirmed the fundamentals on which we found Turn. It warmed our hearts but also reinforced our urgency to improve Turn even more. The need is clear and critical – the power of chat, of having a point of connection into almost every life in India, has to be utilized to improve lives! From a product perspective, we are committed to including more automation and more AI-assistance in local languages to help with repetitive tasks. We will continue to build Turn as an extendable product, and we will always advocate for community involvement.
+Anyone is welcome to reach out to us with questions/suggestions or to join our monthly Turn Townhall session. Email:
+impact@turn.io

@@ -1,0 +1,44 @@
+Title: Empowering SNEHA: Improving  Effectiveness of Health Interventions through Data Democratization using Dalgo
+Author: Vinod Rajasekaran
+Date: November 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/empowering-sneha-improving-effectiveness-of-health-interventions-through-data-democratization-using-dalgo/
+==================================================
+
+Abstract
+:
+This case study delves into how SNEHA, a prominent non-governmental organization (NGO) in the health sector, is overcoming data management challenges to streamline its operations, enhance transparency, and improve data-driven decision-making. Facing hurdles related to data organization, consolidation, and accessibility across various health interventions and beneficiary communities, SNEHA sought to democratize real-time data access for all stakeholders within the organization. The solution came in the form of “Dalgo,” a comprehensive data platform designed to empower NGOs by automating data consolidation, transformation, storage and visualization on a unified platform, potentially leading to more effective health interventions.
+Introduction
+:
+SNEHA (Society for Nutrition, Education, and Health Action) is a well-established NGO with a mission to improve the health and well-being of underserved communities, particularly women and children. Over the years, SNEHA has initiated numerous health interventions across a diverse set of beneficiary communities, ranging from maternal, adolescent and child health programs  to preventing and addressing gender-based violence. As the organization grew and expanded its reach, it faced several data-related challenges:
+Data Fragmentation
+: SNEHA operated multiple health interventions simultaneously, each generating its own data. Data was often stored in silos, making it challenging to gain a holistic view of the organization’s impact.
+Data Inefficiency
+: Manually consolidating, cleaning, and transforming data from various sources was time-consuming, error-prone, and resource-intensive. Though tools such as Tableau and Talend were being used, there was still a significant amount of manual intervention required for pipelines to be run error-free and for data cleaning and validation.
+Data Access and Reporting
+: Access to real-time data was limited to a select few, hindering the ability of field workers to better plan monthly visits to community members. Reporting was manual and often involved long turnaround times. Even though for most reporting purposes, monthly data is sufficient, field community organizers lacked the real-time data to better prioritize and track their work.
+Scope for more Data-Driven Insights
+: SNEHA aspired to extract meaningful insights from its operational data to drive program improvements and resource allocation but this was difficult and time-consuming due to the data-related bottlenecks.
+To prepare themselves for the next stage of their growth, SNEHA sought a transformative solution, leading them to co-create the Dalgo data platform with Project Tech4Dev.
+Dalgo: A Data Transformation Solution
+:
+Dalgo
+is a cutting-edge data platform designed specifically for NGOs, enabling them to harness the power of data to achieve their missions. It simplifies data consolidation, transformation, storage, and visualization on a unified platform, making data readily accessible and actionable.
+Dalgo Block Overview
+Implementation at SNEHA
+:
+Data Integration
+: Dalgo seamlessly integrated with various data sources across SNEHAs health interventions. It standardized data formats and ensured data consistency.
+Data Transformation
+: The platform helped simplify data cleansing, enrichment, and transformation, reducing human errors and potentially freeing up valuable staff time in the long run.
+Real-time Data Access
+: Intuitive dashboards on Dalgo have allowed stakeholders at all levels of the organization to access real-time data, promoting transparency and collaboration.
+Automated Donor/Program Reporting
+: Customized reports and dashboards were generated for internal program reviews and funders, eliminating the need for manual data analysis work for report creation; this has helped reduce reporting turnaround times significantly.
+Data-Driven Insights
+: With data consolidated and easily accessible, SNEHA can now better analyze trends, track program effectiveness, and make informed decisions to optimize interventions.
+Malnutrition Spread of children covered by field worker to help them better focus on particular aspects of malnutrition during home visit counseling
+Program Level Child Malnutrition and Immunization Metrics for program leadership to better inform and guide the intervention
+Conclusion
+:
+By adopting the Dalgo data platform, SNEHA is transforming its data management practices, overcoming fragmentation and inefficiencies. The organization is successfully democratizing data access, automating reports, and can now potentially unlock valuable insights from its data. As a result, SNEHA  stands as a prime example of how NGOs can leverage data with the help of modern data tools to enhance their impact and improve the lives of underserved communities.

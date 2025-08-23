@@ -1,0 +1,44 @@
+Title: Project Tech4Dev’s AI Strategy
+Author: Jerome White
+Date: July 2024
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/project-tech4devs-ai-strategy/
+==================================================
+
+Project Tech4Dev’s AI strategy can broadly be classified into four pillars. The first is systems we build in partnership with NGOs. These systems rely on AI to solve specific challenges the NGOs face. The outcome of this effort drives two of our other pillars: applied AI research initiatives and reusable AI platforms. The fourth pillar consists of AI community leadership. This blog post outlines these pillars in detail.
+Production
+Our production pillar consists of solutions we build alongside our NGO partners. These are cases that are addressable by AI, if solved can significantly accelerate an NGOs productivity, and are cases that can be generalized either across the sector or across organizations.
+An example project comes from the
+work we have done
+with
+STiR
+. They needed summarized insights from qualitative interview data taken from teachers with whom they work. These summaries were critical to their internal evaluations, along with reports they produce for external stakeholders. For many of the data needs, they turn to
+Dalgo
+; prior to our collaboration Dalgo did not have strong support for qualitative data.
+We first built a custom web app for them that supported the use case. Using the app, they were able to select subsets of data they wanted summarized. In addition, they were to choose how they wanted the data summarized: “three best practices”, or “five areas of improvement”, for example. The settings were used to craft a prompt, which was then sent to an Open AI GPT model. The response not only satisfied their summarization requirement, but was formatted to fit their reporting style.
+When presented with this use case, we immediately saw its broader scope. Many of our Dalgo users have qualitative data that they are either doing nothing with or – as was the case with STiR – using tools and processes outside of Dalgo that are suboptimal. As we now integrate this feature into Dalgo, we also expose its benefits to a wider audience. In addition, we have noted other NGOs who want summaries of their end-user WhatsApp group chats; so the feature is not necessarily unique to Dalgo, but more so a platform we can offer to support a wide variety of work.
+Platforms
+Our platform pillar consists of solutions we build that benefit the community. Dalgo,
+Glific
+, and
+Avni
+are examples of platforms we have already built. They also embody our philosophy around platform building that we will bring to our efforts in AI: solutions that are applicable across organizations, solve fundamental challenges for a wide array of users, and are open source at their core.
+Starting from our production pillar allows us to build our platform pillar with confidence. We anticipate that in most cases, by the time a solution reaches the platform stage we will already have developed a good sense for its core components and unique selling points. We will also have established active users. These are solid foundations on which to build.
+As previously mentioned, our summarization work with STiR is a great example of this process in action. Another example is our work in providing Glific users with automated question-answering (QA). Many NGOs have document repositories that contain answers to common questions from their WhatsApp users using either voice notes or text. Automatically answering questions using those references is often the only way NGOs can scale their impact. We have observed various solutions being attempted across organizations, with varying levels of success and deployment best-practices. We are building a single platform that supports multi-modal QA that will allow consistency and ease of management across users.
+When it comes to NGOs, it is also helpful to remember Project Tech4Dev is also one. From this vantage, it is important to think about the products we build as potential collaborators and platform contributors. We saw a glimpse of this in the summarization example. Another case is in log analysis. The specific use case was that log messages from day-to-day Dalgo operation are important for system understanding, but can be difficult to pinpoint exactly why a process was successful or erroneous. We have addressed this problem using LLMs, and are in the process of exposing the feature to our clients. Glific also produces voluminous logs for each NGO on its platform, which are currently not exposed to the NGO. As we think through the correct abstractions, we anticipate this feature to be elevated to a platform; and in turn to expand our views on product synergy.
+Research
+Our production pillar is focused on publishing reusable services and tools to our platform pillar. To do so effectively, it must focus on cases that are relatively straightforward wins. Turning existing processes that have either been proven, or easy to see the need, into AI-enabled artifacts. There are a host of problems however that are equally important, but their solution is not as obvious. We think of these cases as requiring deeper thinking and testing to solve, and thus are part of our research pillar.
+There are several such cases we are actively working on with our academic collaborators:
+The concept of engagement is keeping users active in accomplishing their task; which often comes from keeping them active across communication channels. For example, ensuring health care workers are visiting sites, and are motivated to do so. Engagement is a core challenge for many NGOs who rely on WhatsApp for outreach and monitoring. We are currently working on this with an NGO in the education space. We foresee the lessons we learn, and example products we build, contributing to a broader platform capable of addressing the problem across sectors.
+In the QA paradigm mentioned earlier, it is important for answers to be accurate. Maintaining accuracy does not necessarily mean correctly answering questions, it can also be about admitting uncertainty and asking for help. We are working with an NGO in the healthcare space to develop such a pipeline. If successful an abstraction of the solution will be a candidate for a platform.
+Community
+Building community across the social sector around AI is as important as the tangible interventions produced by the other pillars. The purpose of the community pillar is not only to act as a common ground for NGOs to exchange ideas and support one another, but to be a paradigm for future funding opportunities. We have displayed both of these angles in the past, but formalize them here.
+Over the past year we have organized and participated in several events that have brought the community together. We have presented our work and our best practices at events for
+Team4Tech
+,
+Bridgespan
+, and others. We have organized the LLM seminars at our own sprints, and at specialized webinars co-hosted with
+Agency Fund
+. Whenever we host an event, we focus on providing our participants with outcomes that are immediately usable. We also focus on building bridges between organizations to facilitate offline support.
+In addition, our communities provide a backbone of our strategy to funders. Existing models rely heavily on direct NGO support; sometimes co-opting a tech partner to assist in delivery. When this model succeeds, it provides a win for a single organization, and a specialized tech artifact for a specific use case. Even when it works, however, it is often money spent on duplicate effort.
+Under our community pillar, there is an opportunity to support development activities that not only generalize across sectors, but create platforms on which others can build and maintain.

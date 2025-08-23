@@ -1,0 +1,71 @@
+Title: Tech4Dev 2.0 sprints are off the starting block – Welcome to GarudMaachi
+Author: Kurund Jalmi
+Date: July 2022
+Category: Avni
+URL: https://projecttech4dev.org/tech4dev-2-0-sprints-are-off-the-starting-block-welcome-to-garudmaachi/
+==================================================
+
+From a developer perspective, logistics and event coordination is a bear and quite painful. Luckily for Tech4Dev, we have
+Arun Kadekodi
+from
+Soft Corner
+, who loves organizing events. He also knows the best places to organize a sprint in the Mumbai – Pune area, and he does not disappoint. The location of this sprint at
+GarudMaachi
+was quite amazing. We managed to time it right and hit it at peak rainy season, waterfalls galore, super green surroundings and more. On Monday it rained so much, that we are both awestruck and stuck indoors pretty much post lunch to end of day.
+We’ll have a series of blog posts from various participants on the sprint. Arjun from
+Avni
+beat me to the first blog post that you can read here:
+Tech4Dev 2.0: Glific + Avni Sprint
+. Thanks to some seed funding from Cisco Foundation for the Education Cohort sprints, we will now have sprints on a quarterly basis for the Tech4Dev ecosystem.
+We had 43 folks register for the event, with a significant number of them willing to pay their own way for accommodation and food. Due to Covid we expected a 10% cancellation rate, which did happen. We had 6 folks drop out at the last minute. We had a good mixture of NGOs (
+Key Education Foundation
+(KEF),
+VOPA
+,
+The Apprentice Project
+(TAP),
+Slam Out Loud
+,
+Lend a Hand India
+,
+Reap Benefit
+,
+Shelter Associates
+,
+Avanti Fellows
+, and
+Indus Action
+), Ecosystem Partners (
+EdZola
+,
+Goalkeep
+,
+Avni
+,
+Glific
+,
+HyperVerge Academy
+and
+Dasra
+). At some point we do hope to convince funders to attend the first couple of days of the sprint. We got pretty close this time, but ultimately it did not happen.
+Opening Circle
+Our tradition of folks getting their favorite treats from their place of origin continues to be the best part
+While the event is a sprint in the traditional sense, our focus however is more on interactions, rest, recovery and enjoying the place a lot more than hands-on-keyboard. In my opening conversation, I did try to make this point to the group, and am glad to report that thanks to folks like Vinay Venu, Anand Sharma, Arun K the other activities including hiking (in a downpour), football (in the rain), card games and karoake are as important as the tech talks and blog posts.
+A few learnings from this time for future sprints
+We’ve gotten to a size where we need a coordinator to manage the logistics and communication for the event. While our teams have done a great job, its proving to be quite inefficient.
+Charging all participants a small amount (INR 10K?) upfront might be a good way to minimize folks cancelling and/or changing plans.
+Making the event family friendly is important (I think). This allows young parents to come with their kids and be present at least for some hours during the day. The coordinator will help manage and organize this.
+To a large extent, I’ve been inspired by the
+BMW Responsible Leaders gatherings
+. While I dont think we can ever get to that level, I think the principle behind it:
+It is good for all of us in the sector to take some time to reflect, interact, relax and enjoy. It is ok to spend money on ourselves.
+So, we are grateful to our funders for allowing us to make this happen
+We need to figure out what a good group size is. Seems like there is always more demand than space available, but maybe if we are doing it once per quarter, different NGOs will join us at different times
+Taking inspiration from Tarun and Madhuri at Indus Action and their annual retreats, how can we bring folks from outside our network into such events. What do we need to do?
+We should have a sick protocol (potentially a sick room if needed) and carry over the counter medications for mild sickness (see below for why!)
+I realize the above has introduced more questions than answers, but we’ll figure it out and get better next time.
+On a super sad note, I had to leave the sprint on Tuesday morning since I was feeling a bit under the weather since Monday. I figured it was good for me to try and keep the other folks safe. Super jealous that I’m not typing this blog post from GarudMaachi
+Onwards and Upwards
+GarudMaachi Sprint Reports (will be updated as more blog posts come in)
+Tech4Dev 2.0: Glific + Avni Sprint
+.

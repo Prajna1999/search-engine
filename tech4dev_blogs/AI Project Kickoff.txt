@@ -1,0 +1,48 @@
+Title: AI Project Kickoff
+Author: Akhilesh Negi
+Date: April 2025
+Category: AI
+URL: https://projecttech4dev.org/ai-project-kickoff/
+==================================================
+
+This new year has brought fresh beginnings in many ways. Each of our projects—Glific, Dalgo, fcxo, and Avni—is growing quickly, and our team is expanding too. This growth reassures us that we’re heading in the right direction and gives us confidence to take new initiatives. After quite a bit of planning, we’ve officially put together a team and kicked off our very own AI platform.
+Briefly, we will be building a platform that makes it easy for our products (like Glific, Dalgo, and Avni), or any other NGO platforms, to integrate AI models through a straightforward API. Our platform acts as a simple layer that manages communication with AI providers like OpenAI, ensuring our products remain flexible, focused, and efficient. While at the same time, NGOs need not to rely on any product to
+This blog is the trailhead—the first of many to come—marking the beginning of a long journey for our AI platform. Over the past few months, we’ve made significant strides. Although discussions and whiteboard planning have been ongoing, actual development began in February, and we’ve made great progress since then.
+Early on discussion on whiteboard from August, 2024
+Here are some of the early docs
+–
+Platform Design Document
+–
+Platform Specification Document
+Features at a Glance
+Easy monitoring and tracing of interactions with AI providers
+Cost tracking and management tools
+Ability to plug-and-play various AI providers like Claude, OpenAI, and Hugging Face
+Automated evaluation workflows
+Accomplishments so far
+We’ve had a lot of feature requests from different platforms and NGO usecases, plus a long wish list of our own. To keep things focused, we’ve locked v1.0 around a single goal: move the existing AI implementation from Glific and Dalgo onto our new platform. Once that migration is solid, we’ll revisit the roadmap and slot in the next wave of ideas.
+From AI Sprint at Mahabalipuram in January
+Last few months we have ticked off few things from our checklist
+Hosted our first
+AI sprint
+in Mahabalipuram
+Set up the
+Repo
+using a
+FastAPI template
+. With all the basics of opensource project: issue templates, continuous integration (CI), CodeCov for coverage, test cases, and a formatter.
+Built the deployment pipeline to push updates to both staging and production
+Glific Migration
+: Added support for running OpenAI threads on the new platform via API calls using
+Python OpenAI SDK
+Next Quarter Goals
+Langfuse Integration for better tracing and observability
+Dalgo Migration:
+Upload and Summarize Log Files
+Document Management
+Setting a Roadmap for Yearly Goals
+To continue on AI Trend mandatory Ghibli Art of screenshot of daily standup
+Gratitudes
+Firstly, to the Project Tech4Dev funders who have been super supportive from the very beginning. You are the reason this is happening 🙂
+To the amazing partners collaborative we have build over the years at Tech4Dev. Everyone helped in shaping together the requirement document by sharing their usecase and things they want, may we continue growing stronger with another platform.
+Finally, a huge shoutout to the team for their contributions so far: Sourabh Lodha, Nishika Yadav, Aviraj Gour, Jerome White, Priyanshu, and Akhilesh Negi. Special thanks to Kurund Jalmi, Ishan Koradia, Donald Lobo, and Gautam Prakash for their continuous guidance. And of course, thank you to everyone else who has supported and guided us—apologies if we’ve missed mentioning anyone!

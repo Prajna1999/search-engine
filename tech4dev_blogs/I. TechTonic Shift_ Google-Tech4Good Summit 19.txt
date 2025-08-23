@@ -1,0 +1,28 @@
+Title: I. TechTonic Shift: Google-Tech4Good Summit 19
+Author: Kurund Jalmi
+Date: August 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/techtonic-shift-google-tech4good-summit-19/
+==================================================
+
+We at #Tech4Good, set out to build a community of people who?d work together to transform the nonprofit landscape. The tech revolution that had whizzed past, merely scratching the surface of civil society movements, is now actively being redirected towards social change by players of all stripes: activists, techies, non-techies working with tech, people with 9 to 5 jobs stretching the constraints of time and space to volunteer with nonprofits remotely.
+The Google-Tech4Good Partnership was borne out of this churn;
+several such individuals came together to prove that change is the only constant, and that that is a very good thing. Nothing today, stands in the way of civil society movements in India, tapping into this tech hive-mind. The Google-Tech4Good Summit is a marriage of these technocratic inclinations & civil rights predispositions.
+Google, as part of their Geo for good initiative, lent their time, expertise and support to 4 Tech4Good partner organizations-
+Jagrutha Mahila Sangathan
+,
+Mahila Housing Sewa Trust,
+The Nudge Foundation
+&
+Vidhya Vidhai
+, who will be sharing their experiences with the Tech4Good-Google Mentorship Programme, at the Summit. The mentors in turn, will conduct a hands on session for 60 other participating nonprofits on 4 different Google tools, for them to adapt and contextualise them in a way that is relevant to them.
+Call it a hackathon, a conference, a congress of people willing to shake themselves out of the steady routine they’ve come to call their sector, their monkeysphere, their comfort zone. We call it a disruption hell bent on reimagining the civil society architecture: a Techtonic Shift.
+A Case Study
+Mahila Housing Sewa Trust (MHT) was founded in 1994 by the Self Employed Women?s Association (SEWA), a union of self employed women workers, in order to facilitate better housing and infrastructure for its members in the state of Gujarat.
+MHT serves as a link between the government, service providers & communities. They realised that the true challenge lay in identifying vulnerable areas that needed upliftment, that the slum development activities suffered due to the lack of proper imaging and mapping, and community members had a hard time locating services & resources (Health, Education facilities) in nearby areas.
+They cracked a tool that could help communicate with stakeholders visually: help expedite project timelines, make issues that seem unrelatable and impervious to any real solutions, familiar and tangible through accurate imaging: MHT was introduced to My Maps through Tech4Good and Google Earth Outreach.
+They are now using My Maps to share project impact with donors to visually highlight geographical
+expansion and overall impact of the project. They have also been using the tool for accurate project planning: The members of Ahmedabad?s Sarkhej ward, home to 126 households, don?t have access to municipal water connection and overspend on pure drinking water. Ahmedabad Municipal Corporation misinformed this community, that the existing source of water was outside the municipal borders. MHT identified existing water connection points with the help of community members and developed a plan to create a water connection network using My maps, they conducted a meeting with the Corporator and community members to work towards an implementable solution. This was done by plotting existing water connection points on My Maps. The Corporator, with inputs from the community members, has finally created a plan to make water connection accessible to the community.
+MHT will be presenting the details of how they achieved these wins and more, at the Google-Tech4Good Summit ?19. We will also be in talks with 4 professional panelists with expertise ranging from building civil society movements to giant tech companies and are looking forward to a keynote address by
+Narasamma
+, the leader of our long standing partner organization, Jagrutha Mahila Sangathan.

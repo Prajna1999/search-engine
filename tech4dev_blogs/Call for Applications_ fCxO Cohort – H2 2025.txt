@@ -1,0 +1,93 @@
+Title: Call for Applications: fCxO Cohort – H2 2025
+Author: Deepak Nanda
+Date: June 2025
+Category: Fractional CxO
+URL: https://projecttech4dev.org/call-for-applications-fcxo-cohort-h2-2025/
+==================================================
+
+Project Tech4Dev is excited to open applications for the
+2025 cycle
+of our
+Fractional CxO Program
+— a unique opportunity for NGOs to embed experienced technology leaders and tech teams within their organisations for
+6 to 12 months
+.
+This program is designed to co-create and set the organisation on the path towards implementing a
+tech strategy aligned with organisational goals
+through our learnings across the sector of common and pressing gaps :
+Limited in-house capacity for technical product and project management
+Growing interest in
+AI/ML solutions
+(e.g., voice-based interfaces for low-literacy communities)
+Rising need for
+data-driven decision making
+and strategy
+Difficulty in launching
+agile pilots
+and MVPs within traditional NGO structures
+Ad-hoc consulting needs for ongoing tech/data efforts
+Apply Now
+A Proven Model: Fractional CxO + Tech/Data Team
+In our latest cohort, we piloted a
+Fractional Tech & Data Team
+approach — pairing a fCxO with a fractional tech team fulfilling roles of
+product/program management, software development, data engineering/science, AI/ML engineering
+to streamline execution.
+The result? Agile, high-impact, cost-effective solutions leveraging existing frameworks but tailored to each NGO’s strategic goals.
+What NGOs gain:
+✅ A clear technology and data roadmap aligned with their mission
+✅ Enhanced internal capacity for product and project execution
+✅ Evidence based decision making
+✅ Agile prototypes and scalable pilot solutions
+Given the nature of our work, and the fact that tech is an enabler and follows the objectives of programs once aligned with government’s focus, the fCxO program has helped bring clarity, prioritize efforts and help ask the right questions prior to investing further resources. It has also helped position tech at the appropriate level in the organisation which is important to strengthen our approach and propositions, including internally.
+Sapna Karim, COO, Janaagraha
+I appreciate the “pilot first” mindset that the fCxO has brought to encourage more open thinking and experimentation.
+Kruthika Ravishankar, Co-founder, Farmers for Forests
+How the Program Works
+🧠
+Expertise
+: Your NGO is paired with a seasoned Chief Technology/Data Officer (CxO) (12–16 hrs/week) for 6–12 months.
+🧩
+Custom Fit
+: Each engagement is tailored — from defining strategy to evaluating partners or building internal capacity.
+⚙️
+Optional Add-Ons
+: Technology/Data/AI teams can be brought in as needed to accelerate prototyping or delivery.
+NGO Eligibility
+We’re looking for NGOs that:
+Prioritise tech in their top 3 organisational goals
+Active involvement of their CEO/senior leadership
+Definitive organisational/program strategy and stable operational processes
+Are not in emergency “tech crisis” mode
+Committed to spending on technology towards enabling organisational outcomes
+Cost Structure
+We co-invest with
+Tech4Dev covering part
+of the program cost.
+NGO contribution:
+₹2 Lakhs/month
+for a half-time (16 hours) fractional CxO + Tech Team (inclusive of GST).  The fractional CxO in coordination with the NGO will bring in tech resources as needed and manage the team and their hours during that time. For example, a rapid development of a prototype could have the fCxO contributing 8 hours/week and a senior tech resource (~5+ yrs experience) putting in 12 hours/week for a month, followed by the fCxO still at 8 hours/week + a tech resource (~3+ yrs experience)  at 8 hours/week and a project management resource (8 hours/week) for the next month as the project moves towards a full scale implementation with a vendor.
+Timeline & Process
+📝
+Apply Now
+via our short application form
+📞 We’ll follow up within a week
+📅 Rolling onboarding for the July – December 2025 cohort
+Field & Remote Work
+Fractional CxOs & Tech team primarily work remotely but typically include:
+✈️ 3–5 day onboarding visit in the first month
+🚐 Multiple short field visits during the engagement
+(NGO covers travel/stay)
+Ongoing Support & Peer Learning
+All fCxOs connect weekly with Tech4Dev peers to share lessons, unblock issues, and collaborate. Cross-learning is built into the DNA of this program. Fractional CxOs might also pull in another fCxO to assist in a specific tech or data scenario as they may be better equipped based on the expertise area.
+Ready to Transform Your Tech Journey?
+Apply now to bring senior tech leadership into your nonprofit — and build a tech strategy that powers your mission.
+Apply Now
+📩 Questions? Reach out to us at fcxo.info@projecttech4dev.org
+Sampling of fCxO work:Ready to Transform Your Tech Journey?
+The Fractional CxO Program with Vasudha Foundation: Tech Assessment
+A Week with Gram Vikas: Learning, Exploring, and Growing
+Fractional CXO at SEARCH, Gadchiroli
+Digitization of SHOFCO’s Gender Program and Adoption: Lessons Learned and Progress
+AI Use Cases in NGOs: FIR Data Extraction
+A Year of Reflection: Growing Together Through Tech4Dev’s Fractional CxO Program in 2024

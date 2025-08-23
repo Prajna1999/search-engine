@@ -1,0 +1,51 @@
+Title: 1 month of Persistent contributing to Avni
+Author: Kurund Jalmi
+Date: December 2019
+Category: Avni
+URL: https://projecttech4dev.org/1-month-of-persistent-contributing-to-avni/
+==================================================
+
+Background
+During the November tech4dev face to face meetup,
+Persistent
+team participated in a day-long workshop of Avni. After the workshop, they decided to contribute to
+Avni
+and begin with the following
+Development of Online Web-based data entry app for Avni
+Help with improving Visual Designs of other parts of the product
+The following was agreed
+To start with, the following skills and number of people were identified. Persistent will start identifying people from their pool for these and form a team in Pune
+– Java ? 2 ? For Api development –
+– React.js ? 3 ? For frontend development
+– Visual Designer ? 1 ? For screen design
+VD of screens is the first task that needs to start asap
+Training on tech stack and product to be provided by Samanvay team as soon as the development team is formed
+Total duration not to exceed 4- 5 calendar months from the start date of the project
+Development to happen in a joint ownership model between Persistent and Samanvay Avni teams
+Being local in Pune, Soft corner Avni team to pitch in to help as and when required.
+Scope, Epics and Stories
+This
+epic here
+describes the scope of the online web-based data entry app.
+Active Engagement
+Active engagement between Persistent and Avni began with the onboarding of Visual Designer, Anant Fondekar, on 18th November.
+Visual Design
+After Anant?s onboarding, I spent the initial few days over calls, giving Anant an overview of the product and deep dive of the data entry app. Within a couple of days after that, he came up with the first draft of the visual design with a few key features. Then followed a few iterations to accommodate our feedback, the configurable and dynamic nature of the product and cover all the features. The final version came out on 18th December, exactly one month after the beginning. The Avni team is really happy with the output.
+During this time, it was a good experience working with Anant as he was able to understand and accommodate the feedback quickly. During this course, he also gained a good understanding of the overall product.  We requested Persistent to continue him for some more time to work on providing visual design for other parts of the product like the Website, App designer and the offline mobile-based field app. Persistent has agreed to continue him for another month.
+Training
+Meanwhile, Persistent identified 3 UI developers and 1 Java developer for the project. The management team is working on identifying one more Java dev to be onboard.
+Sidtharthan
+from Avni core team travelled to Pune for 2 weeks to train the team. The training began on the 4th of December to cover the following agenda
+For the last 2 days of the training,
+Hiren
+, another senior member from Avni core team also joined the team in Pune to facilitate estimation of the stories backlog and Iteration and release planning.
+Training team during a break time
+The training concluded with the team showcasing their learnings and release plan to Avni team and Tech4Dev.
+The team has caught up well on different aspects covered in the training.
+Development Process
+While the training was going on, I worked with the tech lead and managers on the Persistent team to put up a process for development and collaboration. It was decided that the team will follow the Agile and Iterative development process with bi-weekly iterations, monthly releases, regular showcases, daily standups, unit tests, pull requests, continuous integration and deployment. Roles and responsibilities of different team members were agreed upon.
+We also decided that we would have periodic meetings online for different teams to get together and share and learn about each other?s work.
+Helping Avni become more community-oriented
+During this training, we have received feedback on improvements needed for documentation to allow easy onboarding of new members. We have started working on the same.
+This engagement with Persistent is not only significant to Avni in terms of development capacity and a major feature addition that will happen, but is also a good first step for us to become more open and community-oriented.
+We are really happy how the first month of the engagement has gone. And we at Avni and Tech4Dev continue to be excited about this partnership.

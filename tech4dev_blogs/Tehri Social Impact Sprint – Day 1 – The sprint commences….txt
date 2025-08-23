@@ -1,0 +1,42 @@
+Title: Tehri Social Impact Sprint – Day 1 – The sprint commences…
+Author: Kurund Jalmi
+Date: November 2021
+Category: Glific
+URL: https://projecttech4dev.org/tehri-social-impact-sprint-day-1-the-sprint-commences/
+==================================================
+
+On Sunday, Nov 14, we had 21 folks from 9 organizations descend into Dehradun airport from across 8 Cities in India, from San Francisco and Germany for the Tehri Sprint. We were met by Tushar Bohra from ColoredCow who was the lead organizer and facilitator of this event. The first order of business was getting everyone tested for good ole Covid. We then piled into 3 vehicles for the 3 hour drive to Tehri.
+We were welcomed to Tehri by Prateek and the rest of the ColoredCow team with a nice yummy dinner. Most of us were meeting for the first time in person, and it was a really good feeling to chat and interact with people after such a long time.
+Event Facts and Figures
+Participants
+:
+35
+– 7 women, 28 men
+Organizations
+:
+8
+– Colored Cow, Dost Education, Reap Benefit, Rainmatter Foundation, Aam Digital, Avanti Fellows, Dhwani RIS, Glific, IDInsight
+Cities
+:
+8
+– Delhi, Pune, Bengaluru, Hubli, Tehri, Berlin, San Francisco, Dakar
+Cooks: 3
+– Prakash, Saurabh, Sunita
+Baristas: 3
+– Tushar, Kuldeep and Satendra
+Participants enrolled in Barista Training: 7
+Sprint Participants on the hike
+Day 1
+The ColoredCow team works from THDC University(and thanks for their support with the sprint) in a really nice setting along with an ample supply of tea, coffee and snacks through the day. We have all our meals at the office and are well fed by the kitchen staff with great food. We also asked participants to get some treats for the group from their home location and were treated to a wide variety of treats and sweets that I suspect will last us for a couple of days. We’ve set up a nice corner for all the treats which is a host to people meeting and interacting with each other- a whole new spin to water cooler conversations.
+Kitchen in action preparing evening soup
+It was great to see quite a few folks up and about in the morning and going for a run, walk, exercising and hoping to see the sun rise from the mountains. The clouds thwarted it this morning, but we have quite a few more days for that to happen.
+We started off the sprint with a round of introductions and learning something interesting about each participant. Pankaj(PK) showed off his amazing memory skills by recalling the name of all the participants at the end of the introduction round. The group split up and collaborated with their team members on their respective projects. At the end of the day Akshay from
+Rainmatter
+gave the group an overview of
+Caprover
+– an open source Platform as a Service (PasS) tool and Pankaj talked about
+Glific
+.
+For sunset, we managed to convince most of the group to take a short walk up to the local temple. Vivek from ColoredCow who was largely instrumental in setting up the Tehri office and is a local gave us a tour and overview of the area along with details on life before and after the dam. The view from the house where he grew up was incredible.
+View overlooking the lake and mountains
+We hope that over the next few days, people from different organisations will get a chance to interact and learn from each other’s work. And we’re eagerly looking forward to daily tech talks and deep dives from the group.

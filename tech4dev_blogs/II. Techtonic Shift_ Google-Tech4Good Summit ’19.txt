@@ -1,0 +1,56 @@
+Title: II. Techtonic Shift: Google-Tech4Good Summit ’19
+Author: Kurund Jalmi
+Date: September 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/techtonic-shift-google-tech4good-summit-19-2/
+==================================================
+
+Narasamma with the four panelists
+The
+Google-Tech4Good Summit’19
+turned out to be exactly how we’d conceived of it: a coming together of a set of ecosystems, the synergistic impact of which was felt in its entirety towards the very end, when what was to be a 15 min. keynote address by
+Narasamma
+(Leader, Jagrutha Mahila Sanghatane) organically transformed into an hour long exploration of the life of the firebrand leader & her tryst with technology.
+Hands on session by one of the Google Mentors
+Tech4Good would like to extend its heartfelt gratitude: to
+Google
+, for their energy & support, for providing us with a venue to host this event & most of all, for giving us their time in the form of 4 brilliant mentors & their incredibly sincere approach towards their assigned organisations;
+To our 4 partner Nonprofits, for being part of the Tech4Good-Google Mentorship programme and really making it their own with the time & effort they put into contextualising the tools and coming forward to share their insights with all present;
+The 4 Panelists: Anand Devsharma, Gaurav Gupta, Murugan Vasudevan & Sudha Srinivasan (L-R)
+Our 4 panelists-
+Sudha Srinivasan
+,
+Gaurav Gupta
+,
+Murugan Vasudevan
+&
+Anand Devsharma
+– the luminaries who engaged with the participants, diving into conversations ranging from their first brushes with technology, to the role incubators can play in growing civil society movements in India, to the utter dearth of prestigious Social Studies graduate/post graduate schools a .k.a. the IITs or IIMs for the Social Sector;
+Hands on Session
+To all 58 participating nonprofits for taking out the time to be a part of this Summit & for being our sounding boards, with their candid inquiries & sustained energy throughout the day as they tinkered with the tools i.e.
+Open Data Kit,
+Google Earth Edu
+,
+Google Ads
+&
+My Maps
+.
+Ram from Vidhya Vidhai presenting his work with Google Earth
+The first time presenters from different parts of India, represented a diverse set of challenges & made use of these Google Tools to make a purposeful dent:
+Shruti from
+Jagrutha Mahila Sanghatne
+(Open Data Kit)
+Ram & Regila from
+Vidhya Vidhai
+(Google Earth Edu)
+Namratha from
+The Nudge Foundation
+(Google Ads)
+Bhumika from
+Mahila Housing Sewa Trust
+(My Maps)
+This nonprofit to nonprofit connect was probably the Summit’s biggest success: participants approached our partner nonprofits to get a deeper look into their personal journeys using the tools, paving the way for us to ideate on future buildathons & a more collaborative understanding on the way forward.
+The idea of this Summit of course, was not to go back fully trained but to get a sense of what these tools could do for all present. All of us are at a crucial point in the journey of amplifying our social impact and we all live from prototypes to pilots to scalable models. Any of these phases is incredible to be in, simply because we represent an agile bunch of people trying to solve for India’s toughest developmental challenges and that persistence is what this Summit was a celebration of.
+Keynote speech by Narasamma
+We could not have asked for a better ambassador: Narasamma’s life bears testament to this indomitable human spirit of persistence & perseverance, her words regardless of the language they were spoken in (translated from Kannada to English), garnered resounding applause each time she shared an anecdote from her life- the violence she & all the women in Pothnal, Raichur endured owing to their Dalit identity, her struggle to transform the social landscape in her area by reclaiming the status of her people one government scheme at a time- but most of all, when she shared her stories of hope- how the women in her organisation were overcoming these barriers to justice by educating themselves on the issues ailing them & by embracing the utilitarian power of technology, which has proved to be an equaliser in a village still caught in the malaise of caste & gender discrimination.
+We hope to take our learnings from this Summit to ideate further on its scope & to regularise this process of shaking people out of their steady routines to partake in something that truly connects us all: the activists, the techies, non-techies & ‘those with 9 to 5 jobs’- who indeed stretched the constraints of time and space, to volunteer with nonprofits remotely but also came together under one roof to make this marriage of apparently different worlds, a reality.

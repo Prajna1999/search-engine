@@ -1,0 +1,64 @@
+Title: FundImpact Alpha 1 released
+Author: Kurund Jalmi
+Date: September 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/fundimpact-alpha-1-released/
+==================================================
+
+We are super excited to the announce the
+first Alpha
+release of the
+FundImpact
+platform. The team has covered a long mile of 3 sprints over 45 days to achieve the first milestone! The FundImpact platform is envisioned to help social purpose organization in better
+managing their funds, track project deliverable and report impact
+to the concerned stakeholders. We are trying to bridge the gap between
+Project Monitoring Tools
+and the
+Accounting tools
+deployed by organizations in tracking progress of project commitments and funds; and ensure the donors are better informed.
+FundImpact – Alpha 1 Release
+Highlights of the features in this release are:
+Register account on the platform and create projects
+Organize Projects into Workspaces
+Create Budget Targets of a Project and report their expenditure
+Capture advance reporting tags on each transaction such as Grant Periods, Financial Year and Annual Year.
+Multi-donor assignment to a Project
+Create Project Targets and report achievements
+Create Impact Indicators and report achievements
+User configurable measurement units for deliverable and impact targets
+Organize various target in their respective Categories
+Project Dashboard to review overall progress on Fund Status, Deliverable and Impact achievements.
+The Alpha 1 release has achieved a lot of functional features for the end user. There was commendable effort by the team who picked a new technology stack and quickly acquainted themselves. In fact, team was able to cover more in the first three sprints than originally planned without compromising on code quality and development practices.
+Overview of the Technology Stack
+We are using a robust technology stack to power FundImpact.
+On Frontend, we are using
+React.js
+to design our user interfaces. To speed up things and deploy industry standard practices, we are using
+Material-UI
+(a popular React UI framework).
+At Backend, we are using
+node.js
+based
+Strapi.io
+framework. Strapi has great off the shelf support for
+GraphQL
+. It has helped us in quickly developing APIs.
+For database, we are using
+PostgreSQL
+.
+DevOps for FundImpact
+We have deployed
+Netlify
+for Continuous Integration.
+SonarCloud
+has been used for monitoring code quality.
+The repo is hosted on Github. We decided to split the repo for frontend and backend to ease the development for frontend and backend teams. Repos can be accessed at following links –
+FundImpact FrontEnd
+and
+FundImpact Backend
+.
+Way Forward
+We have kept two more alpha releases in the next two months, before we launch a public access of the platform under Beta 1 release. This beta launch is planned for Mid of November.
+We are always looking forward for feedback on our processes and feature suggestions. Please feel free to drop us suggestions in the comments section below or reach us
+Github
+.

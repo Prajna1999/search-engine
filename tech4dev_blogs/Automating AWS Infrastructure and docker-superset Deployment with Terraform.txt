@@ -1,0 +1,189 @@
+Title: Automating AWS Infrastructure and docker-superset Deployment with Terraform
+Author: Rohit
+Date: February 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/automating-aws-infrastructure-and-docker-superset-deployment-with-terraform/
+==================================================
+
+By Rohil Muktibodh
+In today’s fast-paced world of cloud computing and data analytics, automating infrastructure deployment and management is no longer a luxury—it’s a necessity. In this blog, I’ll walk you through how I used
+Terraform
+to automate the deployment of
+AWS resources
+and set up
+Apache Superset
+, an open-source data visualization tool, for seamless data analytics.
+What is Terraform and docker-superset ?
+Terraform
+Terraform is an
+Infrastructure as Code (IaC)
+tool that allows you to define and provision infrastructure using declarative configuration files.we mainly used following terraform blocks in our code.
+“resource”          ⇒ this will create new resource on aws infrastructure.
+“data”                  ⇒ this will access the currently deployed object and its
+attributes.
+“local-exec”       ⇒ for  operations on local machine.
+“remote-exec”   ⇒ for operations on remote machine.
+docker-superset
+Apache Superset is a modern, enterprise-ready
+business intelligence (BI)
+and data visualization tool.
+docker-superset
+is a set of scripts which the Dalgo team at Tech4Dev uses to run multiple instances of Superset for their clients.
+By combining Terraform and docker-superset, I was able to create a scalable, automated infrastructure for data analytics on AWS.
+Overview
+The goal of this project was to accomplish http traffic from client should be redirected via load balancer to application ( Superset )  running on EC2 instance.
+Provision AWS resources (e.g., alb rule on port 443, add inbound rule on EC2 ) using Terraform.
+Deploy Apache Superset on an already available EC2 instance.
+Automate the entire process to ensure reproducibility.
+Step 1: Setting Up the AWS Infrastructure
+The first step was to define the AWS infrastructure using Terraform. Here’s what I did:
+1.1. Adding additional rule into Load Balancers Port 443
+Terraform documentation
+Useful Links
+explains how each resource can be used.
+You need following to create “
+aws_lb_listener_rule
+”
+Listener arn as reference where rule is to be attached.
+Rule priority
+Condition
+Action
+To get listeners arn reference , derived from Load balancer name , taken as input.
+Rule priority also taken as input
+Condition, based on the host header also taken as input.
+Action, should be redirecting traffic on to ec2 instance and new target group port,  port number taken as input
+This needed new Target group creation and next attaching to an application ( Superset )  running on ec2 on a newly created port.
+You need following to create “
+aws_lb_target_group
+”
+New port number , taken as input
+vpc-id , taken as input
+protocol , “HTTP” ⇒ superset is using HTTP
+Health check parameters used default, load balancer will be polling
+You need the following to attach the above target group to an ec2 instance. “
+aws_lb_target_group_attachment
+“.
+Target group arn, taken from above after creation.
+ec2 instance , taken as input.
+1.2. Adding inbound rule to ec2 security group.
+We need to allow traffic from alb to ec2 , Terraform documentation
+Useful Links
+You need following to create “
+aws_security_group_rule
+”
+Type “ingress”
+From port and to Port, port number taken as input
+Protocol “tcp”
+cidr_blocks  ⇒ derived from load balancers aws subnet
+Security_group_id , ec2 security group id derived from ec2 instance.
+Above operations are set for aws configuration to redirect client traffic.
+Now in the next section we will explore how superset applications are copied and deployed.
+Step 2 : Deploy superset application on ec2 instance
+We need to clone
+docker-superset
+from github, generate client related files, modify superset.env and ship the whole repo on ec2 instance to run the application using docker compose.
+So here are the steps.
+Firstly, clone  docker-superset on a local machine, then using Himanshu’s script “
+generate-make-client
+” with all relevant parameters into directory specified as input.
+Next we modify the
+superset.env
+file which will be eventually used during docker compose to have client specific parameters.
+To modify superset.env, we used “
+sed
+” and took input from relevant parameters from the terraform config file ( viz. terraform.tfvars )
+Once the above operation is completed , we use “
+rsync
+” to copy the whole modified directory on the remote machine where our next operation will happen.
+Once in a remote machine, we need to first build a container using Himanshu’s “
+build.sh
+” to create a container based on inputs given originally while generating the client specific directory. “build.sh” is dynamically created in the client specific directory , its not part of the git repo.
+Once the container is available , we fire on the remote machine “
+docker compose
+” with “superset.env” and the application will come up.
+For executing all the above commands we mainly use “null-resource” of terraform, for local machine operations , we use “local-exec”, while we use “remote-exec” for operation on remote machine.
+For “remote-exec”, we need password-less access to remote machine/ec2 instance, for which we need to copy the ssh public key into the remote machine.
+Step 3 : Accessing superset application.
+Once this is done, domain name header e.g. “mydemongo.dalgo.in” has to be incorporated into DNS Server using services of squarespace , making the application accessible from the internet. Which is beyond the scope of these scripts at the moment.
+If DNS is set you can use your browser and access the new domain name of the client, but if squarespace is not set you can use the below method of verification.
+Run this on your local machine, use new client domain name.
+curl -k -H "Host: sneha.dalgo.in"
+https://Dalgo-1813425768.ap-south-1.elb.amazonaws.com
+<!doctype html>
+<html lang=en>
+<title>Redirecting…</title>
+<h1>Redirecting…</h1>
+<p>You should be redirected automatically to the target URL: <a href=”/superset/welcome/”>/superset/welcome/</a>. If not, click the link.
+For accessing superset application locally we can use our browser (localhost:9990) running on a laptop, but this is bypassing the load balancer from the equation. Anyhow this will make sure the application is up and running. So you use the ssh-tunnel and use the below command.
+ssh -L <
+APPLICATION-PORT
+>:<
+EC2-PRIVATE-IP
+>:<
+APPLICATION-PORT
+> <
+USER_NAME
+>@<
+EC2-PUBLIC-IP
+>
+ssh -L 9990:10.0.27.174:9990 ubuntu@3.108.52.226
+Note
+: if you are on windows, you need additional command, this is assuming you are running ubuntu WSL2 on windows.
+netsh interface portproxy add v4tov4 listenaddress=0.0.0.0 listenport=9990 connectaddress=<WSL2-IP-ADDRESS> connectport=9990
+Challenges and Solutions
+Challenge 1: Steep Learning Curve with Terraform
+Problem
+:
+As a newcomer to Terraform, I initially struggled with its declarative syntax and infrastructure-as-code (IaC) paradigms. The abstraction of resources, state management, and dependency mapping made it challenging to translate infrastructure requirements into working configurations.
+Solution
+:
+To bridge the knowledge gap, I adopted a two-phase approach:
+Bash Scripting for Clarity
+:
+I first implemented infrastructure operations using imperative Bash scripts. This helped me map out the exact sequence of AWS CLI commands (e.g., Target group creation, ec2 security group update ) and understand dependencies.
+Terraform Migration
+:
+Once the workflow was validated, I systematically translated the Bash logic into Terraform constructs (e.g., aws_lb_listener_rule, aws_security_group_rule,”local-exec”,”remote-exec”).
+Outcome
+:
+The iterative approach accelerated my Terraform proficiency while ensuring infrastructure reproducibility.
+Challenge 2:
+Networking Issues with Dockerized PostgreSQL.
+Problem
+:
+During initial development, I opted for a Docker-based PostgreSQL container to avoid cloud costs. However, the Superset application (also containerized) could not communicate with the PostgreSQL instance due to isolation in separate Docker bridge networks.
+Solution
+:
+Docker Network Analysis
+:
+Identified that the Superset and PostgreSQL containers were on different Docker networks, preventing DNS resolution.
+Unified Network Configuration
+:
+Used Superset’s Docker network:
+docker run -it --network testngo_app-network-testngo-prod-4 -e POSTGRES_PASSWORD=nosecret -p 5432:5432 postgres:15
+Validation
+:
+Configured Superset’s database URI to use the PostgreSQL container’s IP address  (postgres:5432).
+Outcome
+:
+Seamless communication was established, enabling local development. However, I later migrated to
+Amazon RDS
+as used in the current environment.
+Conclusion
+By combining
+Terraform
+and
+docker-superset
+, we are able to deploy application and configure aws resources with very little time. Not only did this save time but also ensured consistency on aws. If we use the terraform  “
+destroy
+” command , it will delete all resources automatically as well.
+Useful Links
+How to install terraform + tutorials
+.
+Install Terraform
+aws provider documentation is available below.
+AWS Provider – hashicorp
+Terraform Documentation
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+docker-superset github repo
+https://github.com/DalgoT4D/docker-superset.git

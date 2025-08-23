@@ -1,0 +1,120 @@
+Title: Tech4Dev 2.0 Project Report #2 – Oct 2022
+Author: Kurund Jalmi
+Date: October 2022
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/tech4dev-2-0-project-report-2-oct-2022/
+==================================================
+
+Tech4Dev Mission
+Building the Open-Source Technology + Data Ecosystem for the Social Sector.
+More information:
+Tech4Dev 2.0 Concept Note
+,
+Tech4Dev 2.0 Pitch Deck
+Summary & Highlights
+Q3 2022
+– In the evolution of a startup, there comes a time, when you just get the feeling. The definition and articulation of the problem becomes a lot cleaner, the solution a lot simpler and all pieces fall into place. To me, that moment was during the
+sprint in Dehradun
+: we had the OG group from Tech4Dev 1.0 (Kurund, Arjav, Arun, Lobo), a new group (Erica, Vinod, Nidhi, Ankit, Gayathri, Ashwin) to shepherd Tech4Dev 2.0, long time partners (Dhwani, Avni, ColoredCow, Svarya) and new partners (Aam Digital, GramVaani, IDInsight). A group of 9 NGOs and a funder, joined us later during the week. We also had our first advisory board meeting where we welcomed
+Nidhi Goyal
+to the Tech4Dev Board. Nidhi will help with our communications, branding and business development strategy.
+The
+sprint in Dehradun
+was a culmination of all the things weve worked for, and at the same time the beginning of a new journey with its own unique set of adventures and challenges. We discussed and debated a variety of things, went on long walks, played multiple card games and in between found some time to do some work and collaborate on aspects of the two platforms: Glific and Development Data Platform. As
+Tariq
+remarked:
+I came in expecting a very tech focussed sprint. I was surprised to see the collaboration and community were the pillars of the gathering, with technology being the binding agent.
+Dehradun Sprint Group photo with NGOs and Partners
+Tech4Dev
+continues to grow. We onboarded
+Vinod Rajasekhar
+and
+Ankit Saxena
+as our first fractional CxOs joining us in September. We have four more folks who have accepted our offers and will be joining us this quarter. We hope to close out the year by
+hiring 3 mid level engineers
+who are keen to work in the social sector in India. If you know of folks looking to make a social impact,
+please send them our way
+.
+Our grant with
+Foss United
+was renewed this quarter. Its great to have funders in India who are passionate about Open Source.
+We kick started work on the
+Development Data Platform,
+a platform designed to simplify and leverage the power of data for an NGO. We envision providing a data pipeline which gathers data from multiple systems used by NGOs, pushes them into a data lake, transforms and stores them into a data warehouse. Analysts will be able to use a data workbench at this stage, and the visualization layer will provide dashboards and reports. We are piloting this program with two NGOs in India and will add a few more once we have the platform in place. This idea came about as a direct result of our first Fractional CxO engagement. We expected something like this would happen, but did not think it would happen so soon!
+Our
+Fractional CxO
+initiative now has two full time CxOs (Vinod and Ankit) and one volunteer (Arvind). The team is working across four NGOs (SNEHA, Indus Action, Reap Benefit and Uninhibited). We reunited with our old partner from Tech4Dev 1.0,
+Arjav Chakravarti
+, who will help structure and design this program so we can work with even more NGOs. We are also working with
+Childrens Investment Fund Foundation
+on a pilot project of
+Technology Strategy and Overview
+with some of their grantees, which will dovetail nicely into the Fractional CxO program. If you know of NGOs that this might be a good fit for, please direct them to
+our application info and form
+.
+Our
+Platforms
+continue to perform quite well both from a sales and revenue perspective. We are also starting to see the interplay between our platforms and the Fractional CxO programs. We plan on hiring business development, marketing and customer support folks to help create more awareness for our platforms and onboard more NGOs onto using them.
+Glific
+onboarded 11 new NGOs, and was
+close to break even last quarter.
+Glific finally saw the long awaited traffic spike, with the number of messages delivered last quarter 3x more than the previous quarter.
+Avni
+currently
+serves 45 NGOs with 4500+ users on the platform. 4 of the new NGOs are collaborating with state governments with a goal to build and hand over systems to the government. Similar to Glific, due to these NGOs, the usage has gone up significantly in the past few months. Our new partner,
+Aam Digital
+recently received the Berlin Startup Scholarship and is currently serving 12 NGOs across the world. Aam started the co-creation process of an adapted platform for a mentorship of NGOs in Germany, the client there highly appreciates their understanding of the social sector and is already planning to extend the project.
+If you still are wondering why we do and what we do, our friend
+Jim Fruchterman
+from
+Tech matters
+has written an article explaining it all in simple terms, it’s well worth a read:
+Open Source Software for the Modern NonProfit
+India Development Review (IDR) – Media Platform for the Social Sector
+In 2021, Tech4Dev and
+IDR
+began a partnership to build a knowledge base around tech in the social impact space. In the first year, this took the
+form of a special series
+that sought to demystify technology, with articles that spoke to various stakeholders (funders, intermediary entities, nonprofit leaders) and explored different facets of working with tech. This series was born from the premise that access to information and knowledge that is relevant to stakeholders, is crucial to strengthening any ecosystem. Such knowledge can lead to better funding decisions, it can influence policy, and it can improve how organizations are run.
+We need to build a knowledge base for tech that everyone can learn from. Picture courtesy: Pixabay
+This overarching objective of building a knowledge base around tech and social impact thus emerged from the recognition that there still tends to be a fair amount of trepidation when it comes to using tech effectively. This applies across a range of organizations small and large, young and mature despite leaders understanding the inherent potential tech displays in enhancing efficiency and enabling scale. The result is often that resources are squandered in expensive solutions that may not be the right fit. This impacts the organizations themselves, their funders, and most of all, the communities whom they serve.
+The
+Tech4Dev series
+on IDR aims to change this. Its authors include funders, nonprofits, intermediary organizations, tech vendors; and, they come from within the Tech4Dev ecosystem, as well as those outside of it. And the pieces represent viewpoints that collectively advocate for a stronger tech ecosystem in the nonprofit space, one that nurtures a community of organizations using tech, and importantly, creates a space to share lessons learned. The series thus far has had a reach of around 700K, with 21k likes, comments, shares, and clicks. A few of the articles have also been translated into Hindi for
+IDR Hindi.
+The indirect reach is far greater given that two pieces were picked up by Times of India online, and IPS news. We are currently in the process of building out Year 2 of this series, so if you are interested in contributing to it, please
+contact IDR.
+Financials
+Tech4Dev 2.0: Summary of the Inflow & outflow
+Notes:
+1. B/f Donor Bal is balance from Tech4Dev 1.0 as on April 01, 2022
+Complete details can be found
+here
+.
+Want More
+Details?
+All our blog posts can be found on
+the project website
+and
+Glific blogs
+. All project documentation can be found on our
+shared google drive folder
+.
+Tech4Dev 2.0 Concept Note
+Glific Website
+,
+Glific One Pager
+Avni Website
+,
+Avni 2 Pager
+Aam Digital Website
+Tech4Dev 2.0 Pitch Deck
+Tech4Dev 2.0 Project Report #1 – Jul 2022
+Dehradun Sprint Report – Sept 2022
+GarudMaachi Sprint Report – July 2022
+Delhi Sprint Report – Apr 2022
+Tech4Dev 1.0 Reports
+Reach out to us via
+email
+or find more information on our
+website

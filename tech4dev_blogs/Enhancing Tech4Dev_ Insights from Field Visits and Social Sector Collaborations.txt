@@ -1,0 +1,49 @@
+Title: Enhancing Tech4Dev: Insights from Field Visits and Social Sector Collaborations
+Author: Donald Lobo
+Date: July 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/enhancing-tech4dev-insights-from-field-visits-and-social-sector-collaborations/
+==================================================
+
+Summary
+Another trip done, another report from the airport. Headed back home to San Francisco after a long 2 month trip in India, which was an amazing and rewarding experience, but at the same time quite exhausting. The most important aspect of this trip was I spent most of my time in conversations with NGOs and some amount of time in extended conversations with a few funders. So without further ado, some of the things that I?m taking with me and reflecting on what can be incorporated in Tech4Dev
+Highlights
+Spending extended time in the field with an NGO that does deep work really leaves an impression on you. I was fortunate to spend time with my daughter,
+Pranjali
+at
+SEARCH
+for 12 days, and we learned and experienced a lot. You can read about
+our experiences here
+and see a few of my
+reports and notes here
+. My wife, Mari did a trip of her own at
+ATREE
+and you can
+read her experiences here.
+I also enjoyed my impromptu trip to Meghalaya, and in addition to the beauty of the state during the rainy season, enjoyed learning more about the Northeast and the social sector scene there. You can read about the NGOs I met in
+my blog post.
+Suffice to say, am planning my next trip to visit the other 5 states (Manipur, Mizoram, Sikkim, Arunachal Pradesh and Tripura) in the next year. We also need to think how Tech4Dev can potentially establish a presence there and help the NGO sector there in a deeper manner.
+Loved spending time and learning more from our partners at
+The Agency Fund
+during our sprint in Bangalore. The Tech4Dev team learned quite a lot from the different NGOs in the room and our wheels are churning into how we can incorporate some of those learnings into our platforms and new products. Got lots of ideas on some tools (
+Langfuse
+,
+LiteLLM
+,
+Weaviate
+,
+Ragas
+and more) that we can integrate and host on our forthcoming AI/LLM platform and starting to work on the creation of a new experimental platform to help NGOs run learning experiments coupled with data and metrics in a seamless manner.
+The happy hour that we co-hosted with The Agency Fund in Bangalore was quite a success. It was great to see so many folks from the social sector gather together and catch up with old friends and make new friends. Need to figure out how we can do more of these and encourage other folks to organize similar meetups
+It’s been so nice and gratifying to see the Dalgo team come together and put on their
+first sprint with
+a few new NGOs. The Dalgo team has had a few struggles over the past few quarters, and all their hard work and perseverance has paid off. We still have ways to go, but things seem to be moving in unison and cohesion
+Abhishek Nair kicking off the Dalgo Sprint
+Also attended the first half day of the Glific Accelerator program and was quite amazed to see the team structure and execute a program with 24 NGOs. Lots of prep work and conversations before the event, and it showed. Amazed to see our growth in organizing learning programs like this accelerator.
+Krishna Priya kickstarting the Glific Sprint
+In addition to NGOs, I had the opportunity to have a couple of long conversations with folks from foundations. The dialogues we had with Hrishi from Azim Premji Foundation, Murugan and Vaishali from Veddis and Anand Deshpande from DeAsra / Persistent were quite informative for all of us. Am really pleased that we can have open honest conversations, where we get good feedback and their views on our work, but at the same time, we can push back and explain our reasoning. It was quite cool and impressive to listen to our team talk about and demo their platforms in our extended meeting with funders.
+Thanks to the folks at Omidyar Network for opening up their office to us in Bangalore. Really enjoyed working from their offices in Bangalore, drinking multiple cups of filter coffee and having an amazing view of Bangalore. Seems like Bangalore is becoming the locus of our operations in India.
+What can we do better
+We need to spend more time with NGOs in the field, getting to know them better, see their programs on the field, spend time with their team and their community. My favorite parts of the trip were the conversations with the NGOs and the extended time at SEARCH in Gadchiroli. We’ve had an open offer to the team to go volunteer with NGOs, maybe we need to switch strategies and make it a requirements for everyone!
+Our interactions with both the Dasra Rebuild NGOs and my visit to NGOs in Meghalaya, did highlight the fact that we are not in a position to help them today. This was also inline with our conversations with Anand Deshpande. We do have a few partners who focus on this group of NGOs, maybe we need to work with them closer and help them expand. The open question remains is to how sustainable can we make this?
+Our in-person events are of incredible value to everyone involved and receive good-to-great ratings. However, from an organizational perspective, they are also very time consuming and a lot of work on multiple team members. How can we make them more efficient and less draining on the team involved.

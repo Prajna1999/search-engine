@@ -1,0 +1,65 @@
+Title: Building a India and District Metric Map on the Superset Dashboard
+Author: Siddhant Singh
+Date: March 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/building-a-india-and-district-metric-map-on-the-superset-dashboard/
+==================================================
+
+One of our client requirements wanted to see if it’s possible to show India’s District level information on the map. We took a bit of time to research about this and came up with a solution to make this possible on the superset dashboard.
+Superset dashboard offers deck.gl polygon which uses deck.gl library which you can read about
+here
+. The way I approach this problem is to get the shape files for India and District level information so I had to do a lot of googling on this and finally came up with a couple of shape files which provide close to accurate borders on both state and district level. Which we started maintaining
+here
+needs a bit of structure but gives us what we want. So now I’ll walk you through the process of what we did.
+Step1:-  Get the Data
+First get the data which has district and state level information. We started working with ATECF this time and they’re collecting data from Avni in different state and district parts of India. They wanted to show a couple of metrics on both levels. So we had the AVNI data which gives data at two different levels.
+Define spatial dimensions for county visualizations
+In our database, we will first create the PostGIS extension that will allow us to manipulate geospatial data:
+In order to visualize the data in Superset, we need to define each county’s spatial dimensions in either a GeoJSON, a
+Polyline
+, or a
+Geohash
+format. This can be done by determining the correlation between each GeoJSON and each county’s FIPS so that we are able to enrich our results table in Superset.
+Most of the time, geo datasets can be found in the form of
+shapefiles
+.
+A shapefile is a vector data format used for storing data that references geographical objects. These files must be converted into a format that your database can read before it is stored and queried.
+A shapefile is commonly downloaded as a single .zip file that, once unzipped, contains three mandatory files with the prefixes .shp, .dbf, and .shx:
+.shp: Contains the geographical data, which includes points, lines, and polygons.
+.dbf: Contains non-geographic features and attributes that describe the data.
+.shx: Contains indices of the record sets in the .shp file for quicker lookups.
+Create Extenstion postgis;
+Next, we need to install GDAL, which is a library used to convert shapefiles to GeoJSON.
+If you’re using a Mac, then you can install GDAL using Homebrew:
+Brew install gdal;
+We are now able to convert our
+India district shapefile
+india_district.shp into a .sql file for ingestion by Postgres:
+In the terminal, type:
+ogr2ogr -nlt PROMOTE_TO_MULTI -f PGDump -t_srs "EPSG:4326" india_district.sql india_district.shp
+This command will give you the sql dump file at your given path. Then you will have to upload this to your database which will give you something like this.
+As you can see here it gives me the coordinates for district and state level.
+Step2:-
+Convert wkb_geometry to GeoJson data type
+In this step we need to transform the wkb_geometry column from a geometry data type to a GeoJSON data type. So you’ll need to write a sql query for this which I’m mentioning here
+CREATE TABLE state_jeojson AS (
+SELECT st_nm, json_build_object(
+'type', 'Polygon',
+'geometry', ST_AsGeoJSON(ST_Transform((ST_DUMP(wkb_geometry)).geom::geometry(Polygon, 4326), 4326))::json)::text as geojson
+FROM public.indian_states);
+After this, Once this convert to geojson column then I have merged that with the ATECF data where the state and district columns are same and that gives us corresponding polygons we want.
+Once the table is ready we do following things
+In superset we have deck.gl polygon and we select polygon column in our case which was
+state geojson column. Then next choose, Polygon Encoding as a JSON.
+Then we select the metric we want here I’m calculating number of Dams at state and district level.
+We’re using mapbox key to make it nice UI for the map.
+We need to enable javasrcipt tooltip generator to show the metric on the dashboard upon hovering
+Drill to detail option is available on the map so you can get more information about the particular area.
+At the end this is how the dashboard looks like
+This is how I’m showing district level information
+State level Information
+Challenges
+We need to fix the tooltip to show better information on the map.
+To show multiple metrics on the map. Right now I can only do it for one.
+Drill down is not possible on this map so we’re doing filtering on both the maps
+We’re hoping to solve most of these problems in our next sprint which is happening on 31st to 6th in Bangalore.

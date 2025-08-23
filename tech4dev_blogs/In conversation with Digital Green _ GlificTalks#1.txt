@@ -1,0 +1,15 @@
+Title: In conversation with Digital Green | GlificTalks#1
+Author: Kurund Jalmi
+Date: July 2020
+Category: Glific
+URL: https://projecttech4dev.org/in-conversation-with-digital-green-glifictalks1/
+==================================================
+
+On their mission to empower farmer groups,
+Digital Green
+has been relentless in finding the best methods, tools and technology. In our previous conversation(coming soon) with Digital Green(DG), Glific team learned about the various communication programs run by them to impact the farmers. Some of these included running pilot cases to test WhatsApp(WA) groups, IVR systems and some web apps to engage, educate and empower their audience. Having collected a lot of experience with using WA for their communication requirements, we crossed paths to explore how Glific can help in their endeavour.
+Our exploration of communication requirements at DG started by understanding the opportunities and gaps of using a WA-based solution (FAQs coming soon). A high level view makes it evident that DG cannot leverage �groups� structure anymore for communicating, as a part of WA for business. However, they can carry out 1-2-1 conversations. To continue the conversation with the beneficiaries, DG would have to message within a 24 hour window, outside which only a template message can be sent. On the downside, all template messages need to be approved by WA.
+This provided a frame in which to think about building strong communication channels for their various programs. We discovered that Glific�s two-way communication can help them in setting a channel with the beneficiary group where there�s a large scale broadcast of message/content and there�s a possibility to receive responses. Receiving responses from the beneficiary doesn�t essentially need to be an immediate step but with a few rounds of messages, beneficiaries can feel more engaged and can start responding or asking questions. In other words, Glific can help DG with their one-way content dissemination with a possibility to make it a two-way communication.
+We also discovered that within DG the communication requirements may vary as per the different programmes and initiatives. Some could be educational and some could be based around a service model. We concluded this rich exploratory conversation, with two fundamental discoveries:
+Identification of the use case where Glific�s communication platform can help
+Running pilots to validate if the potential use cases can be well-supported by Glific.

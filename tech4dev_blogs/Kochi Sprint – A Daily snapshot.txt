@@ -1,0 +1,43 @@
+Title: Kochi Sprint – A Daily snapshot
+Author: Rohit
+Date: October 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/kochi-sprint/
+==================================================
+
+Day 3 of the sprint (Day 1 for me)
+I got into Kochi airport early Wednesday morning and crossed the street to get to the hotel (would you believe Uber was quoting over
+?
+600 for this ride?). I wouldn’t get my own room until 11am, but my team was so organised they had the hotel people assign me a temporary room. My temporary roommates were very gracious about being woken up at 6:30am but I quickly brushed my teeth and left so they could go back to sleep.
+After breakfast and happy reunions we got into Day 2 of the
+Data Catalyst Program
+. I finally met Bhanu and Anil from
+ILP
+, and then Prashast and Chello from
+Saajha
+. Thomas and I had a good working session with Chello on the first steps for their Data Catalyst journey. The session was wrapped up beautifully by Kavneet from Dasra who polled the audience on how they felt and what they had learned, and then summarised the workshop for everyone. (Btw, you don’t know workshop summarising is a skill until you see someone do it as masterfully and effortlessly as she did).
+We closed the day with an excellent evening of food drinks and karaoke… of which I unfortunately don’t have photographs. It was a lot of fun.
+Day 4
+The next day started bright and early. I resisted the social pressure to go on a 6:30 walk and instead spent the hour in the hotel gym. After a huge breakfast we started work – AN was
+panicking
+concerned that we might not hit our goals for the week so we made some lists to make him feel better. Then we had “prioritising meetings” where we decided what we were going to work on / not work on over the next couple of months. These turned out to be quick because I think we were all mostly aligned and just needed to say it out loud and write it down. Humans are funny creatures.
+At tea-time Robert showed us two data tools his team has been exploring. The first was a minimal wrapper around a command-line tool, and the second was a full-blown IDE + app development suite. It’s always helpful to see how other products approach the UX problems we encounter with Dalgo, even if we don’t always have the same user profile as they do.
+My roommate was Anand from
+TAP
+, and we chatted that night while he was working and I was trying to go to sleep. He told me he had been talking to someone-about-something, and that this person was “quite old”. I asked how old and Anand said “Oh, not as old as you!” Aaaaaaaa ???????????????????????? … anyway the conversation was long, varied and deep and I thoroughly enjoyed it.
+Day 5
+Team meeting at 8am! The sprints are our only opportunities for open discussions with the entire team. We talked about what we like about our work culture and what could be tweaked, and we talked about things we do well and things we can improve on. There were no big surprises but we did decide (were told?) that from the next sprint every team will present an update of their work to the larger group.
+After breakfast we did a deep dive into Dalgo with Ashwini, and talked about product features as well as plans for consulting. She gave us a demo of PowerBI and we used this to plan our Dalgo transformations UI.
+Dalgo transformations UI
+Nair and I talked through how to provide trial accounts for the platform, and while the plan looks good we’re going to wait until the UI transformations piece is ready before rolling this out.
+At tea-time we (fCxO, Glific, Dalgo, Legal) had an important meeting on the implications of the new Data Privacy Act on us, our partners and our products. We had started these conversations last month but needed to bring them together and then plan how to proceed… now we have the beginnings of a plan but probably need another couple of weeks to start actually moving on it.
+After this the Dalgo team completed the upgrade of Prefect and dbt which we had started a few days ago – all our tests passed, all data matched the pre-upgrade versions, and quite honestly we were rather pleased with ourselves. Neither upgrade was “hard” but we made sure to do them carefully. And it gave us a chance to use our new database diff script.
+Day 6
+Ok, the sprint is officially over but I’m still here. I had a productive morning doing accounts, attending to emails, saying goodbye to people, fixing a small bug, and updating the Dalgo weekly digest in Notion. Then I turned to my big task for the day – testing a rather major change to a
+repository I don’t manage
+(or even work on!), on the one day that the owners said they wouldn’t be messing around with it. But as soon as I got started, AN said he was ready to leave for Fort Kochi to get lunch… and of course I had to go.
+See, I hadn’t had any meals out so far, and although I have no complaints about the food at the hotel it is still food at a hotel. And I’m leaving tomorrow and then I’ll go back to Bangalore and order from Kerala Pavillion or wherever and be filled with regret.
+(Sorry Kerala Pavillion).
+So we got into a taxi and then I found out that the ride to Fort Kochi is ONE AND A HALF HOURS LONG ugh and I hadn’t brought my computer. This was going to be a long day…
+But it turned out to be worth it. Ishan joined us and the three of us sat at a river-facing restaurant and had an extremely satisfying filling and fulfilling meal. The place was full but not crowded, conversation flowed easily, the weather was lovely, and by the time the food came we were ready for it.
+It seems like every sprint keeps getting better doesn’t it? I’m very glad to be here.

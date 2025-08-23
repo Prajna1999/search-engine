@@ -1,0 +1,21 @@
+Title: Tech4Dev Project Tracker using Airtable
+Author: Kurund Jalmi
+Date: October 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-tracker-using-airtable/
+==================================================
+
+We were looking for a tool that can give us a top-line analysis of all the projects in the pipeline, including past, present and future projects. It should allow us to get a snapshot of the status of all projects at any point in time. This allows us to follow up on projects that are behind schedule or over budget. Note that all documents will be stored on Google Drive.
+We evaluated a few project management tools and also ticketing systems. Most of them worked quite well for the individual project but we were not able to get the data that we needed for our purpose. Here is the document that covers our requirements:
+https://docs.google.com/document/d/1JMki14I3Zguz98LZatbGadYLX_TiWDVB9KpOouAOiA0/edit?usp=sharing
+Someone recommended us
+Airtable
+. It looked very promising and we were quickly able to get basic data structure in place. We have 3 main entities:
+* Projects
+* Contacts
+* Activity
+One slick feature of the Airtable is you can create different views of the same data. For eg. we created a form to collect weekly status for ongoing projects.
+Our next challenge was to send the reminders if the weekly status report is not filled. Fortunately, Airtable has excellent API support. We have written a node application for the same. Code is available at
+https://github.com/tech4dev-india/project-tracking-with-airtable
+. Currently, we have started a pilot with few projects and have started collecting the data.
+Overall, Airatable is very impressive and can be used as a prototyping tool before actual project implementation.

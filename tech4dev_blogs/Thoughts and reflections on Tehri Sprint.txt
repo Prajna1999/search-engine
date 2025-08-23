@@ -1,0 +1,33 @@
+Title: Thoughts and reflections on Tehri Sprint
+Author: Kurund Jalmi
+Date: November 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/random-thoughts-and-reflections-on-tech4dev-tehri-sprint/
+==================================================
+
+Am back at home in San Francisco, celebrating Thanksgiving with friends and family, and reflecting on the time we spent as a group in Tehri last week as I slowly come back to the normal routine of everyday life 🙂 I’ve been part of quite a few sprints and events in the past few years, and this event felt like coming round the circle, and things just fell into place quite nicely in a seamless way.
+Before I really dive into some of the highlights from my view, I’d like to give kudos to Tushar and Prateek from
+Colored Cow
+for hosting us in their wonderful office in Tehri and managing all the logistics – accommodation, food, drinks, travel and the epic outdoor party by the lake. Its a lot of work to take care and manage 23 people from the outside world, but they did it with class and style. Our heartfelt thanks and gratitude to them and to all the team members at Colored Cow who helped make this happen. As a reward, we promised them, we’ll repeat this event a couple of times a year, till they get tired of hosting us 🙂
+Tehri in short was a perfect spot to host the sprint. It is in a beautiful location with a big lake surrounded by high mountains, close access to nature (i.e. you can walk on the roads with minimal traffic), and less distractions. Since we relied on the trusty Innova to shuttle us, all we could do was: Eat, Drink, Work, Exercise, and Chat. Repeat the same thing for all the days of the week. There were not many things to distract us from the above routine and it gave all of us a chance to unwind, learn more about each other and just have a peaceful time.
+The group has documented their experiences in a
+series of blog posts
+, so I won’t spend any time talking about specifics. Just some random thoughts and impressions from the trip
+Having minimal structure at the event was really helpful. A talk at the beginning of the day and at the end of the day. That gave people the freedom and flexibility to structure their day based on their work load. This enabled folks to have more in-depth conversations with folks whose work they were interested in.
+It was great to see how involved and participatory the talks were. The talks were optional, but all talks had pretty much 100% attendance, but more importantly, the discussions during and after the talks showed that folks were interested and paying attention 🙂
+We were in an amazing location. Super happy to see that people took advantage of the location to go for early morning walks and runs, meditate by the lake and more. On our all day trek, everyone came and pushed themselves to reach the promised cafe,
+Auli Chai Cafe
+, who ran out of food after serving our ravenous group.
+Riding on a motorbike with Akhilesh made his day (not sure why!) and mine. Gotta start pursuing my dream of learning to ride and purchasing my own motorcycle 🙂
+First steps towards getting my own bike 🙂
+And finally from the team at Colored Cow when reflecting on the event:
+Among the other visible outcomes of the event, the economic and cultural impact that the sprint has had in and around the Tehri hills of Uttrakhand has been pretty significant in its own way. When we did this sprint, we brought people from across the globe to this small hill town. It will go a long way in making people believe more in the concept of clean and sustainable tourism.
+What’s next?
+The Tech4Dev product teams will continue to meet semi-annually. From our perspective, it makes sense to invite other non-profits and software organizations to come together and share ideas and experiences. We’ll announce the dates soon. The location will remain the same :), don’t mess with a good thing!
+We need to figure out how to incorporate other aspects of the non-profit world in our talks and interactions and plan on bringing together a diverse set of people the next time around. It is important for tech folks in the sector to see the larger picture and how NGOs are making a difference and impact in society.
+One of the things we’ve been aware of is the significant imbalance in the gender ratio within the social sector tech space. We are starting an initiative with the team at Colored Cow to address this imbalance in the hills via a paid internship program for women pursuing their technical degree in the adjoining college. More details on this as we make progress.
+As a side-note, for future reference the total cost of running the event was $7,800. This comes down to approx $43 / person / day everything included. The ColoredCow team spent approximately 100 hours in organizing the event. You can see specific details in
+the spreadsheet here
+. We maintained a separate sheet to maintain participant information and logistics (Not made public due to personal information)
+You can read different perspectives of the sprint from
+our fellow participants here.

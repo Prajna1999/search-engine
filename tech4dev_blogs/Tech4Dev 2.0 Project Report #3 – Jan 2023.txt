@@ -1,0 +1,239 @@
+Title: Tech4Dev 2.0 Project Report #3 – Jan 2023
+Author: Donald Lobo
+Date: January 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/tech4dev-2-0-project-report-3-jan-2023/
+==================================================
+
+Tech4Dev
+Mission
+Build and support the ecosystem of
+software, data and design companies, nonprofits, and foundations
+working towards creating
+social impact globally.
+More information:
+Tech4Dev 2.0 Note
+,
+Tech4Dev 2.0 Pitch Deck
+2022 Recap – Year in Review
+2022
+– Well take a different approach to this report, always good to change things up. While we will focus a bit on Q4, well take this opportunity to reflect on the past 9 months since we started Tech4Dev 2.0, our evolution and growth and where we are headed. To summarize it in one sentence:
+Its been an amazing year for us, a period where we truly have grown up, a great team in place and clear key objectives.
+For the first time in a quarterly report, Ill switch to using a list of the top things that weve learned and/or accomplished in the past year in no specific order.
+The Good Parts
+Seeing the team grow from 0 to 9 in the course of this year has been fascinating. From a loosely coupled project growing to an experienced team driving things forward has helped speed things up. Truly grateful to our CEO
+Erica Arya
+and the early members who believed in us:
+Siddanth Singh
+,
+Vinod Rajasekaran
+and
+Ankit Saxena
+.
+Our partnership with
+Dasra
+on legal and financial matters made our life easier and illustrates the value of collaboration and building on each other’s strengths.
+The funding process we went through with
+Omidyar Network
+was brutal and exhausting, but so eye-opening. From a process perspective, we learned our strengths, and the myriad places where we need to get our act together. Again, our partnership with
+Tariq
+and the ON team showed the true power of collaboration. Both parties listened, but also pushed back if things seemed a bit too much.
+Crossing paths with
+The Agency Fund
+, specifically
+Robert
+and
+Temina
+, and seeing how closely we intersect with what we want to do has been good. It’s awesome to have a sounding board with people who are doing similar stuff in an open and transparent manner. It’s also nice to have colleagues in SF, making me get out of the house!
+Having more than 90% of our Tech4Dev 1.0 funders come back and fund Tech4Dev 2.0 at 2-3x  their previous level.  Their confidence and faith in our work, along with strong financial support, has made our life a lot easier. On a related note, hitting the 66% three-year fundraising goal for Tech4Dev 2.0 in the first three months of the funding cycle, also meant we could focus on execution rather than fundraising.  Deep gratitude and thanks to our funders for being generous and giving us multi-year grants.
+Seeing Glific
+grow and prosper
+, validated our theory of self sustaining platforms. We
+doubled our user base
+(but fell short of our target), and tripled our revenue (exceeded our targets). Our
+work with Gramhal
+is likely to show the power of open source platforms developed for the public good, being deployed by state governments. This partnership is helping Glific scale to deliver thousands of messages per minute, which in turn benefits the larger ecosystem.
+Our relationship with the Avni team has blossomed this year. Avnis
+performance last year
+similarly has also been quite amazing. As an external partner, we are seeing areas where we can help Avni strengthen their product offering. We are also seeing lots of commonalities in the areas of business development, sales, communication, customer service and finance. This year we plan to centralize these functions within Tech4Dev and get the efficiencies of scale as we deploy more platform solutions across the sector.
+We had a good feeling about the Fractional CxO initiative. The response for this has been overwhelming and has far surpassed our expectations. Weve also been relatively fortunate to have been able to hire a team of experienced folks (
+Vinod Rajasekaran
+,
+Ankit Saxena
+,
+Piyali Paul
+,
+Ashwin Srinivasan
+) to help us pilot this initiative. Seems like well need to expand this group in Q1 2023 to keep up with demand.
+We added
+Nidhi Goyal
+and made our advisory board official. Well be adding one more person to the board in 23. We have quarterly meetings focussed on strategy. A subset of the board meets on a weekly basis with an operational focus.
+We had 5
+in-person
+sprints
+(Gurgaon, Mumbai, GarudMaachi, Dehradun, Jaipur) this year. Super great to get people in the same space, helps with planning and team building. It also strengthens our remote working quite a bit.
+The Not-so-Good Parts
+Bringing us back to reality from all the good news, from a quality perspective, we need to step up our game with our platforms. We need to deliver higher quality products on time and we need to work with our NGOs as partners more than clients since we are jointly exploring and testing new things. Working in the social sector is not an excuse to deliver things late or of low quality. We have a fairly good reputation today, and we need to keep improving it.
+Recruiting is always a challenge. Weve been surprised at our ability to recruit senior level talent to Tech4Dev. For most non-technical positions, weve been able to hire really good folks to the team. For the technical positions, we seem to be getting into the groove of connecting with the right folks. We do believe that we should pay good salaries to get great people.
+We are learning how to interact with NGOs in an efficient manner at their pace. We seem to keep tweaking this on a monthly basis and are learning as we go. Things just seem to move much slower than wed like, but we have to be patient and understanding. We just wish folks are responsive and respectful of everyones time.
+We are making headway amongst both foundations and NGOs on building high quality tools for the ecosystem rather than low quality custom solutions. However, most of our conversations with NGOs keep highlighting the prevalence and dissatisfaction with custom solutions. Not sure how we can fix this, do we continue throwing good money into a deeply invested project? How can we make ecosystem level changes?
+Reflecting back and Looking ahead – Erica Arya
+I started with Tech4Dev in India in March 2022, and have had strong support of the advisory group. Building the India team was the first big priority for me. I am incredibly grateful to our Tech4Dev network for being a key contributor in getting us the right folks to join the team. Our new team only reaffirms that if the right set of people come together it overall boosts the enthusiasm and energy levels which is so important in helping the organization achieve its mission.
+Last year was a milestone year for us when we were entering into the second leg of Tech4Dev aka Tech4Dev 2.0:
+Consolidating our learnings from phase one.
+Scaling our chatbot platform – Glific from 40+ NGOs to 70+ NGOs
+Gearing up to pilot two new initiatives that we strongly felt were a big need for the sector –
+fractional CXO
+(fCXO, tech and data professionals for social impact) and
+Development Data Platform
+(DDP, a platform to help NGOs analyze and visualize their program data ). Seeing
+Glific
+scale successfully in the year and fCXO and DDP bootstrap was a fulfilling experience.
+It feels good to partner with NGOs and funders to pilot the fCXO and DDP initiatives. In the few months that we spent working on these initiatives the learnings had been immense and the hypothesis seemed mostly validated to take the initiatives beyond pilots. We opened up applications for the fCXO program, received good response both from funders and NGOs on their willingness to explore. We are currently in talks with close to 10 NGOs (big and medium sized) for the program and will engage with most of them this year. On DDP, we initiated a pilot with two NGO partners who will soon start working with more NGOs.
+Another key focus area for us last year was strengthening our communication and marketing strategy. We wanted to increase the outreach of our programs for which we engaged with a communication agency and are hopeful to see positive outcomes this year.
+The last year ended on a high note and we aim to continue to work with the renewed zest this year. With clear direction, enabling an ecosystem of foundations and NGO partners, our association with Dasra, a strong team, we will aggressively work on expanding the reach of our platforms and fCXO program so that we are able to impact more lives. This year we also plan to make our chatbot platform – Glific, go global. And as always Tech4Dev will continue to build, contribute and strengthen the ecosystem towards creating social impact!!
+Financials
+2022-23
+2023-24
+RECEIPTS
+Estimates
+(Full year)
+Actual
+(YTD)
+Q1 Act.
+Jun 22
+Q2 Act.
+Sep 22
+Q3 Act.
+Dec 22
+% Act.
+to Est.
+Estimated
+B/f Donor bal*
+$1,376,491
+$1,376,491
+$1,376,491
+$2,517,984
+$2,459,373
+100%
+$3,072,296
+Grant
+$2,500,000
+$2,087,962
+$1,188,333
+$90,000
+$809,629
+84%
+$2,500,000
+Earned Revenue
+$250,000
+$0
+$0
+$0
+0%
+$500,000
+Total
+$4,126,491
+$3,464,453
+$2,564,824
+$2,607,984
+$3,269,002
+84%
+$6,072,296
+EXPENDITURE
+Estimates
+(Full year)
+Actual
+(YTD)
+Q1 Act.
+Jun 22
+Q2 Act.
+Sep 22
+Q3 Act.
+Dec 22
+% Act.
+to Est.
+Estimated
+Program Salaries
+$205,287
+$89,761
+$0
+$43,425
+$46,336
+44%
+$765,833
+Program Cost
+$622,658
+$319,908
+$46,840
+$105,187
+$167,881
+51%
+$1,703,905
+Legal & Finance
+$206,250
+$0
+$0
+$0
+0.00
+0%
+$300,000
+Capital Expenditure
+$20,000
+$4,380
+$0
+$0
+$4,380
+22%
+$70,000
+Total
+$1,054,195
+$414,048
+$46,840
+$148,612
+$218,597
+39%
+$2,839,738
+C/f Donor bal
+$3,072,296
+$3,050,405
+$2,517,984
+$2,459,373
+$3,050,405
+99%
+$3,232,558
+Complete details can be found
+here
+.
+Want More
+Details?
+All our blog posts can be found on
+the project website
+and
+Glific blogs
+. All project documentation can be found on our
+shared google drive folder
+.
+Tech4Dev 2.0 Note
+Tech4Dev 2.0 Pitch Deck
+Glific Website
+,
+Glific One Pager
+,
+Glific Year in Review
+Avni Website
+,
+Avni 2 Pager
+Aam Digital Website
+,
+Aam Digital Year in Review
+Tech4Dev 2.0 Project Report #2 – Oct 2022
+Tech4Dev 2.0 Project Report #1 – Jul 2022
+Dehradun Sprint Report – Sept 2022
+GarudMaachi Sprint Report – July 2022
+Delhi Sprint Report – Apr 2022
+Tech4Dev 1.0 Reports
+Reach out to us via
+email
+or find more information on our
+website

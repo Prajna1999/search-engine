@@ -1,0 +1,22 @@
+Title: Indus Action: Chatbot project update
+Author: Kurund Jalmi
+Date: June 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/indus-action-chatbot-project-update-2/
+==================================================
+
+Web Access
+has been working with the
+Indus Action
+team to build a Chatbot that will be used by its beneficiaries.  You can find the initial assessment of the project in this previous
+blog post
+.
+Here are the key features that were implemented as a part of this project.
+* Multilingual: English and Hindi
+* Ability to get information about different stages in the application process
+* Report Grievance
+* View profile
+* Ask for help
+* Policy related details
+IA Bot is a Facebook-based bot which will be available on Indus Action?s Facebook page.
+We have completed the project and the project handover is done to the Indus Action team.

@@ -1,0 +1,237 @@
+Title: Exploring the Impact of the fCxO Program: A Conversation with Antony Vivek
+Author: Deepak Nanda
+Date: February 2025
+Category: Fractional CxO
+URL: https://projecttech4dev.org/exploring-the-impact-of-the-fcxo-program-a-conversation-with-antony-vivek/
+==================================================
+
+Tech solutions often fail NGOs. Why? Because most tech companies design solutions remotely, without understanding on-ground realities. In a conversation with Antony Vivek, an entrepreneur-turned-social-impact-leader, we explore how fCxO is bridging this gap. Antony Vivek shares how fCxO bridges the gap between NGOs and effective tech adoption—helping organizations move from chaos to structured solutions. He dives into real-world case studies, from education in Rajasthan to tribal healthcare AI projects.
+Deepak:
+Antony, thanks for joining us today! Let’s start with your journey. What were you doing before joining the fCxO program at Project Tech4Dev, and how did you end up here?
+Antony:
+I’ve always had an entrepreneurial mindset. Straight out of college, I started my own firm—17 years ago now! Back then, we noticed that while India had a massive IT workforce, most products were being developed for companies in other countries. This idea stuck with me, and I wanted to build an
+India-first tech product
+that could later scale globally.
+Through my career, I worked mostly in Tier 2 and Tier 3 cities, helping businesses navigate
+chaotic, unstructured environments
+and bringing
+order to the madness
+. Over time, I got deeply involved in the social impact space—partly because my wife works in the sector. I was always supporting her work from the sidelines.
+When COVID hit, I saw it as a turning point. I moved into impact consulting, where I realized a
+huge gap
+—consulting firms were advising NGOs on the need for tech, but
+not actually helping them implement it
+. Many organizations simply didn’t have the resources or expertise to execute these strategies.
+That’s when I came across
+Project Tech4Dev’s Fractional CxO (fCxO) Program
+—offering
+part-time, senior tech leadership for NGOs
+. It was exactly the
+hands-on, problem-solving approach
+I believed in. So, I joined the program, and the rest is history!
+Deepak:
+That’s an incredible journey. Given your experience working with startups, how do you compare the challenges faced by
+NGOs
+versus
+corporate businesses
+?
+Antony:
+In many ways, NGOs have it
+tougher than startups
+. They operate with:
+Limited budgets
+Small teams
+Tight timelines
+Huge expectations to create impact at scale
+Another similarity is how
+NGOs and startups both reverse-engineer solutions
+. In the corporate world, products are often built for
+top-tier cities first
+and then adapted for smaller towns. But NGOs take the
+opposite
+approach—
+designing frugal, scalable solutions
+for underserved communities and then
+scaling them up
+.
+A key challenge is
+bringing structure to the chaos
+. NGOs are juggling
+donor expectations, community needs, and internal operations
+, all while trying to drive impact. That’s where a
+tech intervention
+—even something as simple as
+automating processes
+—can make a huge difference.
+Deepak:
+Can you share an example of an NGO you’ve worked with and how tech helped them?
+Antony:
+Absolutely. One experience that stuck with me was working with an NGO in Rajasthan focused on
+getting out-of-school girls back into education
+.
+From a consulting perspective, we initially thought:
+1️⃣ The best way to support them was through
+volunteer teachers
+2️⃣ These volunteers should have
+a B.Ed degree
+(education qualification)
+But when I visited the field, I met
+a local community leader—a physically challenged man—who was the real changemaker
+. He was personally convincing families to send their daughters to school,
+organizing transport, negotiating with families, and ensuring safety
+.
+I realized that
+our assumption about needing B.Ed-qualified teachers was flawed
+. The real challenge was
+mobilizing local community leaders
+—not finding formally trained educators. We pivoted the strategy to
+recruit passionate volunteers rather than just focusing on credentials
+. This drastically
+expanded the talent pool
+and
+boosted program impact
+.
+The key takeaway?
+You need to be on the ground to truly understand problems before implementing tech solutions.
+Deepak:
+That’s a powerful insight. Now, you’re working with
+SEARCH
+, an NGO focused on
+tribal healthcare
+. What has your experience been like?
+Antony:
+SEARCH operates in deeply
+rural, tribal areas
+with very
+limited access to healthcare
+. They wanted to explore
+AI for mental health support
+—but they were still using
+archaic software from the early 2000s!
+Their challenge was
+jumping from outdated tech straight to AI
+without the
+right infrastructure
+in place. As an fCxO, my role was to
+help them take a more structured approach
+.
+One of our quick wins was implementing
+Glific
+, a WhatsApp-based chatbot solution. Within
+five days
+, we had a functional chatbot supporting their mental health initiative. They were blown away—it showed them that
+tech is accessible and scalable when approached strategically
+.
+This experience reaffirmed what I believe:
+✅ NGOs need
+structured guidance
+in selecting and implementing the right tech
+✅ They need to focus on
+real challenges
+, not just chase trends like AI
+✅
+Hands-on, field-driven tech adoption
+is what truly works
+Deepak:
+That’s amazing. Unlike traditional consultants,
+fCxOs work closely with NGOs over months
+. How does this model make a difference?
+Antony:
+Consultants often work in
+short bursts
+—they analyze, create reports, and move on. But NGOs need
+sustained support
+to navigate the
+messiness of tech adoption
+.
+I see
+fCxOs as a guiding force
+—like a
+parent
+helping a child in a candy store. NGOs often
+get excited about every tech solution
+but need someone to help them
+prioritize what’s actually useful
+. We don’t just
+recommend
+solutions—we
+implement them alongside the team
+.
+This hands-on approach is what makes fCxO different. It’s about:
+1️⃣
+Helping NGOs define their real tech needs
+2️⃣
+Guiding them through implementation—step by step
+3️⃣
+Ensuring long-term sustainability, even after we leave
+Deepak:
+What’s next for fCxO? How do you see the program evolving?
+Antony:
+There’s
+huge potential
+to scale the
+fCxO model
+across more NGOs. Right now, many NGOs:
+🔹 Know they need
+tech support
+but don’t know
+where to start
+🔹 Struggle with
+finding the right vendors and tools
+🔹 Need help in
+defining their tech roadmap
+At the recent
+fCxO Sprint
+, we worked with an NGO facing
+major data challenges
+. In just
+a week
+, we built a structured approach that
+transformed how they manage data
+.
+The future of fCxO is:
+✅
+Expanding access
+to more NGOs
+✅
+Building a network of tech leaders
+passionate about social impact
+✅
+Creating a lasting impact by embedding tech into nonprofit operations
+I personally hope to
+work with 10+ NGOs in my lifetime
+—because every NGO we empower
+amplifies impact for thousands of beneficiaries
+.
+Deepak:
+That’s inspiring. It’s clear that your journey—from tech entrepreneur to social impact leader—has reshaped your
+definition of success
+.
+Antony:
+Absolutely. Earlier, success was about
+scaling businesses
+. Now, it’s about
+scaling impact
+.
+At
+SEARCH
+, I saw a powerful example of this:
+💡 Twice a week, the entire team—from leadership to field staff—cleans the campus together at 6 AM. No one is
+forced
+to do it—it’s about
+shared ownership and responsibility
+.
+That’s what I want to bring into my work—
+helping NGOs build sustainable, tech-enabled ecosystems
+that
+outlast individual contributions
+.
+Deepak:
+That’s a beautiful perspective. Thank you, Antony, for sharing your journey and insights. Looking forward to seeing fCxO grow and transform more NGOs!
+Antony:
+Thanks, Deepak! It’s been great reflecting on this journey and what lies ahead.
+🔹 Apply for 2025 cohort of the fCxO program at:
+👉
+https://projecttech4dev.org/call-for-applications-fcxo-cohort-h1-2025/
+🔗 Learn more about fCxO program:
+https://projecttech4dev.org/fractional-cxo/

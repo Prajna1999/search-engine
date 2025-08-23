@@ -1,0 +1,64 @@
+Title: Tech4Dev session at the Dasra Philanthropy Week
+Author: Kurund Jalmi
+Date: March 2020
+Category: Avni
+URL: https://projecttech4dev.org/tech4dev-session-at-the-dasra-philanthropy-week/
+==================================================
+
+The Dasra Philanthropy Week (DPW) was held in the week of
+the 24
+th
+Feb, with a breakout session for Tech4Dev on 29
+th
+Feb. DPW is an annual convening of non-profit leaders, philanthropists,
+foundations, policymakers and other key stakeholders to discuss the way forward
+for India?s development. In addition to the plenary sessions, there were
+multiple breakout sessions.
+The session on Tech4Dev was for highlighting the value that
+technology brings to the social impact space, discussing how it allows
+non-profits to improve efficiency in their operations and listen to their
+beneficiaries better, and enhance the overall impact on the sector. The session
+comprised a 30 min panel discussion followed by forty-five minutes of software
+solution demos to an audience of around forty people. The audience was a mix of
+philanthropists and funders, NGOs, and software providers.
+The panel discussion was moderated by Prapti Patel from
+Dasra and comprised Insiyah Rangwala from Antarang Foundation, Arun Kadekodi
+from Soft-Corner and me, from Lumen Consulting. The panel discussion revolved
+around the origins of Tech4Dev, the problems it is aiming to solve, experience
+of NGOs and software partners working with each other, and the challenges of
+scaling up such a platform going forward.
+The demos had a format similar to speed-dating with staff
+from four organizations ? Samanvay Foundation, Noora Health, Indus Action, and
+Antarang Foundation – manning a desk each and a cluster of 8-10 people
+interacting with each organization for 10 minutes before moving on to the next
+desk.
+Vivek and Arjun from Samanvay Foundation talked
+about their open source field
+service and data collection platform ? Avni
+Arjun Rangarajan from Noora Health talked of using Whatsapp for
+training patients and their families with high-impact health skills to improve
+outcomes
+Mahua Bisht and Tarun Cherukuri from Indus Action demoed
+their technology solution for ensuring implementation of the Right to Education
+provisions across schools in India
+Insiyah Rangwala from Antarang Foundation shared insights on
+using technology for their CareerAware and CareeReady programs.
+The response to both the panel discussion and the demos was
+positive, as evidenced by the conversations happening after the demos between
+the members of the audience and the panellists as well as the demo staff.
+Some of the interesting questions I got during my
+conversations:
+1. How can we use Tech4Dev open source platforms for
+technology in agriculture?
+2. What does Tech4Dev think of a SAAS subscription model?
+3. Why don?t you (ie. Tech4Dev) think of creating scrips for
+leveraging the existing capabilities of Google Docs, Tableau, Power BI, etc and
+upload these scrips for free use?
+Some feedback on the session from others:
+1. There could have been more time allocated to the session
+with some time left for Q&A after the pane discussion as well as the demos
+2. Most people could visit only three demos and not all
+four, so maybe we could have allocated more time for the demos. (However, the
+time allocated was by design for keeping the demos to a short elevator pitch
+style format.)
+3. A little more structured networking would have helped.

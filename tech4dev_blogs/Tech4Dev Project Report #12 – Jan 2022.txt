@@ -1,0 +1,205 @@
+Title: Tech4Dev Project Report #12 – Jan 2022
+Author: Kurund Jalmi
+Date: January 2022
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-12-jan-2022/
+==================================================
+
+Tech4Dev
+Mission
+Building the Open-Source Technology Ecosystem for the Social Sector.
+More information:
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Summary
+Q4 2021
+– for the first time in these reports, words fail me. In general, I am always optimistic and upbeat, but the resurgence with the omicron strain has managed to dampen even my positivity. But my belief in humanity remains strong, and we will get through this: together, stronger and more empathic. I hope you had a restful and relaxing holiday and a good new year with friends and family. We had a fun time waiting for the roads to Tahoe to open, so we could go enjoy the ample snow. The wait was worth it, Tahoe was beautiful with so much snow, and we got a good workout with shoveling and cross country skiing.
+Glific
+continues to be our main focal point over the past quarter. We got back on track and onboarded 6 NGOs this quarter with a good pipeline in place for Q1 2022. We also overshot our consulting revenue targets working with some stellar NGOs including Avanti Fellows, STiR Education and Digital Green. From a revenue and sustainability perspective, Glific is exceeding its 25% sustainability target, and we will close 2021 at 30% sustainability. We continue to have regular webinars with our software partners to attract new customers.
+We made the hard decision to shut down
+FundImpact
+(FI), our platform that helps social organizations track project funds, deliverables, and impact on the ground. We will merge FundImpact with Dhwanis Grant Management System (mGrant). In retrospect, our primary mistake was failing to ensure that there was a market need for FundImpact especially since it intersects with both accounting systems and grant management systems.
+We welcome
+FossUnited
+– a non-profit foundation that aims at promoting and strengthening the Free and Open Source Software (FOSS) ecosystem in India to our funders collaborative. FossUnited is supporting both Avni and Glific to add features to our open source platforms. It is really awesome to have a funder who is aligned with our vision and helps us build the open source ecosystem across India.
+The Tech4Dev sprint held In Tehri in mid-Nov was definitely the highlight of the year for us. A group of 35 people across 13 organizations from 4 countries involved in the social sector space gathered for a week of co-working, discussions, food and hikes. It was the first in-person gathering for many of us during a lull in the pandemic, and it was worth the travel and the testing. You can read the final report and highlights on the
+sprint here
+. We hope ???? to be able to hold two similar events in 2022, as we see this as the core aspect of building the tech ecosystem.
+In 2022, we expect to grow our partner ecosystem. We are having conversations with the folks at
+GramVaani
+,
+Aam Digital
+,
+IDEMS International
+and
+EdZola
+for future projects. We are also working with
+Hyperverge Academy
+and
+Colored Cow
+on a pilot program to improve the gender balance of technical staff with our partner companies. The program will involve mentoring 12-16 young women from a local engineering college during their studies. In addition to mentoring them and exposing them to life in the real world�(something that most Indian engineering schools do not prepare you for), we will get them internships at software companies and involve them in programs like Google Summer of Code.
+We continue to maintain a strong balance sheet primarily due to our sole focus on Glific. We expect our expenses to increase significantly in 2022 as we expand into other programs and increase the sales, consulting and NGO support staff at Glific.
+Highlights and Misses
+2021 saw Avnis usage and revenue from projects go up significantly. NGOs used Avni for a wide range of Covid-related activities: managing drug stocks offline, tracking infections, vaccinations and relief efforts. Many Avni customers, even in non-Covid applications, increased their Avni usage in 2021. Avni also signed a few new customers in 2021. With these new and existing customer projects, Avni has made significant progress towards being self-sustaining: in 2021, project revenues were able to pay for 76% of Avni expenses. Avnis year-end report is available
+here
+Glific continued to enable more conversations and get new customers in 2021. In 2021, Glifics 31 NGO partners interacted with over 80K+ contacts and exchanged over 4M+ messages. Glific is now used by NGOs in nine states and supports 13 indian languages including Indian Sign Language.  Glific consulting picked up in 2021 with NGOs tapping the team for solution design and additional functionality, Glific revenues for 2021 were ?28L with about 40% coming from consulting. Glifics year end report is available
+here
+.
+Closing down FundImpact was our biggest miss. We should have done a better job doing research and needs analysis before kicking off the project. This failure ensures that we build a strong group of NGOs who are vested in the project (both human resources and financially) as an advisory group during the initial planning stages.
+Avni and Glific also received a grant from Zerodha and FOSS United that supports our work in building open source platforms for the social sector.
+Tech4Dev & Glific – Looking back and forward
+Tech4Dev will be 3 years old in April, 22, with two of them being under the pandemic. Weve learned a lot in the past 3 years and are working on our plans for the next couple of years. Here are some of our biggest learnings and things we want to focus on going forward
+Spending the first year and half interacting and learning from 30+ NGOs was a valuable and worthwhile exercise. We got a better idea of some of the problems and challenges they face, got experience working with our NGO partners and figured out things that help form a strong partnership.
+We were quite sure that building a Software as a Service (SaaS) platform was the way forward for most NGOs. The pandemic validated this as seen by the success of  our SaaS platforms like Glific, Avni, mForm and mGrant.
+Technology is an enabler, and allows NGOs to do things better, faster, more flexibility etc. However our experience has been that in addition to the tech, NGOs need help with how best to adapt and match their program to the strengths of the platform. This has really come up with the past quarter as more and more NGOs onboard with Glific.
+Glific today is a solid and extensible platform. In 2022, we see lots of opportunities to work closely with NGOs to make effective use of tech & digital communications. In the coming year, we plan to add a relationship manager to work closely with NGOs on Glific consulting projects. We also plan to add a Sales/Business Development resource to get the deals going. A summary view of our statistics dashboard is
+available here.
+Financials
+Income
+Grants – Contributions
+Funders
+2019 ($)
+2020 ($)
+2021 ($)
+2021 (?)
+International Funders
+$781,500
+$746,025
+$967,165
+?72,537,375
+Contribution from NGOs
+$0
+$14,300
+$0
+?0
+Indian Funders
+$10,000
+$71,430
+$20,000
+?1,500,000
+Total Grants Received
+$791,500
+$831,755
+$987,165
+?74,037,375
+Expenditure
+Support for NGOs – Expenses
+Sector
+2019 ($)
+2020 ($)
+2021 ($)
+2021(?)
+Rights and Advocacy
+$133,841
+$72,733
+$0
+?0
+Education and Life Skills
+$177,534
+$96,959
+$0
+?0
+Governance & Public Finance
+$55,570
+$51,222
+$0
+?0
+Health
+$15,857
+$74,102
+$0
+?0
+Technology
+$25,000
+$50,000
+$0
+?0
+Rural Development
+$31,380
+$0
+$0
+?0
+Research
+$48,885
+$229,007
+$154,108
+?11,558,100
+Support for NGOs – Total Costs
+$488,067
+$574,023
+$154,108
+?11,558,100
+Other Costs – Expenses
+Area
+Description
+2019 ($)
+2020 ($)
+2021 ($)
+2021 (?)
+Events + Travel
+Attendance at funder & partner events
+$17,900
+$2,000
+$3,500
+?262,500
+Strategy + Legal
+Fees paid to Svarya
+$18,500
+$69,108
+$6,600
+?495,000
+Other Costs – Total Costs
+$36,400
+$71,108
+$10,100
+?757,500
+Total Expenditure
+$524,467
+$645,131
+$164,208
+?12,315,600
+Surplus for the year
+$267,033
+$186,624
+$822,957
+?61,721,775
+Surplus to date
+$267,033
+$453,657
+$1,276,614
+?95,746,050
+Details on individual projects can be accessed
+here
+.
+Want More
+Details?
+All our blog posts can be found on
+the project website
+and
+Glific blogs
+. All project documentation can be found on our
+shared google drive folder
+.
+Glific Website
+,
+Glific One Pager
+FundImpact Website
+,
+FundImpact One Pager
+Avni Website
+,
+Avni 2 Pager
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Tech4Dev Project Report #11 – Oct 2021
+Tech4Dev Project Report #10 – Jul 2021
+Tech4Dev Project Report #9 – Apr 2021
+Tech4Dev Project Report #8 – Jan 2021
+Tech4Dev Project Reports for 2020 (#4 – #7)
+Tech4Dev Project Reports for 2019 (#1 – #3)
+Reach out to us via
+email
+or find more information on our
+website

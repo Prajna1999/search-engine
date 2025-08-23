@@ -1,0 +1,57 @@
+Title: Tech4Dev Second Education Sprint: Power of Community and Technology.
+Author: Kurund Jalmi
+Date: September 2022
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/tech4dev-second-education-sprint-power-of-community-and-technology/
+==================================================
+
+This blog is written by Aparna Singh, from
+Suno Sunao
+Its been a long time since I have written a piece or blog to share my experiences. Being inspired by fellow attendees at the Project Tech4Dev sprint, here I am sharing mine.
+Being in the development sector for more than 5 years I have been a huge follower of the work and ecosystem created by Project
+Tech4Dev
+.
+After all, they have been doing the hard part of building a collective ecosystem. Social impact industries can step forward together with the right set of shared learnings and resources to solve the challenges they are facing. Bringing the social enterprises under the same roof to start a conversation around the challenges faced. You know you are in this together!
+A not so organized social impact industry with even more scattered technology implementation, Project
+Tech4Dev
+is creating opportunities to create open source solutions to address these challenges at low cost.
+Hence, came both my excitement and nervousness in attending and presenting in their Sprint.
+I was at the very tranquil
+SalWood resort
+in Dehradun representing
+Suno Sunao
+solo! As team members
+Aishwarya Panicker
+,
+Aishwarya Raman
+were traveling and
+Mohit Challa
+is based out of Japan. I so missed having everyone by my side.
+At the same time, I felt totally lucked out by being in time to attend and represent my team and become part of this amazing community.
+Suno Sunao – An AI-enabled
+Glific
+-backed tool to help women who cannot read or write access information. A product that was conceptualized during the pandemic year 2020 as part of
+Salzburg Global Seminar
+–
+Japan India Transformative Technology Network
+supported by Nippon Foundation. And, brought to reality in 2022 by team
+Glific
+and the mentorship received from Donald Lobo and Erica Arya.
+A product very close to each one of us in the team for the shared experiences with the women we come across every day. And, felt the need to address and hopefully create a world without an information barrier for them.
+Coming back to the excitement! Because it was the first time presenting
+Suno Sunao
+to a large group of audience. We had recently piloted the product in Delhi to a community of around 50-60 women. Here was a product with findings presented to a defining audience.
+Most of whom have bridged scale and reach. And, we’re working remarkably towards bringing changes in the lives of the underserved in India.
+And, Nervous as it was the first step into the unknown. Reminder it was about time to get harsh with self when it came to receiving feedback from people whose works I have been personally inspired from.
+The presentation of
+Suno Sunao
+went well at least that’s what I would assume 😛 And, questions were asked and noted for conversation in the times to follow.
+Got a lot of perspective from Tejas Mahajan –
+Reap Benefit
+, Sebastian Leidig-
+Aam Digital
+, and Abhideep Singh –
+Gram Vaani
+. Gram Vani has been using voice as a tool to reach out to communities on the ground. And, we saw an opportunity for potential collaboration to work together. Making it happen soon.
+With presenting Suno Sunao for the first time outside of Salzburg Global Seminar and endless conversations over life and technology implementation; this sprint will always be special for this very reason.
+Thank you Project Tech4Dev !! See you all in December!

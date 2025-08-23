@@ -1,0 +1,27 @@
+Title: Tech4Dev 2.0 – Update on our Pilot Initiatives, Fundraising and Operations
+Author: Kurund Jalmi
+Date: June 2022
+Category: Avni
+URL: https://projecttech4dev.org/tech4dev-2-0-update-on-our-pilot-initiatives-fundraising-and-operations/
+==================================================
+
+Seems like I write most of my blog posts and updates on flights to India. Writing this one as Im headed to India for our 4-week summer trip: a combination of family time and work during the second half of the trip. Hope to do a visit with at least one NGO and spend a few days on the ground with them.
+Its been around 3 months since we actively started pitching the
+Tech4Dev 2.0 Concept Note
+and talking to our existing funders and lots of new ones. That note was quite detailed and focussed on folks who already knew our work and had a good understanding of the tech and data needs of NGOs. As we talk to new folks, we wanted to give them a higher-level view of the problem and our approach and created a pitch deck, which well be using as our presentation material going forward.
+Since this is an update, Ill dive straight into what weve done and accomplished over the past 3 months
+Our Fractional CxO (x == Tech, Data, or Tech Strategy) initiative has garnered the most interest amongst foundations. Seems like many of us have recognized this problem and we now have a potential solution. Weve got an existing pilot going with SNEHA Mumbai, and Erica and Vinod have shared an
+update in this blog post
+. We are also about to pilot this with Indus Action, Reap Benefit, and Suvita starting soon. We are excited to be working on this initiative in partnership with
+Agency Fund
+and will include their network in Africa and Latin America.
+Our open-source platforms Avni, Glific, and Aam Digital continue to do well. We are working with more NGOs on larger consulting projects at state and national levels. Its been great to see the spike in interest for these platforms. We are now increasing staff on these projects to ensure we can deliver high-quality platforms.
+The Cisco grant nudged us to focus on the education sector in a more profound manner. As part of this, we are organizing a sprint in
+GarudMaachi
+(80km from Pune) from July 3 – 8, to bring together a group of NGOs and our partners. Our goal is to open these events to more NGOs so we can build, share and learn from each other.
+Our women-in-tech pilot is showing us the importance of running pilot programs. We are learning a lot and still trying to figure out what makes sense, when and how should we intervene, and who our target users are. We are also exploring the space in India and chatting with other NGOs doing similar work (so we can learn, build, or partner with them). An update on our
+first pilot with Colored Cow and THDC is here
+.
+Weve strengthened our relationship with Dasra. Our goal is to more effectively manage the legal and financial process that supports the scale-up of Tech4Dev 2.0. Ninad Ankleshwaria from Dasra will be responsible for the grant management process
+From a financial management perspective, we decided to start the Tech4Dev 2.0 clock on April 1, 2022. This allows us to cleanly wrap up the 1.0 cycle and transfer leftover funds from 1.0 into the 2.0 bucket.
+From a funding perspective, our goal was to raise 7.5 million for the next 3 years. Our current funder base is super awesome, and weve had an 80% renewal rate at twice the 1.0 amount. We have committed funds for more than 75% of our 3-year target. Given the carry-over funds and revenues that we expect from 1.0, our overall 3-year budget is likely to be 10 – `11 million. We will be aggressive in hiring and growing the organization this year. Erica has been a super awesome addition, and we hope to add 3 more senior staff by the end of this year.

@@ -1,0 +1,54 @@
+Title: OpenCHS UI Designer – Project kickstarted
+Author: Kurund Jalmi
+Date: August 2019
+Category: Avni
+URL: https://projecttech4dev.org/openchs-ui-designer-project-kickstarted/
+==================================================
+
+Quick summary
+Last week
+Samanvay
+and
+Soft Corner
+together kickstarted the work on OpenCHS UI designer. Together the teams plan to finish the work in next couple of months.
+About OpenCHS
+OpenCHS is an open-source platform that supports field workers, when they provide services to their clients in a field or when they do data collection. OpenCHS provides an android application that can be used in the field without Internet connectivity and a web browser based application for program coordinators/managers who provide supportive supervision to the field workers. OpenCHS has been implemented the most in public health but it is also getting implemented for other sectors. More details about OpenCHS can be found on its
+website
+.
+Need for UI Designer
+Today doing an OpenCHS implementation is not very intuitive to anyone outside of the product team. The metadata creation is tech heavy. It requires quite a bit of training on how an implementation is to be done and knowledge of json, sql and linux. This limits the software partners part of the tech4dev eco-system from doing OpenCHS implementations by themselves for the projects they are responsible for.
+To fix the metadata problem, OpenCHS already has an admin UI. Most of the metadata creation (users, locations, catchments) is available there, the only last thing being the ability to design programs, forms and the custom logic required for skip logic, calculated fields, visit scheduling.
+A joint effort by Samanvay and Soft corner with support from tech4dev
+Soft corner came forward with an interest to contribute this feature to OpenCHS. And thus a joint effort by Samanvay and Soft corner started on this with support from tech4dev. Last week a couple of developers (Amar and Swapnil) travelled to Samanvay office in Bangalore to interact with the product team, understand OpenCHS in more depth and kicstart this project.
+In last two weeks the two teams have brainstormed over problem statement, solutions, tech approaches. The two week inception concludes today with Amar and Swapnil travelling back to Pune 🙁
+The team has come up with the following plan.
+Scope
+A UI from which the following can be designed
+Programs
+Forms with rules
+Checklists
+Out of scope
+Self service UI for tech organisations to host on existing hosted solutions
+This will require features like Database and reports access for partners, Log access for implementers, Server status available publicly, Ability to export and import data from an organisation, Migration of all existing rules to the new format
+Self service UI for end users
+Self service UI. The current purpose is not to have any organisation coming in and designing things for themselves. This is a good to have, but means that we need to integrate invoicing, emails, build a different kind of authentication, a lot more automation etc. The current objective is to be able to open up implementations to partners only. Opening it up to the general public will depend on how this goes. Partners will be empowered to handle data for their own organisations.
+Translations from UI [Being done part of a separate epic]
+User flow and Tech design choices – Key elements
+Implementation with testing
+Once an organisation is created in OpenCHS, an organisation administrator then proceeds to create all the necessary metadata. This includes users, locations, visit types, forms etc.
+Testing will be performed using the OpenCHS webapp, or the Android app from PlayStore to ensure the implementation is as per an organisation’s liking.
+A lot of test data gets created during this process. When the organisation is ready to go live with the implementation, the organisation administrator then exports all metadata to a zip file. Then she/he imports them into a new clean organisation. The old organisation can be used later for testing, etc.
+Until now, we were working through different physical deployments of OpenCHS to move an organisation’s implementation through test and going live. The fundamental change here is to move to a more SaaS model, where there is just one physical deployment of OpenCHS. Test and implementation organisations live side-by-side.
+Having the ability to deploy multiple instances of the same implementation requires some relaxing of the uniqueness rules in the database. This is one of the big shifts in the way data will be stored in OpenCHS going forward.
+Rules
+Being able to write complex rules brings the richness to OpenCHS. This would be very difficult for a non-tech person at an organisation to do it by themselves. So for now the intended writers of the rules would be a tech person. Even converting all types of logic into declarative form would be very difficult to implement. Considering these points, at the moment we decided to continue to support writing rules through javascript only.
+However until now, custom rules were being served through a single javascript file for an implementation. This does not gel well with a form designer, so we have to now break it down into multiple smaller pieces. A code editor will be provided in the UI designer to write rules. Every rule will reside with the associated entity like program, form or form element.
+Hierarchical Organisations
+We found that managing hierarchical organisations is both difficult to maintain from both product and customisation standpoints, the feature is being deprecated. So UI designer won’t support this. Rather reference implementations would be there from where stuff can be copied over.
+Project Plan
+A single virtual team is formed with members from Samanvay and Soft corner. The team has already identified user stories and will be delivering the software with Agile software development methodology (read : User stories, daily standups, regular showcases, smaller releases and continuous delivery). The team plans to finish this work by end of September. We will have a couple of showcases done to the tech4dev community within this timeframe.
+With a github login, you can view the epic with more details and progress
+here
+and a publicly accessible zenhub board over
+here
+.

@@ -1,0 +1,40 @@
+Title: TAP and DDP Engagement
+Author: Ishan Koradia
+Date: June 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/tap-and-ddp-engagement/
+==================================================
+
+About TAP
+The Apprentice Project
+(TAP) is an initiative under the MentorMe Foundation that has a vision of Enabling all children to become world leaders. The TAP initiative focuses on building 21st century skills among under-served children studying in government or low-income private schools. These 21st century skills include critical thinking, self-confidence and problem solving.
+Currently, TAP has a AI & NLP powered whatsapp chatbot which is built using the
+Glific platform
+called the TAP buddy. Through this chatbot, wisely curated activities & interactive lessons on various topics are sent to students that will help them achieve the above mentioned skills. Till date, TAP has impacted
+14K students
+across
+150 schools
+across pan India.
+TAP�s Current Data Sources
+The Glific data (or the data from TAP buddy) goes into their dedicated Google BigQuery warehouse. The operations team uses Google sheets to register students and maintain information about their batches, courses, schools and units (a break up of a course). Their dashboard on Google Data Studio has been built on top of cumbersome & complicated sql queries that merge both (BigQuery & Google sheets) the data sources to compute program level metrics for assessment.
+Problems faced by operations team
+Data entered into Google sheets by the operations team has no proper validation and breaks the dashboard at times. Due to the significant number of tables in the BigQuery warehouse, it becomes difficult to understand how data is being transformed. On top of this for any change in the google sheet, the team needs to manually run the queries so that the dashboard is refreshed and up to date. Lastly TAP expects to scale to
+1 M students
+across pan India by
+March 2028
+and google sheets might not be the best solution in long run for their operations.
+Proposed Solution
+Our initiative
+Development Data Platform
+(DDP) solves many of the above mentioned challenges. However, we realized before onboarding them for DDP there was a dire need to shift them away from google sheets to a better data entry tool (or a CRM). Our research showed that
+Frappe
+could be a potential CRM that can cater to the needs of TAP operations. Frappe is a low code, open source, full stack web framework that can help build database-driven applications. So to sum up, the solution to improve TAPs system and be in sync with their already stable TAP buddy involved building a CRM and then running DDP to validate their dashboards.
+(Login page of the CRM system)
+(Dashboard with dummy data)
+Pilot
+After proposing the above solution, we spent the next few weeks validating it. We built a full fledged CRM for TAPs operations team on Frappe where they can add/delete/edit information about students, schools, batches, units and activities. Frappe has a whole lot of features like workflows, notifications, frappe forms (just like google forms), multiple users and roles, dashboards, reports, data migration tool etc. To be honest, we have just scratched the surface of Frappes features. Although the software has a learning curve, it’s definitely worth the time and effort to explore. We improved the system by getting feedback from the operations team and building on top of it.
+Once the CRM system was deployed on our test servers, we wanted to see and prove that DDP can be helpful. In this, we set up a pipeline that ingested data from the CRM and routed it to the same BigQuery warehouse where TAP buddys data was resting. For doing various transformations, we used
+Dbt
+which allows for modular and readable sql code. With some basic Dbt setup code, we were to compute and replicate metrics from their current dashboard like Access rate and Submission rate of the activities sent to the students. The entire pipeline was orchestrated and no manual intervention was required to compute the updated dashboard metrics.
+Where we are now – Implementation phase
+The TAP team was satisfied with the POC and the Frappe CRM. We now plan to deploy a production instance on their infrastructure where we will migrate all their current Google sheets data. Once this is done, our next step would be to work on replicating the dashboard with modular and readable dbt (sql) code that computes all their program level metrics. TAP is also trying to build internal capacity to learn Frappe and implement their internal curriculum content system. Apart from this, we also plan to sync the TAP buddy and the Frappe CRM systems so that whenever something gets updated on the TAP buddy (for eg lets say a new student registered), this is immediately reflected in the CRM.

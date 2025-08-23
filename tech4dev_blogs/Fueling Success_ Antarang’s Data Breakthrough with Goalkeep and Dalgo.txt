@@ -1,0 +1,29 @@
+Title: Fueling Success: Antarang’s Data Breakthrough with Goalkeep and Dalgo
+Author: Abhishek Nair
+Date: February 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/fueling-success-antarangs-data-breakthrough-with-goalkeep-and-dalgo/
+==================================================
+
+This Blog is written by Jainish Patel from Goalkeep
+About the nonprofit:
+Antarang Foundation is a non-profit organization based in India that focuses on youth development and career guidance. Their primary goal is to empower young people, especially those from marginalized backgrounds, by providing them with the skills, education, and support necessary to make informed career choices.
+Objectives and Challenges:
+Antarang’s mission was clear: Senior management wanted to track the effectiveness of their programs in order to make impactful decisions to improve overall student performance. Their dashboard to monitor student growth was taking too long to load and data was not centralized.
+Here are some challenges that Antarang faced:
+Inability to synchronize data at frequent intervals.
+Reports were created manually and shared through Google Sheets due to limitations imposed by Salesforce.
+Difficulty in working with Google Sheets because of row limits.
+Each data sync was a full data transfer which took up a lot of time.
+Solution
+:
+To tackle these challenges, we first needed to pinpoint what information Antarang wanted to uncover. They had two main areas of inquiry: “Are students improving?” and “Are students mastering the endline assessment?” Through multiple discussions and interviews with the Antarang team, we broke these broad areas down to what we call Key Questions. This also involved diving deep into actions the team were planning to take and understanding the data sources available, particularly within Salesforce. Here’s a snapshot:
+Once we had a clear understanding of the questions at hand, the next step was getting our hands on data. This involved setting up a robust data pipeline. We began by designing a data lineage diagram, that would structure the incoming data in a meaningful way.
+Then, using Dalgo, we ingested all of Antarang’s Salesforce data and stored it in a central data warehouse (BigQuery). Dalgo facilitates incremental syncs, reducing data-sync time by pulling only those records that have been created or modified data since the last sync times. Its interface provided a clear overview of all tables available on Salesforce, allowing us to select only those we required for the dashboard. Once the data was in place, we began the process of modeling it for analysis. Here is what the Dalgo interface looks:
+Through dbt, Goalkeep transformed raw data into pre-calculated tables using a set of modular and reusable blocks of code. Dalgo also enabled us to set up automated syncs (i.e. orchestration) so that end users would always be looking at the latest data.
+With the data pipeline in place, it was time to bring everything together into a user-friendly dashboard. We started by designing mock-ups to visualize how the dashboard would look and function, and then build the same on Looker Studio, ensuring that it provided actionable insights to address Antarang’s key questions. Here is a glimpse of the final dashboard:
+Results:
+The new dashboard loads instantly and provides a strong base for creating more advanced analytics. Thanks to Dalgo, Antarang now has a tool for bringing in all their data in one place, transforming it, and managing orchestration for both existing and potential new pipelines. This process is highly scalable, as Dalgo allows data ingestion from different sources and orchestrates multiple pipelines simultaneously.
+Here is some of the immediate feedback we heard when we demonstrated the dashboard to the Antarang team: Akshata Hawaldar: “The dashboard loads so quickly and looks so neat .
+Kumar Arunachal: Having multiple dashboard mock-ups to choose from is such a nice experience, and receiving such a clean and beautiful looking dashboard just exceeded our expectations.
+At Goalkeep, we are honored to have played a role in building data culture at Antarang by enabling seamless and scalable data consolidation. As Antarang continues to evolve, we’re excited about the brighter future it promises for youth development.

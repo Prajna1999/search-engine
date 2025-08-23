@@ -1,0 +1,35 @@
+Title: Achieving Seamless Superset Login for Embedded IFrames
+Author: Abhishek Nagaraj
+Date: August 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/achieving-seamless-superset-login-for-embedded-iframes/
+==================================================
+
+Introduction:
+In our approach to enhance the
+DevDataPlatform
+we aimed to seamlessly integrate
+Apache Superset’s
+data dashboards within an embedded iframe. However, users would encounter multiple login prompts, which disrupt their experience. To address this challenge and provide a smoother data exploration process, we found a solution that ensures users to explore data insights without any login interruptions.
+In this blog, we’ll explain the process of achieving a seamless login experience for Superset within the embedded user-specific iframe, and also delve into the challenge we faced during the implementation.
+1. Superset Integration with IFrames
+Let’s walk through the step-by-step process of achieving a seamless login experience for Superset within the embedded iframe.
+To make the most of Superset capabilities within our web app, we embedded Superset’s data dashboards within an iframe on our web pages. Think of an iframe as a window within a window, allowing us to seamlessly display external content, such as Superset’s visualizations, within our app.
+With the embedded iframe in place, we established smooth communication between the main web page (parent window) and the embedded iframe. When the iframe sends a specific message, such as “hello from iframe,” the parent window responds with “hello from parent.” This communication helps us coordinate actions between the web page and the embedded content.
+2. Achieving Seamless Superset Login
+To achieve a seamless login experience for users accessing Superset within the iframe. Here’s the step-by-step process:
+Enabling CORS (Cross-Origin Resource Sharing): We set ENABLE_CORS to True in the Superset configuration. This enables Superset to share resources across different origins and allows our web app to communicate with Superset.
+Configuring CORS Options: We defined CORS_OPTIONS to specify the necessary configurations for CORS support.
+Setting ‘supports_credentials’: True enables credentials, and we allow specific headers, including ‘X-CSRFToken’, ‘Content-Type’, ‘Origin’, and ‘Authorization’. These headers are crucial for maintaining authentication and communication between the web app and Superset.
+Enabling Embedded Superset Feature: By setting SUPERSET_FEATURE_EMBEDDED_SUPERSET to True, we activate the feature that allows seamless integration of Superset within IFrames.
+We use the existing login function, which sends the user credentials for       supersets security login endpoint.
+Superset responds with an “access_token,” indicating a successful login.
+We then retrieve access_token, we make a request to fetch CSRF token to its endpoint and access the csrf_token
+Using the “access_token” and csrf_token, we initiate a login request with the username and password.
+If the login is successful, users can explore Superset’s data dashboards within the iframe without needing to log in again.
+3. Challenge Faced: Maintaining User Authentication
+The main challenge we encountered was ensuring users don’t face login issues when accessing Superset within the iframe. The Same-Origin Policy enforced by browsers restricts cross-origin requests by default, and this posed a hurdle in maintaining the user’s authentication status within the iframe.
+4. Solution: The ‘credentials: include Option
+To overcome the authentication challenge, we incorporated the ‘credentials: include’ option in our Fetch API requests. By including this option, we ensure that authentication information (such as cookies and tokens) is sent along with the request, even for cross-origin requests. This is essential for maintaining the user’s logged-in state and accessing protected resources on another domain, like Superset’s API.
+Conclusion
+By overcoming the challenge of maintaining user authentication with the ‘credentials: include’ option and implementing the existing login function, we achieved a seamless login experience for users accessing Superset within the DevDataPlatform Eliminating redundant login prompts significantly improved the user experience, enabling effortless data exploration.

@@ -1,0 +1,135 @@
+Title: Making Sense of Data behind data
+Author: Kurund Jalmi
+Date: May 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/making-sense-of-data-behind-data/
+==================================================
+
+Meta Data For Urban Data  Portal OpenCity
+”
+MetaData absolutely tells you everything about somebodys life. If you have enough metadata you dont really need content[Its] sort of embarrassing how predictable we are as human beings.
+– Stewart Baker
+As David Weinberger said
+To a collector of curios, the dust is metadata
+. Metadata contain information needed to understand and effectively use the data.This includes documentation of the data set contents, context, quality and accessibility. Data is essential to understanding and monitoring the health of the dynamically changing environment. Comprehensive metadata is the key to unlock those resources, thereby allowing the broad and long term use of the data.
+What is Metadata ?
+MetaData is data that provides information about other data. In short, it is Data about data. Metadata makes working with data easier like allowing the user to sort or locate specific dataset/documents.Some examples of metadata are file size, author, file format etc. Metadata can be created manually or through automation. With manual creation, the accuracy will be more as it allows the user to input relevant information. Automated metadata creation can be more elementary ,usually only displaying basic information such as file size ,extension etc.
+Why does Open City require MetaData ?
+OpenCity
+is an urban data portal supported by
+Oorvani Foundation
+and
+Data Meet
+whose mission is to bring visibility and transparency into urban local governance and enable data based decision making in cities.
+In OpenCity we have
+534 datasets
+and
+1314 documents
+for which creation of metadata was tedious because all the metadata elements cannot be obtained directly by single method. We need to use both manual and automated methods to meet the requirement. So, through this blog I would like to share our journey of creation of metadata.
+How did we select Metadata Elements?
+Selection of the metadata elements completely depends on the community of users. The metadata elements that we choose should ultimately reflect the different information needs of users. The general metadata is likely to be more accessible to broader communities. Keeping in mind all these we selected the following metadata elements.
+Title
+: The name given to the dataset/documents by the creator or publisher.
+Theme
+: A cluster or a category into which a dataset/document belongs.
+Group
+: Groups contain the information to determine the datasets that match specific criteria.
+City
+: Spatial location of the content of the resources.
+Author:
+The person primarily responsible for the intellectual content of the resources.
+File Size
+: The size of the file is the amount of space the datasets/documents takes up.
+Extension
+: The physical manifestation of the resources.
+Type
+: The nature or genre of the content of the resources.
+Tags
+: These are essentially little content descriptors that help tell search engines what a dataset/document is about.
+Entity (Organization)
+: The organization who is responsible for making significant contributions to the content of the resource.
+Published Data
+: A date associated with creation or availability of the resources.
+How did we get MetaData ?
+Initially we had some metadata for datasets and documents like
+Author
+Name
+,
+Entity (Organization)
+,
+Published Date
+and
+AWS links
+. After that we followed an automated approach through which with the help of AWS links we tried to get file name, file size and extension. This process cannot be used for getting remaining metadata elements. Hence we manually created them.
+For the automated process we used python coding and extracted
+Title
+,
+File Size
+and
+Extension
+for each dataset. Here is the sample code along with output.
+Next comes the most important element of metadata that is
+Grouping of datasets
+. A dataset/documents groups are typically related  to specific criteria. We can define a group based on many of the attributes associated with the datasets such as dataset name, size, type, city etc. Groups contain the information to determine the datasets that match specific criteria. When the user searches for a dataset/document , he/she will be recommended with similar kinds of datasets/documents. Here on the OpenCity platform we manually went through each dataset and done the  grouping to be more confident about the accuracy. Here is an example of grouping of datasets:
+A crucial, yet often overlooked feature of any data portal is
+easy discoverability of datasets
+. Its achieved through various ways, and categorisation of each dataset to a particular
+theme
+is an important aspect.
+The OpenCity portal, with more than 500 datasets and growing, used a less than desirable categorisation. The various
+topics
+in use were as follows.
+Election
+Government
+Governance
+Environment
+Health
+Weather
+These are not easily distinguishable from one another and don’t adequately represent the wide variety of data already available on the portal.  For e.g., A subject matter expert might clearly understand the theoretical differences between
+government
+and
+governance.
+However, to the general public, its merely two words that sound a lot like each other.
+While we envisaged building an automated script to categorise datasets into various themes, such an endeavour was fraught with all the inadequacies of trying to mimic innate human understanding. A portal with hundreds of thousands of datasets might have required an AI-led approach. Fortunately, OpenCity is at a stage where we can engage in manual categorization. At the outset, we also set ourselves the following goals.
+Mutual Exclusivity:
+A dataset or document can fall into only one category
+2.
+Not more than 10 themes:
+A proliferation of themes will defeat the purpose of categorisation, i.e. easy discoverability.
+Before we started on this process, we went through other open city data portals for
+New York City
+,
+Bristol
+,
+Washington DC
+,
+London
+,
+Seattle
+,
+Baltimore
+,
+Glasgow
+,
+Amsterdam
+,
+Chicago
+, etc to understand how they approached the issue of categorization. We realised that theres no universally accepted formula.
+Most cities went with themes as broad as
+Care and Well-being
+in Amsterdam to
+Buildings
+in Chicago, to reflect the priorities of their cities. It became clear to us that we had to identify the priorities of citizens. Fortunately, we had in our hands access to an online survey conducted at the start of the project, which got close to 105+ responses from various urban citizens and within it, a prioritized list of topics and themes that the participants preferred.
+Working off of the list, we arrived at the following
+8 themes
+,
+and every dataset and document on OpenCity falls into one of these categories, ensuring that we met the two goals we set for ourselves at the beginning of the process.
+Summary :
+This is how we created the metadata for the Open City platform. The other elements of metadata like city, tags, etc were also created manually.
+Do share your thoughts of creating metadata in the comment section.
+Until then let’s liberate our knowledge because
+Metadata liberates us, liberates knowledge
+– David Weinberger
+About the Author:
+Sri Lalana
+is a Data Intern at CivicDataLab with a strong statistical background and passionate for turning data into actionable insights and meaningful stories. She is aspiring to become a Data Scientist in order to deliver insights and implement data-oriented solutions to complex business problems.

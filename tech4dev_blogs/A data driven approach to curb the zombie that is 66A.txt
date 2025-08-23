@@ -1,0 +1,124 @@
+Title: A data driven approach to curb the zombie that is 66A
+Author: Kurund Jalmi
+Date: February 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/stop-66a/
+==================================================
+
+The
+Internet Freedom Foundation
+(IFF) has over the past year conducted a broad range of work, including original research, approaching the supreme court and citizen engagement to stop the menace of Section 66A. IFF, which works with an objective to protect our digital rights, is now taking yet another step, with support from
+CivicDataLab
+and
+Tech4Dev
+to reach closer to our common goal of stopping 66A. This time through a data-driven approach.
+What is 66A ?
+As per
+IndiaCode
+(a repository of all Central and State acts), Section 66A of the Information Technology act is defined as the
+?Punishment for sending offensive messages through communication service, etc.?
+Section 66A was
+declared unconstitutional
+in the year 2015 by the Supreme Court in
+Shreya Singhal v. Union of india
+. Owing to its subjective nature and the vagueness of its definition, the court marked an end to this act, which was inserted through an amendment act in 2008 and criminalised sending ?offensive messages? online.
+March 2020, will mark the fifth anniversary since the judgement came out, but one can still see the prevalence of this law and the harsh criminal rigours it is responsible for. Not only is this unjust, cruel but it is also unconstitutional.
+People are not only being arrested across the country but it feels like the pillars of our justice system are not yet aware of the unconstitutionality of this act. There have been legal efforts by organisations such as the
+IFF
+and
+PUCL
+to deal with this problem of ?
+signal failure
+?
+. In their latest attempt (2019) they approached the Supreme Court of India which directed copies of its judgement in Shreya Singhal to be sent to every High Court, District Courts, Chief Secretaries and Director Generals of Police. We hope that the copies were distributed, and this will make at-least a few more, if not all, aware of this zombie.
+There were more than
+2000
+arrests under section 66A in 2014 alone and though the arrests seem to be declining over time, Section 66-A continues a ghostly afterlife in police stations and courts across India. Only about
+two weeks back
+the Karnataka High Court imposed costs on police officers for a prosecution under Section 66A.
+Where are the numbers – Who/Where/How are they suffering?
+The
+NCRB
+, which is responsible for collection and publication of data pertaining to crime in India, has stopped publishing the numbers under 66A since 2016. The net result is that we lack an authoritative figure for the number of arrests under Section 66-A and also that the government eliminated a data point for checking the continued forays of this legal zombie. To search for such cases, one can go to the police stations and search through FIR’s as there is no single database in the country today that tracks the arrests under this section.
+What can we do about this?
+A slightly feasible and a digital way to collect this information is by searching through the cases filed at the district courts in the country. The district courts database is maintained through an online platform called
+eCourts
+and this opens a door for us to mine information around cases that are registered within this act. In this 6 month collaboration, between the Internet Freedom Foundation and CivicDataLab, our objective is to create a dataset at the level of a
+district court
+with detailed information around 66A.
+Data collection and reporting strategy
+To test a few initial hypotheses on data availability and the feasibility of this exercise, we plan to collect data from a few states, selected as per the presence of cyber crime reported through NCRB, with a slightly diverse geographic spread. These are:
+Uttar Pradesh
+Telangana
+Rajasthan
+Maharashtra
+Assam
+Andhra Pradesh
+Jharkhand
+The data from these states will be collected from
+Jan, 2008 – Feb, 2020
+.
+The fight to stop the reporting under section 66A has been a long one, and looking for indicators that help us visualise the impact around the several measures taken up by the community is really important to move ahead in this journey. In the initial phase, we shall report the numbers around a few crucial milestones (or categories) in this case.
+Category I
+: Cases registered post Shreya Singhal judgment (March 24, 2015) under 66A.
+Category II
+: Cases having multiple sections and is still active and cases having multiple sections that have been disposed.
+Category III
+: Cases registered post February 15, 2019 (
+this is when the Supreme Court of India had directed that copies of the Shreya Singhal judgement should be sent to High Courts, District Courts, Chief Secretaries and Director Generals of Police.
+) till February 15, 2020.
+Category IV
+: Cases that have convicted individuals under 66A post 2015.
+What it takes to report activity around 66A – Building a data platform
+We have identified a few crucial components required to curate this dataset:
+A data mining pipeline
+– To fetch data from the
+eCourts district courts database
+.
+Data anonymization toolkit
+– Creating a framework to deal with sensitive information that is part of the case-law like
+petitioners name
+,
+victim details
+, etc. This will also ensure that such details are redacted from any public view but may be utilised in future advocacy that may be necessary for immediate remedial action in these specific cases.
+A data validation process
+– Measures to report accurate statistics around 66A.
+Research and Analysis
+– On creating anecdotal and quantitative evidence on the presence and impact of 66A.
+An Editorial component
+– To create a larger framework for ensuring
+?How case data can help alongside ideal public policy approach to deal with the perils of an unconstitutional law?.
+How will this process help?
+Insights from a curated dataset at the district level will help us in further strategising our efforts around information sharing, especially with the ones who are most affected, providing legal aid and identifying places with the highest level of signal failures. This might also help and assist us to sensitise the judiciary in these directions and will also enable us to:
+Track the pendency of cases registered under this section.
+Drive evidence-based advocacy through qualitative and quantitative research which can provide inferences to the use of an unconstitutional provision for criminal prosecution.
+Enable better citizen engagement with the institutions of governance.
+Spread awareness around the use of unconstitutional provisions and how they should not be used to prosecute people.
+Engage communities through the platform to ensure that individuals are made conscious of their rights.
+The importance of this project
+This is an experiment, one that can create important pieces of missing information. The various components, methodologies and the processes shall be designed with an intent of reproducibility and hence will empower and promote more empirical research and analysis of our laws. The curated datasets will focus on a detailed district level analysis of the case-laws and will add on to the existing datasets released by the NCRB.
+Keep checking the space for updates around this project. We hope to create a
+sustained
+,
+validated
+and a
+useful
+dataset that can act as a mirror for visualising 66A and in the process generate interest, awareness and curate experiential learning to trace and tackle the existence and lingering use of unconstitutional laws.
+The larger ambition of this project goes beyond Section 66A to any provision which has been ruled as unconstitutional and making sure that data oriented approaches are used.
+We’re grateful to the Chintu Gudiya foundation that has agreed to support this initiative through their Tech4Dev grant towards CivicDataLab, and with this help, we shall strive hard to create open and public resources for the community for a sustained collaboration
+A few reading links to keep yourself updated with 66A
+Articles
+by the Internet Freedom Foundation around 66A.
+Sekhri, Abhinav and Gupta, Apar, Section 66A and Other Legal Zombies (October 31, 2018). IFF Working Paper No. 2/2018. . Available at SSRN:
+https://ssrn.com/abstract=3275893
+or
+http://dx.doi.org/10.2139/ssrn.3275893
+Shreya Singhal vs U.O.I on 24 March, 2015
+About the Authors
+This blog has been written by
+Apoorv Anand
+, who works with
+CivicDataLab
+. Inputs were provided by the staff at the
+Internet Freedom Foundation
+.

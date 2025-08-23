@@ -1,0 +1,72 @@
+Title: Bangalore Sprint – First NGO’s Sprint for Dalgo and Quarterly Review
+Author: Siddhant Singh
+Date: July 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/bangalore-sprint-first-ngos-sprint-for-dalgo-and-quarterly-review/
+==================================================
+
+We had our first NGO sprint in Bangalore and we managed to invite our existing clients and some good set of new clients. We?re really thankful to these NGO?
+Goonj
+,
+CMHLP
+,
+Adhyayan
+,
+TAP
+,
+Arogya World
+,
+Udhyam
+,
+Noora Health
+and
+ATECF
+? to join us.?
+This time we had it in mind what we needed to show to our current customers and the new one. Engineering team had worked hard to release different features like
+UI for Transformation
+,
+Data Statistics
+, Data Quality and
+Qualitative Data Analysis
+and we planned what we needed to show on the Platform to the NGO?s. This time we decided to give NGO?s free 10 hour POC to help them understand and build a small use case with Dalgo and we planned before what we wanted to do with each of the NGO.
+Pre Planning for the Sprint
+This is what we planned for CMHLP so that in our focus time with NGO;s we can build a few metrics they want and help them build it if possible.
+Adding the org in production.
+Source, Destination, Sync and Superset will be set up.
+The Requirements for metrics will be finalized before the sprint
+Superset access will be given on the basis of role.
+Session time will be focused on the data transformation and visualization work
+In the team we divided each NGO with 4 people in our team and everyone was very active and did the pre-work beforehand which was really nice to see.
+Working time with NGO?s
+We first had a presentation with existing NGOs and they presented how Dalgo is helping them with their automation of the Data Pipeline.
+Then we had 4 stations to show the NGO?s about the latest features in Dalgo. I had a great time explaining CMHLP and Adhyayan about the Dalgo, UI for Transformation, Data Statistics and Data Quality. They were really impressed with the platform and asked me a lot of questions.
+After this we started working on the POC with few NGO?s which we had pre-assigned to and I got a chance to work with CMHLP which works in the field of Mental Health, Human Rights and Law.
+They?re using Commcare to collect the data and we have already set up a full pipeline.
+Me and Devi devi built a few metrics which they had given us in the requirements.
+We built few analytics table so Nitish from CMHLP can try and build few charts on superset which he did and figured that it;s not very hard to figure out which he was happy to see
+We added few test cases to show the data quality which was helpful to them and they understood why it’s important
+At last, everyone shared what they?ve done in these two days and they presented what we?ve done within 10 hours.
+Overall, NGO?s gave us a 4.5 rating about the sprint which was great to see. We?ve also got few comments on how we can improve this going forward.
+Quarterly Review
+Highlights and Updates
+Engineering team worked really hard to deliver multiple features and was very active with consulting which was great to see how the team has balanced this.
+Shamoon implemented the first POC with Udhyam using UI for transformation.
+We delivered 650+ consulting hours with multiple clients.
+Big win with
+ATECF
+which was a very complex project and I?ve attached the case study which we have written on the engagement.
+Himanshu joined us as a new frontend developer.
+Misses and Improvements which we can do
+We can do a better job with maintaining the NGO?s pipeline and reduce the pipeline failure overall.
+We can provide better logs and notifications to our users.
+UI for Transformation is good right now but we can make it better and we?ve got some right things to build and improve now.
+We need to keep an eye on how our partner works and deliver the work to NGO?s.
+Overall the quarterly review went great and we were happy to see lobo?s comment
+Shout out to the entire dalgo team for working together to organize an amazing and incredible sprint and pulling together a good group of interested NGOs. To top that off, they also had a comprehensive review of the previous quarter. Great job dalgo team
+Apart from this. Team really enjoyed working together this last week. We reflected back to our last internal team meeting and this time Ashwin joined us to make it interesting.
+Rohit, Ashwini and Ashwin asked the team bunch of questions and how they feel about working in the organization
+According to this, Team feels they?re not sufficiently connected to our customers.
+Team doesn?t have enough time to learn or research outside of working hours.
+There are few concerning things which we need to work on this quarter and improve this.
+This was a good reflection for us as a team and we will do this again in the next quarter. Stay Tuned
+Special Thanks to Akhilesh for these Awesome team photos. 🙂

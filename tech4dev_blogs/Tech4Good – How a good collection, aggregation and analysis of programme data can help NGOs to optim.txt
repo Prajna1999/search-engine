@@ -1,0 +1,45 @@
+Title: Tech4Good – How a good collection, aggregation and analysis of programme data can help NGOs to optimize their services to beneficiaries and improve the quality of outcomes.
+Author: Kurund Jalmi
+Date: June 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4good-how-a-good-collection-aggregation-and-analysis-of-programme-data-can-help-ngos-to-optimize-their-services-to-beneficiaries-and-improve-the-quality-of-outcomes/
+==================================================
+
+Meet Narasamma who works with
+Jagrutha Mahila Sanghatane (JMS)
+– a small, growing and impactful collective of inspiring dalit women agricultural workers engaged in the protection and promotion of human rights of dalit women. She speaks about how technology is helping document and measure the impact of her work at JMS.
+Grassroots and remote NGOs like JMS, are either not collecting any data about their work or have been collecting data on paper. Such paper data is difficult to aggregate and analyse in any meaningful way. For example, It will take Narasamma?s team many days to go through paper forms of 1000 beneficiaries of a programme and find out who is yet to receive a crucial counselling session from her team. This is time that could have been spent meaningfully on other important work. There are also instances of paper files being completely destroyed during natural calamities like fire, cyclone. Imagine having evidence and documentation of decades of impactful work being wiped out like that.
+A good collection, aggregation and analysis of programme data can help NGOs to optimize their services to beneficiaries and improve the quality of outcomes. Donors are also increasingly asking NGOs to measure and share the impact of their work through data collected from programmes. Good data practices can help NGOs communicate the evidence of their impact to donors and increase access to much needed funds.
+NGOs believe that such robust data platforms are expensive, hard to learn and maintain. This is not true anymore! As Narasamma so beautifully says – today technology is leveling the playground for everyone. Whether you are illiterate or a researcher, a global NGO or a small NGO with no resources – technologies like smartphones and apps are helping them amplify their social impact like never before.
+High quality and completely free tools like
+Open Data Kit
+,
+KoboToolBox
+with their simple form builder, online/offline data collection, simple yet insightful data analysis features allows anyone to set up a robust data collection, aggregation and analysis set up for the important work they do!
+We at
+Tech4Good
+worked closely with the JMS team to build their capacity to use KoboToolBox in their work. All they needed was an android phone and access to a laptop to build the forms. The team is now trained and is able to use Kobotoolbox effortlessly in their day to day work!
+KoBoToolbox & Open Data Kit
+are free and open source tools that helps collect and organize field data. They help overcome various problems faced by field workers making data collection quicker, more reliable and fun!
+Build forms:
+Anyone can build survey forms as it does not require any technical knowledge or training.
+Collect different types of responses like text, date, image, video, sound recording, GPS location, etc.
+Forms created can be very powerful and intuitive with implementation of validation rules and skip logic.
+Archive any question you use in your forms to reuse it in the future.
+Save your forms and questions in the questions library to share them with team members.
+Collect data:
+Collect data online or offline as the forms do not need an internet connection to work. Data syncs in the background whenever your device connects to the internet.
+Collect data on the go with the android app or on a browser on any iPhone, laptop, or other device.
+Data collected is encrypted so that your information is private and safe.
+Analyze and manage data:
+Track and inspect information collected by filtering key data and creating summary tables.
+View map with all collected GPS coordinates.
+Download all your media (images, videos, sound recordings) as a ZIP file).
+Download all your data and in excel, CSV, SPSS, and other formats.
+Read more about
+KoboToolBox here
+and
+Open Data Kit here
+and get started. If you need any help, join our community driven
+Tech4Good forum
+and ask away 🙂

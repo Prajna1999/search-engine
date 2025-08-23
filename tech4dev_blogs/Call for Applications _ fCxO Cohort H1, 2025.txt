@@ -1,0 +1,77 @@
+Title: Call for Applications | fCxO Cohort H1, 2025
+Author: Mohd Shamoon
+Date: February 2025
+Category: Fractional CxO
+URL: https://projecttech4dev.org/call-for-applications-fcxo-cohort-h1-2025/
+==================================================
+
+Apply Now
+Project Tech4Dev is excited to announce the launch of applications for the first half of 2025 of our Fractional CxO Program cohort. The program has been aimed at embedding seasoned technology professionals in NGOs for 3-9 months to help roadmap the organisation’s technology journey such that it is aligned with the overall organisation’s strategy.
+While addressing the gap of the absence of a holistic tech strategy for the organisation, our learnings from working with NGOs over the past two years of the fCxO program include:
+Lack of capacity at NGOs for technical product and project management,
+An increasing appetite within NGOs to incorporate new technologies such as AI/ML to leapfrog across current gaps such as knowledge dissemination to low literacy populations through voice conversations,
+Drive towards evidence based interventions and hence data becoming an increasingly significant part of the technology strategy,
+A need for fast, agile pilots that in the worst case fail fast which is not easily done by NGOs and software partners.
+Short term advisory and consulting needs on ongoing technology or data work
+In our last cohort, we experimented with deploying a
+Fractional Tech+Data team
+, led by the Fractional CxO, to support NGOs with their technology and data challenges.
+A product/project manager who can work with internal teams and external stakeholders to deliver high-quality tech and data projects on time and within budget + scope
+An advanced tech team that can address and solve short-term, high-priority problems, build proof of concept prototypes with internal and external teams that will include experience in one or more areas including engineering, data science, AI/ML and UI/UX.
+Based on the positive impact and feedback, we found this model to be highly effective in bridging critical gaps. Moving forward, we will continue to refine and expand this approach. This approach has helped organizations overcome key technology challenges by:
+Addressing Capacity Gaps
+: Enhancing technical product and project management capabilities.
+Promoting Agile Experimentation
+: Enabling rapid, fail-fast pilots to test and refine new solutions.
+Driving Data-Centric Strategies
+: Supporting evidence-based decision making and impactful interventions.
+For a deeper dive and the impact of these contributions, check out our related blog posts-
+Janaagraha
+and
+Gram Vikas
+A few testimonials below on the value this program has made to the organisations we have worked with along with some of the organisations we have worked with over the last two years:
+Given the nature of our work, and the fact that tech is an enabler and follows the objectives of programs once aligned with government’s focus, the FCxO program has helped bring clarity, prioritize efforts and help ask the right questions prior to investing further resources. It has also helped position tech at the appropriate level in the organisation which is important to strengthen our approach and propositions, including internally.
+Sapna Karim, COO, Janaagraha
+The Fractional CxO Program at Project Tech4Dev has enabled us to focus on the impact of our mission with the confidence of having a seasoned technology leader balancing immediate program requirements and long-term tech strategy and capacity needs. Every non-profit with a vision of aligning their use of technology to their strategic goals will benefit from the experience and expertise that the Fractional CxO Program provides.
+Srinivas Krishnaswamy, CEO, Vasudha Foundation
+How the Program Works
+:
+Once your NGO is selected, a seasoned technology professional will be assigned to work closely with your organisation. She/he will dedicate 12-16 hours per week to assist with various aspects of your tech transformation. Aspects worked on by a fCxO (each engagement is unique and will be shaped by each organisation’s needs and priorities) could include:
+defining technology/data strategy and vision
+streamlining engineering architectures and processes for already existing work
+evaluating, selecting and working with  software partners
+shaping raw data into insights using technology for collection, storage, processing, analysis, and visualisation.
+assisting in capacity building efforts through recruitment and/or upskilling.
+As mentioned above, short term needs might also be defined through the team concept but always helmed by the fCxO.
+Expectations from NGOs / Our Selection Criteria
+:
+We ask that NGOs:
+Have technology as one of their top 3 priorities
+Can ensure active involvement of their CEO and senior leadership, especially in the initial month to set the direction and expectation for the rest of the team
+Have a definitive organisational/program strategy and stable operational processes across the organisation
+Have tech and data systems that are not in crisis; they are functioning, albeit with room for improvement.
+Be willing to facilitate field visits as required by the fCxO
+Application and Selection
+:
+To kickstart your journey, simply complete our application form, providing insights into your organisation’s technology and data needs, as well as your vision and plans. Tech4Dev will carefully assess all applications and select a handful of NGOs that align with our criteria. We will contact you within a week of filling out the application form to have a conversation and better understand your needs and timelines. We hope to be able to work with you to make a decision to do a go/no-go decision within four weeks of submitting the application.
+Scale and Duration
+Each fractional CxO typically works with 2 NGOs simultaneously, ensuring that their expertise benefits multiple organisations.  The engagement typically lasts for 3-9 months, offering sustained support and guidance.
+Cost
+Tech4Dev covers 1/3 of the program’s cost, while the remaining 2/3 is contributed by your NGO. The approximate cost for a half-time fCxO engagement (16 hours a week) is 1.27 lakhs per month.
+Fractional Tech and Data Team models will be highly dependent on the particular needs and assessed on a needs basis. A couple of samples to evaluate pricing:
+Product Management:
+For an engagement that involves product visioning, developing strategy and roadmaps, end user use case definition and product requirements – fCxO (12 hrs a week) + Product Manager (12 hrs a week) : Approximately : 1.43L to 1.63L per month
+MVP Prototype: For an engagement that involves creating a minimum viable prototype – fCxO (8 hrs) + Product Manager (4 hrs) + Full stack developer (16 hrs): Approximately 1.43L to 1.76L per month
+Note a fCxO engagement over 6 months can involve a fractional tech team engagement only over 2-3months in which duration the fCxO time commitment will be lowered while other role resources help deliver.
+We also offer substantial discounts to NGOs that share a common funder with Tech4Dev.
+Work Location
+Fractional CxOs work remotely but can travel for in-person meetings and field visits as and when needed and mutually agreed upon. Most fCxOs engagements typically involve a 3-5 day visit at the start of the engagement to better understand the NGO not just from a technology perspective but a more holistic organisational perspective. We also plan of two short visits of 2 days each during the course of the engagement. Your NGO is responsible for covering the CxO’s travel and stay expenses.
+Collaboration and Knowledge Sharing
+Our embedded CxOs hold weekly check-ins internally at Tech4Dev to share insights and learning experiences, creating a collaborative environment. Tech4Dev leadership and fCxO team provides ongoing mentorship and support as needed. Fractional CxOs might also pull in another fCxO to assist in a specific tech or data scenario as they may be better equipped based on the expertise area.
+Sampling of fCxO work:
+A year of reflection 2024
+Fractional CXO at SEARCH, Gadchiroli
+Digitization of SHOFCO’s Gender Program and Adoption
+The Fractional CxO Program with Vasudha Foundation
+Empowering SNEHA: Improving Effectiveness of Health Interventions through Data Democratization using Dalgo
+Apply Now

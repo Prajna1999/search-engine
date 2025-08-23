@@ -1,0 +1,40 @@
+Title: India Trip Recap: Goa Sprint, Mumbai Meetings and BLR Sprint
+Author: Donald Lobo
+Date: February 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/india-trip-recap-goa-sprint-mumbai-meetings-and-blr-sprint/
+==================================================
+
+Another end-of-trip, another late night at the airport nursing a drink (or two) while waiting for the flight, and another blog post. I’m always amazed, super-energized and exhausted all at the same time after each trip. The trips have been getting longer over time (thanks to the
+empty nest syndrome
+).
+Before I go on about the trip, let me send you down memory lane, by pointing you to the f
+irst Glific Blog post
+from the vault. Brings back good memories and also nicely illustrates the power of recording things as we go along
+This has been slowly happening over the past few sprints, but this one made me realize how amazing the team is. They’ve taken over running the sprint in a nice manner,?with great planning and execution on all fronts, and a significant step up from the previous sprints (especially the early ones which I helped organize). Realistically, I was an observer at the sprint, having lots of conversations with quite a few people, sporadically participating in a few sessions, but taking it all in, and enjoying it. So a few random thoughts, comments and observations
+Looking in from the outside, my story @ the sprint 🙂
+Highlights
+This was our largest sprint, spread over 9 days: Avni team from Day 1 – 5, DCP and Glific from Day 6-8, and Tech4Dev Team from Day 4 – 9. We had 80+ people, 35+ NGOs and 5+ ecosystem partners attend the event during this time. You can read more in the detailed blogs
+here
+The sprints have grown to a nice size and great space for NGOs to gather and share experiences. This feedback is universal and everyone appreciates the time, space, food, and coffee (mediocre though it was) to have unstructured conversations and interactions
+Morning walks have become a tradition, where the walkers get to meet and chat with folks from different organizations in a relaxed manner. The walks meandered through a few small lanes, lots of dogs, and a few gravel paths before ending in the beach (either Anjuna or Baga)
+The team had some bonding time on Saturday night, a team-building activity on Sunday morning (which was fun for the most part) and the afternoon off. After that time, everyone was super busy either prepping for the Glific Sprint, the Data Catalyst Program or our Chai-pe-Charcha experiment (inviting local NGOs to see our work)
+The Dasra team does know how to organize events. We had a fun party at the beach for the entire group on Thursday evening which helped close the event in style.
+Erica, Vinod and I spent a lot of time during the sprint and in Bengaluru talking through and working on Tech4Dev from a management perspective. Really like the way the leadership team is coming together and supporting each other.
+Improvements and Potential Changes
+For me, the best part of previous sprints was talking to a lot of NGOs and learning more about their work. Unfortunately at this sprint, this happened only during the morning walk. I was quite busy with multiple internal and a few external meetings for most of the days. This needs to change for future events.
+The Tech4Dev team by and large did report that while we met the sprint goals, worked with a lot of NGOs etc, we did not get to interact and work with each other as much as we would have liked. Balancing between ecosystem and internal needs is something we need to consider.
+The NGOs that are part of the sprint are the NGOs we interact with significantly in our products or cohorts. The loose-nature, super unstructured nature of our very early sprints is missing. We will need to figure out how to balance the needs of the team vs the needs of our NGO partners vs?the needs of our ecosystem.
+We had the Data Catalyst Program NGOs (11 NGOs) and the Glific NGOs (15 NGOs) at the event simultaneously.The 11 Avni NGOs had left a few days prior. Getting the NGOs and our team to interact with each other will help with building the community and getting exposed to each others diverse work and tech used
+Rest of Trip
+I spent a week in Mumbai working from the Dasra Office. Felt good to work in-person and chatting with quite a few folks from the Dasra team. Really glad to see the work we are doing in collaboration with some of the Dasra verticals: Ninad and the finance team, Shrutika and the capacity building team, Kavneet and the data knowledge team, Sonvi and the social compact team.
+Our Fractional CxO program has been one of our largest growth areas, both from an NGO perspective and recruiting folks from industry. In the Mumbai week, I spoke to 5 different folks from the tech / research world who were interested in exploring opportunities.
+To make up for not catching up with NGOs, I spent a fair bit of time in Mumbai hanging out with Akshay Saxena from Avanti Fellows and Jigyasa Labroo from
+Slam Out Loud.
+Realized my standing, when I was made her coolie to haul heavy bags, up-and-down the Dasra steps 🙂
+My new position: Coolie for NGO leaders (like Jigyasa!)
+Had a chance to have a chill dinner with a group of NGO leaders in Mumbai. It was so good fun to hang out with folks in a non-work / funder / partner context and see that side. The stories we heard from people’s past lives and experiences were quite astonishing. Hope to have (and organize) a few more dinners like this one.
+Had a few intense conversations specifically with long time friends: Arjav from Svarya and Kuldeep from Reap Benefit. Was good to discusss with them the state of things at Tech4Dev, some of our problems, the pros/cons of a transparent salary system (the one of two things in T4D that is not public), the role we play in the ecosystem, expectations that people have of/from us and more. Lots of food for thought and a few actions to be taken.
+We ended the trip with a Dalgo team meeting and FCxO review in Bangalore. Building teams and products is a hard problem and we struggled thru and discussed a few hard issues and challenges as we figure out Dalgo’s roadmap and future
+We had a short impressive meeting with Nandan Nilekani who has been funding Tech4Dev. We were prepped really well by Sahana for the meeting and it was a super quick brisk meeting. You can check the
+presentation here.

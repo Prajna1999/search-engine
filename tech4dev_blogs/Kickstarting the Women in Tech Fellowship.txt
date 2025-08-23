@@ -1,0 +1,59 @@
+Title: Kickstarting the Women in Tech Fellowship
+Author: Kurund Jalmi
+Date: February 2022
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/kickstarting-the-women-in-tech-fellowship/
+==================================================
+
+Birth of a Collaboration
+Hey, were doing the same thing here!
+It all started for us when an unassuming reach out for advice about our program to Donald Lobo turned into a conversation where we realized there was a lot in common that we could do something together here.
+I learnt from Lobo that Tech4Dev has a strong intent towards encouraging young women to join technology companies working in the social sector and they were already working with
+ColoredCow
+to start a pilot program. On the other hand, we started
+HyperVerge Academy
+(HVA) in March 2020 with an intent to enable young people from disadvantaged, under-represented and under-resourced backgrounds to learn software development and secure well paying jobs in the tech industry, and were looking for advice to grow our program.
+Sensing the synergies, we joined hands to set up a fellowship program together, that aims to encourage more women to join/remain in technology positions and normalize the gender ratio in the technology sector (more specifically technology in the social sector) called Women in Tech Fellowship (WIT).
+Setting the Stage
+How do we get this started?
+At HVA, we enabled 20 learners to get placed in technology jobs by creating an environment of self and peer learning guided by a technical mentor and a power skills
+1
+mentor. The 6 month fellowship is designed to be experiential in nature, where we mimic a real life work environment – learners are given tasks to build web applications while they learn the technologies in that process.
+We decided to replicate this process and start a pilot for WIT by sourcing candidates from colleges near Tech4Dev partners. Our first partner, ColoredCow, invited students from
+THDC Institute of Hydropower Engineering and Technology
+in Tehri, Uttarakhand to join the program. Team members from ColoredCow would be playing the roles of technical mentors, who would spend about 30 min a day with the fellows to guide them. HVA would source the power skills mentors and also facilitate the entire fellowship. We would conduct reviews once in every 2 weeks to periodically evaluate whether the learners are on track.
+ColoredCow then conducted an interactive awareness session in their office in Tehri for the students from THDC-IHET to explain more details about the program and peak their interest.
+Interviews
+Do you have what it takes?
+Following the session conducted by ColoredCow, we got an amazing response from the students and had 26 young women apply to the program ranging from 1st to 4th year students. We had a range of students – from those looking to hone their skills and secure a job, to those looking to pick up and learn coding almost from scratch.
+Our interview process consisted of 2 parts – a Reasoning check and a Motivation check. In the reasoning round, we share 1 or 2 simple problems to check for their comprehension, logical thinking and understanding abilities. In the second round, we spend time understanding the candidate as a person, asking them questions about their story, the accomplishments they are proud of, their aspirations and motivations, to check whether they would be a good fit for our program. We had 6 people from HVA and ColoredCow each conducting 5-6 interviews a day for a week.
+My personal experience of conducting these interviews was nothing short of inspiring. I got the opportunity to speak to young women extremely high on motivation, and strong aspirations who just needed the right exposure and environment to thrive. One of the candidates spoke about how she never had the opportunity to learn computer programming in her school since there was no access to good teachers and was learning C++ on her own through a YouTube channel. Another candidate spoke about her dream of becoming an IT Officer in the Navy to also overcome her hydrophobia.
+Selection
+Who makes the cut?
+While conducting the interviews, we used the following rubric to come up with an objective weighted average score for each candidate. Using the score as an indicator, HVA and CC teams got together and shortlisted a total of 21 young women – split across 4 batches. Each batch was allotted a technical mentor from CC, and a power skills mentor sourced by HVA. We then aligned on the curriculum, learning outcomes expected out of the fellowship, ways of measuring progress and were all set to go!
+Day 1 – Orientation
+Are you ready for it?
+Exactly 2 months after my first call with Lobo about HVA (which was on 7th December 2021), we kickstarted the WIT fellowship with our first 4 batches from Tehri at 11AM on 7th February 2022. In my limited experience, this was one of the quickest and smoothest paths to actioning on an idea of collaboration, thanks to all the stakeholders involved – Tech4Dev, ColoredCow and our team at HVA.
+The orientation was an interactive session with fun icebreakers to get started. Everyone shared their thoughts and aligned on the expectations we have set throughout the fellowship, our learning philosophy and the values we expect all stakeholders to uphold.
+Shaivya facilitated the session, posing questions such as – What do you think would make the worst mentor? and got interesting answers such as Someone who doesnt understand or listen to the problems faced by a learner and also, Someone who doesnt laugh, setting the tone for the fellowship as a space of learning while having fun at the same time!
+First Week of the Fellowship
+�Kadam, kadam, badhaye ja�
+2
+After the energetic orientation session, all learners and mentors were informed of their groups and added to their respective Slack channels. Every batch meets on a daily basis for 20-30 mins to share their progress and seek help from the mentor to unblock them if they are facing any issues.�Each batch had a session where they set their own SMART goals for the duration of the 6 month fellowship. Every batch also spent time getting to know each other better as companions in their journey towards achieving these goals. The batches also started taking their first steps towards their goal by setting up a GitHub profile, and even some of them writing their first Python program.
+We are off to a great start, and were confident of a successful completion of this program. We are looking forward to getting more and more young people (women and other underrepresented backgrounds) to secure a better future for themselves and create a more diverse, and equitable space in the technology industry.
+Bonus – Blog Articles from our Fellows!
+Some of our fellows enjoyed their first week at the WIT Fellowship so much that they posted about it in their blogs! Do have a look 🙂
+1.
+Shreya Sharma
+2.
+Riya Malik
+3.
+Sapna Rawat
+4.
+Swati Bhatt
+5.
+Riya Godiyal
+1
+Skills that give an individual the power to succeed at work such as communication, confidence building, storytelling, research and analysis skills
+2
+When I asked one of our batches to share the name of a song that describes how they are feeling, one them mentioned this song that translates to – We are walking step by step towards achieving our goal

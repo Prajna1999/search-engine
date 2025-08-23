@@ -1,0 +1,221 @@
+Title: Tech4Dev Project Report #4 – Jan 2020
+Author: Kurund Jalmi
+Date: January 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-4-jan-2020/
+==================================================
+
+Tech4Dev Mission
+Building a Collaborative of Software Companies and Funders to develop Open-Source Solutions for the Social Sector.
+Summary
+Q4 2019
+saw us wrapping up most of the projects from the first cohort. We also finalized the NGOs for the second cohort and the NGOs for the
+chat for impact
+cohort (our third cohort) in partnership with
+turn.io
+. We had another great partner meeting in Pune and represented Tech4Dev at multiple events in India and North America.
+We signed our partnership with
+Persistent Systems
+and have a team of 5 people (developers, UI/UX) from Persistent hard at work on the
+Avni Project
+. We wrapped up the legal documentation between NGOs, Partners and Project Tech4Dev. We welcome four new funders who have committed to supporting Tech4Dev for the next three years.
+Case Study of Bridges of Sports Project
+Bridges of Sports (BoS) works with athletically gifted tribal communities in Karnataka. They work with local coaches to identify potential Olympic athletes and train them to their full potential. The coaches involved with BoS conduct training sessions at schools and local playgrounds in the villages. BoS also conduct leagues: events where athletes and coaches from multiple villages gather and conduct races. This helps to identify exceptional athletes and to build sportsmanship. They currently gather data using a combination of paper-based methods and spreadsheets. Their current procedures would benefit from having an easy-to-use digital solution to track athletes’ training and progress.
+Maverick Labs, a Tech4Dev software partner, is working with Bridges of Sports to build a comprehensive athlete management system. The solution enables coaches to access and run customized diet and exercise programs for each athlete under their guidance. Coaches can also collect data for every training session in an exercise plan, and monitor the progress of the athletes that they are training. The solution includes an Android app for use by the coaches, and an admin panel to monitor the collected data. The android app has offline functionality, with data being synced when internet access is available. The admin panel is used to create customized diet and exercise plans for athletes, and view the progress of all athletes in the system.
+Highlights
+|
+Ongoing Support
+for NGOs
+Toward the goal of building strong and transparent relationships between NGOs and software partners, in Q4 2019 we focussed on better processes and communication with NGOs and our partners. We are incorporating those learnings into streamlining systems and processes for the second cohort. This includes more formal review processes at multiple stages during the project lifecycle.
+Overall, we are wrapping up many of the projects from the first cohort, and are starting projects with the second cohort.
+12
+Projects completed with the first cohort
+12
+Projects
+with NGOs in the second cohort
+3
+Research
+Projects
+in the second cohort.
+|
+New Funders Update
+We welcome Suhrud and Chhaya Dagli, Ed and Vanitha Rodrigues, Mike Heffernan and Jo Whitehouse and Biren and Swapna Fondekar who joined the Tech4Dev Funder Collaborative and will be supporting the project for the next three years.
+|
+Second Cohort
+NGOs
+The second cohort application process is over. We have a good group of 10 NGOs, 2 Pilot Projects with mid-sized NGOs and 3 Research Initiatives in this cohort. We are building on the success of the first cohort and hence the larger number since we could take more NGOs in public health, support services for women/children and people management platforms, having already built solutions and gained experience in these areas during cohort 1.
+15
+Projects within the second cohort
+|
+Process Changes
+for Cohort 2
+Looking back at Cohort 1, we stumbled a bit in Project Management, and hence are making a concerted effort to make significant improvements in this area. The main lesson that we take from Cohort 1 is that, at a higher level, the Tech4Dev team needs to be more involved with all projects and have a better handle on their status to shepherd the relationship between NGOs and software partners. Over time, as NGOs and software partners gain more experience, we aim to reduce this requirement.
+One Point of Contact (PoC) from the Tech4Dev side for each Project. Each NGO and Partner will have two PoC?s on their side to ensure smooth and continuous communication.
+Get an understanding of the scope and size of the engagement with the NGO in the first month, i.e. the Project Scope Phase.
+Get a detailed timeline and estimate for the project. Partners will be focussed on delivering to this timeline and estimate with monthly checkpoints with their Tech4Dev point person, i.e. the Project Plan Phase. Consider reusability and platform/tools standardization in this phase.
+Monthly checkpoints and demos with the NGO and Tech4Dev PoC to ensure projects are in line with their estimate and timeline. Weekly checkpoints between the NGO and the Software Partner.
+Documentation and reporting weekly using our tracking system on AirTable.
+|
+Nov Partner Meeting
+We held our second partner meeting in Pune in Nov. All partners attended this meeting and we had a turnout of more than 20 people.
+We held a code sprint the day before the main meetings which was the highlight of the meet for most participants. We focussed on two projects: AVNI and the CRM Project. This will be a standard feature for our next couple of meetings.
+Another highlight was the talk by NGO Leaders: Raj Gilda from Lend a Hand India and Pradyna Godbole from DeAsra Foundation spoke to the group about their views on technology and the social sector. It is great to hear the perspective from the NGO leaders, since many times it is so different from the way we as technologists think and act and hopefully moves us closer to their reality.
+What was also useful were the discussions between the software partners on how to work with NGO clients, and how this experience was similar in some ways to small or medium-sized businesses rather than large corporations. Since we have software firms with a variety of experiences and information about working in the social sector, they were able to share best practices, e.g., the importance of meeting the NGO client face to face before deciding on a scope of work.
+With an eye to the future, we also hosted a technical marketing expert, Anuja Apte, who spoke with the software companies about creating interest amongst NGOs in adopting open-source solutions; that merely building great solutions was only the first step toward making them used widely. As a few of the software partners begin productizing and marketing solutions during the coming year, this will be important to keep in mind (See ?Open Source Platforms? below).
+Apr 19 – 21
+Our next face-to-face meeting in India
+Would you like to attend?   Please let us know!
+|
+Collaborations
+and Meetings
+Persistent Software Systems
+, a global software company has contributed a team of 5 people to work on the
+Avni Field Work and Data Collection Project
+for 6 months. Our goal is to deepen and extend our relationship with Persistent across multiple projects.
+In the second cohort, we have two pilot projects with mid-sized NGO?s:
+Medha
+and
+Give India
+. We anticipate these engagements will be structured differently and have a longer life cycle than our engagement with smaller NGOs. We also expect to use such engagements to bring in earned revenue
+In a rapid turn of events, we entered into a partnership with
+Turn.io
+– through our friends at
+Mulago Foundation
+. Our third cohort will be focussed on NGOs engaged in two way communication with their users primarily via WhatsApp. We have finalized this cohort of 11 NGOs and will start work by mid-January. This is also the first cohort, where we are charging NGOs a third of the total expenses, another source of earned revenue.
+Feb 17 – 20
+Chat for Impact Training in Mumbai, India
+Would you like to attend?
+Please let us know!
+|
+Open Source
+Platforms
+Avni (formerly known as OpenCHS), Primero, and Kobo ToolBox
+are all gaining traction internally as open-source solutions to base our work on in the second cohort. We have also started development on a ?CRM? product base that is mobile and web-friendly, which can be used as a basis to build more specific solutions for NGOs. We have a group of 3 NGOs in the second cohort that we are targeting with this solution.
+|
+Ecosystem Engagement
+We represented Tech4Dev in multiple events in Q4:
+EDGE – Edelgive Foundation
+– Mumbai,
+AVPN – India Summit
+,
+Dasra Philanthropy Forum
+– Palo Alto,
+UC Berkeley Blueprint Club
+, and
+BMW
+Responsible Leaders Forum
+.
+Misses and Improvements
+Looking back to 2019, we did not track projects in as much depth and rigor as we should have. This is our primary focus for the second cohort of NGOs.
+Communication with NGOs can be more effective and efficient. We are struggling with this a fair bit and do realize that we need to document our meetings and ensure we get sign-off from both the partner and the NGO.
+A number of projects from the first cohort have dragged on for longer than expected and exceeded their budget. Detailed Project Plans and budget estimates are expected to minimize this.
+We need to be better at more explicitly linking the technology solution to improvements in the work done by NGOs, and make this an integral part of how the NGO and the software partners monitor the success of the project.
+Financials
+Income
+Grants
+Funders
+Contribution (USD) – 2019
+Contribution (INR) – 2019
+International Funders
+$790,000
+?55,300,000
+Indian Funders
+$24,286
+?1,700,000
+Total Grants Received
+$814,286
+$57,000,000
+Expenditure
+Support for NGOs
+Sector
+NGOs Supported
+Expense (USD) – 2019
+Expense (INR) – 2019
+Rights and Advocacy
+4 NGOs – HAQ, RCI-VAW, Annie Cannons, Hasiru Dala
+$94,000
+?6,580,000
+Education and Life Skills
+5 NGOs – Toy Bank, READ, Arthan, Indus Action, Bridges of Sports
+$85,700
+?5,999,000
+Governance and Public Finance
+2 NGOs – Lakeer, CBGA India
+$55,300
+?3,871,000
+Health
+1 NGO – Spandan
+$11,700
+?819,000
+Technology
+1 NGO – Tech4Good
+$25,000
+?1,750,000
+Rural Development
+1 NGO – Anarde
+$18,500
+?1,295,000
+Water
+1 NGO – State Government Dept. of Water
+$16,400
+?1,148,000
+Research
+4 Projects – AVNI, Odoo, CRM, AirTable
+$12,900
+?903,000
+Support for NGOs – Total Costs
+$319,500
+?22,365,000
+Other Costs
+Area
+Description
+Expense (USD) – 2019
+Expense (INR) – 2019
+Grant Management + Events, Conferences, and Convenings
+Attendance at funder events + Cohort 1 partners’ meet
+$2,900
+?203,000.00
+Other Costs – Strategy, Legal, Fundraising
+All fees paid to Lumen Consulting from the Chintu Gudiya Foundation
+            and not from the Tech4Dev pool of funds, though all work for
+            Tech4Dev
+$18,500
+?1,295,000.00
+Other Costs – Total Costs
+$21,400
+?1,498,000.00
+Total Expenditure
+$340,900
+?23,863,000.00
+Details on individual projects can be accessed
+here
+.
+Reflections on 2019
+As we look back at our one year mark, we are proud of what we have accomplished so far, yet aware of the amount of work we still need to do.
+We are grateful to the strong support of our funder network who have trusted us to do the right thing. At the same time, many of our funders have asked us hard questions, which have made us think more deeply about what we are doing along with the why and the how.
+It has been a delightful surprise to have found such a strong set of partners in the first year. Our wish is that we continue to find more of them across India this year also, which is what is needed to accomplish our goals. We love the discussions and the difference in thoughts and opinions in our face to face meetings, the amount we can learn from each other and the support we can offer each other.
+From an NGO perspective, it has been a humbling journey. We are always amazed by how many great organizations that are there out there, and would love to see us get to a stage where we can help many more of them. We are also aware that while we do expect NGOs to adjust to our style, we need to also adjust and be in tune with their style. We will be learning and growing in this regard immensely over the next few years.
+More than ever, especially after the
+BMW Responsible Leaders Forum
+, we do believe that looking at the problem via the lens of networks, collaboration, transparency, and open-source is the right model at this time. We?ve got a great group of partners and funders, and we now need to grow the network and execute.
+Want More Details?
+All our blog posts can be found on
+the project website
+. All project documentation can be found on our
+shared google drive folder
+. Each project blogs on a monthly basis, so we have quite a bit of detail and history as the project evolves.
+1 month of Persistent contributing to Avni
+Chat for Impact India Accelerator
+Pune Meeting Recap
+Trip Report from BMW Responsible Leaders Conference
+Tech4Dev Project Report #1 – Apr 2019
+Tech4Dev Project Report #2 – Jul 2019
+Tech4Dev Project Report #3 – Oct 2019
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Tech4Dev Project Tracker Using AirTable
+Reach out to us via
+email
+or find more information on our
+website

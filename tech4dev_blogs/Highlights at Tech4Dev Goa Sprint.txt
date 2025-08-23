@@ -1,0 +1,47 @@
+Title: Highlights at Tech4Dev Goa Sprint
+Author: Radhika Bhagwat
+Date: January 2024
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/highlights-at-tech4dev-goa-sprint/
+==================================================
+
+As I fly back from a 5-week long visit to India, I feel blessed with all that I could experience – the humanity, humility and humour around me. I got an opportunity to visit multiple NGOs, starting with Goonj in Delhi, Akshay Patra in Ahmedabad, Aangan Trust in Delhi and Video Volunteers in Goa. I took my family along to the first two during our vacation in the first 3 weeks. As part of my franctional CxO role I spent a whole day with the Aagan Trust at their team offsite, with over 100 employees. My last week was in sunny Goa! This post is about the Tech4Dev quarterly sprint in Goa, where over 50 NGOs joined us over a period of 10 days for various Tech4Dev initiatives like
+Avni
+,
+Glific
+,
+Dalgo
+and
+fCxO
+.
+Sunset at Anjuna Beach
+We did a lot, but a few sessions were highlights for me, and I certainly had plenty of take-aways from these:
+Glific Quarterly Retrospective
+Techie for Dev Team Awards
+T4D Chai per Charcha
+Informal ‘fun’ Sunday
+Connects over meals, walks and one-on-ones
+Glific Sprint
+Video Volunteers NGO visit
+The Tech4Dev team has grown!!
+From my experience of how busy the sprint at Kochi was, I realized that if I had to accomplish something, I had to do it on the first day at the sprint, and put it on the calendar, else it won’t happen. To bring everyone in the Glific team together, we planned for a retrospective of the last 3 months, to celebrate our work, and to learn from our blunders. Thanks to everyone’s participation, it went as planned. Akansha describes the session in further detail in her
+blog
+. For our hurrays, we all applauded for team members involved in specific initiatives, and the team members were asked to stand (and take a bow – no one did). It was fun!
+Team busy reading outcomes of the retrospective brainstorming
+The ‘Techie for Dev’ team awards were hilarious. Krishna and Shamoon, along with others from the team did a fantastic job on award categories that matched everyone idiosyncrasies. I got the “Calendar Keeda” award (the paragraph above proves it right!). Some the awards that struck me were – sorry but not sorry award for Lobo’s blunt and straight-to-the-point attitude, Calendar Keeda award, and Social Butterfly award for Krishna. The award presentation was very funny, thanks to some impromptu performances from Shamoon, Akhilesh, Krishna, Tejas, Ankit and others.
+Sunday was a break day, with team building activities in the morning. I enjoyed the activity, but not the discussion after or the heat during the day. Shamoon elaborates on the day in his
+blog
+. The highlight though for me was the evening at Anjuna beach with the team. I have never spent time at a beach after dark. Night’s darkness hides the mess on the beach, the yellow lights on the shacks highlights the waves crashing on the sand and the mild moonlight is a cherry on top. It seemed like a place of zen.
+Monday had the first big event planned – Chai pe Charcha. Gautam’s idea of bringing local Goan NGOs to the sprint for a few hours helped all of us explore what we do and how we do it. Sangeeta talks about this in
+her blog
+. Behind the scenes, it took a solid 3 weeks to ideate, brainstorm with Gautam and Sneha, and get the ball rolling. With the help from internal leaders like Lobo, Erica, and Ankit, we got warm introductions to Video Volunteers, Red Dot, Give India, Rebuild, and a few others who helped spread the word. Fast forward to January, we started with 3 RSVPs in the first week, then 10 in the second and finally 25 in the last few days before the sprint, thanks to close follow-ups. Though we had only 11 NGOs from Goa join on the day, some drop-ins from Data Catalyst Program and Glific sprint, made all of it worth it. Gautam and Deeksha were working right upto the last hour. The outcome – a well planned event that didn’t show up any glitches (even though the planners know there were a few!).
+A few take-aways I had were – 1) Goans are very punctual, we had 4 NGOs show up exactly at 2pm (when we started), 2) We should wrap up hands-on work before the sprint, we were working on posters all the way till the eleventh hour and 3) that things won’t go as planned, be flexible to change as needed impromptu.
+Individual connects and group talks over meals, were a definite highlight for me. I thrive on 1:1 connections, and I’d an opportunity to do so with the Glific team, as well as with others in Tech4Dev during the morning walks (thanks to Lobo, who is the accountability partner for most). I made new friends, specially calling out Arun, who awed me with the energy he brought not just to the walks but the talks and celebrations we had. I don’t go for walks everyday at home, so the fact that my steps account everyday were between 13-15K steps even though we were indoors all day, was an achievement in itself. These made my days long, especially since work start from 8am until 8pm, but I slept at night feeling content with the outcome of the day.
+The group got bigger into the week. All of us @ Anjuna Beach at 7am
+First morning walk towards Baga beach – fishermen returning from their morning catch
+We had two parallel NGO events – Data catalyst program and the Glific sprint, I was majorly part of the Glific sprint, headed by Tejas and Krishna, and supported by everyone in the team We had 16 NGOs attend, the highest so far. I learnt a lot about the work NGOs do with Glific. The talks by TAP, INREM, Udhyam, Civis, and Bandhu were very insightful. Discussions on challenges and problems all these 16 NGOs face and brainstorming session facilitated by Glific team leading to possible solutions, went as planned, with conversations that will go on after the sprint among these NGOs. There was a lot to take away from the future of platform session that asked NGOs to vote on what they would like to see on Glific platform. Some of the high priorities that came up included improving existing pain points in restarting flows and interactive messages, and improving the metrics that can be leveraged to reach a broader segment of end users by the NGOs. The Glific product team has a tall order of things to follow-up on, post a successful Glific sprint. Kudos to the team!
+Glific Sprint Opening Circle with 16 NGOs
+On the last day, Lobo, Thomas and I enjoyed some amazing Goan food at Britto’s on Baga beach, and visited Video Volunteers (a local NGO in Goa). Ashwini, Erica and Ishan also joined us. I’m humbled by the energy and passion that Jessica and Stalin (the founders) exhilarate. Video Volunteers are 15 years strong and going. They train content creators in urban and rural parts of India on taking video of issues that are local to them. They promote local journalism in the true sense. These videos are edited and documented by VV team, and uploaded on youtube, and are taken to the local govt officials for grievance reporting. They also use Facebook and instagram to raise awareness and build support to hold the govt accountable. We visited them at their office in Arpora, Goa, in a 100 year old house. Our discussions lasted over 2.5 hours in a very comfortable baithak style room, with 2 rounds of delicious chai. Thank you for having us Video Volunteers.
+Tech4Dev team at Video Volunteers NGO in Goa.
+This sprint was my first as a Tech4Dev employee. Though I visited in Kochi three months back, this time I got an immersive experience, from being involved in ideation, to planning and then to execution of it all. At the end of it, I don’t feel tired or overwhelmed. I feel happy, content and accomplished. Its all about the human touch, … virtual interactions just don’t do it. Looking forward to the next one in 3 months!
+Reflections of the sprint!!

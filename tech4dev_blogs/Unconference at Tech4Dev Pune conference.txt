@@ -1,0 +1,21 @@
+Title: Unconference at Tech4Dev Pune conference
+Author: Kurund Jalmi
+Date: December 2018
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/unconference-at-tech4dev-pune-conference/
+==================================================
+
+Recently, I got the chance to attend Tech4Dev conference organized by Social Alpha & Chintu Gudiya Foundation in Pune on 30
+th
+Nov and 1
+st
+Dec.
+The event brought together a bunch of passionate techies ? from freelancers to women entrepreneurs ? bound by a common resolve to crack different societal problems.
+The
+unconference
+format of the conference expedited the ice breaking between the participants and enabled people to choose and create their experience of the conference together. In less than few hours, participants were interacting and suggesting their areas of interest. The comfort was evident from the fact that some of the participants decided on the spot to demo their work.
+As one of the posters in the conference mentioned ?The Law of Two Feet? which can be rephrased as ?If you feel you?re not learning from or contributing to the discussion ? wherever you?re, please make use of your feet and move to a more interesting group for yourself?.
+The days were filled with mainly discussions and demos, and few keynote speeches. Pratima Joshi?s talk on Shelter Associates?s early struggle in the 90s to getting funds for data and technology to effectively improve the living conditions of urban poor in India was quite insightful. It stood in contrast to today?s world where data is recognized as the new oil.
+The discussions and demos in the conference were varied and interesting. The demos ranged from healthcare, education, water to urban challenges. The brainstorming session to use the traffic data available in Andhra Pradesh to figure out the number of employees required at RTOs (Regional Transportation Offices) was interesting. Lakeer and Shelter Associates showed how opensource GIS mapping tools can be leveraged for impactful decision making to choose the services required in different areas. I personally loved the open source water testing demo by Samuel from ffem (Foundation for Environmental Monitoring) which showed a quick, easy and inexpensive way to test water for various pollutants. The discussion on creating a platform for open sharing of solutions to different societal problems in the development sector ecosystem was hailed be everyone.
+I left the conference with a bundle of ideas, resources, people and a long to-do-list.
+Himshi Bachchas, Consultant – Societal Platform

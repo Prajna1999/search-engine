@@ -1,0 +1,47 @@
+Title: Community at Agency Fund <> Tech4Dev sprint
+Author: Akhilesh Negi
+Date: July 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/community-at-agency-fund-tech4dev-sprint/
+==================================================
+
+As a Tech4Dev team member, most of the sprints that I have attended have left me with a lot of energy, inspiration, and empathy. This was exactly like that and a bit more amplified.
+This time we met in Bangalore at a secluded location away from the bustling life of the city. In collaboration with the Agency Fund, this sprint was organized to run in two tracks.
+User Engagement track – An overarching aim was to help organizations in the journey of their program -> funnel -> metrics -> visualization. Also enable cross learning and collaboration along the way.
+LLM track – The aim here was to understand where the organizations are in their LLM journey, what problems are they currently facing, enable cross learning and leave them with some knowledge about new tools/information/advances in the field AI/LLM (although we (Tech4Dev) learned more from them to be honest).
+What I liked most about the sprint was the collective skill set and the humble curiosity of the group present there. I got a chance to interact with Product Managers from various NGOs, UI/UX consultants/practitioners from Agency Fund, Strategy consultants and various Data/Software engineers. Most of my conversations with these people had a single goal which was to listen, learn from their journey/experiences and understand the problems they face in running their programs.
+Yuxi’s (UX consultant from Agency Fund) session on How UX creates impact was something that just clicked, maybe it was the simple/elegant presentation she made or the way she explained it. I can’t seem to forget the 3 principles behind impactful UX. She had a case study to explain/show each principle being applied in action
+Solve for the root problem (
+case study
+)
+Reduce Friction (
+case study
+)
+Care for details (
+case study
+)
+Another interesting session/workshop on Merging, was by Stanslaus (ML engineer at
+Jacaranda Health
+). Merging models refers to the technique of combining two or more LLMs into a single model. This is particularly helpful, when we want to preserve/restore characteristics from each model. We did this using a tool called
+mergekit
+. And this method doesn’t require any GPU.
+Ashwin’s (fCxO at Tech4Dev) session on Safe & Security in LLMs/AI was very thought provoking. A new term that I came across during this talk was LLM guards (one example he mentioned was
+llama guard
+). There are many tools out there that can guard your LLM application to make sure every request & response doesn’t have anything malicious/rude/unethical going in or out.
+One of my highlights was to hear the journey of Udhyam’s Founder (Mekin Maheshwari). How he went from Yahoo (where we met Lobo) to Flipkart to mid-life crisis you could say where he posed questions on the meaning & his purpose in life ,to researching about the problem statement and to finally starting Udyam. Being from a tech background, Udhyam didn’t have any tech intervention in their first 4 years, which came as a shock to me. His reasoning was to first understand the problem, work on the ground and validate their model before moving to scale with tech.
+I had the opportunity to take two sessions during this sprint. One was with the user engagement track, where I presented a case study about how Dalgo helped The Apprentice Project to set up & visualize their engagement metrics. I was definitely nervous and out of my comfort zone here since it had been very long since I presented something in front of such an experienced crowd. In hindsight, it was a great learning experience and I will definitely incorporate feedback/shortcomings from this in my next talk/presentation. Another workshop I facilitated was on How you can create complex Agentic LLM workflows using
+Autogen
+package (collab notebook
+here
+). The format of the sprint felt like Un-conference because we all were learning and improvising as we progressed each day in the sprint. So I did a short course on LLM Agents the day before.
+There were a lot of other interesting conversations and sessions that I had the opportunity to experience & attend, like
+Noora Health
+talking about their Observability stack built using
+Langfuse
+,
+Kabakoo
+team took us through their Mentor AI bot built by integrating OpenAI, Whisper & ElevenLabs and
+Jacaranda Health
+presented their LLM stack using self-hosted models specific to their local language.
+Major problems that i could understand NGOs are facing in implementing LLMs are monitoring their stack, refining prompts (Edmund’s (from Agency Fund) session on this was super useful) & iterating on it quickly, observability (cost incurred, tokens used etc), issue with native/local languages and scaling the deployment, how to reduce cost when scaling.
+I am very excited to take all the learnings back, rethink about the problems faced by the NGOs, brainstorm, validate and see the viability of a LLM platform/service that we could potentially build at Tech4Dev.

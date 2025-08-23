@@ -1,0 +1,44 @@
+Title: August 2022 – A monthly Tech4Dev summary, analysis and reflection
+Author: Kurund Jalmi
+Date: August 2022
+Category: Avni
+URL: https://projecttech4dev.org/august-2022-a-monthly-tech4dev-summary-analysis-and-reflection/
+==================================================
+
+As we grow as an organization, we finally decided to have an official advisory board, to help us think more strategically, challenge some of our assumptions and bring in better governance practices. For the past few months: Erica Arya, Sanjeev Dharap, Arun Kadekodi, Kurund Jalmi and myself (Donald Lobo) have been meeting on a weekly basis as an informal advisory board. We decided to expand the board and got in
+Nidhi Goyal
+to help complement our current skills especially in the areas of business development, marketing and communications.
+I think this is as good a time as any for us to have a board and experiment with how we can improve as a collaborative. This has forced us to document some of our processes, figure out places we need help and things that each board member could help us out with. We are starting off with monthly meetings, which includes a monthly summary and figured it would be useful to recap what we did as a blog post, as part of the pre-read for the board members. An so here we are ….
+Am currently in India, and life is completely back to normal. Traffic is back to normal (i.e. crazy), airports are crowded, and face-to-face meetings are back. I met the Dhwani co-founders: Swapnil and Sunandan, who continue to amaze me with their passion, perseverance and drive and then had dinner with the Glific Delhi Team. Also had some good meetings and discussions with Aakanksha and Aashrey @ Act Grants, Geeta and Sanjay @ MSDF and Tarun @ Indus Action. Within Tech4Dev 2.0, our fractional CxO program and our new Development Data Platform seem to be really getting people’s attention. Revenues of the Glific and Avni platforms gives us a way to highlight that we are on track for our open source platforms to be sustainable in a few years from now.
+The Glific Delhi Team
+Its good to have a set of partners and project leads. My job gets a lot easier, since I can just check with them for the monthly recaps. So without further ado, updates from our various groups
+Gayathri Meka making the sales pitch for Women in Tech
+Women in Tech
+: Completed 6-month pilot for the 4 batches we started with Colored Cow. Out of 21 learners – 3 learners are actively contributing at Colored Cow through an internship (6 more to follow), 4 learners got jobs through campus placements. Initiated the process of starting more batches with SoftCorner. Visited 7 colleges in Pune-Nashik area to identify learners best fit for the program. Expecting to start new batches by end of Sep
+Avni
+: The Teach tool for AP Government built by World Bank and Leadership for Equity went live in this month. Applications for Indus Action (schemes facilitation) and Lend A Hand India (Livelihood and Education) were delivered to the NGO for testing and deployment. We have a good pipeline of 5 projects going live in the next month. The team is seeing some churn but overall ramp up and looking to onboard more people to the team in developer, analyst and QA roles
+Glific
+: Our count of active accounts is growing at a nice pace and sits at 54, with the total number of accounts since inception being 60+. We’ve started to see significant spikes in both messages being delivered and active monthly contacts. Our consulting contracts especially with Digital Green and Reap Benefit are allowing us to explore and extend the platform with new technologies: Exotel, Frappe, R/Shiny, Leaflet. The team is working hard to get a few features into the platform before the sprint in mid-Sept
+Development Data Project
+(DDP): This is still in the planning stages, but so-so close to lifting off. We have a good sense of what we want to build, an amazing set of NGOs that we will partner with for the pilot projects (SNEHA, STiR Education) and a good group of collaborators (Agency Fund, IDInsight, Dhwani RIS). We think we have the right combination of tools that we want to experiment with to begin with (AirByte, DBT, Postgres/BigQuery and SuperSet). Now all we need to do is execute 🙂 I’m super excited about this, especially since it pulls together all of our past work. It also gives our folks a chance to play with another set of technologies and skillsets to keep them excited and going.
+Aam Digital:
+Just kicked off a project co-creating a customized platform for NGOs managing mentorships in Germany. It’s exciting to design a system so focused on ensuring quality of guidance. This being government funded we are also learning that German ministries see open source as the future but have no concepts yet on how to handle legal and licensing questions. Beyond that, Tech4Dev support is a milestone for Aam Digital but we are also starting to approach social impact business angels to fund the period until we can fully cover our costs.
+Fractional CxO:
+Has been a slower month for this initiative, but lots of background action. We had two volunteers: Vinod and Sonal move to India this month and they will be up and running at full steam in September.
+Vinod R
+is joining Tech4Dev full time, and will lead the DDP project and be the SNEHA CxO.
+Sonal M
+has roped in her husband Anurag and they are working with
+Medha
+. We also managed to recruit
+Ankit S
+who will join us in Sept and start work with
+Reap Benefit
+and
+Indus Action
+. Finally,
+Arvind G
+also joined us and he has started consulting with our friends at
+Uninhibited
+.
+Well this short quick monthly update turned out quite long. I’m quite blown away by our progress on a weekly and monthly basis and am indeed super stoked. Great to be working with such an amazing and awesome team

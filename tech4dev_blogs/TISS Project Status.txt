@@ -1,0 +1,18 @@
+Title: TISS Project Status
+Author: Kurund Jalmi
+Date: January 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tiss-project-status/
+==================================================
+
+In our previous blog post, we mentioned how we extended primero to generate complex reports and also the hurdles we faced while setting up the production environment for TISS using primero. We have finished the development and deployment of the application and handed over to the TISS team.
+Here is a summary of the project. We have implemented a Case Management System for TISS, using an Open Source software platform PRIMERO. The key features that were implemented as a part of this project include:
+User creation
+Managing roles for users
+Role-specific forms
+Case management
+Case referral
+Report generation
+Here is a list of the project updates posted done during the implementation:
+https://chintugudiya.org/resource-centre-for-interventions-on-violence-against-women-tiss/
+https://chintugudiya.org/haq-tiss-extending-primero-to-generate-complex-report/

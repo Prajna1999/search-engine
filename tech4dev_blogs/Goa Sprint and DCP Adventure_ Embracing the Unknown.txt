@@ -1,0 +1,32 @@
+Title: Goa Sprint and DCP Adventure:            Embracing the Unknown
+Author: Amisha Bisht
+Date: February 2024
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/goa-sprint-and-dcp-adventure-embracing-the-unknown/
+==================================================
+
+The first cohort of
+DCP
+has come to an end. These three months have been packed with new stuff learning, experiences, meeting new folks, and dealing with fresh challenges. It’s my first time in such a program, and it’s been really good and useful for me.
+This is a big deal for me being part of a program for the first time. Everything was so new and everything felt refreshingly novel, at first the things were scary for me like the big terms data, management and all but everything was so good I worked alongside Abhishek Nair in the program. He was truly inspiring and taught me a lot. He helped me remember that this is my time to learn, and he made sure I got the most out of it. It was great working with him.
+We were assigned to an NGO called
+Uninhibited
+. They focus on making young girls aware of menstruation. Their goal is to help adolescent girls track their periods and understand their bodies better. This way, they can get the right healthcare when they need it. Making sure there are safe places for girls during their periods is super important.
+Uninhibited has different programs like Hello sathi and Period Shala. We mostly worked on Period Shala. It’s about making schools safe and cool for girls. The goal is:
+Changing how people think
+: Giving girls important life skills, making them feel confident, and getting teachers involved. It’s not just about physical health but also emotions and societal thinking.
+Changing the facilities
+: Making sure girls have what they need during their periods, like the right products and good bathrooms. They use data to talk to local authorities about it.
+Our role involved streamlining and consolidating data, addressing, top goals were finding a balance between processes and tech utilization. We also figured out how to use tech in a way that really helps the organization. When we shared data with other groups, we thought about what things we couldn’t compromise on. We also talked about using data to understand what’s happening and making sure everyone in the organization gets how important data is.
+Uninhibited Works with ‘Period Fellows’ on the ground to help implement their program on the ground and track student progress through the questions like,
+“Do they know about periods?
+How do they feel about it?”
+We helped them pick out the most important things to look at, and suggested them to narrow down their indicators . Working with Bhuvana and Sakshi from the Uninhibited team was really nice.
+They had been planning to adopt
+Avni
+for a long time and then they adopted it during the program. It’s a data collection tool that works both online and offline. It seemed like the best fit for Uninhibited.
+We wrapped up the program in Goa. It was awesome meeting everyone face-to-face. We kicked off with some fun activities to get everyone talking.
+We also did a chai pe charcha session where we invited the Goa ngo to get to know about our products and ask questions if they have any and get more clarity of our platforms in person.
+The entire Goa experience has been great. We went on morning walks and played team activities together, learning new and different meanings of teamwork. We discovered how we can tackle any small or big problem as a team. Sitting with people during lunch and listening to their life experiences was enlightening. I remember a conversation I had with Jacob during lunch. He shared what he likes about India, what he misses about the US, and how his washing machine is giving him a hard time. Conversations like these allow you to understand different perspectives and various ways to deal with problems. Everyone has their own.
+Many takeaways, from framing questions to broadening my spectrum, made this journey a valuable experience.
+In a nutshell, this DCP journey was like a mix of learning and fun, and a chance to dive into the unknown Looking forward to what comes next!

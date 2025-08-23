@@ -1,0 +1,49 @@
+Title: Fractional CXO at SEARCH, Gadchiroli
+Author: Antony Justin
+Date: February 2025
+Category: Fractional CxO
+URL: https://projecttech4dev.org/fractional-cxo-at-search-gadchiroli/
+==================================================
+
+Overview:
+“As we work to create light for others, we naturally light our own way.”
+is one of the best ways for me to introduce this blog which is about my experience of helping an NGO in strengthening and improving their operations.
+Organisation Background:
+The
+Society for Education, Action, and Research in Community Health (SEARCH)
+is a non-governmental organization established in 1986 by Drs. Abhay and Rani Bang in Gadchiroli, Maharashtra, India. Guided by Gandhian principles, SEARCH aims to achieve “Arogya Swaraj,” or “People’s Health in People’s Hands,” by empowering communities to manage their own health and attain freedom from disease and dependence.
+SEARCH
+has achieved significant milestones since its inception in 1986 especially in the areas of Home based Neonatal care, Alcohol and Tobacco de Addiction and several tribal health programs. SEARCH also runs a tribal hospital catering to both tribal and non-tribal populations of Gadchiroli. SEARCH runs various initiatives towards identifying and nurturing young individuals committed to social change as part of their NIRMAN initiative.
+Through rigorous community-based research, SEARCH has published numerous studies influencing health policies at state, national, and global levels. Their work has provided evidence-based solutions to pressing health challenges in marginalized communities.
+Life at Shodgram
+SEARCH is an organisation that is steeped in Gandhian principles and it is an understatement to say that the words of Gandhiji
+“live simply so that others might simply live”
+resonate in each and every nook and corner of “Shodgram” (name of the SEARCH campus).
+The first thing that hit me during my time at SEARCH was how facile it is to lead a simple life and how ridiculously easy it was to take care of your environment when there is collective will to do so.
+It has been a pleasure to participate in their biweekly campus cleaning activities of cutting foliage and weeds that are converted into compost that is used for the plantations and gardens inside the campus. Having been asked not to venture out of campus for my early morning or late evening jogs owing to the presence of tigers in the vicinity, I ended up walking all around the campus with my new “besties”, Alpha, Beta, Gollu and Chumki!
+Objectives of the FCxO Engagement
+True to their nature of being pioneers in community health research, SEARCH had identified the potential of the transformation that could be brought into the scope and scale of community healthcare and empowerment using AI. However, considering the challenges of their operating environment as well as the legacy systems currently in place, SEARCH decided to collaborate with Project Tech4Dev to bring in the necessary technical expertise and experience necessary to orchestrate the introduction of AI within the research and programs of SEARCH through the FCxO program, thus beginning my journey of working with SEARCH.
+The collaboration codenamed “AI Saksham” aims at enabling SEARCH in their mission of transitioning from hospital based health care to Arogya Swaraj through community level engagement.
+Clarity of outcomes
+With an emerging field that is evolving at such a rapid pace as AI, it is very plausible that focus gets diluted across multiple experiments and it is the job of the FCxO to create the necessary segregations and classifications of the use cases so as to set expectations in the best possible manner. It was proposed that the AI interventions be segregated into two buckets; Operations and Knowledge.
+This was necessary to establish clarity across the organisation as to the initiatives that were aimed at improving efficiency/increasing scale and those that were aimed at improving the quality of the research, data and ultimately knowledge within the organisation that can then be channeled back into the programs and research.
+The interventions selected were bracketed under these two broad umbrellas to ensure fair amount of focus being given to both efficiency and learning.
+Theory of change
+The project is a fascinating experiment of trying to revolutionise program delivery and research using cutting edge technologies while upgrading legacy systems in tandem while ensuring uninterrupted delivery of services.
+It is very important, at such junctures, for the FCxO to understand existing processes and infrastructure (read tech tools, servers etc) and to weave an upgradation roadmap that is both necessary and catalytic to the big bets envisioned by the organisation.
+Existing infrastructure and processes were reviewed in detail to understand the objectives of the respective processes. For each of the processes reviewed, upgradation ideas (wherever necessary) were formulated that would be beneficial both to the program in isolation but also to the progress towards the eventual tech ecosystem as envisioned by the NGO.
+Powered with an understanding of the current setup which includes a tech assessment of the existing tech landscape and clarity about the big bets that the organisation is looking towards, a theory of change was proposed that presented the future state of the tech ecosystem and a visualisation of how this was necessary to achieve the end state which in this case was using AI for both operational efficiency as well as better research and predictions.
+The onus is on the FCxO to take a birds eye view of the entire organisation and be able to visualise and present the extent of the impact of the proposed changes across the organisation. The FCxO is to ensure that the proposed changes address digitisation, modernisation as well as be able to champion process changes wherever necessary to reduce redundancy as well as wastage of human resources.
+“Saksham” (empowerment) and not replacement is to be ensured so as to make the changes be executed in a manner where  it not only replaces older systems but also empowers and enables the existing teams to operate these tools better and make better use of their time.
+Roadmaps and the “Divide and conquer” mantra
+Having driven alignment with the organisation leadership on the broad spectrum of changes required to achieve desirable state, focus shifts now to creation of breaking down of the overall plan into smaller deliverables that are then used to draw up project plans and timelines based on the relations and interdependencies among these smaller blocks.
+Each of these plans are planned to be executed in an “agile” manner so as to shorten the timelines of incorporating feedback and learnings into future iterations.
+Low hanging fruits are being chosen that can act as a primer for related activities and are being addressed so as to provide early feedback both the success of the pilots but also about the capability of the teams to adapt and evolve.
+The aim is to gradually build robust and scalable foundations for the entire tech ecosystem but also ensure identification and experimentation on use cases on the ground to drive alignment to latest trends and advances, especially in the AI space.
+I look forward to future blogs where I will record more progress, wins and learnings from this exciting initiative.
+Personal reflections on being a FCxO
+One of the best benefits of being a FCxO is the opportunity to be as close to the ground as possible with people who are committed to bring about social change and make a difference in the lives of the common people.
+Personally I found it very inspiring to understand their personal motivations that make them do what they do and this makes the process of enabling and empowering them a deeply satisfying and humbling experience.
+I now look forward to as many more engagements as possible for more learning, collaboration and meaningful contributions.
+And I now am able to truly understand Roy.T. Bennett when he said that
+“Success is not how high you have climbed, but how you make a positive difference in the world”

@@ -1,0 +1,232 @@
+Title: Tech4Dev Project Report #13 – Apr 2022
+Author: Kurund Jalmi
+Date: May 2022
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-13-apr-2022/
+==================================================
+
+Tech4Dev
+Mission
+Building the Open-Source Technology Ecosystem for the Social Sector.
+More information:
+Tech4Dev 2.0 Concept Note
+,
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Summary & Highlights
+Q1 2022
+– The world continues its roller coaster ride with the pandemic, and it seems like the pandemic is slowing down as we swing back to normalcy at a fast and furious rate. It feels good to resume in-person meetings with our funders, software partners, and NGO friends. Overall, we are quite positive about the future and looking forward to expanding our interaction with our partners significantly in 2022
+Tech4Dev
+hired our first country head for India
+Erica Arya
+. Erica comes with a great combination of working both at technology companies and in NGOs leading the path in digital communications (
+Digital Green
+and
+BBC Media Action
+). We look forward to seeing Erica take Tech4Dev 2.0 to new heights and help us build a stronger ecosystem. You can read more about Erica in her
+introductory blog post here
+. To help us in our work with our NGO partners weve also recruited
+Ranjana Gosavi
+. Ranjana will be leading our business development efforts with our NGO partners initially for Glific and later on for other Tech4Dev platforms.
+We welcome
+The Agency Fund
+– a non-profit foundation that invests in ideas & organizations
+that support the navigation of difficult lives and
+Cisco
+– a technology company based in Silicon Valley into the Tech4Dev funders collaborative. It is super encouraging to see more funders who are willing to bet on the ecosystem and partner with us in our vision of building open, shared, and transparent platforms. The Agency Fund grant is for Glific to build new features to extend the platform to better serve the needs of our partner NGOs. The Cisco grant is for Glific to Productize Educational Interactions via WhatsApp. We will be working with a cohort of 8 education based NGOs over the next one year to extend and strengthen their use of Glific.
+Glific
+continues to make solid progress on both customer acquisition and consulting contracts. We onboarded another 8 NGOs this quarter and picked up a large consulting contract to help develop and maintain a chatbot with a large number of potential users. We are still working with NGOs to enable at least a few of them to explode in terms of both messages and contacts, and we hope to hit that benchmark sometime this year. The team met in person in February at my moms place in Mumbai. We invited a few NGOs to co-work with us. More details and feedback from our
+NGOs on the event are here
+. Our next sprint will be in
+ColoredCows
+Delhi office the week of April 11th.
+Women-in-Tech – A pilot with HyperVerge Academy
+This quarter saw us kickstarting the Women in Tech pilot with HyperVerge Academy and Colored Cow to upskill young women in the field of software development, empowering them to seek well-paying internships and jobs as developers, in turn improving the gender diversity ecosystem in the tech space, particularly in tech for non-profits.
+We onboarded 21 young women pursuing their degrees from THDC-IHET, Tehri ranging from 1st year to 4th year students.
+The young women were split into 4 batches and are being mentored in technical skills by software engineers from Colored Cow. They are also being mentored in soft skills by volunteer mentors sourced by HV Academy.
+We are currently at the 2 month mark, and have managed to retain 20 of the 21 young women in continuing the program and delivering consistent weekly outcomes.
+In 2 months, each of the learners have picked up the basics of programming and have gotten their hands dirty by building a simple web application of rock, paper, scissors using HTML, CSS and JS. They are now in the process of building a social media application by themselves using MERN stack.
+Here
+is a collection of all the weekly blog posts penned by our learners reflecting on their journey at WIT across 2 months.
+You can read more about the teams experience of piloting this program
+here
+and
+here
+.
+Tech4Dev 2.0
+Tech4Dev 1.0 completes its three year funding cycle with this report. Weve been hard at work conceptualizing what wed like our next three year plan to look like based on the learnings from the first version. Our main focus will be to strengthen the nonprofit tech ecosystem in India. The important aspects of Tech4Dev 2.0 include:
+Continue our work from the first cycle, specifically strengthening our platforms, expanding support for Glific, Avni and supporting/adopting three new open source platforms in the next three years.
+Pilot a Women-in-Tech program where we will create opportunities, help upskill, and spread awareness for young women engineers and designers to create large-scale social impact through their work.
+Pilot a Fractional CTO Program where we deploy an experienced technologist to help NGOs actively monitor, evaluate, iterate, and integrate technology into their overall programs We will do this by assigning dedicated fractional CTOs to our selected cohort of NGO partners.
+Raise USD 7.5 million, with Chintu Gudiya Foundation at USD 2 million and 4 marquee funders at USD 1 million each. We also anticipate revenues of up to USD 1.5 million during this period.
+You can read the beta draft of our 2.0 plan
+here
+.
+Financials
+Income
+Grants – Contributions
+Funders
+2019 ($)
+2020 ($)
+2021 ($)
+2022 ($)
+2022 (?)
+International Funders
+$781,500
+$746,025
+$967,165
+$0
+?0
+Contribution from NGOs
+$0
+$14,300
+$0
+$0
+?0
+Indian Funders
+$10,000
+$71,430
+$20,000
+$0
+?0
+Total Grants Received
+$791,500
+$831,755
+$987,165
+$0
+?0
+Expenditure
+Support for NGOs – Expenses
+Sector
+2019 ($)
+2020 ($)
+2021 ($)
+2022 ($)
+2022(?)
+Rights and Advocacy
+$133,841
+$72,733
+$0
+$0
+?0
+Education and Life Skills
+$177,534
+$96,959
+$0
+$0
+?0
+Governance & Public Finance
+$55,570
+$51,222
+$0
+$0
+?0
+Health
+$15,857
+$74,102
+$0
+$0
+?0
+Technology
+$25,000
+$50,000
+$0
+$0
+?0
+Rural Development
+$31,380
+$0
+$0
+$0
+?0
+Research
+$48,885
+$229,007
+$154,108
+$46,354
+?11,558,100
+Support for NGOs – Total Costs
+$488,067
+$574,023
+$154,108
+$46,354
+?11,558,100
+Other Costs – Expenses
+Area
+Description
+2019 ($)
+2020 ($)
+2021 ($)
+2022 ($)
+2021 (?)
+Events + Travel
+Attendance at funder & partner events
+$17,900
+$2,000
+$3,500
+$0
+?262,500
+Strategy + Legal
+Fees paid to Svarya
+$18,500
+$69,108
+$6,600
+$0
+?495,000
+Other Costs – Total Costs
+$36,400
+$71,108
+$10,100
+$0
+?757,500
+Total Expenditure
+$524,467
+$645,131
+$164,208
+$46,354
+?12,315,600
+Surplus for the year
+$267,033
+$186,624
+$822,957
+-$46,354
+?61,721,775
+Surplus to date
+$267,033
+$453,657
+$1,276,614
+$1,230,260
+?95,746,050
+Details on individual projects can be accessed
+here
+.
+Want More
+Details?
+All our blog posts can be found on
+the project website
+and
+Glific blogs
+. All project documentation can be found on our
+shared google drive folder
+.
+Tech4Dev 2.0 Concept Note
+Glific Website
+,
+Glific One Pager
+Avni Website
+,
+Avni 2 Pager
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Mumbai Sprint Report – Feb 2022
+Delhi Sprint Report – Apr 2022
+Tech4Dev Project Report #12 – Jan 2022
+Tech4Dev Project Reports for 2021 (#8 – #11)
+Tech4Dev Project Reports for 2020 (#4 – #7)
+Tech4Dev Project Reports for 2019 (#1 – #3)
+Reach out to us via
+email
+or find more information on our
+website

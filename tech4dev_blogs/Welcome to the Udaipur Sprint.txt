@@ -1,0 +1,33 @@
+Title: Welcome to the Udaipur Sprint
+Author: Donald Lobo
+Date: July 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/welcome-to-the-udaipur-sprint/
+==================================================
+
+Another quarter, another team meeting, another sprint with our software + data partners in the ecosystem and NGOs using Glific and/or DDP. This is one of our larger sprints, with the entire Tech4Dev team along with the Avni team meeting in Udaipur for a week of planning, user research, design, and coding.
+In addition to the team, we also have a few ecosystem partners:
+GoalKeep
+,
+Social Bytes
+,
+Agency Fund
+,
+Dasra
+attending this sprint along with our partner NGOs: SNEHA, Key Education Foundation, Quest Alliance, The Apprentice Project, Primal Foundation, Reap Benefit, Udhyam, Bharat Rohan and Lend-a-Hand India. We also have 7 interns from
+Code for GovTech
+who are contributing to our platforms also attend the sprint.
+It’s been such a nice journey to see how these gathering have evolved over the past 18 months. Our first gathering post-Covid was approximately 18 months in
+Tehri
+. It was more of a broad gathering across a few NGOs and partners with no specific focus.
+The pendulum has swung significantly since that sprint. The sprint in Udaipur is super focussed with 5 verticals of Tech4Dev (Glific, Data Platform, Fractional CxO, Avni, Finance & Management) having their own agendas, participants and sprint schedule. The nice thing about such a gathering is the cross pollination across different groups during the morning talks, at various meals, evening excursions and early morning walks.
+Introductory session with the Tech4Dev and Avni Teams where we discuss culture, principles and roles
+To me the best part of these events are the morning walks where you get to have deeper conversations with folks and the meals where you learn more from people you’ve never met. In addition, sampling the treats that people get from all over India and the world is quite special. It’s also gratifying and nice to watch the team execute and run these events with minimal input from me. Some sights from our morning walk and evening outings.
+To help us learn more and get a deeper understanding of the ecosystem, as part of the sprint we are getting participants on two NGO field trips (thank you to
+Ajeevika Bureau
+and
+Basic Health Services
+). We are also having their team come and spend time with us during the sprint.
+Looking forward to reading other
+people’s take on the events
+and getting to meet lots of new folks.

@@ -1,0 +1,76 @@
+Title: Two Way Communication Project Kickoff
+Author: Kurund Jalmi
+Date: May 2020
+Category: Glific
+URL: https://projecttech4dev.org/two-way-communication-project-kickoff/
+==================================================
+
+After a fair bit of planning, we finally kicked off the two-way communication project earlier this week. Our kickoff meeting was May 11th, 2020, though we had an email discussion going the previous week. Super excited to finally get started on the project and come out with a solid two-way communication platform for use by the social sector.
+Briefly, the platform will allow the staff at an organization to communicate with their end-users in an easy manner, keep track of the different conversations happening with each user, assign a group of users, or cases to be handled by a specific staff person and more. This will initially target users on WhatsApp via its Business API. An example use case is a public health NGO interacting with a patient after they have left the hospital/clinic and ensuring they are following all the post-hospital instructions. This also gives the patient a channel to ask questions to the NGO staff and seek help as needed. Over a period of time, common questions can be answered automatically by the system. The blog posts in the next few weeks will detail more use cases and some of the features in the first release.
+Features at a Glance
+A Software as a Service (SaaS) platform for NGOs to communicate with their users frequently in an easy, intuitive way.
+The communication could be structured or unstructured with content tailored for the end-user on WhatsApp.
+Easy to build chatbots, based on either response from the user or date/time/schedule based delivery.
+Organizations can have multiple people using the platform at the same time.
+Over time, as the system learns a pattern of questions and responses, use technologies including AI, Natural Language Processing (NLP) and Machine Learning (ML) to automate the simpler tasks.
+Team Information
+Personally, for me (
+Lobo
+), it brings back good memories of starting
+CiviCRM
+, 15 years ago, a project still going strong with an amazing community ecosystem behind it. We plan to learn and improve from that experience, building on things that worked great, and avoiding our previous mistakes. It’s an honor and privilege to kickstart the project with Kurund from
+Web Access,
+who was part of
+CiviCRM
+‘s founding team.
+We have three partners from Project Tech4Dev involved in the project currently:
+Colored Cow
+,
+Think 201
+, and our long term collaborators
+Web Access
+. Colored Cow and Think201 are contributing 2 developers and a part-time project manager/design resource. Kurund from Web Access will use his experience and expertise to help manage the overall project, with a focus on the front end. For the first few months, I will be leading the backend aspects of the platform.
+The TwoWay Team
+In the first week we spent a lot of time listening to 4 NGOs, and the problem they are solving using WhatsApp Business API. The discussions were quite energetic with the team asking a lot of questions to the NGOs. The main purpose was to give the team a solid sense of the needs of these NGOs, their current challenges, and to expose them to the different ways different folks are thinking of the problem. We do believe that interacting with our end-users on a regular basis is super important and will be having presentations as often as we can.
+We are using a lot of new technologies (to us) both for the frontend and backend. As such, we need to do a fair bit of homework, catching up and learning functional programming, Elixir, GraphQL, Phoenix, React, Redux, and more. We expect to continue on our learning and research phase for the rest of this month.
+Since we are split up between the Bay Area, Bangalore, Mumbai, and Delhi, all our meetings are remote and online. We’ll be having standup meetings three times a week and the backend and frontend groups will meet on a daily basis for peer discussion, learning, and pair programming.
+Quarterly Goals
+Choose a name for the project and build the base infrastructure: Website, GitHub Repository, and Community Chat Channel.
+Define product features for the first three releases.
+Build and rely on an NGO Advisory Group. Use them in our human-centered design approach.
+Release v0.1 within 3 months from the project start. Post that, there will be monthly releases.
+Build a pipeline of potential NGOs that can use the platform in v0.3+
+Get two more foundations/funders on board before the end of the year.
+Our commitment to you
+All our work will be transparent and published on Google Drive, on our website, and/or on our GitHub repository.
+All our software work will be licensed under
+GNU AGPL v3
+. All our documentation will be also be licensed under a free and open license.
+We will follow best practices to manage, create, and sustain a vibrant and thriving open source community and ecosystem around the project.
+We will blog about the project on a weekly basis at least. Blogging duties will be rotated among all the team members.
+We will release early, release often and use automated testing as much as possible along with good documentation to ensure the quality of the product. Eventually, we will get to a predictable release cadence so downstream users know what’s coming.
+We will be transparent about our financials and our funding sources.
+How can you help?
+If you are an NGO that communicates with your users frequently, we’d love for you to talk to our team. We are also forming an NGO advisory group that will meet monthly.
+If you are a foundation and/or funder and are interested in supporting this work, please do get in touch. Project Tech4Dev is seed funding this project, but we are looking for additional funding partners. You can email us at
+tech4dev@chintugudiya.org
+If you are a software company interested in joining the project, send us an email. We hope to make this a lot easier after our v0.1 release where you can contribute to our public GitHub repository.
+Gratitudes
+Firstly, to the Project Tech4Dev funders who have been super supportive from the very beginning. You are the reason this is happening 🙂
+To the amazing partners collaborative at Tech4Dev. May we grow stronger over time.
+To the
+third cohort participants
+and our technology partner
+turn.io
+who showed us what can be done and the impact, we can achieve.
+To the partners on the team currently, who have reduced their rates by 33% for this project in accordance with our
+open-source platform guidelines
+.
+To all the NGOs in India, especially during these times. You are our source of inspiration.
+Need more information?
+Check all the document in our
+Google Drive folder
+In specific, you might be interested in our
+meeting notes and plans
+Get in touch with us for any comments, questions, feedback, thoughts or more. You can email us at
+tech4dev@chintugudiya.org

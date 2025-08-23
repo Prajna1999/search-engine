@@ -1,0 +1,134 @@
+Title: Vanna.ai vs Askametric
+Author: Ishan Koradia
+Date: July 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/vanna-ai-vs-askametric/
+==================================================
+
+Disclaimer:
+This was a first attempt at comparison and did not involve deep fine tuning of prompts. Our goal was to take the tools and see how they would compare with minimal prompt engineering and database knowledge. Fine-tuning the system message and DB description for both systems and other augmentation of the LLM with data schema might yield better results.
+Text to sql comparison
+?
+Vanna.ai
+Askametric
+Inner workings
+Uses a RAG model
+Uses few shot prompting
+LLMs
+Multiple llms integration out of the box and can be extended to other llms
+Can be extended to other llms
+Databases
+Supports all standard sql dbs and can be extended to others not present
+Supports all standard sql dbs? that are available in sqlalchemy
+Releases
+Been in the market for little over a year now with good amount of github stars
+Fairly new
+Feedback loop
+Present
+Not present yet
+Contextual memory
+Yes
+No
+OSS apis
+Yes
+No
+Experiment
+I connected both the tools to a local
+Prefect
+database that has been running
+Dalgo
+development(or local)? pipelines and asked a bunch of questions –
+What is the distribution of deployments per org ?
+What is the distribution of flow runs by org ?
+Tag each flow run to its deployment name and the work pool it was executed or belongs to
+With each question, the complexity (no of joins) of the query will increase. Lets see how the tools performed on all these questions
+Training
+Askametric
+doesn?t require any training as such, it only needs a system prompt and the description of the database as follows.
+Vanna.ai
+was trained on the information schema and the database description used above
+Results
+Q1. What is the distribution of deployments per org ?
+Vanna.ai
+Query generated –
+SELECT 
+    tags->>0 AS organization, 
+    COUNT(*) AS deployment_count
+FROM 
+    deployment
+GROUP BY 
+    tags->>0;
+It got the correct information from the correct place expected. It also gave a table of the output distribution of above query along with the summary below
+The distribution of deployments per organization shows that most organizations have only 1 deployment, with one organization (test_auto) having a significantly higher count of 63 deployments.
+This description is also accurate. In my dev environment, i usually play around with one org when i working on Dalgo & hence that one org ?test_auto? has the highest count of deployments
+Askametric
+Query generated –
+ProgrammingError: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedFunctionError'>: operator does not exist: text ->> unknown
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+[SQL: SELECT parameters->>'config'->>'org_slug' AS org_slug, COUNT(*) AS deployment_count FROM deployment GROUP BY parameters->>'config'->>'org_slug';]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+Askametric couldn?t figure out that the information is in the ?tags? column which is of Jsonb type, although this was mentioned in the database description & should have been part of the context.
+Q2. What is the distribution of flow runs by org ? (requires one join)
+Vanna.ai
+Query generated –
+SELECT 
+    deployment.tags->>0 AS organization,
+    COUNT(flow_run.id) AS flow_run_count
+FROM 
+    flow_run
+JOIN 
+    deployment ON flow_run.deployment_id = deployment.id
+GROUP BY 
+    deployment.tags->>0;
+It figured out the correct join to do. It also gave a table of the output distribution of above query along with the description below
+The distribution of flow runs by org is as follows:
+- test_org_check: 1
+- dev: 4
+- test_auto: 753
+- delete-later-11: 2
+- dev-bigquery: 8
+- new-org: 1
+- delete-later: 4
+Askametric
+Query generated –
+ProgrammingError: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedFunctionError'>: operator does not exist: text ->> unknown
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+[SQL: SELECT d.parameters->>'config'->>'org_slug' AS org, COUNT(fr.id) AS flow_run_count FROM flow_run fr JOIN deployment d ON fr.deployment_id = d.id GROUP BY org;]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+Askametric couldn?t figure out the correct join and the subsequent query. It’s the same error as above where it tries to read the org information from a different column but not the column mentioned (?tags?) in the database description.
+Q3. Tag each flow run with its deployment name and the work pool it was executed or belongs to (requires 3 joins)
+Vanna.ai
+Query generated –
+SELECT 
+    fr.id AS flow_run_id,
+    fr.name AS flow_run_name,
+    d.name AS deployment_name,
+    wp.name AS work_pool_name
+FROM 
+    flow_run fr
+JOIN 
+    deployment d ON fr.deployment_id = d.id
+JOIN 
+    work_queue wq ON d.work_queue_id = wq.id
+JOIN 
+    work_pool wp ON wq.work_pool_id = wp.id;
+This is super accurate. Figured out the all correct tables and all the correct joins. The description it generated is also correct, I have only two pools in my local setup ?dev_dalgo_work_pool? and ?default-agent-pool?
+The data contains flow runs tagged with their deployment names and the work pools they belong to. Most flow runs are associated with the "dev_dalgo_work_pool" and "default-agent-pool" work pools. The deployment names vary, with many related to airbyte-sync, dbt-run, and pipeline-test_auto executions.
+Askametric
+Query generated –
+SELECT fr.id AS flow_run_id, fr.name AS flow_run_name, d.name AS deployment_name, wp.name AS work_pool_name
+FROM flow_run fr
+LEFT JOIN deployment d ON fr.deployment_id = d.id
+LEFT JOIN work_queue wq ON fr.work_queue_id = wq.id
+LEFT JOIN work_pool wp ON wq.work_pool_id = wp.id;
+The query is accurate. Askametric figured out the right tables and the right joins. However, it couldn?t summarize the results like vanna ai did.
+However, the response to the SQL query was too long to display here. To get the specific details, you would need to run this query in your database management tool to see the full list of flow runs along with their corresponding deployment names and work pool names
+Conclusion
+As per the preliminary analysis,
+Vanna.ai
+did a better job than
+Askametric
+. I am not sure if the answers could have been better with some fine tuning of system prompt & the database description for askametric. I didn?t go down that route.?
+As per Dalgo?s points of view, the apis
+Vanna.ai
+offers are very handy & can be easily integrated in our ai/llm service that will be exposed to Dalgo or in general tech4dev platforms.

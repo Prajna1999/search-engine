@@ -1,0 +1,24 @@
+Title: HAQ: CMS Phase 2 update
+Author: Kurund Jalmi
+Date: August 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/haq-cms-phase-2-update/
+==================================================
+
+Last year, we implemented the
+Case Management System (CMS) for HAQ
+as a part of the second cohort. The application is extensively used by the HAQ team and more than 1000 cases have been created in the application. They reached out to us to add some enhancements that will help them to streamline the current process. This phase of the HAQ development included tweaking existing modules, adding a few new functionalities and also changing a few workflows due to new government policies.
+Prior to CMS implementation HAQ used conventional file and paper approaches to do their jobs hence, some of the processes where based on that. After using CMS they found more areas that could be automated and revised/updated their existing policies & logic for the data collection.
+In this development phase, their requirement was focused mainly on the following areas:
+Estimation of more reliable and accurate reports
+Updating existing forms, and data representation for various user roles
+Updating methods and the computation for different elements
+Here are primary activities that were carried out:
+Creation of a new training module
+Generating a calendar-based monitoring system to track the court hearing for lawyers
+Consolidated data export list
+Add & update various data collection forms
+Reporting error fixes and changes according to the new requirements
+Dashboard update with more information
+We have also built some custom functionality that is part of the dashboard.
+The project is completed and has been deployed on the production server. We are waiting for final feedback from HAQ team.

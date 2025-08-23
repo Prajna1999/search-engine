@@ -1,0 +1,54 @@
+Title: Sprints are Back: Second Education Cohort Day 1 Welcome to Dehradun
+Author: Kurund Jalmi
+Date: September 2022
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/sprints-are-back-second-education-cohort-day-1-welcome-to-dehradun/
+==================================================
+
+This blog is written by Tejas from
+Reap Benefit
+Surrounded by the beautiful foothills of lower Himalayas, the tech4dev sprint is back, this time around camped in
+Salwoods
+resort, Dehradun.
+View from the restaurant at the Salwoods resort
+The education cohort sprint brings together an amalgamation of folks from tech, social impact and the folks juggling both these roles seamlessly. This is where the small group of thoughtful and committed citizens, connected over discord get to meet in person to accelerate cross learning, problem solve with each other, level up the tech game and most of all celebrate the people and the wins for which the platform is in service of.
+It was therefore only fitting to get this group who is nonstop on the go in resolving issues, developing cutting edge tech for good, and unlocking high scale impact to huddle up and reflect on the months gone by doing what they do best.
+The team in huddle
+One of the first things we did was to celebrate the wins that have been enabled by the use of technology and
+Glific
+platform. A sure shot way to get a boost of dopamine to refuel for the work being done. Here are some of the wins shared by the NGO and
+Glific
+team present on spot.
+Naveli and Aparna from
+STiR education
+celebrated winning partnerships with 2 state governments (Tamil Nadu and Karnataka). Enabled by tech, this team showcased behavioural information of key education stakeholders (district leaders, school leaders and teachers) in government schools. This partnership will help the systems identify best practices and areas that need more support, thus putting STIR one step further towards their vision of creating a world where children love learning and teachers love teaching.
+Naveli and Aparna from Stir Education
+Abhishek from
+Indus Action
+celebrated creating strategic data pipelines that will enable NGOs to save time for data processing, data analysis and will speed the delivery of services to thousands of beneficiaries. Another win that Abhishek was proud to share was scripting an algorithm for the AP govt, that will enable right to education (RTE 12.1.C) for hundreds of disadvantaged students and will help them to get allocations in private schools.
+Abhishek from Indus Action
+Gautam and Tejas from
+Reap Benefit
+celebrated the success of integrating the IVRS with the
+Glific
+chatbot which helped onboard more than 5k citizens from Delhi in less than 3 months to become Paryavaran Mitras and start contributing in local civic and climate participation. This will enable them to build self reliance and resilience to tackle climate change at a hyper local level.
+Tejas and Gautam from Reap Benefit
+Abhideep from
+Gramvani
+celebrated piloting conversational Q&A over voice which helps to disseminate knowledge on modern agricultural practices. Adaption of this technology could potentially help 600,000 farmers across MP and Bihar alone to get more financially resilient, transition to organic farming, improve the ferticility of the soil they are cultivating. The same technology could potentially be extrapolated to various fields like healthcare, access to schemes and so on.
+Abhideep from Gramvani
+Abhishek and Erica celebrated onboarding new NGOs to the
+Glific
+family. Their rationale for celebrating winning over these NGOs is the certainty and the excitement they feel for accelerating the impact in the diverse backgrounds that will be enabled by using Glific, some of the high impact and scale names that the team fondly recalls onboarding are
+Deshpande Foundation
+,
+Digital Green
+,
+Key Education Foundation
+,
+VOPA
+Erica and Abhishek from Glific
+No win, how big or small, is possible flying solo and there is always something or someone to be grateful for. As a sprint comes to an end and another one begins, we touch base with counting our blessings and being grateful for the good things that are on going.
+Here were some snapshots from the sticky notes of appreciation and gratitude from both NGO teams and the
+Glific
+team for the awesome job that they have been doing. This is the fuel for the engine that keeps the gears of change turning.

@@ -1,0 +1,48 @@
+Title: Glific: Support Journey
+Author: Kurund Jalmi
+Date: March 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/glific-support-journey/
+==================================================
+
+About Glific
+Glific
+is an open-source two-way-communication platform. It is a simple to use tool, with a complex setup of Whatsapp business API, Gupshup, Google cloud storage, BigQuery, etc running behind the scene.
+Tides
+is the SAAS platform for Glific, hosted by ColoredCow, which NGOs subscribe to and use for their needs.
+We launched v1.0 a few days ago. The team is excited more than ever and now building new features and functionality every day. Every day there are intense conversations around features that should go first which helps NGOs connect with their beneficiaries efficiently and in an easy manner.
+Glific welcomed by the NGO community
+Glific is received well by the NGO community. We are onboarding new NGOs on a regular basis. Currently, Glific has 17 NGOs who are using the platform to connect with their beneficiaries and making an impact.
+Growing NGOs and their queries
+As the number of NGOs is growing, the number of their queries, issues, and new requirements is also increasing. At first, the product team and the technical team helped NGOs with their onboarding queries and issues. As these queries are coming from Glific NGO users, it is very important for us to respond to them in time. This is a growing challenge as the same team is working on developing new features as well as supporting them. They needed to concentrate on their respective areas to fasten the development process.
+The need for a dedicated support team
+It is evident that a dedicated support team is needed to help the customers with their day-to-day issues and free up the product team and the development team from this responsibility. The support teams role is very crucial. It has to work as a bridge between NGOs and the product team. They needed to empathize with the NGOs, understand their issues, resolve them. Hear out their suggestions and convey them efficiently to the product team for further evaluation of their value to the larger NGO community.
+I joined the team during the last week of December 2020. The purpose was clear, to establish the support process. Share the burden of the product and development team, so that they could concentrate on their respective work. And gradually phase them out from the daily support needs. The prime challenge here was that this transition of support to a new team shouldnt impact NGOs and their functioning.
+Formation of the support team
+In order to transition the support quickly and seamlessly, it is decided that the support team gets involved in the day-to-day activity from day one. Learning the support needs on the go, observing how the product team is resolving the issues.
+Learning and observing
+The initial target was to just listen to what NGOs were saying, understand their requirements and provide support from the documents available. If something goes beyond that, involve the technical team right away and resolve the query then and there. We are using the
+discord
+channel to answer NGOs questions and it is helping us to collaborate and respond to queries real quickly.
+We started learning more from the support calls. To learn even more about the issues NGOs were facing we started doing collective
+sessions
+with them. We answered their queries about the features and took notes of the challenges they were facing.
+As our knowledge grew, we started documenting it. The approach is to document every query NGOs are asking us. Thereby creating a true support knowledge base.
+Streamlining the support process
+We started managing these support articles in Google Drive and started sharing them with the NGOs. But as the number grew, this model isnt working as efficiently for a larger audience.
+During one of our daily standups, we discussed this challenge among the group. Lobo suggested evaluating
+Slab
+, a tool for efficiently managing these articles. We found this tool useful and started migrating the support articles. It helped to keep all the documents in one place. It is easy to review and publish the articles and share them with the NGOs.
+Any time a new kind of query or issue is asked, we create or update the articles. I was learning on the go while resolving issues and creating these support documents. After completing my knowledge about the product, I reached the state where I started handling supports independently.
+The next step is to understand the system better. I started exploring the system, myself, wherever I needed help I looped the product team in. This helped me to understand the system better and I started creating documents about the product features, which I learned during my exploration of the system.
+Easy accessibility of help documentation
+Slab is working fine for the documentation but the way we were sharing them with NGOs, it is getting tough for them to remember the relevant documents URL. With the increasing number of documents, it is becoming even more difficult. They were either saving the URLs somewhere or adding them as bookmarks on their browsers.
+The team then came up with an idea to place these documents
+http://docs.glific.org/
+on the Glific dashboard itself. This made the documents easily accessible for the NGOs which they could use whenever they needed to.
+Gradually, I have reached a point where I am keeping pace with the launch of a new feature and its support document. NGOs can now get immediate help on any new feature.
+Support impact to the product
+From time to time, NGOs have suggestions about use cases that can ease their process of connecting with their beneficiaries. We have started capturing them in a form of requirements. These requirements are now added to the list of future feature candidates. Which upon passing the evaluation during our internal team meeting gets added to the
+product roadmap
+.
+Further, we plan to have regular meetings and training sessions with all Glific NGOs to get their suggestions and requirements, which can make Glific more useful for the NGO community.

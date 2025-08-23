@@ -1,0 +1,18 @@
+Title: Goalkeep at the Second Cohort of the Data Catalyst Program
+Author: Abhishek Nair
+Date: September 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/goalkeep-at-the-second-cohort-of-the-data-catalyst-program/
+==================================================
+
+Goalkeepers stand ready to champion data culture!
+After nearly a year, we were thrilled to return as Tech4Dev and Dasra’s knowledge partners for the second cohort of the Data Catalyst Program, comprised of leaders and senior management from 10 organizations, all eager to build sustainable and scalable data solutions over the next six months. Like last year, the program features two in-person workshops complemented by individualized support from mentors with deep data expertise. Goalkeep is serving as mentors for four organizations, in addition to facilitating two sessions at the first workshop.
+Our first session, titled “Data Dialogues,” was designed to help organizations get acquainted with the data challenges that other NGOs aimed to solve through the program, and identify opportunities to contribute and source solutions to common data problems. Going into the workshop, each organization had worked with their mentors to articulate a problem statement and 3-month action plan. We collated these into individual charts (see image below) designed using each organization’s brand colors (shoutout to our colleague Bhumika), which added a personal touch that really enhanced the experience.
+The charts were put up around the room, and as participants moved about reading them, they were prompted to attach three types of post-its when they:
+A. identified similar challenges faced by other NGOs
+B. wanted to offer help or connect to someone who could assist
+C. found something interesting that they wanted to highlight
+It was inspiring to see the cohort engaging with each other, reassured by the fact that other organizations were working on similar challenges and motivated to embark on their data journey together.
+The second session, “The Art and Science of Building Effective Dashboards” was inspired by the knowledge that non-profit organizations often gather large amounts of data but struggle to prioritize what to display on a dashboard and how to structure information. The first part of the session introduced the Goalkeep “Key Questions” framework through a real-world case study. The framework helps participants identify and prioritize key questions, guiding them in determining what data should be presented on dashboards. Once participants had a clearer understanding of what data to display, we introduced the five principles of information and visual hierarchy.
+Participants worked in pairs to apply these concepts to a mock dashboard we had set up using Google Sheets. While we couldn’t provide as much hands-on practice time as we had hoped, we believe the session gave clarity on how to build impactful and visually engaging dashboards.
+The rest of the workshop has several hours of work time dedicated to working with our assigned organizations on their problem statements. Over the next 3 months, we are looking forward to supporting our mentee organizations as they work on their chosen problem statements and returning for the second workshop excited to present progress and learnings as they continue to build strong data-driven organizations.

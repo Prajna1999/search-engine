@@ -1,0 +1,32 @@
+Title: Introducing Glific recipes
+Author: Kurund Jalmi
+Date: May 2021
+Category: Glific
+URL: https://projecttech4dev.org/introducing-glific-recipes/
+==================================================
+
+These are a collection of sample projects demonstrating third-party integrations with Glific. Each recipe is named after a food recipe that the Glific team loves 🙂
+Chole
+This is a recipe that implements endpoint that one can add in the flow which will allow to fetch the ward if use shares that location. This is an integration with
+https://www.ichangemycity.com
+map api.
+You can find the code
+here
+.
+Bhatura
+This is a recipe that will allow you to fetch the information stored in Google BigQuery and store it in local Postgres DB. This could be easily extended to fetch other information from Google BigQuery and the local database could also be changed to MySQL or MariaDB.
+One could use this recipe to periodically pull the data on their prefered database to perform some analysis or any other operation.
+You can find the code
+here
+.
+Biryani
+This recipe implements an endpoint that could be used in the flows to store and retrieve the user-entered information to and from Google Sheet.
+You can find the code
+here
+.
+Tech Specs
+These recipes are primararly built using
+nestjs
+a nodejs framework.
+More recipes are coming soon, so keep an eye on this repo:
+https://github.com/glific/recipes

@@ -1,0 +1,59 @@
+Title: A Week with Gram Vikas: Learning, Exploring, and Growing
+Author: Mohd Shamoon
+Date: January 2025
+Category: Fractional CxO
+URL: https://projecttech4dev.org/a-week-with-gram-vikas-learning-exploring-and-growing/
+==================================================
+
+In December, I started working with Gram Vikas alongside Ashwin. Initially, it involved helping with some simple tech requirements that matched my expertise. I shared ways to automate a few processes and even created an app-based solution for automating reports that were previously time-consuming.
+Ashwin later suggested that we visit the Gram Vikas office to better understand their challenges and processes. So, we planned an off-site visit from 9th to 14th January, which turned out to be a memorable and enriching experience.
+A Little About Gram Vikas
+Gram Vikas
+is a pioneering organization working to enhance the quality of life in rural communities in Orissa and Jharkhand. Their areas of focus include water and sanitation, village institutions, health, and education. With over 300 employees, they have deep-rooted connections in Odisha’s villages, driving meaningful change across multiple districts.
+Their story is inspiring—beginning with a group of students from the University of Madras who arrived for cyclone relief and stayed on to empower communities in countless ways. If you have the chance, I highly recommend exploring their
+journey
+—it’s nothing short of amazing.
+Day 1: First Impressions
+On 9th January, I landed in Bhubaneswar, visiting Odisha for the first time. I was excited to experience a new place and learn something fresh. The first thing that stood out was how close the Gram Vikas office was to the airport—just 2 kilometers away. Unlike other places I’ve been to, I reached it within 10 minutes!
+Odisha has its own version of ride-hailing services called Odisha Yatri, similar to Namma Yatri in Bangalore. It’s a government-run initiative ensuring fair pricing for consumers, unlike big corporations like Uber and Ola. Booking a ride was smooth, and the cab arrived quickly.
+Outside of Gram Vikas office
+Ashwin asked me to come to room 403, and I assumed it was a nearby hotel. But when I reached, I was surprised to find a four-story office building that looked like a hotel itself. I’ve worked with NGOs before, but this was the first time I’d seen one with such a large and professional setup. With 300 employees spread across various districts, it was much bigger than what I had imagined.
+Most employees spend about 10 days a month in the field, moving between different campuses. This is why their offices also have accommodation facilities.
+After arriving at the Bhubaneswar office around 1 PM, I had lunch, and then we met Alex from the PMO team. From there, we left for Mohuda, where a majority of the Gram Vikas team resides. Lucknow was cold at this time, so the warmer weather in Bhubaneswar was a welcome relief.
+The 3.5-hour drive to Mohuda was peaceful. The roads passed through calm fields, small hills, and quiet villages. I recalled many people on my flight were going for the Jagannath Temple Darshan, and their chants of “Jai Jagannath” filled the air with excitement.
+When we reached the Mohuda campus around 7 PM, I was amazed. The campus was huge, located right next to a village. The guest rooms were about 500 meters from the gate, surrounded by greenery. It felt less like a workplace and more like a vacation spot. After freshening up, we went to dinner at 8:30 PM.
+The mess, where all employees eat together, was about 800 meters away. It reminded me of my hostel days. The food was simple and tasty. One thing that stood out was their rule to wash your own plate after eating, which I thought was a great way to instill humility.
+Mess building
+We spent the evening chatting with Varun about various aspects of Gram Vikas and then went to bed.
+Day 2: Exploring the Campus and Processes
+Ashwin and I started the day with a refreshing walk around the campus. There’s something so calming about being surrounded by trees and fresh air after living in a city. Near the guest house, we saw a vegetable farm and a weather station. On the other side of the campus, there was a dairy farm with lots of cows.
+Outside of out guest house
+Weather station
+Solar panels
+After breakfast, we had a briefing session about the people we were going to meet that day. Here’s how the day went:
+Water Quality Report Automation
+We met Siddharth and Benstin to discuss the water quality report automation we had worked on. We shared the progress so far and explored ways to further streamline the process. Benstin explained how these reports are generated and the factors involved, which helped us understand where technology could be most effective.
+Procurement and Inventory Management
+Later, we met Ambika Ji to learn about the procurement process. The approval workflows were complex and time-consuming, especially during audits. We also discussed their inventory management, which is currently handled in a single master file across multiple campuses. Simplifying and automating these processes could save significant time and effort.
+Photo Management and Knowledge Systems
+We also talked about creating a photo management system. As Gram Vikas has been around for decades, they have a huge collection of photos. Currently, they organize them in project-level folders on Google Drive, but finding specific photos can be difficult. A tagging system could make this process much easier.
+Another discussion was about setting up a knowledge management system to help new employees quickly find important documents and resources.
+Day 3: The Gram Vikas School
+The Gram Vikas School was the highlight of our trip. It’s a boarding school for underprivileged children, providing education from class 1 to 10. The energy of the children and the school’s atmosphere were inspiring.
+We first visited the Atal Lab, where students worked on projects like Arduino cars and explored tools like 3D printers. It was amazing to see young minds experimenting with technology. We also visited the weightlifting room, where we learned about a student, Jyoshna Sabar, who had represented India and won a bronze medal at an international event. (Read more about her
+here
+.)
+School visit
+Atal Lab
+Beatiful paintings
+Another stop was the art gallery, where the students’ paintings left us in awe. Ashwin and I bought four paintings as keepsakes from the trip. It was heartening to see so much talent nurtured in such a remote area.
+Day 4: HR Processes and Final Discussions
+We spent the final day diving into HR processes with Jyotirmaya and Devashish. The team shared details about their leave policy, where employees can choose holidays based on their preferences, like Eid, Diwali, or Christmas. They also explained how the URNA app integrates with leave management and finance.
+Later, we discussed their entrepreneurship project, where data collected by Udyog Mitras is currently entered manually into Excel. They’re planning to start a pilot for an OCR-based solution to automate this process, and the overall process look promising.
+Meeting the Executive Director
+Thali at Dalema
+Our visit ended with a meeting with Libi, Gram Vikas’ Executive Director. Over a delicious Odia thali lunch, we presented our observations and discussed ideas for improvement. Libi shared valuable insights from his experience, especially his philosophy:
+“If I can ensure no harm, even if no significant change is made, my work is useful. Often, well-meaning interventions disrupt established systems. Avoiding harm itself is a contribution.”
+Final Thoughts
+Night at Bhubaneswar
+This trip was an eye-opener. The dedication and expertise of Gram Vikas’ team members, like Varun, Thomas, and Alex, left a lasting impression. I’m looking forward to continuing this collaboration and returning in March or April. Gram Vikas is doing phenomenal work, and I feel lucky to have been a part of it, even if just for a short while.

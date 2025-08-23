@@ -1,0 +1,71 @@
+Title: Collaboratives similar to Tech4Dev
+Author: Kurund Jalmi
+Date: February 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/collaboratives-similar-to-tech4dev/
+==================================================
+
+After
+Sustain 2020
+, I was doing some research on
+Funding for Open Source Projects
+and came across multiple articles from
+The Engine Room
+and following various links and threads stumbled across The
+Catalyst Project
+in the UK. From their website:
+The
+Catalyst Project
+is a UK collaborative to bring a social purpose to the digital revolution.
+It is similar but broader to the tech4dev collaborative, so we can learn quite a few things from them and in the spirit of open source, borrow some of their documentation since the ethos and principles between the two projects is very similar, though at slightly different scales.
+For folks, who are really interested in this and want to learn more, there is a broad collection of links at the bottom of this blog post which I?ve incorporated into the next few paragraphs at a fairly high level. Before I delve further, I?d like to thank the catalyst project and the engine room for making all their stuff accessible and transparent. It helps us in our journey and speeds things up.
+There are a few different entities involved, and I?m still sorting things out: There is The Catalyst Project (incubated by CAST), The Engine Room and
+The TechForGood Hub
+. Not sure if the last entity is still active, but it does have some good resources.?
+I?ll try to summarize and characterize some of my readings over the past couple of weeks, we hope to incorporate and adapt some of their below in our work at Tech4Dev
+The Charity Checklist
+– a checklist of things that a charity should definitely consider before proposing and/or going down a specific technology path. This is closely related to the article on
+7 reasons not to apply for tech4good
+, something which applies to all tech4dev applicants also. Its good to hear that their ratio of applicants that make it to the second round matches our experience.
+In a similar vein of advice to NGOs, they also have advice to foundation and funders and have the
+Funders Checklist
+which is a good companion to the article on
+Six tenets of tech4good
+. Again, we share a lot in common with these principles but need to prioritize a couple of points that they make, specifically: User-Centered Design and Test-Driven Development and getting our entire collaborative believing in it and investing the time and resources on it.
+On a different topic on our emphasis on listening to the NGOs with empathy and understanding, and getting to know them and their work better, the folks at the engine room, sum it up brilliantly with their article on
+Supporting with humility
+. In a similar vein, there is another good article on
+How to make Charity and Digital Partner Relationships work
+. We?ve learned over the past year some of the things they highlight, including face to face meetings with the NGOs, frequent communication and seeing the broader context of their work rather than attempting to build a point solution. I think it is important for us as a collaborative to realize that we can learn a lot from our partners in the NGO sector and we should listen a lot more, learn and build on their experiences.
+Another common thread between us is the importance, both projects place on reuse. While we couch it more along the lines of the open-source ecosystem, they refer to it with a broader lens as seen in their articles on:
+What is digital tool reuse
+and
+Talent, Tools, Data and Reuse
+. I do think it is important for all of us to realize that reuse is not cheap in the short term. If we want to build reusable systems and try to foster communities around it (for long term success), we need to invest in it also and accept the fact that it might take a bit longer. However, the benefits of such things can only be seen in the medium to long term context, and patience is key
+They have also built a fairly nifty tool (open source) to guide NGOs in their path to explaining their technology tools need with an interactive guide. You can read more about it and demo it at
+Aligade – Interactive Guide for finding technology tools
+and?
+Aligade Demo
+And finally, there is the brilliant
+Duffers guide to tech4good
+, which not only has a great title but pulls in many pieces together in a coherent way.
+If you are still reading this, some more extra credit reading here from Nadia Eghbal:
+Roads and Bridges: The Unseen Labor behind our Digital Infrastructure
+and
+A Handy guide to financial support for Open Source
+I would love your thoughts and comments, specifically in areas where you think Tech4Dev can and should take the next step up.
+Reference Links
+The Catalyst Main Site
+Aligade – Interactive Guide for finding technology tools
+Aligade Demo
+What is digital tool reuse
+How to make Charity and Digital Partner Relationships work
+Talent, Tools, Data and Reuse
+Tech4Good Main Site
+Duffers guide to tech4good
+Funders Checklist
+Six tenets of tech4good
+Charity Checklist
+7 reasons not to apply for tech4good
+Nailing your tech4good bid
+Supporting with humility

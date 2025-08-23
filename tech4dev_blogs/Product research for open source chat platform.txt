@@ -1,0 +1,39 @@
+Title: Product research for open source chat platform
+Author: Kurund Jalmi
+Date: May 2020
+Category: Glific
+URL: https://projecttech4dev.org/product-research-for-open-source-chat-platform/
+==================================================
+
+It?s been a week that our team has been interacting with various NGOs. Throwing multitudes of questions at them and learning everything we can about their interaction with their community of influence (or beneficiaries). They?ve been walking us through their processes which covers what they communicate and how. We?ve been hearing about their experiences with some of the tools and technologies they used in the past and what they continue to use. We?ve interacted with NGOs from various domains such as Education, Health and well-being, Hunger etc? It?s all for an?
+open-source communication platform
+?we?re building.
+Designing a product for an idea requires a deep understanding of the challenge beyond the idea that lies on the surface. The idea itself can contain a lot of possibilities without a clear direction on what to build. We had started with the idea of building ?a two-way communication platform to connect NGOs and their communities?, and as we?re talking to various NGOs, we?re uncovering a lot more insights that will give a direction and definition to the product. The team has been documenting the interviews to generate insights. Apart from getting a good grip on what we?ll build, the research part of the product journey itself is worth looking at. From here on, you can see the steps I followed for the research and the outcomes generated against again each step.
+1. Creating a category of users to be researched
+People can connect with their most immediate challenges as per their positioning, and show us some opportunities as to how things could be made better. Hence, some very specific insights can be generated from users based on which side of the product knowledge they lie on. Three major categories in our case are ?
+Those who communicate with their community but don?t use any kind of tools/technologies yet
+Those users who communicate using some existing products, which could be their own custom-built platforms or marketplace products
+Those who have been using our product and can share the experience. As there is no product and corresponding customer base yet, my current research doesn?t cover this third category (but maybe later).
+2. Setting a goal for research ? preparing a questionnaire
+We prepared a list of questions to ask these different groups. It helped in referring for each meeting and revising the questions for relevance and desired insight. For our product, from the first group(who do not use a tool) we learnt their communication requirements, how it contributes to their organizational goal, their processes, whether they had any prior experience with a tool/technology, how they measure impact from communications, the size of community they interact with.
+From the second group(who use some tools) we learnt some gaps and opportunities, how their tools align with their organizational goal, their prior experience with tools before reaching the current one, some of their most used features, story points for what other NGOs can learn from them. The point of matter here was not really to learn about their products, instead, focus on how well or not were their communication needs being met and go a step further from the first group of users.
+Apart from this list, we also asked questions along the way to uncover their experiences wherever we saw the opportunity to dig deeper. This was required because the user may not fall in the same strict categorization as we started with.
+3. Approaching and connecting with the user base
+Partnering with Tech4Dev, we had an exposure of probable users we could readily reach out to. Tech4Dev supported in setting up interviews with the NGOs.
+However, from my previous experience when researching another product we were building at
+ColoredCow
+, I prepared a list of contact persons from organizations I wanted to target (who fit the category and goal). Then wrote to them talking about their work and requesting for a short call to hear about their experience. Adding few points on how my research was relevant for their organisation, must have prompted many to respond back. You can append this knowledge with how to conduct interviews by knowing more about the setting, drawing people in and other behavioural aspects in a book ?
+Just enough research
+? by Erika Hall.
+4. Documenting the insights
+Team took notes and collated all the information received from our users. Then it was time for
+some synthesis of information
+to be made. Not the part where it helps to build requirements but just to sift through the gold and the most essential part which will support product definition.
+My documentation structure includes ?
+?Mapping with organisational goals?
+: to always be thinking how the product will help the users achieve what they?re already set out for, and align with their goals. If they want to automate some part of the communication, and be able to send personalized messages at their will then our product should be aligned with that goal.
+?Gaps and opportunities?
+: this covers the challenges they face now without tools, and the unresolved challenges that persist despite the tools. Our interactions many times brought some really interesting aspects that we may not have identified without them. They even shared some opportunities they felt could improve the product further such as the ability for our chat platform to automatically detect whether a number is a whatsapp no. or not.
+?Proof for other NGOs?
+: I also found it useful to learn at this stage itself some key stories and stats that can serve as case studies for others. It included both positive impact they achieved and negative experiences from failed solutions, to influence the new users for the platform as per the stage they belong in.
+These interviews have given a boost and a sense of direction we need to walk on. There?s a shape emerging out of the abstract light but we need to put it down on the paper again. Each of the team members has a sense of what this product will do but we all need to be aligned and be walking on one path. We need to beat the iron while it?s hot to give it the shape we want. Each strike is reinforced by what we learnt from the interviews ready to forge a product that will cut through the communication challenges of NGOs. With the purpose and product in mind, we?ll continue to research, to make room for the diverse use case the product will need to cater to.

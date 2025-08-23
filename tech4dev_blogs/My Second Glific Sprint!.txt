@@ -1,0 +1,41 @@
+Title: My Second Glific Sprint!
+Author: Glific Admin
+Date: July 2023
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/my-second-glific-sprint/
+==================================================
+
+This Blog is written by-Sushmita Das, Product Manager, The Apprentice Project
+Introduction
+My previous blog was titled My First Glific Sprint, so didnt really crack my brain trying for a fancy title for this one 😛
+The more I experience the social sector the more I am amazed by the innovative minds here trying to incorporate the latest technology to serve the community. Glific Sprint is a one stop destination for such bright ideas coming together to share, learn, and grow together.
+For those who are not aware of The Apprentice Project (TAP) – we are an organization dedicated to building Social-emotional Learning (SEL) skills in children of the low income community in the age group of 11 to 17 years to develop
+21st-century skills and thrive in the world
+.
+TAP uses its
+WhatsApp chatbot (TAP Buddy) – designed, and managed by
+Glific developed under Project Tech4Dev
+(an open-source, WhatsApp based, two-way communication platform to enable impactful programs to reach communities) – to provide self-learning-based electives to students.
+After closely working with the Tech4Dev team for months now, this Sprint was not only an opportunity to learn from other organizations but also to share the exciting projects I had been working on with the team.
+And this time we were in The City of Lakes – Udaipur!
+Chat GPT Integration
+Though this was one of the topics most of the organizations were looking forward to, I think I can without a doubt claim that Akhilesh, and I were the most excited two people in the room. As we sat at the coffee table going through the presentation one last time, Akhilesh asked me why I wasnt preparing, and I said I think my excitement will drive most of what I have to say anyway 🙂
+The Problem Statement
+It is as simple as – I am a child enrolled in the TAP program, and TAP Buddy is my friend who sends me exciting activities, but when I talk to this friend, and ask questions, she sometimes answers, but sometimes does not, and then asks me to go to my teacher.
+In their words TAP Buddy mere sawalon ka jawab h nahi deti!
+The solution wasnt as simple, and we along with the Tech4Dev team tried different methods before. With the – if I may call it – revolutionary launch of Chat GPT, we stumbled upon this idea of incorporating it with our chatbot to help solve this problem.
+The Glific team helped us set this up via the Jugalbandi APIs which was already using this technique on chatbots. With this setup we could leverage Chat GPTs existing knowledge base, and ML trained setup to customize the same as per our requirements, and then train the same using situational prompts to bring in a customized character in the bot. It would even accommodate, and adjust to the Hindi phonetic language used by the user while asking questions to it. While we are still working on advancements in the setup we have recently rolled it out to some of the teachers who work with the TAP program.
+To know more about the setup you can refer to Akhileshs blog:
+https://lnkd.in/dJ9rcYDa
+One very interesting aspect which by the way we are still testing is the context boundary setup, we want TAP Buddy to answer questions only within the scope of the TAP Program and not almost everything on the face of the earth like Chat GPT, hence this is a very important feature. We saw an initial success in some testing instances as shown below; this journey is still ongoing, and these mini wins keep motivating us, and providing hope.
+Example of how we set boundaries in the GPT Integration setup.
+DDP & Other Glific features Introduced
+We at TAP try to make as many data driven decisions as possible, and in order to do so we need a strong data architecture in the backend. To ensure this, we started working on a pilot with the DDP (
+soon to be named Kaapi or Dalgo – there is a tough fight ongoing between the two; my vote is to Dalgo!
+) team of Tech4Dev to setup a structured database, and setup transformation, and visualization platform thereafter. This Sprint was an opportunity to also showcase, and share insights from the pilot that we worked on in this regard, and how we plan to move forward.
+As usual Tech4Dev team also had a few surprises up their sleeves, and launched a few new features such as Reading and Writing from Google sheets to chatbot flows, Ticketing system, etc. The sprint introduced us to the new The
+Glific Mobile App
+which is going to make a lot of operational tasks much more efficient for the associated organizations.
+Tech4Dev Works Hard, but Parties Harder
+Being in Udaipur we did take a stroll across the town to the Monsoon palace, which by the way was the view from our stay, and also experienced some pleasant walks to a nearby lake for sunset.
+And how can we forget, after the days full of learning, sharing, working, and networking; we had a super fun karaoke night with everyone singing their hearts out!

@@ -1,0 +1,14 @@
+Title: Data to Dashboards at the Data Catalyst Program
+Author: Abhishek Nair
+Date: November 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/data-to-dashboards-at-the-data-catalyst-program/
+==================================================
+
+This blog is written by
+Neelima Menon
+from
+Caring with Colour
+As a young organization, Caring With Colour (CWC) has been eager to take stock of the motivation levels of the teachers we work with, our impact on shifts in classroom practices, and the overall health of the several programs we lead in the three educational districts of Karnataka. Given this context, one of the key takeaways from our engagement with the Data Catalyst Program was the step-by-step approach to creating a robust and useful dashboard that would represent priority features of the initiatives and goals of our organization. One of the sessions during the second DCP workshop held in Bengaluru focused on dashboards, and as a novice ‘data leader’ (DCP cohort 2 will know what I’m talking about!), I think it is the slot I paid the most attention to.
+Jishnu shepherded us from collecting data to envisioning dashboards – all in a matter of two hours. Starting with a recap of basic terminologies such as data ingestion, data transformation and data visualization, we moved on to discuss processes such as data staging, creating intermediate tables and destination tables. Although these seemed like heavy phrases at first, I was less intimidated after the hands-on activity helped us break these steps down. In pairs, we were guided through two mock scenarios on Excel to understand the usefulness of column categories ‘cardinality’, ‘dimensions’, and ‘numeric’. I was immediately able to imagine what these column categories would include in the CWC context – the UDISE (Unified District Information System for Education) code, teacher attendance in training programs, student assessment scores, etc. Next, we were asked to enter some mock data within the columns to test what the visualization would look like, and whether these could translate to metrics or indicators on our model dashboard. Again, I considered what our collaborators – teachers, government departments, or internal teams at CWC –  would want to know.
+These steps may look obvious to those of us well versed in the language of data analytics. But for someone like me whose most recent engagement with data was undergraduate courses back in 2016, Jishnu’s slot with us made me feel so much more confident in discussing numbers with colleagues at CWC. Shout out to Jishnu and his team for covering so much in such little time!

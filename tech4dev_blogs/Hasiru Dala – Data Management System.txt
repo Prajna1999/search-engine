@@ -1,0 +1,26 @@
+Title: Hasiru Dala – Data Management System
+Author: Kurund Jalmi
+Date: March 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/hasiru-dala-data-management-system/
+==================================================
+
+Hasiru Dala
+(HD) is an organisation based in Bangalore, with operations throughout Karnataka, working for the waste pickers and waste management. Their key operations are:
+1. HD’s field-based
+social workers provide social security services
+to waste pickers and their families. These include helping them get government ids, opening bank accounts, getting loans, availing various government schemes, etc. HD supports around 6000 waste-pickers, their 20000 family members, via around 25 social workers.
+2. HD runs various regular
+community activities and events
+for the above population.
+3. Help waste pickers in running the
+dry waste collection centres (DWCC)
+. These wards in all the wards of Bangalore.
+4.
+Library
+for children of waste pickers.
+Most of these activities are constantly growing to more and more places in Karnataka.
+Not surprisingly, underlying all these services/activities, there is data. Currently, this is managed in form of excels/spreadsheets to some extent but they suffer from regular problems of data management in such a way – completeness, quality, versions, access, inability to analyse, and so on. It is also difficult to ensure consistency and comprehensiveness of the service delivered.
+Hence, like most organisations, HD needs a data management system for their core service work. Since social workers work from the field and do not have access to computer necessarily, there is a need for a mobile based component to access this system. In other cases (like DWCC) there is no one available who can be depended upon for the data management, but HD has data entry people who do it on their behalf.
+From the solution perspective item 1 & 2, is planned to be done using OpenCHS. We plan to use custom web application for items 3 & 4, needing low surface area integration with OpenCHS. The users will be able to use the system via a single login, spanning across both the applications. OpenCHS will allow social workers to take advantage of features like work schedule management.
+The complete system will be delivered in roughly 9-10 months, consisting of 5-6 releases. The development for the project has started in last week of February. The project management structure will be put in place very soon.

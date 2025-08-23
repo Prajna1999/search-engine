@@ -1,0 +1,26 @@
+Title: Tech4Dev Sprint in Udaipur: Reflections from the City of Lakes
+Author: Sneha Trivedi
+Date: July 2023
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/tech4dev-sprint-in-udaipur-reflections-from-the-city-of-lakes-2/
+==================================================
+
+Author: Jake Hughey
+Role: Core Team Member of the Agency Fund
+Im a team member of the
+Agency Fund
+, which invests in ideas and organizations that expand human agency. A core component of our work is to build our grantees capacity to use technology and data to drive improved outcomes for their beneficiaries, so we collaborate closely with Tech4Dev.
+With my colleague Rob On, I recently attended my first Tech4Dev Sprint, which took place in the beautiful city of Udaipur. This was the start of my first trip to India. Such an experience cannot be accurately conveyed in writing, but here are a few approximations.
+Interactions with T4D
+The first evening of the Sprint included a lively discussion of T4Ds principles. The discussions content, as well as its tone, assured me I was in the right place, because so many principles are shared between T4D and the Agency Fund, e.g., collaboration, openness, and learning.
+Much of Agency Funds tech- and data-related work with NGOs resembles that of the fractional CxO program. Participating in the FCxO teams discussions was invaluable for learning from their playbook and experiences, and contributing our own. Each FCxO emphasized the importance of listening and of building relationships, and that much of their value is not explicitly related to tech, but instead about helping the NGO focus and clarify its vision and strategy as a prerequisite to developing a tech and data strategy.
+Interactions with NGOs
+One NGO supported by both Agency Fund and T4D is Indus Action, which works to ensure that vulnerable families have sustainable access to their legislated rights. Rob and I had several illuminating discussions with their FCxO Ankit Saxena and Executive of Operations Umang Kamra, who graciously answered our many questions about their programs and operations. Together, were forging a collaborative strategy for addressing their high-priority challenges.
+One evening we had the privilege of visiting a local NGO,
+Aajeekiva
+, which provides an array of services for migrant workers. Although I only recently started learning Hindi (meri hindi aachi nahi hai), I didnt need to understand the entirety of the conversations to feel their teams zeal and to get a glimpse of what the real work on the ground is like.
+Getting to know the people and the place
+Just as valuable as the structured, content-driven time was the unstructured time to chat with and get to know other attendees. It was wonderful to hear peoples experiences, interests, and values. Although Id never met anyone besides Lobo in person, everyone was so warm and inclusive that I felt like part of the group.
+Fortunately I also had time to explore Udaipur and start to experience India first-hand. I continue to be struck by the vibrancy of street life (humans, cows, dogs, etc.), the natural beauty (especially as seen from the monsoon palace), and of course the delicious and diverse cuisine.
+Conclusions
+All these in-person interactions were so much richer than anything that happens via a computer screen, so Im deeply grateful to Tech4Dev for inviting me to attend. Moving forward, I feel inspired by the people in this space and the opportunities to do good. I feel informed about the social sector and how to continue taking action. And after all this Sprinting, I feel exhausted, so I think Ill close my laptop for a time and just listen to the sounds of India in the monsoon.

@@ -1,0 +1,18 @@
+Title: Chat For Impact – Training Day 2
+Author: Kurund Jalmi
+Date: February 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/chat-for-impact-training-day-2/
+==================================================
+
+This post was written by Archit Verma from
+Dost Education.
+I recently got a chance to attend the 3-day workshop on behalf of Dost Education organized by Tech4Dev and Turn.io. The aim was to understand how we can make our conversations with our users more impactful and actionable. At Dost, we strive to create meaningful two-way conversations with our child caregivers and this seemed like the perfect opportunity to learn more about it. The event brought together a bunch of passionate problem solvers working on different problems in the development sector. It was my second time attending an event by tech4dev and I got a chance to catch up with a lot of folks again.
+Jhatkaa presenting their use case
+The first day had already set the expectations around the use case and we got to play around with the Turn platform. The second day was about getting our hands dirty and working on our use case. The day started with people catching up over breakfast and tea. After a recap of the previous day, all of us had a practice session where we developed a basic use case. The practice session gave us a clear idea of the possibilities of what we can develop using Turn?s platform.
+After having spent time prototyping our ideas, it was time to focus on how to successfully make it available for our users. Pippa from Turn conducted a workshop on best practices on connecting users over WhatsApp, where we learned about the details of WhatsApp?s User Consent Policy. This session was especially helpful for me as I knew how to hold the high standards we have for our user?s privacy and consent.
+In the session post-lunch, Pippa from Turn spoke about tracking metrics on Turn?s platform. I was delighted to know Turn?s pricing model is per user based and not per message based. This is very important for impact-focused organizations because a conversation could solve an issue with 5 messages, while others could take 50.  Turn?s built-in Goals and Behavior Setting capability is yet another fantastic feature that caters to the needs of impact-focused organizations that care about behavior change.
+The last session of the day by Neelke was on the importance of context in a conversation and how Turn?s built-in Natural Language Understanding enables us to understand conversations better. We saw this through the example of  MomConnect, a South African National Department of Health initiative which aims to support maternal health through WhatsApp. Before using Turn, MomConnect used SMS and their staff was unable to handle the load of manually adding context to the conversations with their users. Turn?s Natural Language Understanding made this process easier and helped MomConnect tag their conversations automatically.
+Neelke talking about how turn?s NLU capabilities helped MomConnect understand their conversations better
+We wrapped up day two and with some more conversations over cups of tea. I had come into the conference with a few use cases in my mind to build with WhatsApp but I was unsure if Turn could help us with that. I was proven wrong, the two-day workshop left me with a bunch of ideas and a long list of experiments to try. I am thankful to Project Tech4dev for putting it together for all of us. Also, a big thank you to the amazing team at Turn for the workshops and all the help for allowing us to set up and understand how to use Whatsapp to help our users even further!
+The training cohort with all of us!

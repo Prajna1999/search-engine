@@ -1,0 +1,38 @@
+Title: My First Tech4Dev Sprint
+Author: Glific Admin
+Date: January 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/my-first-tech4dev-sprint/
+==================================================
+
+This blog is written by Ishan Koradia
+EMPATHY
+I recently attended my first-ever sprint organized by
+Tech4Dev
+in Goa, a place where people from diverse ethnic backgrounds live in harmony and speak their own dialects. Given its pluralist roots, I feel it was the perfect location to bring together all the NGOs. It was very inspiring to learn about the impact these organizations are trying to create in different areas like early childhood education (
+Key Education Foundation
+), spreading awareness about non-communicable diseases (
+Arogya World
+), vocational education (
+LAHI
+), helping children from conflict areas to have a relevant positive childhood education (
+Shiksharth
+), enabling youth from vulnerable sections of society to inculcate the 21st-century skills (
+Quest Alliance
+,
+The Apprentice Project
+), etc. The one thing I found that was common across all these organizations and the people working in them, was Empathy. Empathy in everything they do right from their work to talking to a software engineer (me) who does not understand what actually happens on the field. With empathy, I believe it becomes very easy to collaborate & share best practices which is what these sprints are all about – collaboration, strengthening relationships, and reflection.
+PRINCIPLES
+On our second day of the sprint, we had a more formal introduction with all the members from the team. I was humbled when Lobo shared some of the key principles that are upheld by the people working in Tech4dev
+Generosity : Generosity in working with NGOs, helping the ones who are not in position to help themselves.
+Transparency: If you have critical feedback about your team member, without hesitation share that. We learn from our mistakes.
+Kind: Be kind when you are working with people from the field. They may not understand all the technological jargon.
+Tech4Dev
+is not only building products that will help nonprofits to amplify their impact but it is also strengthening the ecosystem of software/data engineering companies (Technology partners), NGO partners, and foundations to undertake initiatives to build sustainable solutions. One such recent initiative that I am majorly involved in is building the Development Data Platform for non-profits.
+DEVELOPMENT DATA PLATFORM
+The idea of this platform stems from the fact that NGOs have loads of data but are not able to maximize the use of it in terms of fetching insights due to various challenges like multiple data sources leading to the complexity of handling them, data quality issues, manual and repetitive synchronization of data, etc. The platform leverages the power of data and open-source tools available to optimize processes & generate actionable insights by pulling and transforming data from multiple sources into a single warehouse. Throughout the sprint, we talked with various organizations to understand their data pipelines and the strategies they currently employ to generate insights. This helped us lay down the foundation of DDP into a Product Requirement Document. I believe the USP of this platform would be the easy-to-use interface that would help NGOs to set up their pipeline with low code to zero code. Hopefully, we will come back with a working prototype to show everyone in the next sprint. Fingers crossed !!!
+RELATIONSHIPS
+Being an introvert myself, it has always been difficult for me to gel with people. However, the people I met during the sprint were so warm and friendly that it didnt take much time for me to make connections. On the third day of the sprint, we all went parasailing. Piyali, Ankit, and Akhilesh bargained for the price like pros. The orange sky with the sun almost setting, the fresh ocean breeze in our hair, and the salty smell of water made our parasailing experience even more wholesome.
+Had very interesting conversations over chai with Sanjeev about how technology has evolved since decades ago when he entered into the software industry to now. Deploying a server is just a piece of cake now as compared to the humongous task it was before. Siddhant and I empathized with each other over the Road not taken in our careers and how we ended up in the development sector. My roommate Arun and I got to know each other over early morning conversations (6 am) about our similar yet varied professional backgrounds. And there were many more such conversations from which I learned a lot about the people that were present there.
+HOPE
+I look forward to continuing some of the unfinished conversations with some organizations regarding DDP and nurture the connections that I have made here. With a much clearer vision of the Development Data Platform, I am very excited to jump into the development of the platform and figure out the remaining nuances on the architecture of the platform. With the hope that the nonprofit ecosystem becomes a more organized sector and that our ecosystem (NGOs + tech partners + foundations) strengthens as we build sustainable products, I couldnt have asked for a more fulfilling first sprint.

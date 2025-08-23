@@ -1,0 +1,59 @@
+Title: Meghalaya Trip Report – Jul 2024
+Author: Donald Lobo
+Date: July 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/meghalaya-trip-report-jul-2024/
+==================================================
+
+Introduction
+I had a week in between work trips, and decided on a lark to do a week long trip to Shillong. Mari had met some friends from San Francisco for lunch in Mumbai, and they mentioned that Shillong was their next destination. When I looked it up, I realized that it seemed like an amazing place, and well worth a visit. I figured I could do a combination of remote work, visit local NGOs and get some good hikes.
+Photo taken from close to the top of Kynrem falls, was amazed as to how close and dangerous it is!
+The
+Rebuild India Fund
+from
+Dasra
+supports a few NGOs in the Northeast. From a development and
+social sector perspective
+, the northeast
+has been ignored
+for a long time. In the past few years, thanks to initiatives like Rebuild and others, the region is receiving a bit more attention and support. Some of the articles linked above, give you a much better context and background info on the region.
+Meghalaya is incredibly beautiful. I was there during the monsoons, the waterfalls were spectacular and as good if not better than the iconic Yosemite waterfalls. The scenery and foliage across the state is dense and vibrant. Noticed that pineapples, jackfruit and bananas were quite prevalent. Karthik from Saura Mandala mentioned that one of the theories floating around (since i could not find any evidence of this on the web) is that Meghalaya was part of Kerala in the Gondwana era, and hence there is some commonality between the two regions, vegetation and culture (both are matri-lineal societies). Definitely need to go back and visit the other Northeastern states on subsequent trips to India.
+Organizations Visited
+I had met
+Shannon
+in San Francisco a few months ago during the Rebuild tour of US. I connected with her and in addition to connecting me with a homestay and guide, she also connected me with a few other NGOs in the region. I spent a couple of hours every day to have an informal conversation with the NGO leaders of these organizations, who were kind enough to explain to me their work and also the larger context in which they operate. Some things that stood out to me were:
+All the NGOs I spoke with had a budget of less than 10 CR, even though all of them were working in multiple districts and villages across the state and had a staff size between 20-150 people.
+Meghalaya (and maybe the Northeast) in general is fairly low on many of the indicators including education, employment.
+There seems to be a fairly large issue with opportunities for youth across the state
+I was really surprised as to how dominant the church (different denominations) across the state. I come from a region (Mangalore) where the church is strong, but this was at a totally different level
+Many of the NGOs had a pretty good relationship with the State Government who were helping them meet their mission.
+A large part of the funding for most NGOs used to be from international agencies. As the ground is shifting with regard to this funding, they are now working to get local and retail funding.
+Faith Foundation
+This was my longest meeting and also an introduction to the social sector in the Northeast. It was really fun interacting with the group and asking them all sorts of questions about Meghalaya, schools, culture, religion and more. The state does not rank very high on the employment and education index, and also ranks fairly high on the abuse against minors and Faith is working towards ensuring the safety of children and adolescents using a combination of couselling, peer education, group sessions and more. Faith is run by a a group of women professionals from the indigenous Khasi tribe. More on my visit in their
+linked.in post
+.
+The faith foundation team that I spoke with
+NESFAS
+I met Pius and his team at the lovely offices of NESFAS in Shillong. Once again, got an introduction and education to the food culture in Meghalaya. Nesfas is focussed on promoting and revitalizing local and indigenous food in the region while upholding their cultural integrity. The state imports quite a bit of food from other states (Bihar, West Bengal), even though it could potentially have a thriving food culture. NESFAS wants to change this and help incorporate local foods into the system and even in school mid-day meals. They are also working on preserving the biodiversity of the region by working with communities and the government.
+Bethany Society
+I met Carmo on an NGO Fundraising WhatsApp group and since he was in Shillong decided to meet up with him and learn more about their work. Like many others (including the govt), I thought the organisation was run by the church, but this is not the case. The NGO has an amazing campus in the heart of shillong where they run a school, small farm (for training purposes) and a livelihood/skilling center. The organisation focusses on Community Based Inclusive Development (CBID) approach to promote accessible environments to facilitate the mainstreaming of disability. School was not in session, so the campus was relatively quiet. Seems like it will be buzzing with activity when students are in the hostel and school is in session. They also have another location in Tura which is equally big and vibrant.
+SauraMandala Foundation
+Definitely my most interesting and different meeting. Karthik and his team have come across a very unique model (at least to me), where they have managed to demonstrate and pilot a few initiatives which have then been adopted by the state government. They do an amazing job co-creating with the community, collaborating with other NGOs, and then partnering with the state government to take this to scale. They’ve already done this for a few projects:
+Chief Ministers Youth Centers
+– Building a center for adolescents and youth to develop different skills in different areas across the state. In collaboration with Project Defy
+Contextual Books for Kid
+s – In collaboration with Pratham books
+Solar Panels for Health Care Centers – In collaboration with SELCO Foundation
+Rural entrepreneurship program
+– rainmatter co-funded fellowship
+So while their core operating budget is approx 2-3 CR, the State Government invests another 15-16 CR to take these projects to scale. This is an amazing achievement of bringing together the community, specialized NGOs and the government to do things at scale. We continued the conversation and my education with a really nice meal at
+Rynsan Shillong
+.
+Grassroot Shillong
+I met Mayfereen at their offices in Upper Shillong, where Google Maps in its infinite wisdom wanted us to drive up a staircase. My education continued with her as she explained to me that while Meghlaya is a matri-lineal state (i.e. property passes down to the youngest daughter in the family, who has to take care of the parents), it is still a very patriarchal society, where the maternal uncle plays an influential role. The NGO works with communities from an indigenous rights and gender perspective, which means they involve everyone in the community in a very close manner to make collaborative decisions that impact the community. This process will take a much longer time, but the adoption of this by the community in general is a lot stronger. She was patient enough to explain to me all this in great detail, while I pestered her with lots of questions (she was warned about this, by folks at dasra before we met!)
+SeSTA
+I did not meet the folks at SeSTA (did not spend time in Gauhati), but spoke with Manash (ex-SeSTA) and had an amazing
+assamese thali lunch
+with Ritika who I got to know via the Data Catalyst Program (yes, food plays an important role in my meetings!). SeSTA was one of the first NGOs that we worked with for Tech4Dev 1.0 and has a special place in my heart. The conversation revolved around the importance of data and tech and veered into what we (i.e.
+Project Tech4Dev
+) could do in the region

@@ -1,0 +1,24 @@
+Title: India Trip Recap – Nov 2019
+Author: Kurund Jalmi
+Date: December 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/india-trip-recap-nov-2019/
+==================================================
+
+This is a slightly belated report on my most recent India trip from Nov 9, 2019 – Nov 18, 2019. It was quite a whirlwind trip, definitely one of the busier ones. A few highlights, thoughts and comments
+Day 1 started off in Delhi. Got a great overview from the
+Dhwani
+folks on what they have been doing over the past few years. The breadth and depth of the work they are doing are incredible, and I do appreciate the amount of expertise Swapnil and Sunandan get to the tech4dev group. We also met with the development team at
+Indus Action
+and got into a fairly detailed technical deep dive into their campaign management system CMS 2.0 to handle operations for the next academic year. Great to see them consolidating their systems and using relatively new and solid open-source tools.
+The next few days were spent in Pune at the Tech4Dev meet which
+Rahul has blogged about
+. I was happy that we experimented with Day 1 as the sprint day and had a long working session on two different topics. This will definitely be part of our future meetings and does serve as a good anchor for the event. It also allows us to plan, design and maybe even write some code. Overall, it was good to hang out with the group and get to know many of them a lot better. We need to do a better job of keeping everyone involved and participating and also ensure that we give enough background information for the newer folks in the group.
+For the tech4dev introductions, we took the opportunity to borrow the limerick introduction idea from Mulago foundation. While it was probably the biggest complaint that people had about the event, it was also cool to see the amount of work, effort, and creativity that people put into it. I do think it is important for all of us to get out of our comfort zones and do something different on a regular basis.
+The next two days, I spent with the
+Edelgive Foundation
+team at their conference
+EDGE 2019
+. Loved the style and energy of the conference, and the different folks that attended the event. It was good to see an event with no panel discussions and the spotlight on the NGO leaders. I had lots of great conversations with different NGOs on the sidelines.
+During the Edelgive events, I saw a demo of a couple of software tools that were built for NGOs in their portfolio. Seems like there is a fair bit of overlap with what we are doing, and hopefully, this relationship will help us build common tools for the sector as a group rather than re-inventing the wheel. I do think that funders and software development shops should do a lot more research both at the open-source end and also user research with multiple different NGOs from the sector, before writing code.
+As always, the India trips are super energizing and really help fuel my work when I’m back in San Francisco.

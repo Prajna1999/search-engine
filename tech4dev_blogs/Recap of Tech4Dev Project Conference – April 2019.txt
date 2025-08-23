@@ -1,0 +1,28 @@
+Title: Recap of Tech4Dev Project Conference – April 2019
+Author: Kurund Jalmi
+Date: April 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/recap-of-tech4dev-project-conference-april-2019/
+==================================================
+
+On April 15 and 16, we had our first
+Project Tech4Dev
+conference in Bangalore. Thanks to Vineet and Srikanth from our ecosystem partner,
+Social Alpha
+for hosting us and doing the planning and logistics. This gathering included our
+6 software partners
+. In addition, our ecosystem partners Social Alpha and
+Lumen Consulting
+also joined us for this event. All in all, we had a total of 18 people at the event.
+Detailed minutes for the event are on
+our shared drive
+I’ll summarize and highlight some of my thoughts and observations and things that I’m excited about.
+Overall, I think it was great to see the group together and how most of us had similar thoughts and ideas on how we should interact with NGOs and how we can enable them to do their work more effectively. We had some fairly hard discussions on a few different topics. They included a discussion on our mission and vision, how we can straddle the line between pro-bono services offered by the foundation and paid services by the partners for continued support and development, the right time and place of making a project open source, and our focus on reusability and building on existing open source ecosystems.
+Sucheta Bhat chatting with the group
+I also enjoyed our two guest talks from prominent NGO leaders. Kalyani from
+Naz foundation
+spoke about their journey as an organization and the work that they do in the field. She also spoke a bit about their experience with using technology platforms and what works and what does not work as they scale. Sucheta Bhat from
+Dream a Dream
+started her chat with an interesting question to the group and asked them to describe their work on technology in relation to non-profits as a metaphor. It was surprising to see how people struggled to answer the question and they had to get their creative side of the brain re-engaged. She encouraged us to look at the NGO world with a different lens to truly understand their problem and what they are trying to do. Overall, all of us believe, that for our work to really make an impact, we need to work with the NGOs as true partners over an extended period of time.
+Another good discussion was focussed on improving our application process and a clean separation between the partners and the NGOs during this process. Vivek from Samanvay foundation proposed a fairly solid plan and lines of responsibilities between the NGOs, software partners and tech4dev. This avoids the potential conflict of interest between the partners and the NGO and at the same time puts more responsibility on the NGO allowing them to drive the process. We will also encourage NGOs to apply for innovation grants and expand the scope of the program.
+Finally, I do think we found an excellent group of software and ecosystem partners. It was really good to meet and interact with them over the course of the two days, which seemed too short a time. As a collaborative, the amount of impact we can make on the sector and with the NGOs is huge and I’m looking forward to a great year.

@@ -1,0 +1,28 @@
+Title: Setco – Project update
+Author: Kurund Jalmi
+Date: June 2020
+Category: Avni
+URL: https://projecttech4dev.org/setco-project-update/
+==================================================
+
+Setco ? project update
+In continuation with the
+previous blog
+, here?s a quick update on
+Avni
+implementation for Setco project.
+The project deliverable for Setco, consisted of
+Maternal and child health
+Child nutrition and development
+Adolescent health
+Preschool
+Reports and
+Importing of legacy data
+Of the deliverables, so far we?ve been able to finish work on Maternal and child health program along with some loose ends that need to be tied up for Child nutrition and development.
+With Avni, form designing for these programs was easy, but at the same time being new to Avni, the real challenge lied in how we applied the right rules. Avni supports a varied set of rules for different contexts like
+Form validation
+Skip logic
+Ensuring correctness of data
+Enrolling individuals to a program (e.g. only children of age 0-6 years can be enrolled for child development and nutrition program)
+Scheduling visits and so on
+These varied set of rules makes Avni, flexible enough to be used for any program implementation that involves data capture at various points in time. But as a na?ve Avni implementer understanding different rules, and implementing them correctly in Setco context, was at times overwhelming. However, quick calls with Avni team and responses to our queries over their gitter channel helped us make progress with the implementation.

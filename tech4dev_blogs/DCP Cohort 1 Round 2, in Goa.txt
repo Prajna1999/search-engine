@@ -1,0 +1,28 @@
+Title: DCP Cohort 1 Round 2, in Goa
+Author: Rohit
+Date: January 2024
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/dcp-cohort-1-round-2-in-goa/
+==================================================
+
+The Data Catalyst Program was an experiment by Dasra, Goalkeep, the Agency Fund and Project Tech4Dev. We started by meeting with a group of 12 NGOs in Kochi
+last October
+, where we introduced them to good data practices, discussed their common challenges, and left each of them with a 3-month long project on which to report progress in January.
+And I’ll admit that back in October I was not skeptical per se, but maybe a little confused about what would be achieved over the quarter. But boy were those emotions misplaced. Every single NGO showed up more knowledgeable, more confident, and with demonstrated progress by this second and final meeting.
+This second round was also much better organized than the first. For one, the organizers solicited and acted upon feedback from Kochi to deliver a single rather than two parallel tracks. Second, the post-session feedback was tightened up which gave us a better view of what worked and what didn’t.
+I wasn’t an organizer – that mantle from the PT4D side was worn entirely by Abhishek Nair. But I was a co-presenter in two of the sessions along with Ashwini Lotlikar, one on data governance and the other on data analysis using LLMs. Both were a challenge to plan but for very different reasons.
+Data governance is dry and boring. Even worse, the subject is vast and tying it together is less of an Oh wow! and more of an Oh great. So Ashwini and I had to choose what to cover and how to construct a narrative through these pieces. We ended up with the theme of data sharing and put together a presentation going from internal sharing to external sharing, focussing on the who, the why and the for-how-long (and in particular we sidestepped the how).
+Next we interspersed our presentation with several group discussions. I thought we had too many of these but participant feedback ended up validating our decision. The audience was given hypothetical situations and asked to talk through them donning different hats in their orgs – the founder’s hat, a funder’s hat, the hat of a program director and the hat of an engineer. Discussions were lively and everyone participated.
+The second session was on how NGOs might use LLMs like ChatGPT. Edmund from the Agency Fund had conducted a ChatGPT Plus demo back in Kochi and we thought we’d lead the participants through a hands-on session this time.
+We didn’t want to buy a bunch of monthly ChatGPT Plus subscriptions for a 1 hour session; instead we decided to use a tool called
+Julius AI
+. Julius AI is built on top of OpenAI’s and Anthropic’s APIs and has been designed purely for data analysis. It lets you upload a CSV and ask questions about it, generate charts and see the Python code underneath. And best of all – 15 messages free! they said.
+Well they
+said
+that, but halfway through our session our participants found that Julius’s system was smart enough to notice that all these logins were coming from the same place, and decided to shut us down. In hindsight I should have spoken with the Julius team first, telling them what we were planning to do and would they please-not-rate-limit us for that one morning. But I didn’t, and so they did.
+However – until we were rate-limited, our participants did extremely well! We had provided them with two datasets, one on Covid mortality and recovery rates around the world, and another on the health factors which might predict the onset of diabetes. Every single group was able to do a preliminary analysis of at least one dataset and contribute to the group discussion after.
+If we were to do this again, I would definitely want to
+Do more advance preparation, including getting the presentation vetted a week ahead of time
+Prepare for third-party tools not working as expected, including by reaching out to them if we’re using a free tier
+Summarize the group discussions on a screen as they unfold
+It was a pleasure to have had the opportunity to interact with so many NGOs through this program and I hope we do it again.

@@ -1,0 +1,39 @@
+Title: A Data-Driven Safari of Social Impact
+Author: Donald Lobo
+Date: February 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/a-data-driven-safari-of-social-impact/
+==================================================
+
+This blog was written by
+Kavneet Kaur
+from
+Dasra
+As I arrived at
+Sawela Lodge
+in Naivasha last Sunday morning, I felt the weight of fatigue from travel lift as I absorbed the stunning landscape and the contagious energy of the workshop attendees. My purpose here was to contribute to a workshop organized by The Agency Fund (TAF) and Project Tech4Dev, their first sprint in Africa. Bringing together TAF’s grantee partners and various organizations working (over 50 participants from ~20 organizations) in the social sphere of data and technology, the workshop proved to be an enlightening experience.
+�Later in the week, I also had the privilege of being part of the co-hosting team for a full-day ‘Unconference’ event held in Nairobi. It was an experience that left a lasting impression on me, thanks to the exceptional warmth, support, and expertise exhibited by our co-hosts:
+Project Tech4Dev
+,
+KujaLink,
+East Africa Philanthropy Network
+,
+Let’s Create Africa
+, and Global Giving. Their collaboration and dedication significantly enriched the event (with over 80 participants), fostering an environment conducive to meaningful dialogue and collective learning. The insights gained from this event were truly profound. Fortunately, we saw participation from numerous Community Based Organizations (CBOs) and had the opportunity of hearing from community leaders with invaluable lived experiences. What stood out as the greatest achievement to me was the creation of a safe space where individuals were eager to openly share, absorb knowledge, and engage in meaningful exchanges.
+From our first meal together to our farewells, I was enriched with new insights and compelling data stories from diverse individuals and nonprofit organizations. Here are my top reflections from this trip:
+Data as a lever to navigate the complexities of non-profit endeavours:
+Nonprofits globally face similar hurdles in their growth journeys, from scaling programs, securing funding to cultivating a robust data culture.  A resounding agreement resonated among participants at the Naivasha event: timely, data-driven decision-making as the cornerstone of success. On the other hand in Nairobi, for most CBOs data storytelling and fundraising seemed most pressing challenges and it does make sense! CBOs globally need support to access networks, resources and capacity building support to articulate the value of their work.
+At both event, there was a collective understanding that informed decisions, rooted in robust data analysis, pave the path towards sustainable impact. In essence, the ability to harness data effectively isn’t just a capability; it’s the very essence of organizational resilience and efficacy in the ever-evolving landscape of social change.
+Empowering employees for organizational excellence and social impact:
+Empowering individuals at every level with the requisite skills, access to data, and cultivating a supportive environment serves as the bedrock for nurturing a culture of informed decision-making. With an opportunity to run a Data Culture session in Naivasha, I realised this approach democratizes data utilization, ensuring that insights aren’t confined to a select few but are accessible to all stakeholders. The discussions during this workshop also pushed participants to think about equipping their team members with the tools and knowledge to interpret and leverage data effectively. A few of them also highlighted the need to create a supportive environment that encourages open dialogue, where questions are welcomed, and insights are collaboratively explored.
+While Data Culture did not come up as a critical focus in Nairobi, and the reason for that I think is to do with the stage of organizations the attendees here are still grappling with initial growing pains to establish their programs.
+The power of experimentation & learning in the organization
+: Solving complex societal issues demands innovation and experimentation. The panel discussion at Naivasha highlighted that funders must exhibit trust and openness, providing nonprofits with the space and resources to innovate. Nonprofits, in turn, must prioritize evidence generation and invest in suitable technology and practices for effective data management and communication. My learning that I promise to take back to my team and work is Experimentation. Experimentation empowers us to challenge the status quo, explore new approaches, and iterate based on real-world feedback. It encourages a mindset of curiosity and risk-taking, where failure is viewed not as a setback, but as an opportunity for growth and refinement. Every experiment, whether successful or not, yields valuable insights that inform future decision-making.
+Breaking silos to cultivate community:
+Silos within and between organizations inhibit progress. Creating opportunities for collaboration and knowledge exchange fosters trust, ownership, and camaraderie and both the events make even a stronger case for this. Unstructured spaces like an outing to
+Crescent Island
+helped us make friends on this trip and we promised to not work in our own silos but stay in touch and exchange experiences regularly. Another interesting conversation I had with few of these friends at Naivasha was on the role of leadership. We discussed that while leadership plays a critical role, it’s essential for individuals at all levels to embrace their roles as everyday leaders, driving change through collaboration and shared learning.
+A lot of the attendees also shared silos often emerge within organizations, creating divisions between teams that limit flow of data & insights. Additionally, I feel silos also exists between organizations within the same sector, hindering the sharing of knowledge, resources, and best practices. By dismantling these silos and fostering connections, nonprofits can create community of practise for a more cohesive and supportive ecosystem.
+Advocating for regular but inclusive and diverse participation:
+Throughout both the Naivasha workshop and the Nairobi Unconference, it became evident that true progress in the realm of social impact requires the active participation and representation of diverse voices and perspectives. While reflecting on the discussions and interactions, it was apparent that inclusivity isn’t just a buzzword; it’s a fundamental principle that underpins the effectiveness of nonprofit endeavours. From the engagement of community leaders to the collaboration between organizations of various sizes and backgrounds, there was a palpable sense of value in embracing diversity. Not only in Kenya, there is a need even back home here in India to advocate for inclusive practices and ensuring equitable access to safe spaces for sharing and learning on a regular basis.
+In summary, these reflections underscore the importance of collaboration, innovation, and a collective commitment to leveraging   data and technology for social impact. By breaking down barriers and fostering a culture of continuous learning and experimentation, nonprofits can enhance their effectiveness and drive meaningful change in their communities.

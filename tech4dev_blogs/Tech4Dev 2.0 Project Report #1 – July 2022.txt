@@ -1,0 +1,85 @@
+Title: Tech4Dev 2.0 Project Report #1 – July 2022
+Author: Kurund Jalmi
+Date: July 2022
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/tech4dev-2-0-project-report-1-july-2022/
+==================================================
+
+Tech4Dev
+Mission
+Building the Open-Source Technology Ecosystem for the Social Sector.
+More information:
+Tech4Dev 2.0 Concept Note
+,
+Tech4Dev 2.0 Pitch Deck
+Summary & Highlights
+Q2 2022
+– Welcome to the first Tech4Dev 2.0 quarterly report. Starting off the next version of Tech4Dev with a new set of goals and targets, bigger and bolder. Writing this report while the GarudMaachi sprint is in progress is kinda a nice coincidence since this is the core of our mission and vision: To build the technology ecosystem for the sector by bringing people together, sharing knowledge and learnings, and forming deep and long-lasting relationships.
+Tech4Dev
+continues to grow. We onboarded
+Siddhant Singh
+and Mahesh Pradhan last month to the Glific team, and have our first fractional CxO joining us in September.  From a fundraising perspective, we have committed funds for more than 75% of our 3-year target. Given the carry-over funds and revenues that we expect from 1.0, our overall 3-year budget is likely to be in the range of USD 11 million. Weve strengthened our relationship with Dasra. Our goal is to more effectively manage the legal and financial process that supports the scale-up of Tech4Dev 2.0. Ninad Ankleshwaria from Dasra will be responsible for the grant management process
+Our
+Fractional CxO
+(x == Tech, Data, or Tech Strategy) initiative has garnered the most interest amongst foundations. Seems like many of us have recognized this problem and we now have a potential solution. Weve got an existing pilot going with SNEHA Mumbai, and Erica and Vinod have shared an
+update in this blog post
+. We are also about to pilot this with Indus Action and Reap Benefit starting soon. We are excited to be working on this initiative in partnership with
+Agency Fund
+and will include their network in Africa and Latin America.
+Our women-in-tech pilot is demonstrating the importance of a pilot. We are learning a lot and still trying to figure out what makes sense, when we should intervene, and who our target users are. We are also exploring the space in India and chatting with other NGOs doing similar work (so we can learn, build, or partner with them). An update on our
+first pilot with Colored Cow and THDC is here
+.
+Glific
+had a banner quarter. We onboarded 14 NGOs in the last quarter and are starting to see a steady stream of new NGOs and consulting work. Our intense focus on ensuring customer happiness and going the extra mile to help them out is starting to pay off with referrals from our existing NGOs. The quarterly sprints help us build and deploy features that are requested by multiple NGOs and also help us understand their needs better. We are starting to see the beginnings of a nice user community within the Glific NGO ecosystem.
+In this quarter,
+Avni
+had high usage by existing users and started to work with 5 new large non profits. The NGO, Rejuvenating WaterBodies, is using Avni for daily monitoring. This project is being piloted by NITI Aayog, the apex public policy think tank of the government of India. Due to our strong experience in health, a large NGO has chosen to pilot with Avni a statewide rollout with frontline workers. While the good streak in health continues, we also have 2 new organizations from the education sector and one in rural welfare, adding newer use cases that Avni can solve. Most new partners are betting on Avni for projects with hundreds of users to thousands and from private rollouts to public. With fieldwork app foundations well laid, faster and better reporting and analytics are the newer challenges the team is solving. There is a stretch and growth both in the open-source software platform and the team.
+We had our first week-long education cohort sprint thanks to the Cisco and Agency Fund grants. We had a group of 36 folks from NGOs, data and software partners participate. Many of the participants wrote
+blog posts about their experiences at GarudMaachi.
+These articles are well worth a read, or at least a skim. I missed most of the sprint due to Covid, but the articles gave me a detailed view of the happenings during the sprint. Kudos to the Tech4Dev team for pulling this off so nicely and to all the participants for coming in well prepared with objectives and goals for the sprint. Sprints like this is Tech4Devs core mission:
+Building and Strengthening the ecosystem
+.
+Aam Digital – Enabling holistic education at HELGO
+The
+HELGO
+project is supporting children from exceptionally underprivileged backgrounds – often former child laborers. Their mission is to break the vicious cycle between poverty and lack of education. To achieve this, HELGO developed a holistic support program: They enroll kids in school, organize tuition classes, maintain close relationships with the families, provide materials and help students develop life skills through counseling and workshops.
+Accordingly, there are a lot of details and activities that the organization has to track. Aam Digital was founded as a digital case management system for them to make all this information easy to manage for the whole team:
+Detailed profiles summarize all information of a student in one place, accessible on desktop and mobile. Based on this the team plans the support for each individual.
+A custom attendance tracking workflow allows teachers to record classes attendance from their smartphone as quickly as recording it on paper. And the data is shared in real-time with the whole team.
+The social workers then identify critical developments on the Aam Digital dashboard, for example students who have been absent from multiple classes this week or kids with a dangerously low BMI who should get additional food support.
+With its holistic approach the team rarely follows the same questions when interacting with a family. They heavily use unstructured notes in Aam Digital to keep a flexible case history for each child and maintain it jointly as a team.
+“In Aam Digital all our data of a child is in one place, instantly available. We can even access it on the road and offline.
+Surya Ghosh, Head of Social Work at HELGO
+Reliably tracking all the detailed developments of their students would be almost impossible for HELGO without Aam Digital. Earlier it took 4-6 weeks until the team followed up with absent students because paper attendance registers were collected from the learning centers only once a month. With the digital system they now follow up within a day or two. This has helped reduce the dropout rate from 8.5% to 4%, i.e. by more than 50%.
+Aam Digital also helps the organization build trust with its international donors. Dr. Meyer-Hamme, chairman of the German charity funding the program, is confident their donations are utilized well: Aam Digital helps us to have a good overview. With this system we can better see the long-term developments and success of our project in India.
+You can see an interactive demo system similar to the one for HELGO
+here
+or refer to our
+summary
+. Aam Digital today is a configurable platform and Digital Public Good that serves NGOs across different social sector use cases in nine countries.
+Financials
+We are modifying our financial reporting with the help of Dasra. This is the first draft of how we plan on reporting financials going forward with Tech4Dev 2.0
+Want More
+Details?
+All our blog posts can be found on
+the project website
+and
+Glific blogs
+. All project documentation can be found on our
+shared google drive folder
+.
+Tech4Dev 2.0 Concept Note
+Glific Website
+,
+Glific One Pager
+Avni Website
+,
+Avni 2 Pager
+Tech4Dev 2.0 Pitch Deck
+GarudMaachi Sprint Report – July 2022
+Delhi Sprint Report – Apr 2022
+Tech4Dev 1.0 Reports
+Reach out to us via
+email
+or find more information on our
+website

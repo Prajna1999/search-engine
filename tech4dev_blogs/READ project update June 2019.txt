@@ -1,0 +1,22 @@
+Title: READ project update  June 2019
+Author: Kurund Jalmi
+Date: June 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/read-project-update-june-2019/
+==================================================
+
+READ
+network has received the support for technological development through Project Tech4dev. Soft Corner the software solution provider has been working very closely with us since then.
+We appreciate all the efforts put in by the Soft Corner team along with Madhuri and Eshan to give us the best possible solution. They have really tried to understand the grass root level problems and have made all possible efforts to address all the issues and concerns raised by us.
+A small demo was given to the core members of the network in mid-April. Based on the inputs given by us the Soft Corner team made modifications and came back to us in the 1
+st
+week of May. Another demo was organized with more members this time. Further suggestions and inclusions were given which were also worked on. They showed us all the formats needed for data entry as this was a big concern for all NGO?s. There is a huge amount of data which will have to be entered and we wish to start doing it at the earliest.
+Finally on 8
+th
+of May, 2019, 28 people from 7 NGO?s came together to get a hands on training of the developed software.
+All efforts were made by the team to make sure that the tool was understood by the people present for the training. We were also shown a glimpse of the application which will be used by our field workers. The tool is easy to use and we are sure that our objective of reducing manual errors, getting data from field real fast, making it easier for our staff to keep records and a stronger MIS which can be used to showcase the work done by all NGO?s will be achieved.
+We also got a separate temporary link to bulk upload our data and create the bar codes for all our books, so that we could create this data while the final system was being made production ready.
+The system has now been put in production mode on the cloud server of Soft Corner till we have our own cloud server in place. Once we do that, we will be moving the system to our server.
+We really are eager to put this to use soon.
+Smita Joshi
+READ Network

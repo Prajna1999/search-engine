@@ -1,0 +1,61 @@
+Title: The Fractional CxO Program with Vasudha Foundation: Early Days and Quick Wins
+Author: Thomas
+Date: July 2024
+Category: Fractional CxO
+URL: https://projecttech4dev.org/the-fractional-cxo-program-with-vasudha-foundation-early-days-and-quick-wins/
+==================================================
+
+Overview
+This is the first in a multi-part series on Project Tech4Dev’s Fractional CxO engagement with Vasudha Foundation. The series is a play-by-play of the CxO engagement that is scheduled to last for nine months and will try not to generalize learnings and solutions. While we detail the engagement, we will also get a view into Vasudha’s mission, how technology is leveraged and the diverse set of challenges they face.
+Organization Background
+Vasudha Foundation champions innovative approaches that can ensure a sustainable and inclusive future for the planet. Vasudha compiles data across the energy, climate and environment space, leveraging cross-sectoral, data-driven analyses and outreach towards accomplishing its mission.
+Vasudha Foundation team at their retreat at Taj Fisherman’s Cove, Chennai
+Initial CxO Goals
+Prior to the start of the engagement, the Tech4Dev fCxO team conducts interviews with the candidate organization’s leadership to:
+Understand the organizations needs and timelines
+Assess whether the above is a good fit for the fCxO program
+These initial interactions yielded a few insights and resulted in laying out the following focus areas for the fCxO, leaning more towards tech assessments, reviews and capacity building:
+Vasudha’s use of technology, aided by a deep look at Vasudha’s programs and an understanding how technology can be leveraged in use cases across the organization
+A deep dive into the entire data spectrum of ingestion, cleaning, visualization and publishing
+Current vendor engagements with a deeper focus on software development processes
+The combined internal and vendor-augmented tech capacity, identifying capacity gaps and supporting capacity building as needed
+Note that not all fCxO engagements focus primarily on capability and capacity reviews and enhancements; on the contrary they often have specific tech solution deliverables.
+Early Days
+An org-wide off-site retreat at the beautiful Taj Fisherman’s Cove in Chennai served up the perfect setting and opportunity to meet and interact with the entire Vasudha team. There’s nothing like meeting in person to gain a better understanding of the organization’s mission, culture, challenges and processes. While I have always enjoyed the flexibility that remote work allows, in-person meetings still seem to cut down the time in building relationships and rapport.
+Deep dives with program leads (roughly divided into two verticals: climate and energy) followed the retreat, once everyone was back to their respective home bases and settled in. These deep dives were conducted with a top-down approach and answered the following questions:
+What are the mission and goals of the program – I also tried to understand how this aligns with the overall mission of the organization
+Who are the people involved and what are the interfaces, if any, with other program teams
+What are the kinds of projects involved: current projects, upcoming projects in the near term and future projects
+What are processes involved from concept to completion and maintenance of a typical project
+What are the challenges specific to the program and its projects
+How is technology currently being leveraged and how do you think it can be leveraged going forward
+I tried to leave technology-specific questions to the end, knowing that this can often lead to tech solutions rabbit holes and could limit my ability to gain a deeper understanding of the program before jumping into brainstorming.
+A few early takeaways from the retreat and subsequent deep dives
+Vasudha has grown very quickly from around 20 people to over 60 in less than 2 years. Plans are on to grow to around 100 people in the near future
+This growth has resulted in burgeoning activity across all programs while at the same time, there are early signs of hurdles in shared resources, processes and communication
+Technology usage is diverse and deep, from data dashboard projects to energy systems modelling; from WordPress sites to portals that estimate solar rooftop capacity using drone-based remote sensing; from collecting and aggregating data from dozens of sources to drafting climate action plans at various tiers of administrative divisions, to name a few
+Data management is fairly immature
+Utilization of cloud storage on Google Drive is limited due to a perception of low storage limits and a lack of awareness of pooled storage
+Data is often stored on personal devices with backups on external drives
+Data pipelines are not well-defined and automation is minimal, leading to long timelines and recurring errors
+Vendor relationships are generally good, but there is concern about timelines, budgets and capacity
+Some projects are stalled due to a variety of reasons, but seemingly from a technology capability gap
+Vasudha’s partnerships at all levels of government and private industry are strong and seem to be contributing to a large and diverse set of successful projects
+Vasudha Foundation CEO, Srinivas Krishnaswamy and Programme Head, Raman Mehta with Ms Supriya Sahu, Additional Chief Secretary to Government, Department of Environment, Climate Change and Forests, Tamil Nadu and Ms Nirmala Raja, Chairperson, Ramco Community Services
+A Couple of Quick Wins
+Since data is at the center of all of Vasudha’s interventions, managing that data with appropriate governance policies seemed to be an appropriate endeavor to look at first. Moving to shared, centrally managed storage was a required first step and to this end, we decided to drive the adoption of Google Drive as the cloud storage platform for documents and raw data. Priya from the comms team championed this and quickly removed the fear of running out of storage by signing up for the Google Workspace non-profit plan. 100 TB may not seem like enough for large data organizations, but at Vasudha’s current storage needs, this would be more than enough for a while.
+After understanding how people at Vasudha manage their data and documents and control access to them, we created distinct shared drives for each sub-vertical and cross-functional team. Additionally, we bootstrapped each drive with a basic directory structure as a starting point for people to organize their data in a logical hierarchy. Distinct shared drives also gave people the freedom to organize data and manage access in a manner that made sense to their team.
+On the renewable energy front, development was completed on the solar cities portal in collaboration with the New and Renewable Energy Development Agency in UP. The portal allows residents to make informed decisions on investing in rooftop solar installations with information on financial benefits through available subsidies, insights into the payback period of the investment and the potential monthly savings on electricity bills. The project leverages drone and satellite imagery to assess rooftop solar potential at a building level using solar radiation and shadow modeling.
+Uttar Pradesh Solar Cities Portal
+Launch of the solar portal project was on hold pending procurement of the appropriate infrastructure by the government partner. The quotes that they were getting turned out to be far beyond the expected budget for the project. After initial conversations with the program team, the government partner and the vendor, a few questions lent clarity on a viable approach. The following is a simplified version of the investigation to give some insight into our reasoning:
+What does the roadmap for this project look like i.e., is there further development planned after the initial launch
+Answer: Only two cities have been imaged so far and the plan is to launch 4 cities by the end of 2024 (almost a year away)
+What are the expected scale requirements e.g., how many users are expected to use the portal at average and peak loads
+Answer: Unknown but we can ballpark peak load to be around 500 users at initial launch
+What are the current procurement quotes for in terms of number of cities and number of users
+Answer: 8 cities; number of users at peak has not been estimated
+Would it be possible to implement a simple scale up strategy and launch with a minimal configuration
+The answer to the last question was yes in the end and it was decided to obtain quotes around this plan. The vendor that developed the portal was also requested to put in a quote – the added benefit of reducing the overhead of deploying to a third-party datacenter for each subsequent bug-fix, enhancement or scale up was appealing.
+In the end the development vendor turned out to be the best option and came in at about a sixth of the price that was initially quoted. The solar cities portal was successfully launched and is gaining both users and attention.
+Up Next
+In the next parts of this series, we will look at a more detailed tech assessment of Vasudha Foundation, ongoing projects, data challenges, software processes, capacity requirements, medium term changes and finally a technology roadmap.

@@ -1,0 +1,24 @@
+Title: Tehri Social Impact Sprint – Day 3
+Author: Kurund Jalmi
+Date: November 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tehri-social-impact-sprint-day-3/
+==================================================
+
+This blogpost is written by the IDinsight team(Victor, Tanmay, Suzin, Lavanya, Adam, Zia).
+On the third day of the Tehri Social Impact Sprint, we woke up (as usual) to the dazzling view in front of our cabins. The lake, the mountains, the early morning sun, all come together to paint a beautiful picture for us everyday. We are greeted by excited tail wagging dogs, eager to give us handshakes. We will miss all this so much when we leave 🙁
+After gathering the willpower to leave our beds and get ready for day 3, we came to our, now beloved, THDC university. The ride to the university was the same as days 1 and 2 – everyone was squished together, listening to
+Lover by Diljeet Dosanjh
+(our trip anthem) in the Innova.
+Gastro Section
+A major highlight of the Social Impact Sprint has been the food. It is prepared with love and care by Praksh Ji. Day 3, however, had special meals in store for us. Yes, even better than usual –
+Cheelas, eggs, lentil salad for breakfast. The perfect meal to start off our day
+Rajma, rice, pickles, and curd for lunch. Rajma is love. Rajma is life.
+Idlis and Dosas for dinner, thanks to a special, super secret recipe from Gautams Grandma!
+We are sure that everyone has gained a couple of kilograms since the sprint began 😉
+Tech Talks
+The days 1st tech talk was given by the IDinsight team. IDinsight uses data and evidence to help leaders combat poverty worldwide. Their collaborations deploy a large analytical toolkit to help clients design better policies, rigorously test what works, and use evidence to implement effectively at scale. They gave everyone a taste (almost as tasty as Praksh Jis cooking) of the wide variety of work they do. Their work ranges all the way from building cool dashboards to deploying machine learning models!
+The 2nd talk of day 3 was given by Plio. Their presentation was one of the most fun and interesting ones so far (a considerable feat given how exciting all of the other talks have been!). The Plio team showed us how their product works to convert YouTube videos to Plios which are interactive videos that people can use for all sorts of things. Everyone got to make our own Plios as well. The memes and GIFs they used in their presentation stole the show!
+The deep dive was given by Aam Digital who talked about their open source project for case management for NGOs. They gave a walkthrough of how their technology helps streamline teaching practices. It was inspiring hearing the story of their start-up.
+Story Club
+Story club is a weekly open mic event that ColoredCow hosts in their office every Wednesday. We had the chance to take part in it this week. The theme for this week was celebrating individual growth and achievements in life and acknowledging the importance of supportive mentors. A lot of people shared their experiences talking about how they overcame their doubts and insecurities, how they found support and inspiration in unexpected places, and how they fell in love with their work. It was very heartwarming to see people being honest and connecting with everyone at a deeper level. It was an inspiring night, leaving us much to think about.

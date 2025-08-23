@@ -1,0 +1,24 @@
+Title: Indus Action: Chatbot project update
+Author: Kurund Jalmi
+Date: February 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/indus-action-chatbot-project-update/
+==================================================
+
+Section 12(1) (c) of the The Right of Children to Free and Compulsory Education (RTE) Act, 2009 mandates inclusive classrooms by setting aside 25% seats in entry level classes of private unaided schools for children belonging to disadvantaged groups (DG) and economically weaker sections (EWS).
+1.5 million of the 2.2 million seats available nationally under RTE Section 12(1)(c) go vacant every year. Indus Action aims to address the awareness and capacity gaps in the implementation of this provision through a mix of technology interventions, community outreach and process support throughout and after the admissions process.
+Indus Action currently runs operations in 11 states. Over the last 3 years, we have reached out to over 3.5 lakh beneficiaries and potential beneficiaries through our awareness campaigns. Our Partner Entrepreneur Network aims to mobilise local entrepreneurs to build on Indus Action?s experiences of running campaigns for 5 years to enhance RTE outcomes.
+Indus Action would like to build an AI Chatbot that would allow the beneficiary to seek quick responses on the RTE 12(1)(c) application process without having to wait for a call back from the Shiksha Sahyogis. This will be the first line of interaction that a beneficiary faces with Indus Action?s support system, they could then choose to escalate their concern to a manual operator. Indus Action, on the other hand, would collect beneficiary information directly from user inputs on the chatbot, place them at an appropriate stage in the application process and tailor its support to the beneficiary based on these findings.
+So far, the Indus Action Campaign App does not have a beneficiary facing component. Beneficiary data is collected by Shiksha Sahyogis as they respond to missed calls. This data is then validated by our calling quality assurance process. Beneficiaries currently do not have any means of accessing their data (except for the long drawn out process of making a formal request to Indus Action?s data controller), nor do they have any means of getting prompt support.
+Web Access evaluated following Chatbot options:
+* DialogFlow
+* IBM Watson
+* Botsociety
+* Rasa Stack
+After discussion with Indus Action team and based on the requirements it was decided to go with DialogFlow. The project is divided into 2 phases.
+Phase 1
+* Setup basic framework and structure for the project
+* Create a Facebook Messenger based bot
+Phase 2
+* Create a WhatsApp based bot
+As a part of tech4dev initiative, Phase 1 will be implemented. We are making steady progress and hoping to wrap this project by end of March.

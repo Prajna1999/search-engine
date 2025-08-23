@@ -1,0 +1,43 @@
+Title: Team reflections on the release of Glific v1.0
+Author: Kurund Jalmi
+Date: March 2021
+Category: Glific
+URL: https://projecttech4dev.org/announcing-the-release-of-glific-v1-0/
+==================================================
+
+After 9 months of intense design, development, testing, and working closely with multiple NGOs we are proud to announce the release of Glific v1.0. If you need a quick background on Glific, a 4-minute product video showcasing the most important features can be
+viewed here
+. This has been a phenomenally intense journey and gave many of us a critical focus and passion during the months of the pandemic.
+A big thanks to the team: Pankaj, Dignesh, Vaibhav, Abhishek, Akhilesh, Ankit, Mohit, Pooja, Anshul, Sanjeev, and Kurund that worked so hard and long to release the product. Also thanks to all our fabulous NGO partners who have worked with us from the early days and lived with the occasional and sometimes frequent bugs.
+Team photo during our daily standup
+Our main goal has been to build a platform that most NGOs can use without significant customization and we do believe v1.0 has achieved that goal. Our secondary goal is to build a community of users around the platform and that is happening organically on our
+super active Discord channel.
+Since most of the team and the NGOs are in India, I’m greeted with an avalanche of messages and conversations on the channel when I start work early morning.
+We’ll have a formal press release out in the next day or so, but in the meantime, I just wanted to share the team’s reactions to their experience over the past 9 months.
+My favorite part is talking about features/innovative ideas and how to apply them technically, and it makes me happy to see how useful it is to people –
+Dignesh
+My favorite memory was to see the support and usefulness it brings to the NGOs in scaling and reaching a larger audience. I remember when I was in a support call to debug some issue and I could clearly see the happiness and enthusiasm by the NGO while using Glific. –
+Shamoon
+My favorite part was to see how each feature was developed and how everyone contributed to refining it. The complete cycle of how a feature is developed, from being an idea to bringing that idea to the table, where everyone shared their insights on it, then planning it, developing it, and finally after hours of work releasing it. It just gives me an immense feeling of happiness to see someone actually using the feature which was just an idea a few months ago. –
+Akhilesh
+My favorite part is to start picking up the abstract piece, develop/build that with the help of the great team, and release it in a useful way. Another thing is that we are taking documentation very seriously. The things I want to get better is to not miss those bugs which we can catch on the staging /cypress itself and fix them before they reach production. Also, I do resonate on the sleepless nights part –
+Pankaj
+My favorite part is how we’re always trying to improve our app by adding new features and tools to make it more useful to NGOs. “
+Clear communication among ourselves as a team and knowledge gathering
+” was another personal favorite. –
+Pooja
+My personal favorite was how much I’ve grown with the product itself, whether it was creating product videos (which I was doing the first time), or hosting webinars which were always daunting (again a first), and then with the design itself, I do take pride in what I created with the entire team. And then my collective favorite is meeting after the ON grant, all of us from different parts of the world celebrating together, focused on the single mission. I also enjoyed the participation of all the NGOs during our research process in the beginning and then receiving their feedback as they were using it. Feeling blessed that there were no frustrated NGOs – or thanks to them for not letting it out on us But also, it was great to connect with all the NGOs and support them in their journey to get started. The process is always painful, trying to come up with something better(mostly the visuals) after each delivery. And it’s all worth it when things come together and get done. –
+Abhishek
+I’m fond of the pace and passion I felt while working with the team on v1.0, to respond and deliver to the issues and suggestions raised by NGOs. Facilitate NGOs with a more powerful platform to support communication with their beneficiaries and making the platform better day by day. –
+Mohit
+My not-favorite: weird errors that we get only on production and not development: tackling and fixing them. My favorite: really proud of what we have so far for a project which is less than a year old. Feels great to be working with such an amazing team and the NGOs who keep pushing us to innovate and simplify things. –
+Kurund
+Favorite Moment
+When Abhishek suggested the name Glific and explained the thought behind it. It all connected naturally with the vision behind the project.
+Not so favorite moment
+The couple of grants that we missed getting. Hopefully, we will get better at it with time. –
+Tushar
+My not-favorite but fond memory were the sleepless nights when we had operational issues and the backend would reboot with memory issues. My overall favorite is seeing how quickly we can work as a team and release new features on a weekly basis with the amazing tech building blocks that we have at our disposal –
+Lobo
+I’ll end with gratitude and thanks to the wider open source and product community. This is the golden age for building and releasing products. There are so many external services that we are actively using in Glific today, that it is literally mind-blowing (and worthy of an entire series of blog posts)
+Onwards and Upwards

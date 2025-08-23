@@ -1,0 +1,31 @@
+Title: India Trip Report – Aug 2019 – Week 2
+Author: Kurund Jalmi
+Date: August 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/india-trip-report-aug-2019-week-2/
+==================================================
+
+This is part 2 of the Trip to India Report. You can read
+Part 1 here
+The second week was focused primarily on meeting philanthropists and people who have had a fair bit of experience and expertise in the sector. I attended the meetings with a combination of Arjav and Rahul from Lumen and Kurund from Web Access. In addition to our
+info deck
+, we also went into the meetings with a list of questions and thoughts that we wanted to discuss during the meeting. Some of these questions included:
+Physical presence in India, what should our approach be, and things we should consider
+Our medium-term goals (3+ years), how should we think about it. Benefits of working with small to medium orgs vs medium to large orgs? How aggressive should we be with working with govt either directly or indirectly
+Scale vs Depth vs Breadth? Should we focus on a few orgs with potentially high impact or do a combination of orgs from small to large, and help the sector as a whole
+How can we measure our impact? What should we be doing in the short term to ensure we can get a few answers for this in the next couple of years.
+Since tech education and training are as important to orgs, how should we go about it? What can we do to raise the level of NGO awareness of technology and systems?
+Our info deck and pitch was well received by everyone. Different individuals had different perspectives on some of the questions above, but a few general takeaways did emerge;
+If we are in this for the long term, we need to ensure that we set up a physical presence to match our objectives. Partnerships are a good short-medium term solution, but we should consider setting up our own organization. Starting the process is worth it, since the process takes a fair bit of time, and it gives us flexibility if needed.
+We need to have a better process, selection criteria and due diligence for future cohorts.?
+We need to have a good rationale for why we are focussing on programmatic technology only and ignoring backend technology
+We need to start collecting data about the impact on all our organizations. It might be different for each org, but it will allow us to take a closer look and make sense of it a few cohorts down the line when we have data across similar organizations
+We need to explain why a lightweight, central team with a lot of trust and responsibility on the software partners will work. This is still a work in progress as we are improving our processes and introducing new ones. Maybe drawing parallels to trust-based
+philanthropy
+is worth it.?
+I?d also like to highlight a few things in our plan which we felt resonated with most people in our meetings quite nicely
+Reusing solutions across multiple organizations
+Our plans on building generic platforms as we learn more about the problems that NGOs want to solve via technology
+The variety in the type and size of orgs that we work with across the sector
+The transparency in our work and processes
+Overall it was a really good trip. We’ve come out with a lot more things to think about and action items from this trip that are just starting to tackle and work on. These trips are super energizing and at the same time quite exhausting. Curious to see what we can accomplish over the next six months.

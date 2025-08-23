@@ -1,0 +1,20 @@
+Title: Changing the Narrative: Tech is a Solution – Tech is an Enabler
+Author: Sneha Trivedi
+Date: March 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/changing-the-narrative-tech-is-a-solution-tech-is-an-enabler/
+==================================================
+
+This blog is written by Erica Arya, India Head, Project Tech4Dev
+This blog should be a good read for people working in the development space, who think that Technology alone can solve the problems they have at hand, those who think tech needs large funds, big- scale and big organizations
+Designing and developing tech solutions has been a major part of the work I have been doing. I always felt that tech tools and products being developed would actually solve the problems they were built for, but it used to surprise me when I would see that post integration into the programs, quite a few of the tech solutions were not able to create the intended impact.
+On delving deeper to understand the reasons for this – talking to NGOs, understanding how they were implementing the tech solutions, having internal discussions within the team, it made me realize that the problem for not getting the desired results was not in the tech solution but in the approach. This made me change my narrative that Tech is not the Solution but an Enabler. Tech cannot solve problems by itself but can enable an effective, efficient solution. Tech is in fact the easiest piece of the problem to solve, the more important question for organizations who are thinking of tech for their programs is to ask yourself first if you have the processes and systems in place to support the adoption and execution of tech.
+Delve deeper into:
+Understanding the problem you are trying to solve,
+Identifying the needs of your program,
+What solution will solve this problem
+Is there a systematic way of implementing the solution
+If you have answers to the above and can see a systematic approach leading to problem solving, it means you are ready to include a tech solution which could enable an effective and efficient execution at scale. The size of your organization, having a large-scale program implementation plan, having large funds to invest in tech  these should not be the deterrents to get you going in such a case.
+Once you have clarity that tech can help, do not think of building the solution in the first go. Spend time and effort researching and evaluating the existing resources, leverage existing tech forums and organizations like ours to discuss your problem and the possible solutions. Pilot with existing solutions, tweak it to meet your specific case and then evaluate if there is a need to build. In most cases the off-the-shelf solutions should suffice most of your requirements.
+This is exactly what I shared, while talking to the grassroot NGOs of the Rebuild India Fund at the Dasra Philanthropy Week. Hearing the views of a few of the NGO founders whom I interacted with at the event made me realize even more that it is so very important to clear the misinformation around tech that many of the grassroot NGOs have.
+If you have any thoughts reading the above and would like to chat do drop me a message at erica@projecttech4dev.org

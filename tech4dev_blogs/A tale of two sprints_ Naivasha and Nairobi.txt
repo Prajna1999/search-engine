@@ -1,0 +1,38 @@
+Title: A tale of two sprints: Naivasha and Nairobi
+Author: Donald Lobo
+Date: February 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/a-tale-of-two-sprints-naivasha-and-nairobi/
+==================================================
+
+Sitting in my hotel room, overlooking Wilson Airport and recovering from the last 5 days of working with different groups across the country. The first 4 days were spent with 12 amazing NGOs across Africa and our partners: The Agency Fund and Dasra at Lake Naivasha. You can read more details about this sprint in the blog posts by
+Krishna Priya
+and
+Siddanth
+(yes, it’s great to see people write about their experiences without prompting!).
+We followed the sprint with an unconference event in Nairobi with new partners:
+Kuja Link
+– Dawit,
+East African Philanthropy Network
+– Mathilda, Global Giving and
+Lets Create Africa
+– Wahigi. This event was organized at fairly short notice since we wanted to optimize our time in Africa, and we are glad we stumbled into these partners. We pulled off an amazing conference in a span of 4 weeks with all of us trusting the group to give it their best shot. For me personally, this event was inspiring, eye-opening, a bit sad but gave us a dose of reality on the ecosystem in Kenya and East Africa.
+The organizing team for the Nairobi Unconference
+I learned a lot of things about the NGO/CBO (Community Based Organizations) ecosystem and a couple of new phrases/concepts when talking to two young women (Suzanne and Elema) after the event yesterday. The first phrase was “NGO economy” – i.e. where some parts of the country is run by NGOs and/or with NGO money. People find it easier to stop work (i.e. farming) and instead prefer to be the recipient of donor dollars. The second surprising thing was the number of CBOs across the ecosystem. We had quite a few participants from CBOs at the event who are doing work in various parts of the country, many of them formed by young women based on their experiences and their desire and passion to make it better for the next generation. The third thing which was surprising was the number of teenage pregnancies in Kenya (15% currently down from 19% 4 years ago) compared to 4% (urban india) to 8% (rural india). Had a fascinating conversation with the two young women about reasons for this, which are rooted in sociocultural, economic and environmental factors. Seems like lots of reading material out there on this for me to catch up on!
+Some random meandering thoughts on the two events
+Our core mission of building a strong and thriving tech+data ecosystem is as relevant to Kenya (and by extension East Africa / Africa) as it is to India. Lots of similarities with the two countries and I suspect our work can be used effectively out here also.
+Magic happens when we put people in a room and let the conversations flow. We saw this both at Naivasha with the Agency Fund grantees and in Nairobi with a wide assortment of organizations with different budgets and personnel. Most of the in-depth discussions happened outside the sessions and it was great to see people interacting and being deeply engaged
+Stories are powerful. Personal stories are even more powerful. Stories with data are the best 🙂 These sessions had the most interest at the Nairobi unconference.
+Unconferences are awesome and we should do more of them. It’s important for people to be engaged, have a voice and participate in the discussions. This was quite nice to see at both Naivasha and Nairobi
+Trust based collaboration works so so well. Both the events were collaborative efforts by different parties, and things went quite well. The parties had different agendas for what they wanted to get out of the convening, but all of us were focussed on the same larger goal: Community building, Peer Learning, Broader Exposure
+There are lots of amazing orgs across the world doing such amazing work. Loved our interactions with Shujaaz (both at Naivasha and at their Nairobi office), hanging out with the people from Noora Health and Saajha, learning more about Educate!, SameSame and Kabakoo.
+By far, the most important discussion I had, was the data conversation with Richard and Jamie. At Tech4Dev, we believe and enforce open source tech in everything we do and have the buy-in from all our NGO partners. However, on data our policy so far has been: “Its the data of the NGO, they own the rights to it, and we (i.e. the platform provider) does not access it”. However, I think we might need to take a step back and think about data a wee bit more. Can we draft a sharing agreement, where the NGO still retains all the rights and ownership of the data, but we can access it selectively (and with permission for each access) for “research” purposes. As an e.g., if we have this, we can define protocols to measure the completion rate for each NGOs chatbot program. We can potentially run some experiments across the platform that give us better insights into things like engagement rate, response rate etc.
+We need to push all NGOs and partners to open source early and everything. We saw a fair bit of work at the sprints, which we would have loved to use and build on, BUT was not yet open. Personally, I believe that if you start off building things in the open from the very beginning in a collaborative manner, we can accomplish a lot more. For example, our
+Glific + WhatsApp groups
+came to fruition from a grant by Agency Fund to Avanti Fellows, who in turn agreed to let us build it on Glific in an open source way. We now have 5 other NGOs, including Shujaaz, who are super keen on using it for their needs. Power of community and open source
+Travel is tiring, and I seem to have a perpetual cough. All of us are aging (I was hoping to age a bit slower) , but someone from our team (here’s looking at you Krishna Priya), mentioned in a very casual way when I was trying to book some train tickets, that I should use my “SENIOR CITIZEN” status and take advantage of my old age ???? . I’m old, but not that old KP ????. I did have to remind the group that I initiated most of the walks and could bike up the hill at Hell’s gate while all the young ones were walking their bikes. The joys of being surrounded by youth and having an open and transparent culture. ARGH!
+As always, I’m always inspired by the work the NGOs do. My biggest takeaway is, there is so much opportunities for us in East Africa and beyond, that we need to seize the moment now, and JUST DO IT.
+Headed to Mumbai for the
+Dasra Philantrophy Week 2024
+events and looking forward to meeting another set of amazing NGOs and partners
+Onwards and Upwards!

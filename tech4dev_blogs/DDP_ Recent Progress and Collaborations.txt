@@ -1,0 +1,54 @@
+Title: DDP: Recent Progress and Collaborations
+Author: Siddhant Singh
+Date: July 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/ddp-recent-progress-and-collaborations/
+==================================================
+
+Over the past two months, we have been diligently working on our first release for the DDP platform. We are thrilled to have
+Rohit
+, our Director of Engineering, leading the engineering efforts. At Project Tech4Dev, we strongly believe in the power of open source and aim to make everything we do public. Therefore, codebase are public and we welcome anyone to contribute on it. Throughout the development process, we strive to adhere to best practices and ensure high-quality code.
+In order to maintain a high standard, we have begun focusing on writing extensive test cases to cover all the features developed by the engineering team. We have set a rigorous threshold that we are committed to upholding.
+Abhishek Shetty
+is focusing on backend testing and making sure that weve quality test cases. On the other hand
+Ishan
+is our alround developer and leading the
+TAP engagement
+.
+As our organization continues to grow, we have recognized the need for better structuring. We are delighted to welcome
+Abhishek Nair
+as our Product Manager, whose presence has brought about significant improvements in our features and focused efforts for the development team. Since his arrival, we have made notable enhancements to several aspects of our work.
+Let�s talk about where we are with our POCs
+We have worked on Six proof-of-concept (POC) projects with the assistance of our partner,
+Goalkeep
+. The POCs with
+STiR
+,
+Antarang
+,
+DOST Education
+, and
+TAP
+have been completed. Currently, we are collaborating with
+SHRI
+to transition the project to them, enabling them to start analyzing their data. We have encouraged them to utilize their own data warehouse, and Vinod has been instrumental in facilitating the transfer of data from Kobo to their warehouse. This strategic move holds immense long-term significance as it reduces the effort required on their part to maintain data in Google Sheets.
+In addition, we are engaged in multiple projects with
+SNEHA.
+Goalkeep and Vinod are providing support for certain components, while Sneha has recently hired a new data engineer. we’re assisting the data engineer with all the technical work required for these projects.
+Were also doing a deep dive with
+LAHI
+and trying to understand there program really well. After lot of research and discussions we have proposed a
+POC
+work with them. We will be soon start working with them.
+To read more about our last few engagements
+1.
+TAP engagement
+2.
+Antarang closing review
+3.
+LAHI deep dive
+4.
+SHRI ongoing POC work
+Next step with the POCs
+Currently, all the proof-of-concepts (POCs) we have undertaken are set up on separate infrastructures, and we are assisting NGOs with their implementation. However, our long-term goal is to provide a comprehensive product that enables NGOs to easily manage their own pipelines, transformations, and orchestrations. Our next steps will involve handing over the pipeline management to the NGOs and providing them with training to effectively handle these pipelines.
+Were doing a DDP sprint starting from 11th July to 14th July. One of our main focus will be to introduce the 0.1 version to all the NGOs and give them a sense of what weve been doing from last 8 to 9 months. We also need to make a strong pitch to our NGOs who will be using this in long run and why its worth it.

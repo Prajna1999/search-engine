@@ -1,0 +1,85 @@
+Title: Digitization of SHOFCO’s Gender Program and Adoption: Lessons Learned and Progress
+Author: Vinod Rajasekaran
+Date: February 2025
+Category: Fractional CxO
+URL: https://projecttech4dev.org/digitization-of-shofcos-gender-program-and-adoption-lessons-learned-and-progress/
+==================================================
+
+Summary
+SHOFCO’s Gender Program addresses gender inequalities by safeguarding women and girls and reducing gender-based violence (GBV) across 10 counties in Kenya. A 2023 digitization effort faced adoption challenges due to system usability issues. In late 2024, SHOFCO improved user experience, transitioned to a cost-effective data platform (Dalgo), enhanced data visualization with Superset, and introduced role-specific dashboards to strengthen data privacy. These changes have increased adoption and efficiency. Building on this success, SHOFCO is expanding the approach to WASH, Education, and other key programs in 2025, ensuring data-driven decision-making and improved service delivery.
+Background
+SHOFCO’s Gender Program seeks to address gender inequalities by transforming mindsets, safeguarding women and girls, and promoting inclusion at all levels of society. Its long-term objective is to reduce gender-based violence (GBV) and create an environment where girls can thrive.
+Through SHOFCO’s community network (SUN), the program takes a comprehensive, community-driven approach in urban informal settlements and rural areas across 10 counties in Kenya. Its key initiatives include:
+Holistic Support for Survivors
+: The program provides survivors of GBV with counseling, access to healthcare and legal assistance, emergency protection through safehouse accommodation, and livelihoods training. This work is carried out by SHOFCO’s gender staff—including caseworkers, counselors, and volunteers—who operate gender desks within the community.
+Engaging Men & Community Leaders
+: SHOFCO identifies and trains male allies and key community stakeholders as
+Gender Champions
+, equipping them to refer survivors for support, lead awareness campaigns, and advocate for positive social change.
+Strengthening Partnerships with Law Enforcement & Healthcare Providers
+: The program collaborates with law enforcement agencies and SHOFCO’s health clinics to ensure a coordinated and effective response to GBV.
+Empowering Adolescents
+: Life skills and rights education are provided to adolescent girls and boys through both in-school and out-of-school programs, fostering a generation that champions gender equality.
+Data plays a critical role in the program.
+It enables staff to manage cases effectively, track survivor needs, and monitor progress—sometimes over extended periods, such as during legal proceedings. Additionally, facilitators use data to track participant engagement in life skills and Gender Champion programs, conduct surveys, and assess overall program impact. This information is essential for both internal decision-making and reporting to funders.
+In 2023, SHOFCO’s Gender Program underwent digitization in partnership with a technology and data provider. The system was implemented on CommCare, but adoption challenges arose due to a slow and buggy interface. Caseworkers reported system delays of up to 2 minutes to load each case entry, leading to frustration and reduced adoption. Low usage among caseworkers led to reliance on alternative methods, such as paper records and Excel sheets, making it difficult to operationalize data, manage the program effectively, and assess impact.
+Approach Taken
+To address these challenges, SHOFCO undertook a structured approach with a focus on usability, efficiency, and cost-effectiveness.
+1. Enhancing User Experience (UI/UX) and System Performance
+The redesign prioritized a
+simpler and more intuitive interface
+for caseworkers while keeping the system on CommCare.
+Bug fixes and key enhancements
+were prioritized to improve speed and usability.
+Offline data availability of cases was restricted
+to specific gender centers, resolving major UI/UX challenges in searching for cases while maintaining necessary functionality.
+2. Transition to a Cost-Effective and Scalable Data Platform
+SHOFCO moved from a
+custom cloud-based data infrastructure
+maintained by an external vendor to
+Dalgo
+, a standardized
+data outcomes platform
+.
+The custom platform had been initially set up in 2023 with another vendor, and transitioning to it fully in 2024 reduced costs and removed the burden of maintaining in-house data infrastructure without dedicated engineering capacity.
+3. Improving Data Visualization and Privacy
+Superset
+, an open-source data visualization platform, replaced
+Microsoft Power BI
+, allowing for
+private dashboards
+—a critical requirement for gender-related data privacy.
+A
+Key Questions Framework
+was introduced to define visualizations: identifying who needs the data, why they need it, and what actions they will take based on the insights.
+4. Tailored Dashboards for Different Program Roles
+Recognizing that a single
+unified
+dashboard was overwhelming, the team introduced role-specific dashboards, ensuring each user type could access relevant insights efficiently.
+New
+role-specific dashboards
+were created, including:
+Program dashboards
+for overall management and impact tracking.
+Caseworker and counselor dashboards
+tailored to their specific workflows.
+This restructuring also improved
+data privacy
+, ensuring GBV survivors’ case data was accessible only to assigned caseworkers while limiting access for other program staff as necessary.
+5. Continuous Improvement and Adoption
+The approach emphasized
+ongoing feedback, iterative design, and building data adoption and trust
+among users.
+As of early 2025, caseworkers and program staff have responded positively, with increased system usage and improved user experience. System adoption has increased tremendously to most caseworkers using the system mostly daily. It has not been all smooth sailing and the deployment has had teething troubles of establishing data culture and how to have continuous feedback across the entire data lifecycle and associated roles involved in it.
+Program Overview Dashboard showing the overarching reach of SHOFCO’s Gender Program across 10 counties
+Counseling Impact Dashboard to enable feedback of the counseling sessions and improvement in mental health among survivors due to the intervention
+Case Worker Dashboard showcasing the operational nature of data reflected on it to enable day-to-day work by case workers and counselors
+Scaling the Approach
+Encouraged by the success of these improvements, SHOFCO has adopted the same approach for
+WASH and Education programs
+and plans to extend it to
+Sustainable Livelihoods, Libraries, and Health
+throughout 2025.
+By focusing on
+usability, cost efficiency, and data-driven decision-making
+, SHOFCO is ensuring that digital transformation strengthens program management and impact while safeguarding sensitive data.

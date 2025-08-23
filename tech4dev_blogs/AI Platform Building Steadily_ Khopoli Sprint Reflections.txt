@@ -1,0 +1,59 @@
+Title: AI Platform Building Steadily: Khopoli Sprint Reflections
+Author: Nishika Yadav
+Date: May 2025
+Category: AI
+URL: https://projecttech4dev.org/ai-platform-building-steadily-khopoli-sprint-reflections/
+==================================================
+
+It’s been three months since a small team started building the AI platform, and it’s been rewarding to watch the pieces slowly come together into something that people can use – read more about what we’ve accomplished so far
+here
+.
+Seeing the work move from ideas to implementation has been motivating for the entire team. On a personal note, this period has been a significant learning experience for me. When we began, I found software development—especially backend work—quite intimidating. But by consistently working on the platform, I’ve started to feel more comfortable with backend concepts and workflows. This has helped me overcome some of the hesitation I had initially.
+This was the AI team’s second sprint. To learn more about the previous one, check out our
+earlier blog post
+.
+Sprint Experience
+This sprint came at a particularly useful time. We were able to finalize the migration of the Glific AI code to the platform, which was a key milestone. At the same time, we wrapped up the solution document outlining how we’ll approach the Dalgo code migration next. Both of these were major tasks that helped clarify our direction. Additionally, we spent time discussing and agreeing on the platform’s roadmap, which gave everyone a clearer picture of the next steps and priorities. The momentum from this sprint has set a strong foundation for the upcoming work.
+Of the three sprints I’ve attended so far, this one felt the most interactive and engaging. The facilitators made the sessions more hands-on by encouraging us to express our ideas creatively on chart paper, which added a fun, visual element to the discussions. One standout session was on design thinking, where we were introduced to a structured approach to problem-solving. We explored techniques like reverse brainstorming and the six thinking hats to analyze problems from different perspectives and generate solutions.
+Another session I found particularly impactful was a collaborative, gamified team simulation. In this activity, participants stepped into the roles of organizational or vertical leads and were asked to navigate complex, real-world scenarios through strategic decision-making. The simulation presented challenges like scaling sales or launching new products, while introducing unexpected events—such as sudden funding shifts or rapid team expansion—that pushed us to think critically and adapt.
+Overall roadmap discussion
+We welcomed a new team member, Vijay, last week. He’ll split his time between AI Platform and his FCXO work. We met him briefly during our standups last week, but connecting in person during the sprint brought a whole new energy. Vijay brings over 20 years of experience in tech and entrepreneurship, and he’s easy to talk to as the conversations flowed naturally. Looking forward to collaborating more closely in the coming months!
+During this sprint, Akhilesh, Lobo, and Vijay met to align on our roadmap and quarterly goals, helping set the direction for the AI Platform:
+Short-Term Goals
+The team focused on several immediate priorities:
+Glific Migration
+was completed, including support for running threads and endpoint authentication.
+Dalgo Migration
+is underway, with work progressing on planning for the full workflow.
+Multi-Tenancy Support
+and
+Document Management
+tasks are in early stages, including reviews and platform integration.
+Efforts are ongoing to
+streamline deployment
+, involving cleanup tasks, Terraform scripts, and finalizing deployment processes.
+Other initiatives include
+security and monitoring checks
+.
+Mid-Term Goals
+Work is being scoped for:
+Evaluation Integration
+, with plans to move past work into the platform.
+Langfuse Integration
+, which is also in the pipeline and being reviewed.
+Long-Term Goals
+Looking ahead, the team is considering:
+LiteLLM Integration
+for AI provider flexibility, though this may be deferred since OpenAI remains the primary provider.
+Jerome moving forward
+For over a year, Jerome has been working with us part-time at Tech4Dev, helping steer our direction towards AI. He’s been key in setting up an evaluation framework based on how NGOs currently use our products. He also gave an excellent presentation at the Agency Fund sprint, sparking lots of new ideas.
+You can check out his presentation here:
+Building Robust LLM Interaction Pipelines
+Jerome will be moving on in a few weeks, having accepted a full-time position with the World Bank. In the sprint we discussed his work so far and things worth including in our AI platform. Luckily, he’ll still be around, so we look forward to catching up and benefiting from his advice on AI!
+Infra Review
+As part of our ongoing infrastructure review, Akhilesh, Vijay, and Kurund met to evaluate our current deployment setup, focusing on how we manage automated deployments to both staging and production environments. This includes the use of AWS ECS for container orchestration and Terraform for infrastructure as code. The discussion aimed to identify areas for simplification, better reliability, and alignment with best practices.
+Given that we are also developing the Shashakt platform in parallel, there is a conscious effort to standardize the workflows, environment structure, and deployment strategies across both platforms. This will reduce overhead, streamline onboarding for contributors, and make long-term maintenance more manageable.
+Looking ahead, we plan to analyze infrastructure costs from the past month, with a particular focus on ECS usage, data transfer, and storage. The goal is to use these insights to optimize resource allocation and ensure our setup remains cost-effective as the platform scales.
+Overall
+The past few weeks have been a period of steady progress, learning, and thoughtful planning for the AI Platform team. From completing major milestones like the Glific migration to mapping out long-term goals and strengthening our infrastructure, the sprint gave us the opportunity to align technically and strategically.
+Welcoming new team members and preparing for transitions, like Jerome’s move, also reminded us of the importance of knowledge-sharing and continuity. We’re building this platform gradually, with a clear focus on doing things right—not just fast. As we scale both the team and the product, we’ll continue to focus on building strong foundations, one step at a time.

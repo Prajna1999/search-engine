@@ -1,0 +1,83 @@
+Title: Progress on Project Lakeer
+Author: Kurund Jalmi
+Date: April 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/progress-on-project-lakeer/
+==================================================
+
+After our initial engagement with Lakeer, at their office in Hyderabad, we identified that there were 2 areas needing technology support, which could bring in a significant change in their day to day work.
+1. QGIS
+One
+of the 2 areas is, once the Lakeer team has the curated geotagged
+json with them, loading it to QGIS for doing further analysis, by
+every team member, takes a long time. A lot of time is spent by every
+team member, waiting, before they can start actual work on QGIS.
+Second issue of this approach is keeping the data in sync with the
+website. Here, the team has to create geo json through QGIS and wait
+till the developer migrates the file to the database.
+Solution
+The
+solution we came up here was building a QGIS plugin – that would go
+into the QGIS desktop application of every team member. The plugin is
+a 2-way channel, where data once loaded through JSON file, can be
+saved to a central database by a team member playing the admin role.
+The QGIS application on each team member?s desktop, directly loads
+the json, from the central database.
+This
+solution brings in two improvements, namely, the load time is reduced
+and it also gets rid of data duplication.
+Technology
+stack used
+PYQT5
+Python
+QGIS
+	3.6
+2. Web Reporting?
+The
+second important aspect of Lakeer’s work is displaying the impact of
+their work to common citizens. Lakeer already has an intranet site
+called “CitySight”. This is a web based, open source,
+geospatial tool. CitySight helps the urban administrators to measure
+and improve city health.
+But
+the reach of CitySight is limited to mostly the city office
+bureaucrats or Lakeer team themselves. Also the geospatial tools
+built in CitySight, provide more of analysis, which probably a layman
+may not understand. To circumvent this, Lakeer was looking for a web
+based Reporting solution, which could reach masses easily. The idea
+was to share the success stories of Lakeer’s work with the people
+from the city.
+After
+talking to the founder, Dipika, we realized that she was looking for
+a web-based reporting where she / her team could manage not just the
+content but also the content layout on the fly – based on the data
+available for that issue, at that point of time.
+For
+example the reporting tool could have the ability to show an issue
+reported with before and after photos, to bring forth the impact. Or
+it may have analysis charts, graphs or may be heat maps overlaid on a
+map. Over and above, she is also looking forward to have some textual
+content, highlighting the key points, on the same site. We built an
+early prototype, that had thumbnails of news articles, twitter handle
+etc. with links to appropriate pages. This idea was approved by the
+Lakeer team. Besides this, Deepika also suggested of having a way for
+citizens to comment on each success story.
+Solution
+and Technology stack used
+Considering
+the kind of flexibility that Deepika and her team were looking for in
+the reporting tool, we decided to go ahead with WordPress to build a
+single page web based application for her needs.
+A
+couple of WordPress plugins that we used here are?
+Simple
+	custom JS and CS
+Simple
+	custom CSS
+Post
+	Grid
+Advanced
+	Custom Fields
+In the coming few weeks we plan to test and deploy these changes on to the Lakeer server, for the Lakeer team to start using it and share their feedback with us.
+By Pradnya Baviskar and Amar Kamthe
+Development team, Soft Corner

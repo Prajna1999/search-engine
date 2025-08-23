@@ -1,0 +1,311 @@
+Title: Tech4Dev 2.0 Project Report #6 – Oct 2023
+Author: Donald Lobo
+Date: October 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/tech4dev-2-0-project-report-6-oct-2023/
+==================================================
+
+Vision
+: A world with a
+strong technology ecosystem powering
+the social sector
+Mission
+: Build and support the ecosystem of
+software, data and design companies, nonprofit partners, and foundations
+working towards creating
+social impact globally
+2023 – Q3 Summary
+Really pleased with the direction and progress of Tech4Dev. Q3 2023 saw us hitting our stride in multiple areas both from a team and an ecosystem perspective. In addition to our normal quarterly sprints, we also saw multiple events hosted by our ecosystem partners, from the Social Impact Circles by Edzola, to the
+Code4GovTech Summit
+by Samagra and topped off with the
+OASIS summit in Bangalore
+by the newly formed
+OASIS Network
+.  Within Tech4Dev we started with the City Meetups for Glific, initiated the Glific bootcamp and were super thrilled to finally introduce
+Dalgo – Data Platform
+to the world. Our partnerships with Agency Fund, Dasra and GoalKeep solidified while we worked on the
+Data Catalyst Projects
+and we collaborated with Dasra on the
+Bhansali Trust
+project. Seems like we finally are tackling the
+ecosystem
+part of our mission and vision, which is super exciting. We continue to talk to more funders around the ecosystem, but for the next couple of years we need to focus on executing well and strengthening tech resilience amongst our partner NGOs.
+Highlights
+We had our
+quarterly sprint
+at Udaipur with the
+Code4GovTech interns
+joining us along with our partners
+Dasra
+,
+GoalKeep
+, and
+Agency Fund
+.
+ON India
+,
+Empowerment Foundation
+,
+Nilekani Philanthropies
+,
+Cisco CSR
+and
+ATE Chandra
+joined our list of funders.
+To foster learning and a culture of community and collaboration, our upcoming sprint (15th Oct – 20th Oct at Kochi) will have 2 cohorts: one the
+Data Catalyst
+cohort and the second the
+LLM cohort
+– Generative AI (funded by our Cisco Grant) for which we have 5 NGOs joining in. We are experimenting with having family members join the sprint to make it easier and fun for our team members. Get in touch with us, if you are interested in attending and contributing to this sprint.
+As part of growing up as an organisation, we have initiated a
+quarterly goal-setting
+exercise for the team. We have collaboratively outlined our goals for the next two quarters.
+Our involvement via community events, field visits, and Tech4Dev awareness initiatives has led to an increase in leads. We participated in events such as the
+OASIS Summit
+,
+C4GT
+event and
+EdZolas social impact circle
+, celebrated milestones like Indus Action’s
+10-year Summit
+, and
+field visits to Bhansali Trust
+and
+India Literacy Project
+.
+This quarter, our team has grown to 18 members as we welcome team members –
+Rajeev Mohan
+(fCxO),
+Amisha Bisht
+(Developer),
+Amit Srivastava
+(Finance),
+Tejas Mahajan
+(Product Manager), and
+Sangeeta Mishra
+(Customer Support).
+To boost sales and to
+encourage experimentation
+with Glific, we have organised a Glific Bootcamp where
+14 NGOs
+have signed up to launch their chatbot with us. This quarter also marks a milestone when we onboarded our
+100th Glific account.
+The Dalgo team is super happy with the
+official launch
+of the product. Presently, the team is actively engaged with 4 projects (
+SNEHA
+,
+STIR
+,
+SHRI
+,
+LAHI
+) while 3 more projects are in the pipeline. We also organised an ‘
+Intro to Dalgo’ webinar
+.
+With 2 new CxOs joining us, we are working on building the NGO pipeline; reviving old conversations and initiating new conversations with
+Aangan Trust
+, and
+Social Compact – Dasra
+. Please do introduce and recommend NGOs to this service as we want to see this grow significantly.
+The
+Avni sprint
+in July saw projects made by non-core contributors
+included in the platform
+. Avni’s team also conducted field visits and did
+2 releases
+. The security hardening exercise is nearly complete with the aim of getting
+security certification for govt deployments
+.
+Misses
+All our platforms can benefit from predictable and shorter sales cycles. We continue to experiment with different ideas: City Meetups, Bootcamps, and Webinars with limited success. Our next hire has to  be someone who has experience in growing and managing a Software-as-a-Service business.
+The past quarter, Avni focussed on strengthening the platform, while the Glific team redirected its energy on the Code4GovTech interns, which reduced platform development activities. Both projects also undertook a security audit and were busy fixing issues reported from it.
+Weve been wanting to build an international presence for our platforms and CxO Initiatives. Weve not made significant progress on this, and will need to make this a priority this quarter. Let us know if you have any ideas on how we could push this forward.
+We need to compensate people well, but at the same time incorporate the reality of the financial well-being of the sector. Our goal of building a sustainable entity will be challenging as we balance these competing options. We have to be creative to ensure we attract and retain high quality talent.
+Introducing Dalgo: The Data Platform for Social Impact
+In September 2023 we launched v.1.0 of
+Dalgo
+(formerly DDP), our open-source data platform for social impact organisations.
+Dalgo enables nonprofits
+to spend more time using their data for data informed decision-making and less on the repeated, resource-intensive, manual data consolidation efforts that they commonly struggle with.
+Dalgo does this by automating data pipelines; bringing all your fragmented data from different data sources into a single data warehouse (owned by the NGO), then merging/cleaning/computing your data to create final datasets just the way you want them, and enabling you to connect and feed this data into your dashboards, mobile apps, or even generative AI models. You set up a daily/weekly frequency for this entire process then sit back and let the tech do all the work.
+Dalgo mirrors a modern data stack found in the private sector with the added advantage of being tailored to meet the needs and goals of the development ecosystem. The Dalgo team has,  and will build data source connectors out for you if they dont already exist. These connectors have been made available as open-source components for anyone to use (Survey CTO, Kobo, Avni, Glific). We also understand the need for nonprofits to receive reliable and responsive support and prioritise this via
+discord
+and
+documentation
+.
+Our earliest adopter,
+SNEHA Mumbai
+, transformed their data management practices with Dalgo, overcoming data fragmentation and inefficient manual transformations. They successfully democratised data access, automated reporting, and are unlocking valuable insights from their data. As a result,
+SNEHA Mumbai
+stands as a good example of how nonprofits can leverage data to enhance their impact and improve the lives of underserved communities.
+All of our product development is led by NGO needs. Our early work with
+SNEHA
+,
+STIR
+,
+SHRI
+and
+Dost Education
+helped us get to v1.0. Our current/upcoming engagements with
+TAP
+,
+KEF
+,
+Antarang
+, and
+LAHI
+, alongside help from
+Goalkeep
+,
+Agency Fund
+and everyone reading this will help shape the product going forward. Were working towards some exciting developments in the next 6 months across data quality and governance, AI/ML, and platform UI/UX.
+Now that weve built a respectable piece of engineering, were going to spend some time getting it into the hands of organisations who need it. Thats not to say that we wont be adding features – but we will be spending more time on outreach and consulting engagements, and on soliciting and processing the feedback we get from these conversations. The team is enthusiastic about this and weve already tweaked our work habits and project management to accommodate this change. Were looking forward to finding out what else our sector needs and how we can help them get there!
+In case you missed it, watch our
+Product Launch Webinar
+and read more about the launch journey
+here
+.
+Financials
+Tech4Dev 2.0: Summary of the Inflow & outflow
+FY 2023-24
+RECEIPTS
+Budget
+(Full year)
+Actual
+(YTD)
+Q1 Act.
+Jun 23
+Q2 Act.
+Sep 23
+Q3 Act.
+Dec 23
+Q4 Act.
+Mar 24
+% Act.
+to Est.
+B/f Donor bal*
+$3,072,296
+$2,919,435
+$2,919,4354
+$3,265,650
+98%
+Grant
+$2,500,000
+$1,364,413
+$556,080
+$808,333
+55%
+Earned Revenue
+$500,000
+$101,302
+$0
+$101,302
+20%
+Total
+$6,072,296
+$4,491,679
+$3,582,044
+$4,281,814
+$0
+$0
+74%
+EXPENDITURE
+Budget
+(Full year)
+Actual
+(YTD)
+Q1 Act.
+Jun 23
+Q2 Act.
+Sep 23
+Q3 Act.
+Dec 23
+Q4 Act.
+Mar 24
+% Act.
+to Est.
+Program Salaries
+$765,833
+$224,259
+$103,991
+$120,268
+29%
+Program Cost
+$1,703,905
+$262,891
+$70,975
+$191,916
+15%
+Legal & Finance
+$300,000
+$66,135
+$33,067
+$33,067
+22%
+Capital Expenditure
+$70,000
+$11,689
+$1,833
+$9,856
+17%
+Total
+$2,839,738
+$564,9738
+$209,865
+$355,107
+$0
+$0
+20%
+C/f Donor bal
+$3,232,558
+$3,820,178
+$3,265,650
+$3,820,178
+$0
+$0
+160%
+Complete details can be found
+here
+.
+Want More
+Details?
+Find more information on Project Tech4Dev in our
+Tech4Dev 2.0 Note
+and
+Tech4Dev 2.0 Pitch Deck
+. All our blog posts can be found on
+Project Tech4Devs
+and
+Glifics
+websites. All project documentation can be found on our
+shared Google Drive folder
+.
+Highlighting some of our blog posts from last quarter:
+OASIS summit at Bengaluru
+Data Catalyst Program  Another Tech4Dev Experimental Initiative
+The Indian civic tech + open source + NGOs is exploding
+7 ways in which 14 NGOs joining Glific this quarter are hoping to leverage chatbot
+From fields to forecasts: Glific and Bharat Rohans synergy
+Bandhu leverages conversational AI and Glific to connect migrants to affordable rental housing
+Civis leveraging Glific and AI to increase citizen’s participation in understanding of public policies
+And links to our existing work and archives
+Tech4Dev 2.0 Note
+Tech4Dev 2.0 Pitch Deck
+Glific Website
+,
+Glific One Pager
+,
+Glific Year in Review
+Avni Website
+,
+Avni 2 Pager
+Dalgo Website
+,
+Dalgos Presentation
+Tech4Dev 2.0 Project Reports
+Reach out to us via
+email
+or find more information on our
+website
+.

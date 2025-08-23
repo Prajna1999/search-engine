@@ -1,0 +1,130 @@
+Title: Progress on READ project
+Author: Kurund Jalmi
+Date: April 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/progress-on-read-project/
+==================================================
+
+The
+initial engagement with four NGOs, implementing READ program in Pune,
+helped us understand the commonalities and differences in their way
+of functioning
+Before
+jumping to the solution we proposed for READ, it is important to
+understand the way, READ program is implemented at these NGOs. To
+give you an essence of it, here?s a quick overview of the program ?
+At
+	the start of the academic year, the NGOs, lay down their time tables
+	for various classes in various schools (Both Doorstep and Swadhar
+	work in close collaboration with schools, and have a session
+	scheduled every week for each primary standard class in the school)
+And
+	during each of these session, the NGO teacher (Doorstep calls it
+	Pustak Pari or Book Fairy), does a lot of work from taking
+	attendance, to conducting games which would keep the child engaged
+	throughout the session, to interacting with every child, and later
+	after getting back home, putting down comments / notes for every
+	child in a ledger.
+Besides,
+	the NGOs also plan evaluation of every child at regular intervals.
+	So, the Pustak Pari has a task of noting down these evaluations in a
+	separate ledger.
+At
+	some later point of time, a data entry person at the respective NGO,
+	then keys in data in all different ledgers into Excel files. The
+	NGOs then use the Excel data, as per their taste, to get different
+	reports.
+Based on above gist, the functioning of the program involves a lot of data capture by the NGO teacher. And this data is very crucial for READ, as it helps them, analyze the difference they are bringing into reading ability of each child.
+Based
+on above gist, the functioning of the program involves a lot of data
+capture by the NGO teacher. And this data is very crucial for READ,
+as it helps them, analyze the difference they are bringing into
+reading ability of each child.
+So,
+we concluded, that the way we could intervene in READ program and
+improve their work was, to eradicate manual data capture. Thereby, we
+decided to build a solution consisting of 2 parts.
+Android app ? for data entry and
+Website ? for planning weekly sessions, storing school information along with funders and managing the NGO user for various operations.
+Android
+App
+The
+android app, is aimed mainly at the NGO teachers (or Book Fairies).
+The Book Fairy could use the app, either in her class, or after
+reaching home, in an offline mode, to make her notes/evaluations for
+every child.
+And,
+when the app comes into network connectivity, it would automatically
+sync the data with the server.
+Website
+The
+second part of the solution was website.
+The
+website would be used for ?
+Setting
+	up NGOs, their users, and the tasks each user can perform.
+Storing
+	school information, along with some specifics like, is it a co-ed
+	school, does it fall under PMC etc. which is later on used for both
+	data analysis as well as applying for funding.
+Laying
+	down timetable for every school?s every class, for the entire
+	academic year.
+Maintaining
+	an inventory of books used during the sessions as well as those used
+	for home lending.
+And
+	reporting at various levels ? like reporting at the NGO level to
+	analyze their progress across various schools, wards etc., reporting
+	at the READ program level to get an idea of what methodology is
+	making READ achieve its vision of developing reading abilities in a
+	child. And lastly there also are reports for funders.
+When
+architecting the technology solutions for READ, one important
+decision we made was to provide multi-lingual support for both the
+app as well the website. This was considering the fact that, the Book
+fairies, who are the main source of data collection, as well as other
+set of users, who would be interacting with the site on a day-to-day
+basis, may not necessarily be well versed with English. So, not just
+the captions on the website / app would supporting Marathi, but the
+teachers would be able to make all the data entry as well in Marathi.
+However, we decided that numbers would be entered in English, so that
+the analysis becomes easier later.
+Challenges
+faced ?
+True
+that the solution we provide, would be beneficial to multiple NGOs,
+implementing the READ program. But, involvement of multiple NGOs also
+posed some problems like ?
+Each
+	NGO had their own set of terminology used for several things ?
+	like for Doorstep, the NGO teachers are known as Book Fairy (Pustak
+	Pari), versus for Swadhar it is something different. The child
+	evaluation scale for some NGOs are color codes, versus some other
+	NGOs uses flower names as evaluation codes and a third variety is a
+	simple scale of letter A to D
+Each
+	NGO had their own twists of READ program implementation ? like
+	some were involved in home lending of books to schools while others
+	were not. Some NGOs intervened through only primary standard classes
+	in schools, while others were involved into pre-primary sections as
+	well.
+Data
+	captured by NGOs differed
+So,
+all this led to providing several configurations in the system, so
+that one solution, could cater needs of multiple NGOs
+Tech
+Stack –
+We
+decided to use
+Django : Django was the choice for server development. It is stable, open source and has good i18n support. We used the DRF (Django Rest Framework) library for API development.
+React JS : Since we expected to replicate some functionality in the app and website, we decided to develop the frontend using a web app technology rather than server-side rendering. We went with React for the frontend.
+PostgreSQL
+As
+of today, the website part is mostly done, except the reports. The
+metadata like NGO, school, class etc. capture by individual NGOs can
+now start around the last week of April.
+When this is happening at the NGO end, we plan to work on the reports, so that they can start using it from the coming academic year.
+By Pradnya Baviskar
+Soft Corner

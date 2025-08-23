@@ -1,0 +1,35 @@
+Title: An Experiment on Funder and Community Building
+Author: Donald Lobo
+Date: September 2024
+Category: Uncategorized
+URL: https://projecttech4dev.org/an-experiment-on-funder-and-community-building/
+==================================================
+
+We are back to the good old days of pre-Covid (though the covid rate across the US is quite high).The stream of Indian NGO leaders visiting the Bay Area is peaking and it’s fun to hang out and learn from them. The one issue that has troubled me for some time is how can we expose the amazing work they do to a lot more folks at a bit beyond a one-on-one meeting.  This does not really scale, and people get saturated fairly easily.
+This time of the year a lot of NGOs visit NY with a stopover in the Bay Area. UNGA, Climate Week, Clinton Global Initiative, BMGF Gatekeepers, Dasra Philanthropy Forum and more are some of the events that are taking place in NY from Sept 22 – 27, 2024. We had a couple of close NGO friends who were planning to visit the Bay Area the weekend before. Since we love to host visiting NGO leaders, we figured that bringing together a group of folks from the ecosystem might be a good experiment. From a Tech4Dev perspective, we wanted to host an event to thank our funders for their generosity over the past few years, and also give them a better sense of our work.
+Thanks to the team at Dasra, we got together a group of 4 NGO leaders: Vanessa from
+SNEHA, Mumbai;
+Sucheta from
+Dream a Dream
+, Supriya from
+Rebuild India
+Fund and Erica from
+Project Tech4Dev
+. It was a nice coincidence that all four of the leaders were women 🙂We decided to highlight the work of these NGOs to the larger group and give them a sense of the depth and breadth of the Indian social sector, and wanted to facilitate deeper conversations. So, we designed the event with lots of interaction time with a brief 6-8 minute presentation from each NGO. We started off with a 90 min drinks and mingling session to get the conversations going before the lightning presentations, followed by more conversations over dinner and dessert. We also had a few young adults from a few families who were interested in learning more. I asked the NGO leaders to give their top line summary of the event:
+The group of people who made the event happen
+Vanessa from SNEHA
+It was a great platform for India based NGO’s to share their work and engage with donors at a deeper level. US based donors want to support India based NGOs and give back to their country. Such events, when supported by established organizations like Tech4Dev and Dasra, add credibility to the work of the NGO’s, making it easier for donors to take the critical decision to move ahead with an NGO.
+Vanessa giving the elevator pitch on SNEHA
+Sucheta from Dream a Dream
+It was such a pleasure to reconnect with old and new friends of Dream a Dream at the NGO Funder Dinner in San Francisco last week. As we celebrate 25 years of Dream a Dream’s existence it seems like a portal has opened to such amazing stories from the past. And it humbles me to realize how much I have to be grateful for – all the contributions and support that I didn’t even know about – that has made us who we are today. Thank you to everyone who came to show your solidarity to Dream a Dream, and so excited to have made amazing new connections that can move us to the next level of impact.
+Erica from Project Tech4Dev
+It was wonderful to witness the philanthropy community’s strong interest in understanding the Indian development ecosystem and exploring ways to contribute. Despite it being a Saturday evening with conflicting engagements, many prioritized this event, which was truly gratifying. The group’s engagement through their thoughtful questions showed a genuine eagerness to learn more. As my first experience, it was deeply fulfilling to see so many share the vision of making a positive difference in the world.
+Maya Vishwanath a former intern with Project Tech4Dev
+What struck me most is how clearly the NGO representatives understand and are closely connected with their beneficiary populations. This understanding, care, and awareness clearly translates to more effective service and outcomes.
+The question and answer sessions lead to engaging and valuable discussions. I appreciated that the NGO representatives were willing and eager to engage with tough questions.
+Additionally, I appreciated that the NGOs do not fall into the pitfall of “tech solutionism” that we often see. It is clear that the NGOs seek to closely understand the issues that their beneficiaries are facing, and determine the most effective solution – regardless of whether or not technology is heavily involved in that solution.
+Priyanka Kohli – switching from the corporate sector
+I was particularly excited to hear about successful collaborations that the NGOs have been creating with foundations, government agencies and corporations to create greater impact for the communities they serve. Getting all stakeholders to the table has huge value, and it’s critical we have successful public-private partnerships for sustainable and scalable impact. I was also deeply moved by the statistic that only 10% of India’s NGOs are women-led, though 45% of India’s NGO staff are women. It was timely to hear from Rebuild India Fund and its commitment to support women-led grassroots NGOs.
+Concluding Thoughts
+I do think the event met its objective of expanding the thought process of a decent sized group in a deep manner. A lot of the conversations and q&a sessions were thought provoking and folks did get a sense of the broad spectrum of work that is being done on the ground. Having multiple NGOs combine their networks and having a bunch of folks in the room who are super smart and have worked in the ecosystem for so many years does show in the quality of the conversations.
+Finally super grateful that this turned out to be a mini-reunion of the Yahoo! Engineering team, who have been my strongest supporters forever. Without their backing and support over the past 6 years, we would not have been able to do something like this. Its also very strange to see my personal growth and evolution from those days 😀

@@ -1,0 +1,15 @@
+Title: CRM Project Framework
+Author: Kurund Jalmi
+Date: December 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/crm-project-framework/
+==================================================
+
+We were analyzing past Tech4Dev projects including the project in the last 2 cohorts and found that there were few projects which were CRMish in nature. Hence, we thought if there was a basic framework/tools/CRM app it would help and save a lot of initial work done by various implementing partners.
+Hence, we had a code sprint during our face to face meeting in November to brainstorm and evaluate various options.
+This was the sprint agenda:
+https://docs.google.com/document/d/1ED-2krTAHHX92PvhXqeU-dkYdNaEJS_jw5Njym3VKg0/edit?usp=sharing
+After experimenting with the various options we have shortlisted the following toolset to be used for projects in the next cohort that meet criteria.
+Frontend: React
+Backend: Strapi.io, PostgreSQL
+We already have a few projects that fall into this category for the second cohort. So we will keep everyone updated here on the progress for the same.

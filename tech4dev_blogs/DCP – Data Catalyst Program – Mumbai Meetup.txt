@@ -1,0 +1,38 @@
+Title: DCP – Data Catalyst Program – Mumbai Meetup
+Author: Siddhant Singh
+Date: September 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/dcp-data-catalyst-program-mumbai-meetup/
+==================================================
+
+Leveling Up Our Data Game: Avanti Fellows at the Data Catalyst Program
+Hey there everyone! Deepansh from Avanti Fellows here. I’ve recently returned from an incredible experience at the Data Catalyst Program (DCP) in Mumbai. I’m excited to share our journey and how it’s shaping our approach to data at Avanti.
+What’s the Data Catalyst Program?
+Imagine a program designed to turn NGOs into data powerhouses – that’s the Data Catalyst Program in a nutshell. But let me break it down for you: The DCP is a collaborative initiative by Tech4Dev and Dasra, aimed at helping NGOs like us harness the power of data for greater impact. It’s a six-month journey that includes about 50 hours of engagement, with two in-person modules.
+The aim is to help us build strong data strategies, equip us with data-based tools and techniques, and develop a data-driven culture.
+What’s cool about DCP is that it’s not just about theory. It’s hands-on, practical, and tailored to the unique needs of each org. We’re learning how to collect, analyze, and visualize data in ways that help us make better decisions. Plus the peer learning and mentorship is a big bonus!
+The Mumbai Meetup
+For 2.5 days, we found ourselves in a room full of passionate people from 10 different orgs. The energy was quite contagious! The cohort included people working in Climate Change, Education, Health, and Youth Empowerment, among other sectors.
+Here’s a quick rundown of what went down and some of my personal thoughts:
+Fun ice breakers:
+We kicked off with a super fun Bingo-style ice breaker. In between sessions and talks there were other fun ice breakers that helped us get to know each other better.
+Reflect on our top 3 challenges
+:This exercise was really helpful in connecting us with other organizations, as many are dealing with similar challenges. It provided a platform for us to share our experiences, understand the common hurdles that nonprofits encounter in terms of data management, and explore ways to overcome them together. By learning from one another, we can identify and adopt best practices that have worked in similar contexts.
+Data Visualization Session
+: We delved into the art and science of creating dashboards that not only look good but also drive action, and we gained valuable insights into the importance of visual hierarchy principles for building effective dashboards. This session challenged us to re-think how we’re designing and implementing our internal dashboards. It was good to know that we’re on the right track for our external dashboards. Lesson learned: We recognised the need of defining key metrics before building dashboards. It’s essential to ensure we’re collecting the right data to answer the questions we aim to address. Additionally, this exercise highlighted the significance of maintaining a clear sequence, from the area of inquiry (e.g., Are students attending live classes?) to key questions (e.g., What is the average monthly attendance?) to actionable steps (e.g., Focus on batches with declining attendance) and prioritization. It made us rethink how to meet the needs of all stakeholders, incorporate the learnings and formulate a solid data strategy.
+Automated Data Pipelines Session
+: I can imagine how helpful this session would’ve been for some orgs. The concept of data pipelines, ETL flows and automation was broken down into simple terms for non-techies. If I had this session a few years ago, I would’ve saved myself a lot of headache understanding the concepts!
+AI for Insights Session
+: This was the most interactive AI session/talk I’ve ever seen. We got hands-on with an AI tool where we fed in both our quantitative and qualitative data. We just asked questions in plain text and out came all sorts of charts, graphs and insights. Everyone had some doubt whether they can trust these insights or not, as of now. But it was a great experience to see how AI can be used to generate insights from data, especially for teams that don’t have data scientists or analysts.
+Building a Data-Led Organization Panel Talk
+: A panel of experts shared their wisdom on managing digital transformation and fostering a data-driven culture. This was my favorite session! It was great to hear everyone’s story and challenges. It was also a big reminder that things take time and data-led thinking needs to be nurtured on an org-wide level. Deval, co-founder of Dasra, who was hosting the panel, introduced the panelists by some nicknames he had given them. I seem to have forgotten their names but the nicknames and the stories behind them are still quite fresh.
+Key takeaways from the panel discussion: • Establish a common organizational vocabulary • Recognise that impactful change comes from those interacting directly with beneficiaries, not just technology • Program should be centrally designed and executed top down while also ensuring that feedback from the implementation team is gathered and incorporated • Hold regular (fortnightly or monthly) meetings with program teams to review progress without over-analyzing • Allocate separate budgets and heads for technology and data initiatives across all programs
+Mentor Matchup
+: We got quality one-on-one time with our mentors to work on our specific data challenges. Shoutout to our amazing mentor, Siddhant! He’s been a great sounding board for our ideas and has given us some solid advice on how to tackle our data challenges. We usually go on length about many of our data related issues, even those which are out of scope of this program, but Siddhant has always been patient and has given us some great advice on those as well.
+Looking Ahead
+We’re now back at Avanti, buzzing with ideas and eager to implement what we’ve learned. Some of the things we’re planning to do and have started work on are:
+Optimize our SQL queries which are used to generate our dashboards. The queries are currently taking a lot of time to run and can be optimized further.
+We’re experimenting with Dalgo to see if it can help us organize and streamline our data ingestion and transformation processes. This process is forcing us to think about the whole data flows in re-usable chunks.
+We’re also working on immediate resolution for our rising BQ costs. The costs were doubling every month but have been brought under control now.
+Do a re-assessment of all of our internal dashboards, taking everyone’s buy-in and feedback into account. Till now our internal dashboards and data management has usually remained in a silo. We’re planning to change that and make it more inclusive, especially for people outside the product/tech team.
+As we move forward, we’re excited to put these new ideas into action and continue refining our data processes at Avanti. We’ll keep you updated on our progress and share the insights we gain along the way. Stay tuned for more exciting developments in our data journey!

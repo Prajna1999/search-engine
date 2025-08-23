@@ -1,0 +1,29 @@
+Title: MEDHA STPC Project Completion
+Author: Kurund Jalmi
+Date: August 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/medha-stpc-project-completion/
+==================================================
+
+We have completed the work on creating
+Medha STPC platform
+which allows managing student data, training and placement activities. For the last few weeks, the project was extensively tested by Medha team and a controlled group of users. Overall, it went well and feedback received has been incorporated in the platform.
+We have completed the handover process and provided the necessary project documentation to the Medha Team.
+Here are the key features that were implemented in the project.
+Role-based Access Control
+Administrative module
+College and Student Management functionality
+Events Management
+Training and Activity module
+Comprehensive Feedback module based on roles
+Dashboard / Reporting as per role
+Data migration from the legacy system
+This project was built in collaboration with
+Maverick Labs
+team and it was great fun working and solving some tricky problems during the implementation of this project. We learned a lot from each other.
+Lastly, I would like to thank Arshul, Devanshu and Medha Team for their corporation during the project.
+There are already in talks about phase 2 of this project, so looking forward to it.
+Here are some of the previous updates on the project:
+https://chintugudiya.org/medha-stpc-project-update-student-import-feedback-flow-crm-platform-integration/
+https://chintugudiya.org/medha-stpc-project-update/
+https://chintugudiya.org/medha-state-training-placement-cell/

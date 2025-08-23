@@ -1,0 +1,75 @@
+Title: Hasiru Dala – Koha, Integrated Library System , Configuration
+Author: Kurund Jalmi
+Date: August 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/hasiru-dala-koha-integrated-library-system-configuration/
+==================================================
+
+Koha
+Koha is a cost-effective, high-performing online library system management software. It links with all the other libraries in a consortium, with easy links to other important services, customizable reports and tools. It has loads of great features such as user-created public and private lists, fine collection and management, bulk deletion and record editing, cataloging, collection inventory and management, customizable staff permission limits, inter-library loan tracking, and so on.
+Features
+Koha is a web-based ILS, with a SQL database (
+MySQL
+preferred) backend with cataloguing data stored in
+MARC
+and accessible via
+Z39.50
+or
+SRU
+. The
+user interface
+is very configurable and adaptable and has been translated into many languages.
+[3]
+Koha has most of the features that would be expected in an ILS, including:
+Various
+Web 2.0
+facilities like tagging, comment, Social sharing and
+RSS feeds
+Union catalog facility
+Customizable search
+Online Circulation
+Barcode printing
+Requirement of Library Management System for Hasiru Dala
+Hasiru Dala (HD) is an organisation based in Bangalore, with operations throughout Karnataka, working for the waste pickers and waste management. In a
+previous post
+discussed about their key operations. One of those is
+Library for children of waste pickers,
+The Buguri library at Banashankari, one of the community library operated by Hasiru Dala was once an empty space above an old-age home that now stores over 2,000 books and a whole lot of hope for the rag pickers’ children of the slums nearby. And hence the requirement for the Integrated Library Management System (ILMS)
+Koha
+.
+Setup & Configuration
+Setting up of Koha instance was a straight forward with help from
+documentation
+. We started with aws EC2 micro instance and started configuring the Koha system after setup. We upgraded the server later to EC2 small instance because the system was crashing on search and other database intensive operations.
+It took us around a week’s time to understand the terminology and technicalities of Koha system, it is important to know the jargon used in the library ecosystem to configure and use Koha. For example, a book is catalogued and individual book is called  an item. Each book in the library is an item uniquely tagged using some form of barcode number.
+Users and subscribers are called Patrons and have Patron Category from one of the 6 types defined in Koha.
+Adult
+Child
+Staff
+Organizational
+Professional
+Statistical
+Challenges faced
+Being a standard format for library system, there were many fields in the registration forms for patron.
+One particular requirement was different types of registration form for different category of patron. Which Koha does not allow directly. We implemented this using a custom field called
+Extended Patron Attributes
+.
+Koha allows a particular field to be linked to either all or one type of patron category if you need to show a field to 2 types of patron category you need to define the same field twice with different names.
+Books can not be transferred or issued without using a barcode number of that item.
+Configuring Koha takes more time because of application is made in the traditional approach of server side rendering of UI, which requires loading a page quite a lot. For an application which has a lot of configuration, this slows down the setup process.
+Limitations of Koha
+Lack of using custom barcode formats
+Lack of custom auto generated member id
+Customization of registration form is not easy enough
+Patron permission can not be configured based on patron categories, permission has to be set up individually for each patron.
+Resources
+Koha Manual (
+https://koha-community.org/manual/19.05/en/html/
+)
+Youtube Channel (
+https://www.youtube.com/watch?v=ZMfPaLNuAA8&list=PLekqhBcsqZXI0bTTFYY9Zssx9qRhm99B6
+)
+Blue water solution (
+https://www.youtube.com/watch?v=A0vfHi63yYQ&list=PLBFUMpTCU4xm89Z_O5xbtb2zHuTAglKTm
+)
+Koha system is configured and ready for testing, after this Hasiru Dala members will start cataloging the books in multiple libraries.

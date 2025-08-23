@@ -1,0 +1,36 @@
+Title: Data Transformation Journey: LAHIs Collaboration with Dalgo
+Author: Abhishek Nagaraj
+Date: November 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/data-transformation-journey-lahis-collaboration-with-dalgo/
+==================================================
+
+LAHI and Dalgo’s Role
+Lend a Hand India (LAHI)
+, a prominent NGO dedicated to youth empowerment through education and skill development, has established itself by integrating vocational education into secondary and higher secondary levels. Partnering with government schools, LAHI introduced vocational education as a core curriculum aspect, impacting over a million students across 10,000+ schools through collaborations with state governments. Their initiatives span equipped labs, instructor training, internships, and certifications, aiming to bridge policy gaps and foster employability skills, thus promoting diverse career pathways.
+However, LAHI encountered challenges in managing data from various sources like Google Sheets, Kobo Forms, and Lighthouse. These hurdles was challenging to extract meaningful insights from their data, limiting the optimization of their programs. To address this,
+Dalgo
+, an open-source data platform, stepped in to assist LAHI.
+Scope of Work and Project Progress
+Representation of Dalgo Approach
+The collaboration between LAHI and Dalgo initiated with a comprehensive scope of work, aiming to revolutionize LAHI’s data processes.
+Abhishek Nair
+actively engaged in constructing the Superset dashboard and provided insightful consulting to the LAHI team.
+Siddhant Singh
+contributed by validating their work and offering broader perspectives, ensuring the accuracy and relevance of efforts.
+Abhishek Nagaraj
+engaged with the LAHI team, handling development tasks, transforming data, and contributing to various project aspects.
+The collaboration successfully completed two project milestones, replicating LAHI’s CPMU dashboard on Superset using Dalgo (Phase 1) and validating Lighthouse’s use for CPMU dashboard (Phase 2). The focus now shifts to further enhancing LAHI’s data dashboard for more informed decision-making in their youth empowerment programs.
+Continual Enhancements and Transition from Power BI to Superse
+t
+The upcoming phases aim to unlock deeper insights and analytical capabilities, empowering LAHI to make more data-driven decisions. Tasks involving data ingestion, transformation, orchestration, and visualization have been pivotal, laying the groundwork for seamless progress toward transforming LAHI’s data systems.
+PMU Monthly Report Dashboard
+Initially, we replicated LAHI dashboard from Power BI to Superset, making sure everything looked familiar. Now, we’re making it even better! We’re planning to add more helpful information and custom features to LAHIs Superset dashboard. This means going beyond what they already have, giving them a more detailed view of their data. The aim is to go beyond the replicated version, strategically adding layers of comprehensive analysis and additional visual elements, so LAHI can make smarter decisions based on the extra insights they’ll get.
+Learnings from DBT Implementation
+The integration of Data Build Tool (DBT) has been instrumental in data transformations, orchestrations, and scheduled syncs. Embracing DBT involved mastering intermediate tables, data modeling, and automation for visualization, proving both challenging and rewarding. Proficiency in SQL was crucial for tasks like data merging, summarization, and adjustments, enhancing the team’s capabilities with DBT, Superset, and Dalgo’s platform.
+Moreover, DBT, Superset, and Dalgo’s platform usage have equipped our team with invaluable skills in leveraging these tools effectively. The iterative process of learning and implementation has not only enhanced our capabilities but has also translated into tangible solutions for LAHIs data challenges.
+Significance of DBT Automation
+DBT automation
+played a pivotal role in streamlining the data management processes. The scripts enabled the generation of SQL scripts, which facilitated essential tasks such as column renaming, table merging, and model flattening etc. By automating these intricate data transformations, DBT significantly reduced manual efforts and enhanced efficiency.
+The ability to automate repetitive tasks allowed for a smoother and faster execution, freeing up time for more complex and analytical aspects of our data engineering work. Ultimately, DBT’s automation capabilities proved instrumental in accelerating our workflow and ensuring the accuracy and consistency of our data transformations.
+Overall, the collaborative efforts between LAHI and Dalgo, coupled with the utilization of DBT and Superset, are geared towards enhancing LAHI’s data systems. The strategic approach aims to equip LAHI with robust tools for data-driven decision-making, reinforcing their mission of empowering youth through education and skill development programs.

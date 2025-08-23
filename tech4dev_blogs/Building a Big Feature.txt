@@ -1,0 +1,35 @@
+Title: Building a Big Feature
+Author: Rohit
+Date: April 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/building-a-big-feature/
+==================================================
+
+About a week ago we launched a big feature, what we’re calling UI for Transformations. This was the most ambitious feature we’ve built so far for Dalgo and I’d like to share some reflections on what went into it.
+The seeds of UI4T were planted last September when we started building out our
+dbt-automation
+repo. At that time the goal was simply to be able to generate dbt models by specifying a JSON or YAML config in a text file, in a warehouse-independent way.
+A new feature
+In October the team met in Kochi and started thinking about creating a visual frontend for defining transformations, and dbt-automation was well placed to provide backend support. We would be able to design HTML forms for each operation, and pass these configurations to the dbt-automation library to generate the dbt SQL models.
+But… this is not a complete feature spec, and we started thinking about what else we wanted to provide to give our users a visual data transformation experience. We started looking at tools, like dbt Cloud, Alteryx, and AWS Glue. We started listing the features they provide, who their user bases are and how those users map to ours. At our end, do we plan a feature for our current users who know SQL, or for our future users who won’t? Is our goal to move dbt Cloud users over to Dalgo to create their models, or to let them operate in their current style unhindred? Should we provide a SQL editor in the browser, complete with syntax highlighting and source control?
+A data driven approach
+We next went through a detailed exercise of listing from our existing dbt projects which SQL operations were used and how often. We created a Google Sheet whose columns were different SQL operations (JOIN, GROUP BY, PIVOT etc) and whose rows were the 235 individual dbt models from across 9 client projects.
+Exercises like this can inform your decisions and help you defend them when asked why you chose to go a certain way, but they don’t make the decision for you. In this case there was an unintended side-effect: since everyone we spoke to about their dbt experience was (by definition) an advanced user, we found our design mindset leaning towards designing for them. Which of course begged the question – is our goal to get them off VSCode and dbt Cloud? (And if not, who were we building for?)
+Minutes from one of our meetings in November
+Who is the user?
+A feature like can always be designed for whichever class of user one wants to target, and we first chose to target users who know SQL. We had in mind a code-editor, a connection to their GitHub repo, a visual model lineage graph, and a console for logs. GitHub integration was a big one – we would need them to “log into GitHub” from the Dalgo UI, so that their commits and PRs would appear under their name. We talked about implementing code review in the UI which would map to comments on PRs in GitHub. We talked about having separate roles in the NGO for code writers and code reviewers, and we talked about support for multiple branches and sandbox environments.
+Our first proposal to management in December
+Here’s something I’ve learned – it’s hard to design for your user base when you have less than 10 customers. This is even more true when you’re designing a feature which they may not even use. Do you design for future users who are “like them”? Or do you design for users who you know are out there but you don’t know that they’ll be onboarded anytime soon?
+How do you design for novice users when nobody on the design team is a novice?
+Picking the target user base
+If you’ve seen the feature, you know that we eventually decided to build for non-SQL users… this was finally decided sometime in February. Code editor? Out. GitHub integration? Also out.
+Instead we built a visual workflow designer via which a user would define operations on their data, typically starting from ingested tables and gradually making them ready for reporting.
+(And what do these “operations” look like? Well, they look like SQL… there wasn’t any getting away from that)
+Once this was finally decided, we got UI designs from Think201 and quickly started implementing. Since the Dalgo team had already spent enough time on this project our deadline was tight, and a few things we did which we will definitely avoid doing in future are
+building while the designs were still fluid
+pushing out incomplete functionality to unblock other incomplete functionality
+eventually “borrowing” a developer from another team
+roping in non-developers to test what developers should have tested
+Lessons learnt
+Yes, lessons were learnt and learnings have already been put into practice. A win which every team member has appreciated is the move towards using a fixed format for writing product specs, and using these to drive UI design and engineering specs. Sometimes these stages will overlap but as far as reasonable we aim to do them in this sequence.
+But we still struggle with our fundamental question: Who is Dalgo for?

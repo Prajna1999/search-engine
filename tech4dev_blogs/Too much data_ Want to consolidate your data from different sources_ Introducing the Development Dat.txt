@@ -1,0 +1,35 @@
+Title: Too much data? Want to consolidate your data from different sources? Introducing the Development Data Platform
+Author: Donald Lobo
+Date: December 2022
+Category: Dalgo
+URL: https://projecttech4dev.org/have-an-abundance-of-data-problem-interested-in-consolidating-your-data-from-different-sources-introducing-the-development-data-platform-ddp/
+==================================================
+
+At Tech4Dev we’ve started working on the
+Development Data Platform
+(DDP). In short, this allows an NGO to aggregate data from multiple data sources into a unified data warehouse. The data here can be analyzed and visualized directly via the platform. Visually, this looks like:
+If you want more details on the above, more information is available in the following documents
+DDP Concept Note
+DDP Primer
+We’ve been working with two of India’s leading NGOs on a Proof of Concept of the above scheme and are quite pleased with the results so far. We’d like to add another 3-5 NGOs to help us validate our platform and add new features that are useful across the sector.
+Key requirements for the NGO
+You have a mature and robust data collection process
+You have a good sense of your data and the information you’d like to glean from it
+Your data helps influence and guide your interventions in the future. i.e. your data is useful from a programmatic and/or research perspective
+You need the ability to house all your data in one unified place
+What does the NGO get in return?
+Pro-bono support and assistance in getting started with DDP
+Once deployed, you will have a robust data pipeline
+Assistance in building good visualizations for your program
+Hand-holding and support, every step of the way 🙂
+Our love and gratitude forever 🙂
+Our expectations
+You will have one person who had a good understanding of the needs and will be the main point of contact (PoC) for your NGO
+Your NGO will be responsible for the operational and monthly hosting costs. We expect this to be around INR 15K ($200)
+The PoC will meet with the DDP team twice a week
+Our goal is to wrap up the pilots three months from start
+Next Steps
+Send an email to
+ddp@openbrackets.in
+.
+Please describe your data problems and your current data situation in the email. We will get back to you in 3 business days.

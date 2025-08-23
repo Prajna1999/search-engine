@@ -1,0 +1,49 @@
+Title: How #Tech4Good improved discoverability and funding sources for Vasantham Federation of Differently Abled
+Author: Kurund Jalmi
+Date: May 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/how-tech4good-improved-discoverability-and-funding-sources-for-vasantham-federation-of-differently-abled/
+==================================================
+
+Arriving at Vasantham Federation of Differently Abled, one was immediately struck by the remoteness of the office, tucked away in a corner of Thiruvallur District, blistering not only in the humidity & heat of the harsh Tamil Nadu sun but also with the urgency of its cause. The weather conditions seemed to bring out the challenges Vasantham Federation endured daily, with technicolour clarity.
+Here was a group of differently abled women & men, not dejected and crippled by fatalism, but full of purpose and a drive to overturn assumptions.
+They narrated incidents of how they were disenfranchised at every step towards securing a better life for themselves and others in their community. A collective that relied mostly on donation boxes, they were turned away by every shop owner they approached and every house they went to. It was urgent and important for them to become sustainable so that they can continue to do the impactful work they do.
+Could technology prove to be their most reliable and empowering friend yet?
+Like many small and growing community based organisations doing great work – it was difficult for a prospective supporter or donor to ?discover? vasantham and its work online. Our first task was to give them an online presence. Vasantham ensured that we were given all the content needed to build a presence for them. We used WordPress to build their website as it?s easy to manage and we needed them to feel confident about navigating and updating their own website. We also ensured that they have an active presence on social media. Now that they could be discovered – we wanted to make sure that donors could effortlessly support them financially. We reached out to our friends at Razorpay and set up a payment page for them! And within weeks, Vasantham Federation?s fundraising efforts weren?t being turned away but turned around.
+We are happy to share that Vasantham Federation has started raising money online (INR 14K in 2 weeks), but in order to make this a sustainable undertaking, we are helping them build a communication strategy using Email, Social Media marketing so they keep their donors engaged, and find new donors using innovative ways. You can check out Vasantham?s
+Website
+and we also encourage you to make a small donation towards the important work through this
+simple payment page
+we set up for them. Even a 100 INR donation can go a long way in helping their cause.
+We at Tech4Good are committed to amplifying the impact of the civil society ecosystem for organisations like Vasantham where they feel supported, can thrive and scale the impact of their work. So, we have created a recipe that other NGOs can also use to improve discoverability and diversify supporter base and funding!
+Please use steps below for details and improve your organization’s discoverability and diversify your funding sources
+1.
+WordPress on Google Cloud (Free)
+for the Website with free
+Fundraiser Lite
+Theme
+2.
+Razorpay Payment Pages
+(standard bank transaction charges and GST applies)
+3.
+Tiny Letter
+for Email Marketing (Free)
+4.
+Instagram
+,
+YouTube
+,
+Facebook
+for Social Media Marketing (Free)
+We all need help when we try new ideas – so for any help in implementing the above – Join our free
+#Tech4Good Forum
+and interact with other changemakers, techies, software donors and more.
+Note: Vasantham Federation is part of our free 6 month #Tech4Good Accelerator Program for small and growing NGOs to help them leverage technology to become more sustainable and scale their impact. More details
+here
+. If you are a funder and would like to recommend one of your grantees to the program – please write to us at
+hello@tech4goodfellows.org
+Team
+#Tech4Good
+Sign up to our free newsletter
+here
+and join 1500+ subscribers who never miss an update.

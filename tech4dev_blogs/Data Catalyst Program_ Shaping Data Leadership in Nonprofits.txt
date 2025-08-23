@@ -1,0 +1,58 @@
+Title: Data Catalyst Program: Shaping Data Leadership in Nonprofits
+Author: Abhishek Nair
+Date: November 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/data-catalyst-program-shaping-data-leadership-in-nonprofits/
+==================================================
+
+This blog is written by
+Kavneet Kaur
+, Associate Director, Dasra
+What started as a vision has begun to take the shape of reality! The
+Data Catalyst Program (DCP)
+, born from a collaboration between
+Project Tech4Dev
+and
+Dasra
+, set out to amplify the impact of data-driven decision-making in the nonprofit sector. Anchored by Dasra’s expertise in cohort-based engagements and Tech4Dev’s deep understanding of data and technology for social impact, the program embarked on its journey with a pilot in 2023. The road was experimental, filled with collaboration across teams and deep support from
+Goalkeep
+, our trusted knowledge partner.
+Fast forward to today, DCP has engaged with
+22 nonprofit organizations
+and
+45 data implementors
+—each acting as a Data Catalyst in their respective organizations. As the final module of our second cohort concluded this past Friday, it feels like the perfect time to reflect on our learnings and progress.
+Data Leadership: The Heart of the Journey
+A central question guiding our program has been:
+Who are data leaders?
+Through the DCP, we have worked to help participants discover their potential as data catalysts—individuals who champion the use of data to drive organizational change. Here are some reflections:
+Building Ownership at Every Level:
+One of the strongest realizations from this journey has been the importance of cultivating an ownership mindset across all levels of an organization. Data leadership is not confined to the senior-most leaders; rather, it thrives when every individual sees themselves as a steward of their organization’s data journey. Personal accountability and active participation are critical to this transformation.
+Empowering Data Catalysts:
+The program has highlighted the need to build both technical expertise and strategic knowledge among participants. Equipping data implementers with tools and frameworks not only helps them solve immediate data challenges but also positions them as data leaders who can inspire and sustain a culture of data-driven decision-making.
+The Evolution of Leadership:
+Data leadership is as much about mindset as it is about skillset. From understanding the value of transparent data sharing to navigating the ethical implications of data and technology, leaders must balance technical proficiency with the ability to guide teams through cultural shifts.
+The Program in Action
+Our workshops and mentoring sessions have been designed to reflect this ethos. Across the program, participants engaged in sessions on:
+AI for Insights:
+These sessions focused on exploring how organizations can leverage AI tools to generate meaningful insights. Participants worked with large language models (LLMs) to understand patterns in data, reduce manual effort, and streamline decision-making. Jerome from Tech4dev made the sessions so interesting and easy to follow. A major takeaway personally for me was how these tools can make data analysis accessible even for teams with limited technical expertise.
+Data Dashboards:
+Participants were introduced to the art and science of building action-focused dashboards. For example, they learned how to organize data tables and implement best practices for designing dashboards that are both intuitive and impactful. Team Goalkeep did a fabulous job in ensuring these sessions were effective, engaging and fun!
+Automating Data Pipelines:
+The focus here was on building automated data pipelines that ensure accuracy, reliability, and efficiency. This session helped participants understand how automation can eliminate redundancies and free up resources for higher-value tasks. Tech4Dev and Goalkeep delved into this topic leaving participants with the curiosity to learn more.
+Unlocking Data Access:
+One of the most engaging discussions for both cohorts led by Tech4dev team revolved around the policies and practices needed to manage data access responsibly. Participants explored how transparency and security can coexist, ensuring data is shared ethically within and beyond their organizations.
+Pitching Progress: A Proud Moment
+This year the program culminated with a vibrant
+pitch session
+, where each participating organization showcased their data-driven initiatives and how they’ve begun transforming their data practices. From crafting impactful dashboards, using AI effectively, leading research impact projects to proposing new whtsapp chatbots for effective data collection and consolidation, participants demonstrated incredible progress and upcoming plans. Based on live ratings from peers and mentors, Fortify Health was declared the winner of a INR 5lacs grant to action their plans.  It was a moment of pride to see how far each organization had come in their journey toward leveraging data for impact.
+NGO pitches demonstrating data initiatives and innovative ideas
+“ Before joining the DCP, working with data felt like staring into a dark void. The ambiguity and our lack of technical expertise made it intimidating, often leading to isolated, intuitive decisions made on an ad-hoc basis—or worse, data being overlooked entirely. Through this program, my team and I overcame that fear, thanks to the mentorship and support we received, which helped us build the confidence to make data-driven decisions.” – Rukimini Bhatia (Head of Curriculum and People at Saturday Art Class)
+Secret Ingredient
+A standout feature of the Data Catalyst Program has been its
+mentorship component
+, which brought together seasoned experts from Tech4Dev and Goalkeep to provide participants with personalized guidance. These mentors served as sounding boards, problem solvers, and strategic advisors, helping each organization navigate its unique data challenges. Unlike many volunteer based mentorship, this is more structured and has rigor to commit ~40hrs of mentorship support to an organization. The scope of work is co-decided by the mentor and mentee and with regular check-ins and catch ups it is ensured there is progress and learnings. Whether it was dashboard reviews and re-designs, enabling historical data analysis, guiding data strategy or reviewing data flows – the 1:1 mentorship sessions enabled participants to translate learning into actionable plans. This close-knit support system not only accelerated individual growth but also fostered a sense of collective accountability, making mentorship the cornerstone of the program’s success.
+Looking Ahead
+As we reflect on the past two years of DCP, it is clear that the path to becoming a data-driven organization is a continuous one. The seeds of change have been planted, and it is up to each Data Catalyst and organization to now stay focused and move ahead on this path.
+We remain optimistic about the road ahead—one where data leadership becomes the norm, driving scalable and sustainable impact.
+“The data leadership session has made it clear to me that I aspire to be a data leader and am eager to pursue that growth.” – Akshata Hawaldar (Assistant Manager, Product Development at Antarang Foundation)

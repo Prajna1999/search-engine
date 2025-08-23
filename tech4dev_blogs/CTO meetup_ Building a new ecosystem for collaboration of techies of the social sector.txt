@@ -1,0 +1,64 @@
+Title: CTO meetup: Building a new ecosystem for collaboration of techies of the social sector
+Author: Arun Kadekodi
+Date: April 2024
+Category: Fractional CxO
+URL: https://projecttech4dev.org/cto-meetup-building-a-new-ecosystem-for-collaboration-of-techies-of-the-social-sector/
+==================================================
+
+This Blog is written by Arun Kadekodi
+Project Tech4Dev’s quarterly sprint for the current quarter took place from March 31, 2024 to April 6, 2024 at the Royal Orchid resort and convention centre, Yelahanka, on the outskirts of Bengaluru. This was a developers sprint, where the entire team met and had deep dive and brainstorming sessions on our multiple platforms and the FCxO program.
+April 5, was earmarked for a CTO meetup (at Hotel Grand Mercure next to Gopalan Mall), where we had requested participation from CTOs working in the social sector around the country. We had an overwhelming response, where more than 110 registrations out of which, 90+ attended! This clearly showed the need for such a meetup!
+Meeting Vineet Prasani (who is with Noora Health but was then with Social Alpha), Vivek Singh (co- founder of Samanvay Foundation), Swapnil Agarwal (co-founder of Dhwani RIS) brought back some wonderful memories of our first meeting for Project Tech4Dev 1.0 that was conducted in the offices of Social Alpha where Donald Lobo, Kurund Jalmi and I had met with them along with others like Arjun Khandelwal, Sunandan Madan etc. Looking at Avni (then called OpenCHS) and other brainstorming sessions we had at that time, probably shaped our thinking towards building platforms that served a large number of NGOs rather than working on building individual systems for NGOs.
+Today, we look at our team of 25 working with 100+ NGOs and tech partners, with our platforms of Glific, Dalgo and the FCxO program we can safely say that somewhere our efforts towards building a thriving ecosystem have taken shape.
+I think this CTO meetup is another such moment in our journey.
+The day began with a wonderful icebreaker session where people were energized into participating with questions ranging from how likely you are to adopt stray pets to how likely you are in using AI in your work in the next 3 months
+Donald Lobo and Erica Arya gave an outline of what was in store and how CTOs should make the most of this opportunity to meet the other participants and discuss how they have tackled their tech needs. Lobo also recognized the presence of the people with whose help, Project Tech4Dev started.
+We did miss Kailash Nadh from Zerodha, who could not give the keynote as he was suddenly taken ill.
+Aman Dalmia from Hyperverge Academy, set the tone of the event with a plenary session on the Status of LLM models in 2024 and how to navigate them for the right tools when using LLM for
+social projects. As there are some practical challenges with LLM models in terms of quality and costs, he suggested use of Model merging for cost effective work output or using larger model (like GPT 4) to train smaller ones. There were also challenges of LLMs using Indian languages. He said that currently they are tuned to 9 Indic languages  and would grow further in number with time.
+This session was followed by a session where 8 different topics were given and 8 tables for the same were setup  each being facilitated by 2 persons and the participants could choose a table. This was to promote discussions amongst the participants regarding their topic of choice. The first session was for 45 minutes, after which the participants had to move their next topic of choice and meet other participants at that table. This, by far, was the most popular session. In their feedback, almost everyone mentioned that they got introduced to CTOs from the social sector with similar interests or issues. In some cases, 45 minutes were not enough, so these conversations continued over lunch.
+The meticulous planning done by Ashwin Srinivasan and Thomas Mampilly stood out!
+The 8 topics were:
+1. Using data and AI safely, securely and ethically
+2. AI: Cutting Through The Hype
+3. Thinking like a CTO
+4. Product Management – from idea to impact
+5. Working with Government on Technology  Projects
+6. Building awesome tech teams at NGOs
+7. Internal Tech Systems and Partners best practices and common pitfalls
+8. Building in Open Digital Public Goods
+The facilitators did a great job of provoking the participants to speak up and share their thoughts.
+In the hall, along the sides, there were booths setup by several partners/vendors working in the social sector. It was more for informing participants about their products/services or the work they were doing, more than marketing or selling. Post lunch, there was specific time allotted for this and the participants went around these booths. The partners who participated were:
+Goalkeep
+Pacta
+Civic Data Lab
+Karanji
+Impact4Hire
+Aastrika Foundation
+Tech4SocialGood
+Nudge Incubator
+DICEflow
+Tekdi Technologies
+Avni
+EdZola Technologies
+Dalgo and Glific
+Then came the panel discussion with Funders. The funders who participated were Sahana Jose (Rohini Nilekani Philanthropies), Parveen Sharma (CIFF) and Rohini Kamat (CISCO). The session was moderated by Archana Ramanathan from Dasra.
+Some of the topics discussed were
+1. Varied approaches to considering funding proposals including the difference between corporate social responsibility groups in Cisco and dedicated funders like Rohini/Nandan Nilekani Philanthropies.
+2. Funding for programmatic vs operational needs. It is possible to get funding for operational needs as long as the percentage is not too high.
+3. How to pitch proposals so that it appeals to non-tech people – should tie to program impact rather than focus on technology.
+The concluding session included a feedback from the participants. Some of the responses received
+were
+Some participants wanted more time, more depth, more focus:
+1. Networking opportunities were good
+2. Could such events be repeated more often during the year
+3. How can the connects established during this be taken further WhatsApp groups, forums, can T4D help in setting up such groups
+4. Can smaller focused meets be managed by NGOs locally, in person or online?
+All in all, it showed that the need of such a group was felt by almost all participants and they
+welcomed this initiative taken by Project Tech4Dev.
+What started with that meeting six years ago can be seen in action today, in the social sector. We
+are hoping that what started on April 5, 2024, will also result in a thriving ecosystem that will help
+in harnessing the power of technology to drive social impact. Eventually, the smaller NGOs will
+definitely benefit from the larger ones, where such programs are conducted locally, going ahead.
+Finally, a shout out to Ashwin Srinivasan and Thomas Mampilly (who was sorely missed as he had to
+cancel his trip due to his sudden illness) for setting up this entire program and executing it to perfection with able local help from Rajeev Mohan!

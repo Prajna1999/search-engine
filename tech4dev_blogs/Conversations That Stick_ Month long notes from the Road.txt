@@ -1,0 +1,84 @@
+Title: Conversations That Stick: Month long notes from the Road
+Author: Akhilesh Negi
+Date: March 2025
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/conversations-that-stick-month-long-notes-from-the-road/
+==================================================
+
+This feels more like a follow-up to
+this blog
+rather than just a post about a sprint. It’s more about the people I met and the conversations that stayed with me.
+Yup, that’s the view from my place
+As I mentioned earlier, I usually work from my hometown, Pauri—a quiet hill station in Uttarakhand far from the chaos of city life. I like it that way. Slow days, plenty of time to focus, and space to do what makes me happy.
+Lately, though, I’ve been taking longer trips—spending a month or more away from home, heading south for sprints, work, and meeting NGOs and new people.
+This trip was similar. It started with the Glific + AI sprint in Mahabalipuram. January is a good time to visit the south—any later, and the heat takes over. That’s how we landed on this spot after an amazing sprint in Shillong last November.
+Nishika and I co-wrote a blog about the sprint here:
+Adopting AI in the Social Sector – Highlights from a Collaborative Sprint
+During this sprint, we also focused on planning v1.0 of the AI platform. A lot of discussions happened with our newly formed AI team at Project Tech4Dev—me, Nishika, Jerome, Sourabh, and Lobo. Since the team is new, we’re still figuring out dynamics—how everyone, with their different backgrounds, can contribute to getting this platform up and running.
+We’ve made progress since then, and the
+AI Platform repo
+is shaping up. v1.0 should be out in the next few months.
+During the sprint, I had a long chat with Nithun and Himani from TAP about their plans to use Frappe and AI to automatically review and rate student submissions. The goal is to provide feedback that helps students develop 21st-century skills.
+I also caught up with Rajsekhar from
+Digital Green
+. We first met at the Bangalore sprint with
+Agency Fund
+back in August. It was inspiring to hear about the work Digital Green is doing and the depth of knowledge he brings. They’re definitely one of the forerunners in applying AI to the social sector, and we really look up to them.
+After the sprint, I went to Pondicherry and worked from there for a week. I explored the beaches, Auroville, and the city, and I really loved the French architecture. It’s a refreshing change from most Indian cities.
+Then, I headed to Bangalore, planning to stay for three weeks before the AI4GD conference with
+Agency Fund
+in March. While there, I reached out to a few NGOs we’ve worked with and visited
+Key Education Foundation
+and
+ReapBenefit
+. March is always a hectic time with the financial year closing, so everyone was swamped, and I didn’t get to visit as many folks as I’d wanted.
+In the first week, I visited the Azim Premji Foundation with the Tech4Dev team. Met most of the team members from Bangalore—it’s always great to catch up in person.
+Also met the Azim Premji Foundation tech team and Hrishi. Cool to see how they’re using Frappe for the Creche Management System and building an AI chatbot. The bot helps query documents by generating SQL based on a schema instead of feeding actual data into a third-party app—keeps things secure and compliant.
+The next week, I visited
+Key Education Foundation
+and
+ReapBenefit
+.
+At
+Key Education Foundation
+, I met Mangal, Swetha, Namratha, Naveen, Swarupa, and Sheetal. I know quite a few folks there—KEF has been using Glific for about three years, and we’ve crossed paths at multiple Glific sprints. Feels like an extended Tech4Dev team. Didn’t get much time to chat this time, but always good to meet in person. Will drop by again soon.
+Met Kuldeep, Pooja, and the rest of the
+ReapBenefit
+team at their office—a beautiful space filled with greenery, graffiti of
+Solve Ninjas
+and
+impact numbers
+, and even a (currently dysfunctional) Solver Van(image in
+cover here
+), which I would have loved to see in action. A few cats wandered around, adding to the charm. One thing I really appreciated was their culture of sitting together on the floor for lunch, making space for real conversations.We had an interesting conversation about impact—how Glific thinks about it. As a WhatsApp message is just the starting point, the real impact goes much deeper. How do we help NGOs make that happen? No clear answers yet, but it’s something we’ll figure out together.
+Big thanks to Ishan for hosting me—really grateful. Definitely owe him one when he visits up north. We explored nearby messes and cafes together. I always say I’m not a fan of South Indian food (dosas to be specific), but this time in Bangalore, I had the best idlis at Babai’s Tiffins—sometimes even twice a day. Also checked out Blue Tokai and Third Wave Cafe in HSR, where I got my first taste of the cafe culture—everyone with a MacBook, coding or working on product stuff and sipping cup of coffee. Felt like a whole different world from the usual WFH routine.
+Couldn’t make it to the NGO office next week for some reason, but that’s a story for another time.
+Next, I joined the AI for Global Development sprint in Bangalore, organized in collaboration with the
+Agency Fund
+. Easily one of the biggest and most diverse sprints I’ve attended recently—ML engineers, developers, NGO folks, funders, researchers, and partners, all in one space. Huge shoutout to the organizers for running a tight ship—every session was well-planned, and they even updated the schedule daily based on feedback.
+A few blogs have come out covering the sprint—worth checking out:
+AI for Global Development Sprint – Lessons & Insights
+Cutting Through the Noise – Early AI Insights
+AI for Doing Good – Lessons from the Frontlines
+I met a lot of interesting people at the event. A few that stood out:
+Paul from
+Agency Fund
+was my roommate for a night since Jamie fell sick. We had a long chat before he finally called it a night—two hours later than planned. One thing that stuck with me was his reason for choosing to live in Africa. He said
+it’s a great place to introduce the world to kids
+, have fun with friends, and experience the real world instead of being glued to screens. He’s one of the few people I’ve met who actually live by the values they talks about. A lot of folks say they love remote work, nature, and being away from the city, but then you find them settling right back into city life. No judgment—everyone has their reasons.
+I also met Saloni from
+Digital Green
+. We took a long evening walk and post session talk over tea break. She’s an ML engineer who joined
+Digital Green
+a few months ago after finishing her PhD in Sweden. It was great to get her perspective on machine learning, especially from someone deep in research.
+On the first day of the sprint, the group was split into three focus areas: education, agriculture, and health. I joined the agriculture funder panel discussion, and Arjun Venkatraman from the Bill & Melinda Gates Foundation really stood out. His family has been in the social sector for three generations, and his perspective was different from most. One point he made stuck with me: while we’re pouring money into AI, we’re not putting nearly enough into evaluation. There are endless tools promising to help the sector, but without proper evaluation, we’re just going on gut feeling—which isn’t always right.
+I connected with Prashast Srivastava and Yana from
+Saajha
+. We joined a working session where they shared how they’re using
+wadhwani.ai
+. They explained how audio clips from students are analyzed, assessed, and then used to assign students specific levels. This way, the next activities sent to each student can be personalized to their current level. They’re also using AI to continuously track student progress as they complete more activities and advance to higher levels.
+It’s always great meeting the Agency Fund folks in person. We’ve done a few sprints together, so catching up with Rob, Linus, Jake, Edmund, Temina, and others always feels comfortable.
+This time, I spent some time chatting with Linus about the chatbot project they’re planning with
+Rocketlearning
+. Later, on our cab ride to happy hour, he shared stories from his time at Google and anecdotes of the culture there
+Now I’m back home in Pauri, settling back into the slower rhythm. After weeks of travel, sprints, and back-to-back conversations, it feels good to have some quiet. The last month was packed—new people, ideas, and a lot to process. Some things will stick, some will fade, and some will probably resurface when I least expect them to. For now, it’s time to recharge, get back to work, and see where all these conversations lead.

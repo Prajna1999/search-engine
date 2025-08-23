@@ -1,0 +1,31 @@
+Title: Pro-bono ain’t free
+Author: Vinod Rajasekaran
+Date: March 2023
+Category: Fractional CxO
+URL: https://projecttech4dev.org/pro-bono-aint-free/
+==================================================
+
+As I work more in the social sector and also hear and learn from other CxOs, free technology development is a buzzword and gets a lot of NGO staff really excited about it. Being a skeptic on any free stuff, this has been a difficult subject to navigate personally. And to reiterate the obvious point that I am not against free stuff (we do it for our platforms all the time too :)); it is great that NGOs can leverage free but the downsides are something that should be considered by NGOs to make a more informed decision rather than the excitement of free stuff.
+The various flavors of free:
+Help get our product started and you can be onboarded on it with all your custom stuff
+Foundation technology grant to do something at the intersection of NGO and foundation interests
+CSR/funder connected volunteers doing pro-bono work
+Corporate hackathons coming from corporate funders
+(Free/Cheap) College internships
+Not going to go into detail on all the free benefits but talk more about what I see as questions that NGOs should answer for themselves when they venture into these free developments:
+Is there a clear-cut idea of what is being developed and towards what end goal? Is it a proof of concept or a full fledged application that needs to integrate into other applications?
+We see NGOs engage in these opportunities with requirements that are more conceptual but then end up wanting to integrate this POC completely into their systems. With the morphing of requirements, sustainability and maintainability become big issues over time.
+How are we thinking of managing product quality so that our staff time is not wasted dealing with a buggy product introduction in the field?
+Do we have in-house tech personnel to vet the development to ensure standards are followed and a reasonably bug-free product is delivered ?
+Free projects typically do not have automated testing of the code and end up relying on users to test the product. Do we have a phased testing plan to pro-actively at least validate software functioning of the system (it might still be a black box from a code perspective) and are we ready to spend the time for this ?
+In a lot of these free builds,NGOs dont control the technologies used and do not have in-house capacity to help assess quality of the development leading to questionable maintainability and sustainability over time.
+Do we plan to maintain the software and build on it ?
+Long term sustainability of what has been built is a huge concern. Most of the free development typically does not involve maintenance over time and this can be a big hassle for NGOs if deployed into production to find outside vendors who can get up to speed on what has been developed with technologies that could be out of the wheelhouse of the NGOs regular vendors.
+Documentation on free development is typically lacking leading to lack of knowledge transfer.
+Can we deal with the amorphous nature of these projects especially related to timelines ?
+Free development work typically has long timelines and invariably blown deadlines. Most of these free engagements are long drawn out affairs and can be time consuming for project teams to keep abreast of especially with typically no firm commitments from the other side as it is free
+Will this project address a unified tech strategy for our organization and is that required for this project ?
+Reusability of code and leveraging across similar developments is very unlikely as developers on these free projects work in a silo and are not very privy to other developments across the organization to take a platform view.
+A careful consideration of these questions and answers for them might well make us walk away from the opportunity and that is A-ok as in the words of Jay-Z –
+Im not concerned with noise because Im playing the long game.
+🙂

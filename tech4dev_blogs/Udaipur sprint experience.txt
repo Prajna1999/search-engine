@@ -1,0 +1,41 @@
+Title: Udaipur sprint experience
+Author: Mohd Shamoon
+Date: July 2023
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/udaipur-sprint-experience/
+==================================================
+
+Another great Tech4dev sprint took place in the beautiful city of Udaipur. When you hear the word Rajasthan, an image of a desert may come to mind, but Udaipur is quite the opposite. Surrounded by hills, our hotel provided a breathtaking view of the beautiful monsoon palace covered in fog. It was truly a sight to behold.
+I will now divide my experience into different parts, highlighting the interactions I had and what I hoped to achieve during this sprint.
+C4GT
+Students
+I had the pleasure of meeting an amazing group of people, young engineers who will soon become the face of India in the tech world. My hope was to help them see the world through a tech and social lens, inspiring them to make an impact beyond just considering the monetary and technical aspects of their jobs.
+Coming from a tech background myself, I feel fortunate to have gained this perspective at an early age, and I am hopeful that I can make a positive impact on many lives.
+Glific Mobile App
+I was particularly excited about this sprint because we planned to launch the first version of our mobile app. The C4GT students put in a tremendous amount of hard work to make this a reality, and it was finally time to unveil it.
+I was impressed with the presentation that Aman and Vishal prepared for the launch. The excitement was palpable, and we received valuable feedback from many individuals on areas we can improve for future versions. Unfortunately, we were not yet ready for iOS, which meant we missed out on reaching a significant number of people. However, addressing this is part of our roadmap.
+Attaching to
+video
+of the unveiling for those who have missed this. Also
+link
+for the playstore to try it out and give feedbacks.
+Internal Team Assessment
+During this sprint, we conducted an internal team assessment for Glific and DDP with Ashwin. It allowed us to have constructive discussions on various areas where our team could improve. We divided the assessment into nine categories and rated each one on a scale of five. If there were differing opinions or low ratings, we took the time to discuss and resolve these differences as a team.
+Ashwin asked us to prioritize two categories that we wanted to focus on improving, encouraging further team discussion. Here are the assessment
+results
+for those interested.
+Discussion with NGOs
+This part of the sprint always reminds me that there is so much more work to be done, and we have only scratched the surface. Specifically, when it comes to the Glific product, sitting down and talking with individuals who use it daily brings numerous issues to light, along with suggestions for improvement.
+We discussed not only the product but also support processes, documentation, and providing sufficient resources for organizations to implement their programs effectively using Glific.
+Naming of our Product DDP
+We provided everyone with an opportunity to
+suggest
+a name for DDP and held a vote to determine the best name that perfectly represents our product. The results have not been announced yet, but I hope the best name is chosen.
+Presentation on Glific Integrations
+Over the past year, Glific has made significant progress, and we now support numerous native integrations, thanks to the different organizations in our ecosystem. We aimed to raise awareness among all NGOs about these integrations, enabling them to explore the potential benefits for their own programs. Often, people are not aware of the possibilities Glific offers, so this was a chance to showcase the impactful work of various organizations.
+Food and Outings
+After work, we took the opportunity to visit tourist attractions in Udaipur. We visited two places on different days. First, we explored the City Palace, where we learned about the history of Udaipur and its rulers. We also purchased Bandhani printed shirts and kurtas. Next, we visited Sajjangarh Fort, which offered a stunning view. This fort is known as the Monsoon Palace because the king used to come here during the monsoon season to enjoy the refreshing air and lush greenery.
+For our dining experiences, we tried two different places. The first was Khamma Ghani Restaurant, located by the lake. The view and seating were remarkable. The following day, we went to Traditional Khana restaurant, where we indulged in the deluxe Thali, which included all the delicacies of Rajasthan. If you ever visit Udaipur, this Thali is a must-try.
+Last but Not Least
+Meeting people with diverse backgrounds and interests was a wonderful experience. It truly helped us move closer to the vision of openness and collaboration that Tech4dev aims to achieve.
+I really missed having Kurund and Sneha with us during this sprint, and I’m hoping to see them in the upcoming sprints real soon.

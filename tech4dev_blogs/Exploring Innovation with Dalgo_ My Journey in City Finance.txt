@@ -1,0 +1,40 @@
+Title: Exploring Innovation with Dalgo: My Journey in City Finance
+Author: Mohd Shamoon
+Date: January 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/exploring-innovation-with-dalgo-my-journey-in-city-finance/
+==================================================
+
+– This post is written by
+Sudhakar
+from the
+Janaagraha
+tech team
+Innovation often starts with curiosity and a desire to solve real problems. My recent experience with
+Dalgo
+—a platform that helps simplify complex processes and enable smarter decision-making through its versatile tools—has been an exciting and eye-opening journey. Working on a proof of concept (POC) for city finance, especially around property tax, has taught me a lot.
+Dashboard
+How It Started
+The idea behind this POC was simple: How can we use technology to make city finance easier to understand and manage? With Dalgo’s advanced tools and its integration with Superset, we worked on creating a solution to analyze and visualize property tax data. The goal was to help stakeholders make better decisions using clear and actionable insights.
+The Journey
+Understanding the Problem
+: Before jumping in, we spent time learning about city finance and the issues with property tax systems. From outdated ways of collecting data to difficulties in accessing information, we found many areas that needed improvement.
+Using Dalgo and Superset:
+Dalgo’s AI features and its connection with Superset helped us build interactive dashboards. These dashboards turned raw data into easy-to-understand visuals, making it simple for anyone to see patterns and insights.
+Step-by-Step Development
+: We worked in stages, getting feedback and improving the solution at each step. This approach helped us stay on track and make the POC more useful for real-world applications.
+Collaboration with Shamoon:
+I had the pleasure of working with Shamoon from the Tech4Dev team on this project. His deep knowledge of handling and understanding use cases made the process much smoother. It was a great experience collaborating with someone so skilled and insightful.
+Overcoming Integration Challenges:
+One of the most challenging parts of the POC was integrating the Superset dashboards into the city finance portal. This integration was a core requirement, and it required close collaboration and technical expertise. With the help of Jeeva, our full-stack developer from the Janaagraha team, and Shamoon’s guidance, we were able to successfully complete the integration. Their support and problem-solving skills were crucial in overcoming this hurdle.
+What I Learned
+The Power of Teamwork:
+Working with Shamoon and combining our ideas showed me how collaboration can lead to better results. Sharing knowledge and expertise made the POC stronger.
+The Importance of Visualization:
+Data becomes more meaningful when it tells a story. With tools like Superset, we could present information in a way that everyone—from officials to citizens—could understand.
+Staying Flexible:
+The challenges we faced during the project taught me the importance of adaptability. Feedback and quick adjustments were key to making the POC successful.
+What’s Next
+This POC is just the beginning. Dalgo’s potential in city finance is huge. We can explore building predictive models, and much more. There’s a lot of room to grow and make a bigger impact.
+Final Thoughts
+Writing about this journey has helped me reflect on the experience and appreciate the value of sharing our work. It’s not just about documenting what we did—it’s about inspiring others to innovate and make a difference. I’m excited to see where this journey takes us and look forward to hearing your thoughts!

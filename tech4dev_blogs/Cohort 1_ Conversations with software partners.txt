@@ -1,0 +1,25 @@
+Title: Cohort 1: Conversations with software partners
+Author: Kurund Jalmi
+Date: September 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/cohort-1-conversations-with-software-partners/
+==================================================
+
+Just
+as we had had conversations with NGO partners this month, we also had feedback
+conversations with Software Partners within Tech4Dev. As with the NGO partners,
+these conversations too revolved around the software partners? experience with the
+development projects being undertaken for the NGOs as well as with the Tech4Dev
+process as a whole. Following are the key insights from these conversations:
+1.
+Resource expectations from the NGO partner
+? In many cases, the NGO partner was unaware of the resource and time commitments from its side, leading to some amount of delay and time required for clarifications right at the start of the project. Lack of clarity on expectations ranged from the level of technical expertise or program knowledge required from the NGO POC to the structure of responsibility and decision making within the NGO?s management hierarchy and ownership issues.
+2.
+Responsiveness
+: A frequent observation across projects was the reduced responsiveness from NGOs on conversation with Software Partners and also on collateral, data, and deliverable obligations. While the reasons for this are many and often understandable (lots of field work for the NGO staff leading to restricted access to emails etc.), this is something to be flagged and articulated at the outset for cohort 2.
+3.
+Need for more Tech4Dev facilitation
+: In addition to more Tech4Dev involvement in project conversations and updates, required for cohort 2 is a robust escalation mechanism where both the software partner and the NGO partner would have access to escalation mechanisms in case of deviation from planned milestones and timelines.
+4.
+Software partners should talk to each other more
+: In some cases where the partner interviewing the NGO was different from the partner finally implementing the project, the NGO wasn?t sure on exact division of roles between the two software partners. Would help if software partners exchanged notes in such cases.  5. Tracking impact of project post implementation and deployment: Implementing a tracking mechanism with appropriate indicators would be great for evaluating the success of a project from a social impact point of view in addition to successful implementation and deployment from a project management point of view.

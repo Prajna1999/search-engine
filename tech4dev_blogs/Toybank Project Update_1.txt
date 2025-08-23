@@ -1,0 +1,58 @@
+Title: Toybank Project Update
+Author: Kurund Jalmi
+Date: August 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/toybank-project-update/
+==================================================
+
+As mentioned in the
+previous blog
+post we have been evaluating
+https://www.odoo.com
+and here are some of the findings and challenges with the same.
+Overview
+Odoo is an all-in-one business software including CRM, website/e-commerce, billing, accounting, manufacturing, warehouse – and project management, and inventory. The Community version is the open-source version, while the Enterprise version supplements the Community edition with proprietary features and services
+Features:
+Accounting
+CRM
+Customer Support
+E-Commerce
+Inventory Management
+Leave Management
+Marketing
+Point of Sale
+Project Management
+Reporting
+Sales Management
+Timesheets
+Website Edition
+Modules evaluated for Toybank
+Odoo Inventory Management
+Inventory module is typical warehouse management which includes features such as Inventory Adjustment, Packing, Stock Transfers, Incoming Shipments, Lots and Serial Numbers.
+Sales Management
+This module handles the sales management process. It helps to create product quotations for customers and then convert quotations into a sales order. Also, manage invoicing & reports for the sales orders.
+Purchase
+Request for Purchases order Quotations, control supplier bills, and product received, Multiple vendor management, manage Purchase Tenders.
+CRM
+Manage multiple sales teams
+Creates Opportunities
+Generate leads and Manage leads
+Reporting and analyze the performance
+Toybank implementation
+After understanding the requirements, we have implemented the following functionality:
+Adding toys into inventory i.e creating products and classification of a product on the bases of category and updating quantity of product.
+Play centers are created as an organization
+Request for toys by creating sales quotations for an organization
+Toys are assigned as an order against a particular organization
+Program officers/ Admin staff can create quotation and once approved by Inventory manager it is recorded against the organization
+Program officer can scrap the products in a particular order
+Current Roadblocks
+The system is not very user-friendly
+Limited UI configuration for customizing look and feel
+REST API modules do not work as expected
+Toybank?s inventory flow adding/issuing does not directly match with Odoo flow
+Some issues with custom module development
+Limited scope to modify existing UI
+Unable to use existing product category options while creating a new custom field
+Unable to add custom text/links in views
+Issues with overriding the save action

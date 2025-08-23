@@ -1,0 +1,46 @@
+Title: Another Amazing Sprint for Glific ecosystem
+Author: Kurund Jalmi
+Date: July 2022
+Category: Glific
+URL: https://projecttech4dev.org/another-amazing-sprint-for-glific-ecosystem/
+==================================================
+
+After 5 days of being in the picturesque location of
+GarudMaachi
+, the time had come to bid adieu to the place and to the lovely people with whom we had engaged in the last few days. I personally returned back with a feeling of accomplishment for the Team and the Product.
+It is always very fascinating for me to see how on day 1 the diversity in the group shows up so obvious and on the last day we all seem to be a part of one big family 🙂 and that is the magic that such opportunities create. Sprints like these enable the possibility of collaborations, sharing and learning from the experiences of peers, and apprising oneself of the work others in the ecosystem are doing – all this leading to the strengthening of the ecosystem at large.
+The impact that we are wanting to create in the community is not small, so how can the efforts be small, hence we need to join hands to be successful in moving the needle.
+The sprint was a beautiful conglomeration of the different stakeholders of the ecosystem – software partners, NGO partners, and solution providers. It was a great learning experience for me as I sat through the presentations of each of the participating NGOs (
+The Apprentice Project
+(TAP),
+Reap Benefit
+,
+VOPA
+,
+Slam Out Loud
+,
+Lend a Hand India
+,
+Avanti Fellows
+,
+Pehlay Akshar
+,
+Antarang
+,
+Indus Action
+) hearing them talk about their work and the use of Glific to connect with their end beneficiaries.
+The solution providers (
+Goalkeep
+,
+Avni
+,
+EdZola
+,
+SarvSutra
+) shared about their services/platforms and how NGOs could leverage them for greater impact.
+The
+Glific
+team was available dedicatedly for the participating NGOs for the week to help them accelerate their work on the chatbot in addition demo(ed) the development of new platform features of NLP, Google ASR, and multiple user profiles, this got the NGOs excited and thinking.
+The talks were quite informal, and I was amazed to see the depth of knowledge and emotion attached to the work each one was doing. Empathy was at its supreme, and that zeal to contribute to the change was quite evident across the missions of each organization’s presentation. It was a fulfilling experience for me to see the participants proactively sharing their challenges with each other, seeking solutions, and learning from fellow partners. I feel happy for being a part of this enabling environment.
+Besides the talks which were spread during different times of the day, the sprint also gave ample space for each to meet their usual work commitments while collaborating with others at their convenience. The flexible structure of the sprint allowed for relaxation, reflection, learning, and adventure. The 5 days were a perfect blend of work and fun.
+I am already looking forward to the next sprint to recreate the magic for more partners. If you are a part of this social sector ecosystem and want to join us in the next sprint, do let us know in the comments section.

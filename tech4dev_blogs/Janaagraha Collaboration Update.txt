@@ -1,0 +1,96 @@
+Title: Janaagraha Collaboration Update
+Author: Mohd Shamoon
+Date: August 2024
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/janaagraha-collaboration-update/
+==================================================
+
+Ashwin and Thomas have been engaged with Janaagraha as
+fractional FCXOs
+, focusing on shaping their tech strategy. Recently, we’ve extended this model to include a fractional tech team, as part of a broader experiment and I am part of that experiment.
+About Janaagraha:
+Janaagraha works to improve the quality of life in India’s cities and towns by collaborating with citizens and governments to enhance citizenship and infrastructure & services. More details can be found
+here
+.
+My Visit to Janaagraha:
+I was in Bangalore for the
+Dalgo sprint
+from August 16-20, collaborating with NGOs in the Dalgo ecosystem. During this time, Ashwin asked if I could meet with Janaagraha’s leadership, as he would be unavailable the following week. I visited Janaagraha on the last day of the sprint, where I met the leadership team and some of the tech team members.
+I extended my stay the next week to get a better understanding of the tech team’s operations. Although Ashwin and Thomas were out of town, Ashwin had provided a detailed set of steps, shared with Haji, which helped me navigate independently.
+Initial Insights:
+The first day involved attending a tech webinar led by Guru, focused on the challenges faced by the development team. Key issues discussed included:
+The shift from a product-driven approach with more control to a service-based model has limited decision-making flexibility for the tech team.
+The influx of ad hoc requests from various program teams complicates prioritization.
+The absence of a centralized platform to track what each team member is working on, leading to context-switching and inefficiencies.
+Program teams frequently engage third-party vendors without involving the tech team, making it challenging to maintain or update work when context is missing.
+Guru suggested several solutions:
+Maintaining a project backlog sheet with clear task priorities.
+Ensuring visibility into task priorities, allowing team members to manage their workloads and decline unnecessary tasks.
+Establishing a process for involving the tech team when program teams work with third-party vendors.
+This session offered valuable insight into the existing challenges and operational dynamics at Janaagraha.
+Overview of Platforms:
+Sudhakar provided an introduction to the platforms developed by Janaagraha, which was both impressive and inspiring. The pride in his voice was evident as he described their achievements. Notable applications include:
+Swachhata
+: A significant success during the Swachh Bharat Abhiyan, with over 20 million users.
+Public Eye
+Ichangemycity
+Variations of these applications for different states and partners.
+The current primary focus is on the
+City Finance
+app, which addresses key issues related to data collection, consolidation, and verification. I took a keen interest in the tech side and requested access to the GitHub repositories. I set up the City Finance code locally and inquired about their testing processes, led by Christina. I spent four days in the office observing the tech team’s operations and identifying areas for improvement.
+Observations and Recommendations:
+I compiled my observations into a
+document
+, which I shared with Ashwin and Thomas. They were aligned with many of the points I raised. Here’s a summary:
+Dev Team Management
+:
+Introduce a comprehensive tracking sheet to monitor each team member’s tasks.
+Consider moving from ClickUp (paid) to GitHub Projects (free).
+The current task tracking process is ad hoc and lacks a centralized platform for visibility.
+Open Source Strategy
+:
+Open-source the City Finance project to leverage free tools and CI pipelines.
+The project includes three repositories: Frontend (v1 on Angular 11 and v2) and Backend (Node Server).
+The process involves using GitGuardian for security checks, updating licenses to AGPL 3.0, and implementing code quality checks in the CI pipeline.
+UI Framework Upgrade
+:
+The current Angular v11 is outdated and poses security risks. Upgrading to Angular v15 is planned but requires careful testing due to breaking changes.
+Automated Testing
+:
+There are currently no automated tests in place. We initiated basic Cypress test cases for login/logout and plan to expand testing post-upgrade to Angular v15.
+Error Monitoring
+:
+No error monitoring system is in place yet. Discussions are planned for the coming weeks.
+Additional Technical Concerns
+:
+Ensuring consistent features (like headers/footers) across app versions.
+Addressing gaps in backend processes like seeds, migrations, and CI improvements.
+Quick Wins and Next Steps:
+To enhance the developer experience and upskill the team, Guru initiated weekly tech demo calls where the team can showcase their work and learn from each other. The first major task I prioritized was making the repositories open source. Open sourcing provides access to free tools, unlimited CI/CD pipelines, and external contributors.
+Lobo has often emphasized that building for the public good should start with open source, although nonprofits often struggle to follow this practice. Fortunately, Janaagraha had already included this in their roadmap and had signed an MoU with this goal in mind.
+After scanning the repositories with GitGuardian and collaborating with Jeeva and Kushal to address exposed keys, we added the AGPL 3.0 license and made the repositories public. This enabled us to integrate multiple code quality checks and testing into the CI pipeline. I implemented these in one of the repositories and demonstrated the results to the team.
+Here are some specific improvements:
+Deepscan
+: Integrated to check code quality issues for every pull request. If you check the
+Deepscan page
+, it highlights some issues that can be addressed for better code quality.
+Unit Testing with Codecov
+: Added to monitor and report test coverage on each pull request. The
+Codecov page
+currently shows a coverage of around 8%, with plans to improve this across all City Finance repositories.
+GitGuardian
+: Integrated to prevent future key leaks. You can see the implemented checks in this
+PR
+, which sets up Deepscan, Codecov, and GitGuardian checks.
+The next steps involve extending these practices to all City Finance repositories and continuously enhancing code quality.
+Enhancing the Testing Process:
+I created a separate repository for
+Cypress
+and added initial test cases. Abhishek is now leading this effort, focusing on expanding test cases for the homepage. We’ve also integrated Cypress Cloud to monitor test failures and provide video replays. The next step is integrating these tests into a GitHub workflow that runs daily or with every pull request.
+Infrastructure Upgrades:
+Ashwin and Thomas proposed infrastructure changes that were recently approved. I participated in calls to document and ensure that best practices were followed. Currently, the deployment architecture is straightforward, with everything (database, application server) hosted on a single EC2 instance. The proposed improvements include:
+A separate 2-node database cluster.
+A load balancer in front of the application server.
+These changes are crucial for scalability and improving the overall reliability of Janaagraha’s infrastructure.
+Moving Forward:
+Thanks to Ashwin’s guidance, I’m now part of the broader tech strategy for Janaagraha, exploring collaborations with other partners. While some progress has been made, much work still lies ahead.

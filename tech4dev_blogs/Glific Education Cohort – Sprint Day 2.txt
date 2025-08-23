@@ -1,0 +1,30 @@
+Title: Glific Education Cohort – Sprint Day 2
+Author: Kurund Jalmi
+Date: September 2022
+Category: Glific
+URL: https://projecttech4dev.org/glific-education-cohort-sprint-day-2/
+==================================================
+
+This blog is written by Sheetal Sridhar, from
+Key Education Foundation
+Oh the joy of waking up to pitter patter! I can never get tired of the sound of rain, even when it is incessant. I must admit the weather forecast predicting rain throughout the week got me doing a little happy dance before leaving for Dehradun.
+As this was our second sprint and we were all fairly aware of each other’s work, we spent some time everyday discussing our own work with
+Glific
+and calling out challenges within the support group. I found this circle to be very helpful and reassuring, also creating a segue for multiple conversations with fellow participants and allowing room for new ideas.
+Yesterday when Abhishek asked me for one word to describe tech4dev, I said collective and I think its just wonderful how everyone is not always thinking of just a feature for one but how can you really create something that can be adopted in multiple use cases and contexts. We started Day 2 with Nadeem and Vinitha from team Sneha presenting their work in the morning along with Vinod highlighting their work on Data for the organisation.
+While walking to get my third cup of coffee for the day (thanks to the
+Glific
+team for the french press this time) before my next session, Rishi from
+Quest Alliance
+asked me what Id like for him to focus on in his talk on conversation pedagogy and on my way back up, GP (Gautam Prakash) from
+Reap Benefit
+checked in on what kind of data we collect to make better connections to different use cases during his talk with Akhilesh on the location mapping feature they were going to present to us today.
+Rishis talk on conversation pedagogy was very interesting. It channeled some of our thoughts towards how one can go from Message A to Message B for a target audience. I frivolously scribbled some things in my notebook to take back to my team in Bangalore. We also had Akhilesh from
+Glific
+and Gautam present the progress they have made with location mapping and Frappe specifically for Reap Benefits work. I must call out that they did a fantastic job of presenting their work (even without much help from the internet) but surely some help from Abhishek aka Mr. Corporator who joined in to add essence to a particular use case they were acting out!
+Writing this blog and having been in this space filled with so much energy and so many possibilities yet again, also got me thinking or rather wondering if were so caught up in running day-to-day operations that, sometimes slowing down, sitting down to actually think, tap into those ideas weve been putting away is what we dont know were losing out. Being able to express that one little break in the chain thats been bothering us but we had put them away because bigger challenges took precedence and now sharing this with the cohort knowing well that someone may relate to you and give you almost immediate next steps that may help is what makes this experience so special.
+What makes the sprints even better is the picturesque location the team always manages to host them at. The green around you in this place is so calming. By this place, I mean
+The Sal Woods
+. Its around 6pm now and were on our way to Mussoorie and Im trying to put all the bite sized pieces of information I can place together from multiple conversations I have had in the last 2 days. Thanks to all the reflection Tejas made us consciously do, we were thinking of what we want to take away from this space right from Day 0.
+Im pausing again to relish some hot chocolate at Little Llama cafe. It tasted just as good as it did 5 years back! Well I got most of them on the table to get one too! Talk about collective eh?
+Im already looking forward to the next sprint. For now, Im super excited to take new ideas, possible solutions for existing challenges and a fresh batch of motivation this space has helped me brew over the last couple of days. Oh and of course, one last round of playing Exploding Kittens and terribly losing to the veteran of this game before day 3!

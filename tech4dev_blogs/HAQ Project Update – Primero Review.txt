@@ -1,0 +1,21 @@
+Title: HAQ Project Update – Primero Review
+Author: Kurund Jalmi
+Date: April 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/haq-project-update-primero-review/
+==================================================
+
+This is a follow up to our previous
+post
+. We have been evaluating Primero for HAQ and here is the progress on the same.
+We have been using Child Protection Information Management CPIMS+/Primero for this implementation. The system helps intake relevant information via multiple sources, consolidates the information into relevant record types (Cases / Incidents / Tracing Requests) and allows service providers to report and make educated decisions to assist in these locations.
+Demo?s looked very promising and we were able to mockup few functionalities with ease. However, we faced several hurdles during the installation process.
+Primero installation was a challenge because the installation guide provided by primero officials is very basic and doesn?t include troubleshooting in case of issues encountered during the installation process.
+Primero is developed using Ruby on Rails (RoR) and CouchDB is the database backend. We come from non-ROR development background hence, we had some issues setting up the environment and the required packages.
+Once we got Primero up and running on our dev servers it was easy to set up various forms and permissions. We were able to create new roles and also assign role specific forms. This whole form creation and the field level permission structure is quite impressive. However, it is not a drag and drop interface we have to manually fill all the information of fields. So the addition of new form with a lot of fields is a bit time-consuming.
+Though primero satisfies most of the requirements of our project, we do need some amount of code customization.
+Here are some of the issues that we are facing currently.
+Primero lacks the feature of the conditional fields, so we trying to find some workaround for this.
+Primero has a date range field, but it does not seem to be working in our system. Each time we add date range field, the form just stops working.
+The file upload field is not available. We crashed the application when tried to implement this. We have posted this issue in Primero?s Jira, but have not received any support.
+One of our main concern is the lack of community behind this project and the non-responsive support channels.

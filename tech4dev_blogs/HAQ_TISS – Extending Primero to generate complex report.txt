@@ -1,0 +1,43 @@
+Title: HAQ/TISS – Extending Primero to generate complex report
+Author: Kurund Jalmi
+Date: August 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/haq-tiss-extending-primero-to-generate-complex-report/
+==================================================
+
+One of our previous
+post
+was on the issues and their solutions that we faced while implementing HAQ using Primero. In the same post, we had mentioned that Primero supports generating reports only from those fields whose predefined option values are already stored in DB which means reports could not include values entered by the users via the text fields. Due to this limitation, we were forced to look out for third-party tools like Metabase/Superset for report generation, however, after evaluation, it seemed using these tools would be more complex as direct integration was not available. Creating reports was also a major part of another project TISS which we are working as a part of Tech4Dev initiative. Hence we moved forward with extending Primero to include reports by using MVC architecture of RoR. You can find below a brief explanation of what we actually did.
+RoR MVC
+We have an app folder which contains view, controllers, models, assets etc.
+RoR MVC has a routes.rb file in config folder which is used to route an URL to a specific controller. The controller then defines which view to be called.
+RoR creates a database file for every model. The controller controls the data and is then passed to the corresponding view specified in the routes.rb file.
+Reports Generation.
+We added a custom reports section to the navigation bar.
+Primero uses CouchDB as back-end. Retrieving data from the database is done using CouchDB views.
+Views are specified in the corresponding model (whose database is present in CouchDB) from where the data is to be fetched. You can access the view by calling it in the controller using Model.view_name
+Processing of the reports is done followed by invoking the corresponding HTML page.
+For retrieving data from the controller and displaying on the HTML page we used instance variables which are defined using @variable_name where “@” indicates instance variable and can be used in the HTML page as well.
+After implementing reports, as we were nearing the wrap up of TISS implementation the next big task in our bucket was to setup a production environment for Primero. Mentioning below a brief explanation of steps followed and the hurdles we came across. (Note: Entire procedure takes at least an hour. )
+Prerequisites
+A?local machine which will be used to deploy the setup and a server which should only contain a sudo less user.
+The local machine should contain chefdk and kinfe solo. (ChefDk and kinfe solo version are very important as specified
+here
+Steps
+Checkout the branch you want to deploy on the production server.
+In the cookbook, folder make a dev-node.json file as specified
+here
+In the dev-node.json file, the server_hostname field should contain the domain name of the production server which is used for Let?s?Encrypt certification.
+Follow steps mentioned in the given links
+https://github.com/primeroIMS/primero/blob/maint_1.6/cookbook/README.md
+https://community.primero.org/t/how-can-i-quickly-set-up-primero/183
+Issue encountered and its solution
+Production setup would halt during ruby bundle install, it tried to install ruby bundle using the system ruby instead of?installing?ruby 2.4.3 railsexpress.
+To resolve this issue, we changed the actual way in which Primero installs ruby 2.4.3 railsexpress. (briefly explained
+here
+)
+Inside cookbook/recipes/application.rb in the local machine change the line
+“rvm install #{node[:primero][:ruby_version]} -n #{node[:primero][:ruby_patch]} –patch #{node[:primero][:ruby_patch]}”
+?to
+“rvm install #{node[:primero][:ruby_version]} -n #{node[:primero][:ruby_patch]}”
+It was a good learning experience using Primero as we got an opportunity to explore different technology/tools. Along the path, we also faced many challenges which were worth the efforts.

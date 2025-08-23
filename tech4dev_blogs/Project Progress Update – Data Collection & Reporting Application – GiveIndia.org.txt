@@ -1,0 +1,59 @@
+Title: Project Progress Update – Data Collection & Reporting Application – GiveIndia.org
+Author: Kurund Jalmi
+Date: November 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/project-progress-update-data-collection-reporting-application-giveindia-org/
+==================================================
+
+In reference to our last blog linked
+here
+, we have progressed steadily & now have moved to the UAT stage for the application developed.
+As per the project scope we have completed developing following modules
+Role Super Admin (Web)
+NGO Details
+Program Update & Report Data Management
+Beneficiary Management
+Notification Module
+Role Relationship Manager (Web)
+Review Beneficiary Submissions
+Review Report Submissions
+Role NGO Admin ( Web & PWA )
+User Management
+Beneficiary Management
+Report Submission
+Role NGO User (Web & PWA)
+Program Details
+Beneficiary Management
+Report Submission
+View Communication Updates
+We have worked closely with the GiveIndia team consuming existing APIs along with developing APIs as per the need of the project scope. Integrating it to GiveIndias server environment also went well enabling us to deploy code to their servers while we do second round of UAT. This was a very important step since we wanted to see if there were any glitches that we may face.
+When the application was demoed to the business team of GiveIndia, the impact that the application can bring was highly appreciated. The main intent of developing the application  was to enable seamless data collection & regularize report submissions from NGOs which we have nailed very aptly.
+The next following demo with NGO users further opened up a lot more possibilities & enhancements that can be done in future. We are currently working in close collaboration with team GiveIndia & application is undergoing thorough UAT NGO users who are using it in a staging environment to list out possible enhancements that they might need.
+The developed application has been through the following stages.
+Design  –
+Completed
+Development – Front End – By Think201 Team –
+Completed
+Development – API – by Think201 Team –
+Completed
+API Consumption – Coordinated activity between Think201 & GiveIndia team –
+Completed
+GiveIndia API Changes – As needed (based on design wireframes done) –
+Completed
+Binding APIs to frontend screens –
+Completed
+QA by Think201 Team –
+Completed
+Bug Fixes as identified by Think201 Team –
+Completed
+Demo to Business Team – Application hosted in Think201s staging server –
+Completed
+Deploying the application to GiveIndias staging server –
+Completed
+UAT by Business Team –
+Completed
+UAT by NGO users to identify issues/ enhancements –
+WIP
+Issue fixes as reported by GiveIndia team –
+WIP
+Stay tuned for our final updates on going live for actual usage.

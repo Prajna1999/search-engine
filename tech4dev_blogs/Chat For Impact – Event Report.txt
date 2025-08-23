@@ -1,0 +1,46 @@
+Title: Chat For Impact – Event Report
+Author: Kurund Jalmi
+Date: February 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/chat-for-impact-event-report/
+==================================================
+
+Happy participants and trainers
+Heading back home to San Francisco after a really good week of training with our third cohort of 12 NGO partners and the team from
+turn.io
+. Some folks have already posted their thoughts and impressions on different days of the event:
+Day 1
+,
+Day 2
+,
+Day 3
+,
+All Days
+. I?ll try and summarize the week and give a few of my high-level thoughts and impressions.
+This was a collaborative event. Suleman at
+Edelgive Foundation
+helped us out with space and logistics. Prapti and the
+Dasra
+team helped us with the financials, Arjav and Rahul from
+Lumen Consulting
+took charge and organized the meetup, the Turn.io team delivered a high-quality program over 4 days, Anjali and Victoria from
+Noora Health
+along with Ayush from
+Leap For Word
+provided us detailed case studies and answered multiple questions from the participants. So overall a lot of people were involved to make this event happen and thrive.
+For the 3 day training, we had approx 30 people representing 12 NGOs, 4 partners, and 3 trainers from turn.io. For the meetup, we had approx 35 people in the room representing 15 NGOs.
+The days were structured to include lots of interaction, hands-on work, and questions. While the training was very comprehensive, an important side benefit was the conversations and knowledge sharing between the various NGOs about their work and use cases and picking up a few tips and tricks from the group.
+To make our face to face time more productive, we did a fair amount of prep work before the meeting. This included completing most of the paperwork and legal contracts before the meeting. We coordinated via online calls via zoom, a WhatsApp group, an email group and a shared google drive to store all documents and collateral.
+Many of the NGOs had to tweak their use case due to restrictions and/or design of the WhatsApp API. The focus on ?pull messages? being encouraged, and ?push messages? charges, ensured that participants had to be creative and think differently on how to engage their audience. A few of the groups definitely need ?WhatsApp group support?, but as of now this is still in beta and the API could change.
+Lots of feature requests and comments on the turn.io platform and its capabilities. The platform has quite a good API and most of the entities within the system are customizable. I do hope that they build most of their extensions (like the NLU and Automation) using the API since it ensures that developers in the ecosystem have all the interfaces they need to extend the system to meet their needs. In general, we do require that all the entities and actions are extensible and modifiable similar to many of the successful open source projects out their with their plugin/hook architecture.
+We do need to do some community building to ensure that folks share their use cases and as we move forward with implementations share their custom extensions using an OSI approved license. Having an extensions directory for all extensions along with documentation and tests would help the ecosystem flourish.
+We had good open-source conversations with the turn team. From our perspective, it is important to ensure in the medium to long term that the code for such systems is free and open source. I think the problem is big and broad enough, that we need multiple companies and individuals working on to build and strengthen the system. The NGO world is wide and varied and we have lots of organizations with very different needs and requirements. Also, we can definitely harness the wider pool of developers in India (via Tech4Dev and others) and the rest of the world, and build a thriving community. In the short term, the focus of Tech4Dev is to ensure that the NGOs have a solution that works for them.
+All the presentations and documentation with
+turn.io on our google drive
+, specifically the
+question and answer session notes
+. There were some hard questions, but we got good straight answers along with the reasoning behind what they are doing and why.
+Getting NGOs to pay for part of fixed costs seems the right thing to do for Tech4dev going forward. It allows us to serve more NGOs, NGOs have a deep think if they really need the solution and why, and they come into the event with explicit goals and tasks.
+This was the first time we did a cohort where there was a common tech theme. The interaction and knowledge sharing between the participants raises the question of: Can we find other threads across sectors and NGOs and run cohorts for future groups. I think we will get there, but I?m still grappling with the question of what are some common threads that we can build future cohorts on.
+I?m glad we did the meetup. It allowed us to raise the level of awareness among another set of NGOs and gave us an idea of how much demand there is. Primarily Mumbai based NGOs attended the meetup, we did have some requests to stream this event but did not have the resources to arrange for that.
+Overall, we see many of the things that we do in Tech4Dev as experiments. Our goal is to have a high success rate, but also realize that sometimes things might not go as planned. It will be interesting to see what pilot projects come out with our partner NGOs in the next 6 months and how this ecosystem develops, what percentage of NGOs move on to running pilot and then production programs and more. As always we?ll blog about how things are going on a regular basis.

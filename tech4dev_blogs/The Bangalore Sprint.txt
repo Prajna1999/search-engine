@@ -1,0 +1,20 @@
+Title: The Bangalore Sprint
+Author: Ashwini Lotlikar
+Date: April 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/the-bangalore-sprint/
+==================================================
+
+This Sprint in Bangalore was exclusively a team event unlike the previous ones, where we had the Data Catalyst Program and Glific Sprints running parallely. This gave us a big chunk of our time to discuss on the product and team related items. We had just released the UI for transformations feature for Dalgo and the team was in high spirits. Everyone had worked hard towards our release and was time to pat everyone on the back.
+Through the week, we were looking forward to the product discussions, mainly on the new features planned for the quarter, some bit of cross learning/exchange with the Glific teams, discussions around AI. And then there were product reviews with the senior leadership team.
+There were interesting discussions on Values with our consultant Arjav. The entire process of arriving to the Tech4Dev values was quite insightful. While it began with diving deep into the feedback received from a select team members, we moved on to analysing our style of working, how we engage with each other internally and with our clients, how we foresee ourselves in the future. These participative discussions led us to our first draft.
+We also had our guest speaker on one of the days, Sucheta Bhat, CEO Dream a dream who had a very engaging conversation with our team on equality, success and building technology for the inequalities. Interesting perspectives, but left us pondering over an intriguing question on how technology can bridge the gaps.
+Overall a busy week, we still got some time to catch a game of badminton, fun games and some cacophony on the mike with Karaoke 🙂
+As the Sprint comes to an end, it leaves with an introspective on what could have been better or thinking how do we excel in our next one. While meetings are required to make progress on our products and fCxO charter, some of the obvious questions that come to us are,
+How can we make our Sprints more effective?
+What is an optimal timeframe we meet?
+Are we making the best use of time together?
+Should it be outcome based or open ended?
+Should the Sprint be more structured?
+I am of the opinion that we need more open calendars during the Sprints. Here is the time when we are together as a team, utilise it best to interact with each other, with open discussions, thinking out of the box, brainstorming on some of the pain points or customer issues leading to something more meaningful and tangible outcomes.
+To summarise, need a right mix of setting Sprint goals and keeping time for open discussions.

@@ -1,0 +1,44 @@
+Title: Data Maturity Assessment, review from using the tool
+Author: Deepak Nanda
+Date: July 2025
+Category: Data Catalyst Program
+URL: https://projecttech4dev.org/data-maturity-assessment-review-from-using-the-tool/
+==================================================
+
+By Tejas Mahajan
+Summary
+As the first step in Dasra and Project Tech4dev’s Data Catalyst Program, we used
+data.org
+’s Data Maturity Assessment to initiate the journey of data culture. This blog captures the reflections from doing the assessment as a mentor with
+Center for Mental Health, Law and Policy (CMHLP)
+. This helped to benchmark the data practices, uncover hidden gaps. align the team on what it truly means to become a data-led organization in the mental health space. This quick, structured tool not only highlighted practical issues like data security and uneven practices across programs but also sparked deeper conversations around frameworks and shared language—setting the stage for a sustainable, actionable data culture journey.
+What is Data Maturity Assessment
+data.org launched the Data Maturity Assessment (DMA) to enable better benchmarking of the social impact sector, help organizations prioritize which areas of data maturity need investment, and enable self-service connections to tools and resources that help with the transformation needed to become a “Data Led” organization. The tool was built from extensive research and in consultation with social impact organizations tackling these topics. The assessment takes about 12 minutes to complete and delivers a clear results summary.
+The results are presented as a rating on a scale of 1-10, broken down as “Overall Score” and 3 separate scores for “Purpose”, “Practice” and “People” aspects. Each of these aspects are further broken down into various categories to inspire discussion and inform action.
+(Above screenshot shows the results page after completing the survey)
+Go
+here
+and try it out for yourself. Following is steps that can be replicated to start with:
+Get at least 5-7 team members go through the questionnaire
+Record the responses of each person in a sheet. (use this a
+template
+)
+Have a conversation reflecting on the data that emerges.
+How it helped with CMHLP
+The curious case of data security
+The leadership team was able to identify the variability in the perception of data security policy between team members operating in different programs. While one team member rated 10/10, another team member rated 2.5.
+This enabled the conversation as to why there was a divergence in this perception, leading to the insight that the initiative in the research phase has clear guidelines and policies for data security, while this clarity is lacking in the initiatives ongoing in the scaled implementation phase.
+Data is used well, but practices need more standardization
+Team members reflected that data for decision-making is used well.  As seen from high ratings given by all team members for “Application”, “Strategy” and “Responsible Use” aspects.
+The team however also reflected that there are uneven processes between different programs. As well as the time being spent towards repetitive analysis tasks done manually leading to time sink and course corrective action being delayed.
+Language and framework alignment emerged
+The team was also able to reflect that spending time talking about terms such as data infrastructure, security, quality, purpose and culture. Understanding the perspectives of each team member helped to arrive at common definitions and frameworks.
+Why this was a great activity to do:
+The tool sparked productive reflection
+Using the DMA tool created a safe structure for the team to reflect individually as they rated the various aspects. Congregating post the ratings and in a facilitated discussion format enabled folks their real concerns and excitement, making in-articulated barriers a bit more visible.
+It set the stage for an actionable data culture journey
+Rather than viewing data maturity as a static “score,” the tool is helping CMHLP view it as an ongoing, layered process tied to program quality and impact.
+Conclusion
+Reach out to
+tejas@projecttech4dev.org
+for exploring more on this topic or to share your thoughts, comments and feedback on this piece.

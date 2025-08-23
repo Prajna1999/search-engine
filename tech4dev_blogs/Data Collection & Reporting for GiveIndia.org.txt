@@ -1,0 +1,66 @@
+Title: Data Collection & Reporting for GiveIndia.org
+Author: Kurund Jalmi
+Date: March 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/data-collection-reporting-for-giveindia-org/
+==================================================
+
+As a part of the Tech4Dev initiative, we (Think201) are working along with GiveIndia.org to build a seamless Data Collection & Reporting application.
+Introduction
+GiveIndia is India’s largest and most trustworthy online donation platform.
+They currently support 600 nonprofits in their fundraising efforts. Over the next 12 months, this number will expand to over 1500 nonprofits and to 5000 over the next 3 years.
+As a platform, GiveIndia believes in keeping extremely high standards for donor trust. Every organization that they partner with goes through a robust due-diligence process and all programs listed on the platform provide regular reports to donors, with some going to the extent of providing details of the individual beneficiaries.
+Challenge to be Solved
+In line with their mission of keeping high standards for donor trust, GiveIndia team wants to level up the benchmark of updates about program and beneficiary details that goes to the donors. The quality upgrade is not just about the final outcome which goes to the donor, but also in the process that is followed to collect, review & representation of the data. Challenge is to also get the NGO users to promptly submit the updates w.r.t program as well as beneficiary details diligently in a stipulated period of time without much of any manual intervention.
+Current Process Followed
+The current process that is in place is a very laborious and error-prone process.
+There are instances of lag time in reporting a change in beneficiary data thereby impacting communications to the donor.
+Reports which include program update data, as well as beneficiary update data, are very minimal & not of good quality.
+Data that is getting collected are done via spreadsheets & hence collecting and organizing images that are relevant to content is a horrendous task. This has also affected the data collection part itself.
+Reviewing and sending back reports which are of not great quality is also done via spreadsheets which leaves room for misses on timely followups.
+How we intend to solve
+By evaluating the challenges as well as the user persona, here is how we propose to solve this working along with the team GiveIndia.
+We understand that technology infusion will solve the challenge by empowering the identified roles with modules that would help them achieve the intent at ease.
+We would be building a web application and mobile application that helps to solve the challenge. Logically we have identified the following roles doing actions as described below
+Role Super Admin (Web)
+For a super admin, we will be building modules which would help them to
+NGO Details –
+View NGOs and the programs that are active currently. Each NGO?s program detail will have detailed information about relationship manager mapped, current beneficiaries, reports submitted so far all arranged logically.
+Program Update & Report Data Management –
+Will be able to view program updates and reports submitted which would have relevant status mentioned alongside such as approved/rejected/awaiting review.
+Here is where template creation for category of NGOs will be possible for data collection.
+Beneficiary Management –
+Super admin can also add/edit/remove a new beneficiary. Any such actions will update beneficiary data in the parent database and the NGO under context will receive email notification about the changes made. This would also impact donor reallocation logic & communication to donors which are handled at the parent database.
+Notification Module –
+A module that would let super admin write a custom email along with custom filters to choose recipients. This module helps in generating custom alerts to applicable NGOs on various conditions. An example of a custom filter would be:  Choose NGOs which have no Program Update last month.
+Such relevant logic will be developed as custom filters to achieve the bigger intent of building this product.
+Role Relationship Manager (Web)
+For relationship manager, we will be building modules which would help them to
+Review Beneficiary Submissions –
+Will be able to view new submissions/ change/ removal requests to beneficiary data which will be updated to parent database after review. This would also impact donor reallocation logic & communication to donors which are handled at the parent database
+Review Report Submissions –
+Will be able to view report submissions for each beneficiary under a program/ The data submitted will be reviewed for content correctness/clarity and quality. It would also let them edit and approve/reject data which would then get updated to the parent database.
+Role NGO Admin ( Web & PWA )
+For an NGO admin, we will be building modules which would help them to do
+User Management
+– Letting them add, activate and deactivate users who would manage the NGO account in terms of data collection and reporting.
+Beneficiary Management
+– Letting them enroll/edit/remove new beneficiaries to program using a template that can unique to each program which will be sent for approval before adding them to the program.
+Report Submission –
+Allowing them to submit a report about the program and beneficiary in a timely manner. The report template will be unique to each category of NGO?s program to make data collection easy and presentable. This module will allow them to collect data and submit for review.
+Report submission would include capturing media-rich content about the beneficiary which may include text/image/file/video byte along with content. The module lets the user to do so using both mobile and web interface
+Role NGO User (Web & PWA)
+For an NGO User, we will be building modules which would help them to
+Program Details
+– View program they are mapped to, details and relevant information about its beneficiaries currently enrolled and their profiles.
+Beneficiary Management
+– Letting them enroll/edit/remove new beneficiaries to program using a template that can unique to each program which will be sent for approval before adding them to the program.
+Report Submission –
+Allowing them to submit a report about the program and beneficiary in a timely manner. The report template will be unique to each category of NGO?s program to make data collection easy and presentable. This module will allow them to collect data and submit for review.
+View Communication Updates –
+Allows them to view communication updates as notifications which are triggered by super admin/ relationship manager about report data/new timelines/ rejection of report data
+How this product will fit into the existing platform of GiveIndia.org
+We would be developing this product which would work closely with existing applications. The core data such as NGOs currently active, programs that are active under NGO along with beneficiary data are present in the parent database and we will never clone the data to the database of the system we build. The Data Collection & Reporting will have its own database which would collect data and then writes data back to the parent database thereby maintaining sanitized data w.r.t beneficiary data which is very crucial.
+Next steps
+With an understanding of what is the overall intent of the application to be built, we have come up with a plan of taking a design-first approach for the overall execution of the project.
+Our aim is not just to build functional features but also to build great UI & UX so that NGO admin and NGO users who are on the field will be able to do the job easily. Design-driven technology infusion will definitely help us achieve the goal.

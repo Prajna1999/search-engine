@@ -1,0 +1,76 @@
+Title: Launching the AI Cohort Program – Learnings and Next Steps
+Author: Ashana
+Date: July 2025
+Category: AI
+URL: https://projecttech4dev.org/launching-the-ai-cohort-program-learnings-and-next-steps/
+==================================================
+
+Last month, we launched the pilot edition of the
+AI Cohort Program
+—a joint initiative between Project Tech4Dev and The Agency Fund. This program is our attempt to meaningfully support the development sector in designing and building responsible AI solutions, while actively learning from the process ourselves.
+We are especially excited about this initiative because we at Project Tech4Dev are also building an open-source AI platform tailored for social impact. The ideas, patterns, and solutions emerging from this program will generate valuable insights for shaping the AI platform.
+Ecosystem Response
+We received applications from 27 NGOs across education, health, livelihoods, gender, and governance. What stood out wasn’t just the number—it was the depth of interest, intent to experiment, and shared belief that AI can be a game-changer in the development sector.
+We also witnessed a growing community of thought partners, mentors, and collaborators. People from diverse backgrounds stepped up generously to support this effort.
+How is the development sector embracing AI so far?
+A key learning through this process is that many NGOs are aware of AI’s potential, but lack hands-on experience or capacity to explore it meaningfully. The need is clear: dedicated hand-holding, mentoring and practical exposure.
+One applicant captured this perfectly when they said:
+“We don’t know where to start. It feels like an ocean, and we’re just trying to find our footing.”
+Some common challenges that emerged:
+Funding gaps for tech experimentation
+Limited in-house tech capacity, especially for AI/ML
+Lack of structured, accessible entry points to explore or prototype AI ideas
+This pilot cohort is our way of bridging this gap—by offering hands-on support while learning what it actually takes to make AI adoption real, contextual, and sustainable in the sector.
+Our Evaluation Framework: Designed for Ecosystem-Wide Learning
+We focused on selecting use cases that are representative, replicable, and ecosystem-relevant.
+Here’s the simplified version of our evaluation rubric:
+Criteria
+Description
+Weight
+Bandwidth
+At least one person with 40–50% availability and basic tech comfort
+60%
+AI maturity
+Some prior experimentation or pilot
+20%
+Leadership buy-in
+Comfort with investing in tech (~₹10L) and strong leadership support
+5%
+Ecosystem relevance
+Use case should benefit more than one org / be a reusable pattern
+5%
+Impact
+Scale, depth, and potential of the solution
+5%
+Sustainability
+Likelihood of continuing post-program (qualitative)
+5%
+We eventually selected 7 NGOs to be part of this pilot cohort—each working on a unique problem that, if solved well, could inform broader AI use across the sector.
+Selected NGOs & Use Cases
+Here’s a quick look at the organizations and the AI solutions they’re building:
+Name of NGO
+Use Case
+SNEHA
+A conversational health chatbot for pregnant women that also surfaces hidden indicators of gender-based violence. Combines behavior insights with machine learning.
+IPE Global
+Uses AI to integrate public health data (HMIS, ICDS, surveys) to identify malnutrition hotspots and enable targeted interventions.
+Quest Alliance
+A “Google Maps for Careers”—an AI-powered guidance system for young people navigating skills, jobs, and learning pathways.
+Simple Education Foundation
+Assessing teacher growth using qualitative, reflective inputs—interpreted via NLP models.
+Avanti Fellows
+AI-generated reports and a self-learning chatbot to provide personalized feedback to online students.
+Inqui-lab Foundation
+Evaluating creative student responses like drawings and open-ended answers using image processing and NLP.
+Samanvay Foundation
+Enhancing the open-source Avni platform with AI capabilities to make it cheaper, smarter, and easier to use.
+🚀 What’s Next
+We’re officially kicking off the cohort with our first virtual meeting in the third week of July. From there:
+Each NGO will be matched with dedicated mentors
+Prototyping will begin, with a goal of launching a working, testable version in a few months
+We’ll run open sessions on AI tools, responsible design, ethics, and evaluation (and share these on YouTube so the wider ecosystem can learn alongside us)
+We see this program not just as a pilot, but as a proof-of-concept for how AI support in the development sector can be done differently—grounded in collaboration, openness, and experimentation.
+We’ll also be recording most of our sessions and sharing them on
+YouTube
+so others in the ecosystem can learn alongside us.
+We’re excited and looking forward to launching the program and diving into the solution-building phase with our cohort!

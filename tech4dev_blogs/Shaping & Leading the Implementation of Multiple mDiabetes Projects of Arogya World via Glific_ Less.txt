@@ -1,0 +1,120 @@
+Title: Shaping & Leading the Implementation of Multiple mDiabetes Projects of Arogya World via Glific: Lessons Learned
+Author: Priyesh Sikariwal
+Date: February 2025
+Category: Glific
+URL: https://projecttech4dev.org/shaping-leading-the-implementation-of-multiple-mdiabetes-projects-of-arogya-world-via-glific-lessons-learned/
+==================================================
+
+Starting my journey of consulting at Project Tech4Dev with Arogya World’s projects has been an amazing learning experience. I had the opportunity to work on various aspects of its projects which focused on educating beneficiaries and encouraging them to manage their diabetic condition effectively. This was achieved through scheduled information and nudges on lifestyle changes—such as physical exercise, diet, stress management, etcetera—and by measuring the impact through baseline and endline assessments.
+I could work on creation of contracts & addenda with clearly & responsibly defining deliverables, effort, and costs. Helping design flows like opt-ins, registrations, baseline/endline flows, other project-specific flows which was part of my role, along with use of HSMs, collections, expressions, triggers, G-Sheets and multiple Glific features, streamlining workflows. There were challenges, too—like urgent requests, time estimation issues, stakeholder alignment, and technical problems—which we tackled through improved communication and adjusting strategies.
+Overview of Arogya World & its mDiabetes Program
+Arogya World
+is a
+global health non-profit organization
+working to prevent non-communicable diseases (NCDs) through health education and lifestyle change. With their mission to spread awareness on healthy lifestyles, they’ve even run the world’s largest text/voice message-based diabetes prevention program:
+mDiabetes
+, reaching over a million Indians between 2011 and 2013.
+Arogya World’s vision is to drive impactful change through digital health interventions. One of their key programs, mDiabetes, is designed to educate and gently nudge both healthy individuals and diabetic patients toward better habits. The program sends
+56 to 62 personalized messages over six months
+—
+daily for initial weeks and then twice a week
+—in
+six languages
+(English, Hindi, Kannada, Tamil, Malayalam, and Telugu). These messages are delivered via the Glific chatbot that creates interactive flows, and the program’s effectiveness is measured through
+baseline and endline surveys
+.
+Initially, messages were sent as SMS, but later the project transitioned to using the Glific platform, which allowed for more interactive, scheduled/automated, and targeted communication.
+Projects’ Aspects I Worked On
+During my time on the projects, I had the opportunity to work on several different aspects:
+1. Contracts and Addenda Creation
+:
+I learned the importance of drafting contracts/addenda that clearly define the scope of work by breaking it into clear deliverables and accurately and responsibly estimating effort, cost, and required buffers for requirement gathering and feasibility checks, feedback incorporation and co-ordination. I learned the importance of meticulous reviewing and refining of contract/addenda language, along with a structured, deliverable-linked payment schedule.
+2. Flow Creation and Dashboard Development:
+I helped design and create flows for various stages, such as:
+Opt-in flows
+Registration flows
+Baseline and Endline flows
+Week 1/2 flows and Week 2/3 onwards flows
+(using expressions/split by/flow-logics/triggers/collections/G-sheet etc.)
+Opt-out flows
+WhatsApp Group Flows
+(using G-sheet)
+3.
+Message Content Approval:
+We started by getting approval as HSMs for 62 messages for
+both diabetic and healthy individuals
+in all the required languages. Initially, we uploaded these messages in small chunks (about 10 at a time), which was time-consuming and required constant monitoring.
+4. Process Improvements:
+To streamline our work, we switched to using
+Google Sheets
+, which made it easier to manage and share the messages. I also learned the importance of clear naming conventions for flows, keywords, results, and variables. This made debugging easier and helped our developers create dashboards more efficiently.
+Technical and Communication Challenges
+Working on this project wasn’t without its challenges. Here are a few issues we faced and how we tackled them:
+Handling Urgent Requests:
+Urgent requests like conducting content revisions/flow revisions while staying on schedule for other deliverables required constant communication and flexibility.
+Time Estimation Mismatches:
+We sometimes underestimated the time needed for certain tasks. Learning to check the feasibility of requirements before committing to timelines was key.
+Stakeholder Alignment:
+Keeping everyone—from the product team, tech/dev team to external stakeholders—on the same page was challenging. We improved communication by ensuring that explanations, solutions, and queries were clearly laid out in our emails and meetings.
+Technical Issues:
+When our HSMs (marketing) were failing, we converted them to utility messages to ensure delivery.
+We also had issues with triggers not working correctly due to calendar and system date mismatches. Adjusting the flow logic and refining testing processes resolved these problems.
+Key Learnings
+This project taught me a lot, both technically and in terms of project management:
+1. Prioritizing Tasks:
+Prioritizing tasks based on the team’s bandwidth dynamically and effectively communicating them can make a huge difference.
+2. Structured Processes:
+Establishing structured processes for handling urgent changes and feedback helps keep the project on track.
+3. Effective Communication:
+Clear email communication
+,
+actionable meetings
+with
+well-defined agendas
+, discussions, and takeaways, along with
+thorough explanations
+and
+proposed solutions
+, are crucial.
+4.
+Testing and Approvals:
+Pre-launch testing
+and having
+proper approval cycles
+are essential to avoid post-launch fixes.
+5.
+Tracking and Ownership:
+Maintaining
+SLA tracking
+and
+detailed time logs
+has improved our ability to manage consulting projects efficiently, and taking more ownership within the product team has streamlined our workflow.
+6.
+Managing Large-Scale Deployments:
+Handling
+multi-language, high-scale message distribution
+requires
+structured content management
+and
+flow design
+.
+7. Leveraging an Eye for Detail:
+Ensuring
+accuracy in content approvals, bot flows, and message deliveries
+at such scale becomes non-negotiable.
+8.
+Collaborating Across Teams:
+Working with multiple stakeholders, from NGO teams, internal teams, external vendors to developers, and aligning goals and expectations effectively.
+9. Refining Problem-Solving Skills:
+Solving unexpected technical and operational challenges on the go while ensuring timely execution, of committed deliverables.
+Conclusion
+My first consulting assignment at Project Tech4Dev with Arogya World was a
+steep learning curve
+, but it also provided me with valuable insights into
+digital health, process optimization, and multi-team collaboration
+. The experience has taught me the importance of
+clear communication, structured workflows, and continuous testing
+, all of which are crucial for delivering scalable and impactful digital solutions. I am working on
+testing guidelines
+for future projects based on insights gained from this project.
+I’m grateful for the opportunity to work on such a significant program and its projects and excited to apply these learnings to future challenges!

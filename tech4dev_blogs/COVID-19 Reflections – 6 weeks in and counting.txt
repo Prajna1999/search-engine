@@ -1,0 +1,23 @@
+Title: COVID-19 Reflections – 6 weeks in and counting
+Author: Kurund Jalmi
+Date: April 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/covid-19-reflections-6-weeks-in-and-counting/
+==================================================
+
+It has been more than 6 weeks since San Francisco and the Bay Area went into lockdown and more than 5 weeks since India did the same. Both regions have still close to 2 weeks remaining of the lockdown, assuming it is not extended. Here are a few thoughts and comments on how things are coming along, both from a Project Tech4Dev perspective and The Chintu Gudiya Foundation perspective.
+In both cases, we have been proactive in reaching out to all of our partners, including our NGO partners, and listening to them and the issues they are facing. We’ve also sampled NGOs across the spectrum from relatively small NGOs to mid-sized NGOs all across India.  It’s interesting to see the different ways organizations are dealing with the virus and its impact. Its been an interesting and busy two weeks speaking to 20+ organizations.
+Our primary goal in these calls was to listen to what the partners had to say and to offer Tech4Dev’s help and support in the short to medium term. From the Chintu Gudiya Foundation perspective, we are offering quick grants to all of our grantees that are involved with COVID-19 relief work in India.  Our Tech4Dev mandate does not allow us the same flexibility (for all the right reasons), but we can and will do what is needed to help all our partners. We are also encouraging all our partners to think about their staff’s physical, mental, and emotional well-being.
+For our non-Indian readers, a bit of background. The biggest problem in India currently is the food shortage. Unfortunately, the less privileged are the most affected. One of the things that are the most gratifying to me personally, is to see how so many individuals and NGOs have stepped up and are doing food relief, especially for the migrants and day wage laborers. In a few states, NGOs are providing as many food rations as the government if not more. In case you are interested, you can read lots of great articles from our friends at
+IDR
+A few thoughts and comments from our conversations with NGOs and Partners
+There are quite a few NGOs who have done an amazingly quick pivot and either is helping feed and protect the less privileged or have switched to an online model in the blink of an eye. We’ve been encouraging most of them to write down their notes and share them with the sector.
+Some NGOs have decided to take a step back, give their staff a break (letting them volunteer in their local communities and relief work), while they figure out what to do in a post-COVID world. Most NGOs with field staff are in this situation, where technology was helpful but not as a communication mechanism for the last mile.
+Most of the NGOs are kinda in the middle. Doing a bit digitally, doing a bit of relief work, and hoping things get back to normal, or the new normal sooner rather than later.
+All of them are aware that their funding will decrease significantly primarily due to CSR funding going towards the PM-Cares fund, and companies not making a profit. On the flip side, not many are thinking of alternatives and how to deal with it. It’s a hard question to answer, and we don’t have too many ideas on this either.
+Many of our software partners are starting to experience the effect of COVID with either cancelled projects and/or delayed payments. Our guess is this will get worse before it gets better. This also strengthens our argument on building and strengthening platforms during these potentially slow times.
+A few collaboratives forming at this stage. This is super helpful and organizations are seeing the power of the many vs the individual. It is also very much needed in India, and I’m glad it’s happening.
+Overall, as with any crisis, there are some positive things, some negative things, and a lot of lessons that we can learn and take forward. I do think many of our NGO partners now see the need for better technical infrastructure and systems within their organization. Many of our software partners are realizing the amount of time their staff spends commuting to/from work, and having work-from-home days is potentially a good thing.
+Finally, all of us want this to be over sooner rather than later. We will get through this, and we will come out stronger than ever.
+In solidarity
+Lobo and the entire Tech4Dev team

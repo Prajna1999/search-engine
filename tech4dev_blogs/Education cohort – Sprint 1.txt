@@ -1,0 +1,30 @@
+Title: Education cohort – Sprint 1
+Author: Kurund Jalmi
+Date: July 2022
+Category: Glific
+URL: https://projecttech4dev.org/education-cohort-sprint-1/
+==================================================
+
+On Friday 8th July, Glific concluded the first of the four education cohort sprints of the year. Glifics Education cohort is a year long engagement with NGO partners who work towards improving learning outcomes for students. The program is structured as 4 1-week long offsites, one each quarter, where the Glific team and selected NGO partners work together to identify and solve the problems for tech-enabled education programs that use Glific. The program is supported by our funding partners – The Agency Fund and Cisco.
+Since its launch in May, we have invited NGOs to apply and worked with our existing partners to find fitment with the program. The final participants and attendees of the sprint were –
+The Apprentice Project
+,
+Reap Benefit
+,
+Key Education Foundation
+,
+Pehlay Akshar
+,
+VOPA
+and
+Slam out Loud
+.
+Glific
+forms a core part of their program. They engage with their users in the following ways – sending weekly activities, lesson plans, engaging them in innovative civic activities, increasing engagement with their content etc At the cohort we were also joined by a few other NGOs such as Antarang Foundation, Avanti Fellows, Lend a Hand India and Indus Action who were keen about our development plan. It is great to have them as a part of the community and contribute to the shared learning space for the social impact sector.
+Under the banner of education cohort we want to solve the challenges an NGO might face with running their programs. We learnt from our NGOs a few common challenges that they all face such as
+Collecting information about the individual users based on their journey on the chatbot. This will enable sending report cards, leaderboards, content recommendations, managing points and badges and other interventions for a personalised learning journey.
+There are often multiple kids at home who use the same phone to access WhatsApp and hence NGOs need to be able to differentiate between the users and make it easy for both of them to interact with the chatbot without mixing up their learning journeys
+Making it easier to manage content. Many NGO staff members prefer to keep their content in sheets or even retrieve information in it.
+Identifying the problems and aligning all the NGO partners over it has always been the process we follow for any new design to the product. Education cohort has started off on the same note. In the first sprint each NGO has planned how they will leverage the cohort for more impactful programs. The time we all spent at GarudMaachi in the outskirts of Pune, helped in building a common understanding of the problems. It helped different organisations connect and learn from each other. Its really important for people to know whats happening in the space so that a shared vision can be influenced and a lot of waste with duplicate work and narrow view of possibilities can be eliminated. Coming together in shared space for a week sways people to acknowledge each others work and learn from it. We hope to have achieved a fair degree.
+The first sprint was structured to give all NGOs a chance to present their work. We started mornings with a deep dive into NGOs work and how they leverage Glific and other technology. Then the Glific team presented new updates and progress we have been working on. And in the evenings, we had short presentations of work by other participants. The space gave all of us enough room and flexibility to build informal connections and opportunity for most people to interact with each other over lunch, snacks, card games etc The incessant rains made it very difficult for people to go on treks and spend a lot of time outside. But the more adventurous ones did manage to get out even while it rained. Our evenings were filled with intense card games that were really great ice breakers, karaoke nights and sharing poetry and personal stories.
+For the upcoming sprints we will continue to build the solutions we have planned for the cohort. We will work with our NGO partners to implement and adopt it for greater success. We will measure progress, iterate and improve during the coming sprints.

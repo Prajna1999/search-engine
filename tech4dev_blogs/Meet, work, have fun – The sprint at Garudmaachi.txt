@@ -1,0 +1,52 @@
+Title: Meet, work, have fun – The sprint at Garudmaachi
+Author: Kurund Jalmi
+Date: July 2022
+Category: Avni
+URL: https://projecttech4dev.org/meet-work-have-fun-the-sprint-at-garudmaachi/
+==================================================
+
+Originally posted by
+Vinay Venu
+in his LinkedIn
+post
+I was listening to a podcast from The Seen and the Unseen yesterday where Amit Varma and Nilanjana Roy were having a 4-hour conversation (thanks to Bangalore traffic, I can afford to listen to a 4-hour conversation in just one day’s commute). Nilanjana Roy started with the importance of being immersed in the present as something that was easy in her childhood (no TV, no internet, no cell phones), and how that shaped her as a person.
+In today’s world, one of the best ways to get this “immersive” experience is to get to a place where cell phones don’t work, rains don’t stop and surround yourself with just nature and a bunch of passionate people who care about their work.
+This happened last week at
+Garudmaachi
+, a remote place about 2 hours away from Pune where the
+Avni
+team participated in a sprint along with a lot of NGOs in the education space, and a handful of technology organisations that work in the development sector. There was a lot of fun and learning that happened over the week. Many have written about it in detail in the
+Tech4Dev blog
+. This is a brief note on my learning and experience.
+Learning about the education space
+The focus of this sprint was education. I was familiar with a few interventions before joining the sprint – in-person mentoring, job-readiness courses, assistance for internship programmes and a teacher effectiveness improvement programme using the World Bank’s Teach tool. This sprint opened my eyes to many other kinds of interventions that were possible.
+These interventions had goals that were different from what I had seen before – focus on the arts, English literacy, building civic engagement among adolescents, the internals of Teach4India fellowships and many more. They were also using different models to scale – through teachers, volunteers or just using technology platforms such as
+Glific
+.
+Rahul from VOPA presented his organization’s work
+There was one particular instance called
+V-school
+where they scaled regular curriculum creation using volunteers/teachers to cover instruction in the specific dialect of Marathi that students were familiar with.
+Learning about technology
+On the technology side, I was introduced to
+EdZola
+and the toolkit they curated to build technologies for nonprofits. I loved Akshay’s ideas, maybe I will dabble with some of them when I get the mind space for it. Surya from
+Avanti Fellows
+talked about ideas in AI/machine learning that can be used by NGOs. Swapneel talked about building a data culture in the organisation.
+Knowing Glific
+Finally, this being primarily a
+Glific
+sprint, I found the ways people use to engage with their beneficiaries very interesting. This was not particularly useful from an Avni perspective, but just another data point to go sit at the back of my head.
+Why this was useful to me and to the Avni team
+I think the sprint was wonderful for the
+Avni
+team for team bonding, finishing up some long-pending items and recuperating.
+Some of us joined
+Avni
+during the pandemic, and this was the first time we were meeting in person. It helped us build a connection amongst ourselves.
+Since the pandemic, I had forgotten the dynamic of working in person. We fixed a lot of things, finished some deliverables and learnt from one another.
+We participated in many activities – from attending regular presentations to having in-depth talks, fun outdoor activities like treks, football and swimming to karaoke nights and small talk. It gave us a break from our normal work and life routines.
+The sprint was organised by
+Tech4Dev
+which is building an ecosystem of technology orgs, NGOs and foundations that work towards creating social impact in developing countries. I think sprints like these help build deeper relationships across organisations. This can help in the future through connections, cross-pollination of ideas and a sense of community. Looking forward to the next sprint.
+PS: An idea just popped up while I was writing this. One of the problems NGOs, and especially tech groups working in this space face is the inability to find like-minded people. I don’t think this is because there is a lack of passionate people. It is probably because it is hard to navigate the space unless you already have a foot in it. And because we don’t really socialize well enough? Maybe next time we can have an open invitation to people who just want to “audit” the course? Hang out with a group of people and see if it fits their lifestyle?

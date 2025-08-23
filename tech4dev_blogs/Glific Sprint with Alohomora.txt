@@ -1,0 +1,28 @@
+Title: Glific Sprint with Alohomora
+Author: Kurund Jalmi
+Date: April 2022
+Category: Glific
+URL: https://projecttech4dev.org/glific-sprint-with-alohomora/
+==================================================
+
+This blog post is written by
+Sneha Trivedi
+. She is a development enthusiast and an educationalist. Currently, she leads the After School Support vertical at Alohomora Education Foundation. She is an avid learner and is currently pursuing executive education from the University of Pennsylvania on Social Impact Strategy.
+Alohomora
+empowers young people from underserved communities to make career decisions aligning with their strengths & aspirations. Our flagship program CareerShala along with our large-scale partnerships with the Delhi government impacts 7.5L+ students.
+Recently, I joined a week-long sprint (11th-15th April 2022) organized by Glific at the
+ColoredCow
+‘s office in Gurgaon. Through the sprints, organized at regular intervals, Glific supports NGOs in pushing their projects forward by working closely with them in person. We,
+Alohomora Education Foundation
+, have recently partnered with Glific to work on a specific project that aims to provide career exploration to young adults and joined the sprint to leverage the expertise of the Glific team in order to move quickly.
+Experience working with the team
+I had a wonderful experience at the sprint. The team is quite approachable and eager to solve any issues that I faced while building the chatbot. They provided me with a comfortable environment where I could speak my mind and share concerns about the project. The team was continuously suggesting ideas on which we can improvise the current flows. Getting the doubts solved 1:1 was the best part of the experience. Abhishek and Mohit have been quite active in following up on the progress of our work. Constant support on ideating, structuring, and building the bot through the teams expertise helped in pushing forward the project in a much faster way. Overall, the work that would have otherwise taken many back and forth conversations over meet and discord got done in days. Not only that, I also learned new ideas that I am going to implement in the chatbot.
+Opportunities to network and collaborate
+I also had an opportunity to present Alohomora Education Foundations work with the entire Glific team and other NGO participants. Through the discussion, multiple ideas were generated on how we could automate part of our offerings. The sprint also provided a great opportunity to network, collaborate and learn what other non-profits are working on and find ways of working together. I thoroughly enjoyed talking to Gautam from
+Reap Benefit
+on ways to enhance the user experience by putting better content and navigation. My interactions with Gayatri and Shruti from
+Hyperverge Academy
+have led to new possibilities for working together for finding the right set of applicants for their program. I had an insightful conversation with Lobo on how to build a stronger bot vs scaling an average product.
+My only suggestion for the Glific team would be to do an intro with everyone on the team and other participants early on in the sprint. The last-minute Intro provided less room for collaboration and understanding each other beyond work.
+Overall going to the sprint was a huge benefit not only to the organization but also to me. I got to make connections with people on the Glific team and found a new office space to work from in the future. I highly recommend people sign up for the sprint and get in-person support to accelerate the progress on their bot. Glific team is quite warm and welcoming to all sorts of ideas at work.
+Last but not the least, conversations about work and life over coffee with everyone was fun! Looking forward to joining more sprints in the future.

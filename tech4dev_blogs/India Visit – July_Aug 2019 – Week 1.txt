@@ -1,0 +1,27 @@
+Title: India Visit – July/Aug 2019 – Week 1
+Author: Kurund Jalmi
+Date: August 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/india-visit-july-aug-2019-week-1/
+==================================================
+
+We typically volunteer and learn more about a couple of NGOs in the summer by volunteering with the family. This is typically the best part of the year for me. Unfortunately, the kids are growing up and have their own agenda which gave Mari and me
+time to visit a few NGOs
+and then time for me to spend doing Project Tech4Dev related work.
+The first week was spent fine-tuning
+our information deck
+with our friends at
+Lumen
+. We will be using it when are presenting Project Tech4Dev to individuals and foundations over the next week.
+We also met a few NGO partners of the first cohort and had a
+structured conversation
+with them about their experience with T4D and the software partner. The answers we received were quite illuminating and or goal is to talk to all the NGOs of the first cohort by the end of this month. Our preliminary findings will be discussed in a forthcoming blog post. A few highlights
+How can we empower the NGO to drive the process and conversation with the software partner
+How do we improve the communication between the software partner and the NGO
+Can we do an orientation before the actual grant starts for all the NGO partners to give them a better overview and understanding of what’s involved
+On Friday, we went to Pune to meet a couple of potential partner companies and individuals. The biggest thing that struck me was how different individuals have significantly different opinions on the scale, depth, and uniformity of the problem. They also have very different ideas on how to address the problem. This allows us to take a step back and question some of our underlying assumptions and also try to see the problem space from a very different perspective. We did get a few questions (below) where we do not have really solid answers and we’ll work on explaining our thoughts better
+Why are we not addressing the backend software systems? Do we have enough data or evidence to indicate it is a close to a solved problem
+What’s our ultimate goal? What do we want to see happen in the next five years? Where should we be at that time?
+Should we focus on a small set of large organizations that have the potential to scale to a million people and more, or should we focus on a large number of medium-sized organizations that can scale to a hundred thousand people and more?
+What role can or should we play in deploying software in government systems
+Overall, I always come away from most of my trips amazed and humbled. It is great to see the work on the ground and how we are making small inroads, at the same time, we are also realizing that we can and should dream a lot broader and bigger to make a solid impact.

@@ -1,0 +1,32 @@
+Title: Glific v1.4 lands – April updates
+Author: Kurund Jalmi
+Date: April 2021
+Category: Glific
+URL: https://projecttech4dev.org/glific-v1-4-april-updates/
+==================================================
+
+For the second release of this month we are introducing new payment methods, interface language support, account creation, performance, and security along with other minor issues that our NGO partners have raised. Here they are in detail:
+Payment method
+:
+In our effort to automate billing, Stripe integration is in progress and NGOs need to pay their monthly subscription for the SaaS offering via credit cards soon, rather than processing invoices manually.
+Check for message size
+: Messages beyond 4096 characters cannot be sent. To make sure you dont meet any unexpected errors, weve placed character limits on the interface when setting up the flows or sending custom message.
+Language options for interface
+: Few NGOs wanted to use the platform in local languages such as Hindi. Hence, staff members will be able to set the interface language to Hindi and English now as per their comfort. More languages can be introduced later too.
+Folders by contact names in GCS
+: It is now possible tosegregate media files into folders created by contact names. This is a custom feature, that needs to be requested specifically by the NGO to the product team, and not enabled for everyone.
+Ease in account creation
+: Earlier, the Glific team gave admin access to the first staff member as a part of the onboarding process. Now the first admin account will be approved automatically without Glific teams intervention making the process a lot faster, and smoother.
+HSM template preview
+: While creating or editing an HSM template, you can preview the template message in a mobile simulator. This helps you view your message formatting & avoid errors.
+Enhanced system security
+: More secure API endpoints for authorised access.
+Enhanced performance
+: You should witness faster loading of the platform with the most recent updates.
+Image aspect ratio
+: There was slight issue with images not showing in the right aspect ratio on the Glific platform. That has been fixed.
+Minor scroll enhancement
+: When staff sends a custom message, the chat window will scroll to the latest message to stay within the context of the conversation.
+Support for variables in parent and child flows
+: A parent flow can get the value of a variable set in a child flow and a child can get the value of variables from the parent flow.
+If you have any ideas/suggestions or feedback for the Glific team, write to us at info@glific.org

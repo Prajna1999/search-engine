@@ -1,0 +1,38 @@
+Title: Design considerations for Hasiru Dala’s Dry Waste Collection IMS
+Author: Kurund Jalmi
+Date: December 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/design-considerations-for-hasirudalas-dry-waste-collection-ims/
+==================================================
+
+Background
+Dry Waste Collection Centres (DWCC) in Bengaluru are a recent-ish (since 2013-14) development in waste-management efforts of the city civic body BBMP in collaboration with various citizen groups and NGOs within the city. The idea for centres like these stemmed from a larger idea of containing and managing the waste generated in a ward within the ward itself.
+There are about 166 functioning DWCCs (out of the sanctioned 198),
+one per ward
+, operating in a decentralized manner as they were envisioned. The management and operation of these DWCCs has been handed over to various contractors and agencies who operate them on BBMP’s behalf and perform necessary functions – like collecting this dry waste generated within their ward, segregating them into categories like high/low-value recyclables, reject, e-waste etc. and then depending on the nature of waste send it to aggregators (also setup by the BBMP to handle/store low value waste from multiple DWCCs) or recyclers or landfill.
+Hasiru Dala
+is one such organization which manages 33 DWCCs in Bangalore and couple more in adjacent regions. What sets Hasiru Dala apart from other agencies is that their DWCCs are operated by waste-pickers or waste-picker-entrepreneurs trained by Hasiru Dala? in line with their mission of bettering the lives of the waste-picker community who they serve. Hasiru Dala provides training, encouragement/support and operational help like dealing with necessary reporting, regulatory and financial paperwork required by BBMP. It is towards this purpose that they realized the need for software to keep track of these streams of incoming/outgoing waste in each DWCC, generate various reports required by BBMP or other collaborators (like UNDP) and also gain quantitative insights from this data.
+Scope
+I am pretty excited to be developing this solution given that the domain sits inside that of one of my pet interests – environment, and more importantly the opportunity to be working with an organization who is going at it in a wholesome manner and with admirably noble intentions (not just waste – waste-pickers matter too!). While the topic of waste management is a large one, in this post, I intend to only cover one cog in the process – DWCC – and the challenges involved in designing a software solution that works for the stakeholders involved.
+Our mandate is to develop software that aids in the following functions:
+Track streams of waste moving in and out of a DWCC
+Track expenses involved in operating a DWCC
+This post will only talk about the various constraints around which the solution needs to be designed specifically for pt.1 ? more concrete details like models and implementation will follow in subsequent posts.
+An overview of the real-world process
+Dry waste comes to a DWCC via:
+Door-to-door household collection. A mini-trailer (usually a container mounted on top of a rickshaw-like vehicle) goes around gathering waste from houses in a ward and multiple of these vehicles are required to cover a whole ward.
+Waste collected by sweepers
+People dropping them off at these centres
+This incoming waste is then segregated and kept in batches depending on the type of waste. Items could range from milk covers, shampoo bottles, emptied toothpaste containers, glass bottles, metal pieces, food packages etc.
+A portion of it is considered “Reject”.
+Once this segregation and batching is done, it is ready to be sold to recyclers or whoever is interested in buying them. This constitutes Outgoing waste. There is a marketplace for these items and now thanks to these processes becoming more formal and institutionalized, there is usually a standard rate as well.
+Software design challenges
+On paper, the process outlined above seems fairly straightforward. However, on the ground, things are slightly disorderly for various reasons ranging from the composition of incoming waste to availability of workers to various parties with vested interests who benefit from not having a smooth functioning system who we will not talk about here 😉
+From a software design perspective, a well-oiled process that generates very specific, elemental data is always desirable. And things get complicated when these conditions don’t exist. Which is pretty much the case with tech in most social sector projects.
+In our case, the complexity is in developing a software solution that works for 33+ DWCCs many of which operate in non-uniform ways.
+At the time of writing, it is not practical to develop a solution to be used for real-time tracking of incoming/outgoing data directly from the DWCCs. Instead, data entry happens in a retrospective fashion. What they do presently is note down all required metrics on paper, hand it over to a coordinator who then brings it to a central office to feed it into the system. Incoming data is recorded daily, outgoing data as and when it happens (on a weekly basis approximately) and all this data gets fed into the system once or twice a month.
+Retrospective data entry means it is not possible to have strong validations to prevent wrong data from going in and instead make do with a flag and review system.
+The nature and quality of data noted down (which ultimately depends on the type of waste coming in) also poses an order of magnitude of complexity when it comes to doing analytics on the data. For example, segregated waste provides for the cleanest kind of data but often there is mixed waste in the incoming stream and these disproportionate combinations of waste are hard to make sense of. Another problematic area is stock keeping which is a problem space of its own.
+Another thing that needs to be kept in mind is to provide for some flexible taxonomy system to be able to label waste in various ways. This is necessary because Hasiru Dala collaborates with different partners (UNDP, Sweepsmart etc.) in a subset of centres and with this feature, their waste-classification nomenclature gets included without much hassle.
+While collaborating with Indha and Pradeep from Hasiru Dala, we were able to identify small/incremental changes that could be made in the process that could potentially provide for much higher gains from both a data reporting and ground operations perspective. These changes cannot be made overnight but we hope they will be able to overcome the real-world hurdles in bringing these plans to fruition.
+For now, the plan is to capture whatever available data and make sense of it and work towards establishing better processes on-the-ground to enable higher precision in reporting.

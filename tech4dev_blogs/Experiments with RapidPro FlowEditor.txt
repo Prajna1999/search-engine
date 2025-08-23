@@ -1,0 +1,44 @@
+Title: Experiments with RapidPro FlowEditor
+Author: Kurund Jalmi
+Date: July 2020
+Category: Glific
+URL: https://projecttech4dev.org/experiments-with-rapidpro-floweditor/
+==================================================
+
+Collecting data on Glific was one of the recurring themes of all our conversations with NGOs on their potential usage of Glific. While it is important for NGOs to realize that WhatsApp should not be used primarily as a data collection platform,  it was equally useful for us to realize that this aspect of the platform is super important for most NGOs.
+It was always on our list to investigate RapidPro, specifically their flow editor, and see if we could integrate it within Glific. Based on our experiences with the Turn.io platform, we knew that RapidPro had a pretty good API we could integrate with. However, from a cost perspective, integrating TextIt (the Rapidpro commercial SaaS provider) increases the cost to the NGOs significantly. We were also keen on having the ability to define and execute “flows” as a core part of Glific.
+Thanks to the amazing ecosystem of Elixir and friends, our progress on the Glific backend was going at a solid pace. We started experimenting with backend automation early on and quickly realized that we were re-doing (and potentially hard-coding) a lot of the work that we suspected was already inflows. Hence we decided to do a quick experiment with RapidPro. We were super happy to find out that the flow editor was an independent react app with a well-defined API to store the flows.
+Unfortunately, there was no documentation on how to integrate the Floweditor with a different app, and we spent a couple of days understanding the code and structure of Rapidpro and how it interacts with the Floweditor. The code is very well structured and made our job a lot easier. The JSON structure that captures a flow was relatively easy to understand and integrate with our backend.
+In this paragraph, each concept is linked to the corresponding elixir file, which details the fields that we are currently using. Briefly, a flow is made up of a list of nodes. Each node has a list of actions and exit points to other nodes or flow termination. Some actions have a potential router, which uses a case hierarchy to determine which of the potential exit routes to take, along with a default exit route. A flow can fire off other flows and resume when the sub-flow returns. Parsing a JSON file into the above data store was quick and easy due to the clean structure of the flow.
+The main assumption that we are currently making is that each user can belong to only one flow. Starting a new flow via a trigger (still figuring out how this will integrate into Glific) results in all other flows being terminated.
+Modeling the above in elixir was quite simple, using a combination of real database objects for some data types (specifically flows and revisions) and keeping the rest in memory., Executing a flow also turned out to relatively easy using elixir modules, with each data type knowing how to execute itself given a message stream.
+Setup Flow Editor on frontend side
+To give the flow editor as a core part of Glific we started seeing how we can integrate this in our frontend. As we said that there was no documentation for that we looked into the code to understand it. After doing some research we found that the flow editor is very nicely written and almost everything is configurable. (The things that are not today can be made configurable in the future very easily).
+The flow editor package is available on npm. You need to install it by running a simple command.
+npm install nyaruka/flow-editor
+After installing the package you can use the FlowEditor component in your package in whatever way you want.
+The FlowEditor package requires a config object as props. You need to pass all your application configuration with this config object only.
+<FlowEditor config={YOUR CONFIG OBJECT} />
+That’s how you can build your config object. You need to replace the base to your backend API and support all the endpoints. You can see the response format of any endpoint by calling a request on
+https://floweditor.nyaruka.com/.netlify/functions/ENDPOIN
+T  this endpoint. Replace ENDPOINT to with one of your endpoints.
+After completion, your config object should look like this one.
+Our goals for v0.2 include:
+Ability to manage flows from the frontend (list, create, update and delete flows)
+Integrate flow editor with our frontend app so users can create and edit their flows.
+Have 5 flows shipped by default that the user can build on and customize? Those currently are:
+Settings
+Language
+Preferences for a specific type of content
+Profile Questions (Name, Age Group, Gender)
+Menu
+(NGO Specific options, the first few)
+Optout
+Help
+New Contact Flow
+Settings
+Menu
+Using flows gives Glific a lot of power and flexibility, which in turn empowers the NGO.
+We thank the folks at
+Nyaruka
+for all the work and effort on flow editor and rapid.

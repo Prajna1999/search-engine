@@ -1,0 +1,27 @@
+Title: Fractional CxO pilot – Learnings so far,  and future directions
+Author: Kurund Jalmi
+Date: August 2022
+Category: Fractional CxO
+URL: https://projecttech4dev.org/fractional-cxo-pilot-learnings-so-far-and-future-directions/
+==================================================
+
+It’s been a bit more than 4 months since we kicked off the Fractional CxO pilot program as part of Tech4Dev 2.0.  Vinod and Erica wrote
+about our experiences
+with
+SNEHA Mumbai
+. As part of learning more about this space we’ve been having multiple conversations with foundations, collaboratives and NGOs. We’ve also been super lucky from a recruiting perspective, and have managed to get 3 additional individuals at a senior level to help us with this program going forward. Details on this when they start working officially with us from Sept 1. A lot of the below learnings have come about via Vinod’s experience, our collaboration with
+The Agency Fund
+, and conversations that Erica and I have had with multiple NGOs.
+Our first and probably biggest learning was that CTO is a misnomer. While we always knew that technology is a small part of the equation, we soon realized that process + tech strategy, and data were as important as the technology/tools aspect of the program. So we fairly quickly pivoted to using CxO to encompass the things we planned to do which include: in-depth technology support, data strategy and implementation, and process+tech strategy.
+We need to engage across the organization to truly determine needs.. When we first started at Sneha, all we heard was Tableau and visualizations but meeting more and more people across Sneha it was apparent the whole data chain needed to be looked at. This coincidentally led us to starting a new
+data platform initiative
+. We expected the Fractional CxO program to give us ideas on potential new platforms, we just didn’t expect it so soon!
+Super surprised but happy to see engagement even at field worker level for data and efficiency in their job – Working digitally because of Covid has changed people’s minds on how digital data can help them work more efficiently and really help them in their jobs – Field workers/supervisors were comfortable using CommCare, WhatsApp and Google sheets doing their jobs and even using it to push back against data teams when there were data discrepancies.
+Free or cheap is not exactly free or cheap – what you gain in a free/cheaper product you lose in NGO time and effort away from programmes. I think we all know this but easy to overlook initially and then get stuck. For e.g. super-cheap licenses of Tableau desktop is limiting as the organization grows bigger and field workers start accessing dashboard, the process is cumbersome and not real-time.
+Trying to push out stuff faster doesn’t really help in long run if not thought through. This approach is ok for pilots but pilots get integrated into the mainline and then there are issues. For example,SNEHA is now pushing a scheduling application to be prebuilt in CommCare – this was built as a separate app TeamCare which now has been given up and scheduling process is being reworked into CommCare now. This should have been considered before building TeamCare. As a side effect, this also means our team needs to have a good sense of the capabilities of existing platforms like Avni, CommCare, Survey CTO and more.
+Issue in all of tech but I think more in especially NGO world – time allocation for up-skilling leading to singular points of failure or slowdown of processes. In SNEHA’s case a week to two of training effort per year for personnel in SQL and possibly Python/R (some have rudimentary skills in this) would help alleviate a lot of this. As part of the Fractional CxO program, we need to focus on up-skilling and increasing the tech capacity of NGOs. We don’t want them to depend on us forever.
+NGOs need to make the Fractional CxO a priority. In SNEHA’s case, Vanessa (the ED) was driving the process which helped everyone realize the importance of the project and hence we could make rapid progress and meet with folks across the hierarchy. If it takes an NGO multiple weeks to respond and follow up on our meeting notes and action items, it is likely not to be a successful engagement.
+Process is more important than technology. Organizations need to have a good understanding of who will be using the product, how will they be using it, and how will they integrate it with their existing systems.
+NGOs and collaboratives need to start taking data consent, privacy and security a lot more seriously. While data sharing is good and beneficial to the sector, we need to ensure that we respect the individual’s right to privacy and get consent while following applicable best practices. While we are not experts on this (as yet!), we know enough to be dangerous.
+This is a bit ironic since I am also a funder. Funders in general should not be involved in technology decisions / implementation. In the few cases where they should be, it should be more of a partnership and for the long term. Making recommendations to folks who know a fair bit about the space is probably the best approach. We’ve seen a few projects languish due to this.
+More learnings from the field to come in the next few weeks

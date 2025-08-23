@@ -1,0 +1,19 @@
+Title: My journey to the social sector
+Author: Thomas
+Date: November 2023
+Category: Fractional CxO
+URL: https://projecttech4dev.org/my-journey-to-the-social-sector/
+==================================================
+
+My introduction to the tech world was at my school computer lab and through the Tandy RadioShack TRS-80 (or the trash 80 as us kids referred to it). We later got an Apple II Plus at home. Neither of these were cutting edge machines – they were both discontinued models by the time Id started using them. I can still remember the initial rush triggered by that green monochrome flicker on the screen when the machine booted up. All the amazing things we could do with a few lines of code. Ok, it was turtle Logo – but still so cool!
+Decades passed and sadly so did the excitement. Technology has a strange way of progressing at a pace fast enough to make everything seem stationary for a while. After close to two decades around the startup and small business world, the thrill and satisfaction of building new products and companies was starting to get a little blunted as well.
+A few months ago, someone was kind enough to share a post about Project Tech4Dev with me. Interesting. Before I knew it, I had read through half a dozen blog posts (you should too). Id looked up their open-source projects on GitHub, and finally arrived back on LinkedIn. Whaddya know – theyre hiring. I applied immediately, for a role that seemed quite similar to what Id been doing for the past couple of years, except in the social sector instead of small businesses/startups.
+Lobo got back to me a few days later and we had a conversation late one evening soon after. After a brief round of introductions and a pleasant walk through my career so far, we got around to talking about my expectations. Lobo was refreshingly blunt about tempering my expectations on all aspects of the role and sector as a whole. It was a great introduction to a relatively new world for me.
+Over the next few weeks, I had great conversations with Ashwin, Erica and Vinod. I later met the larger team in person in Bangalore before and during the
+OASIS
+Summit – a conference for open-source software in the social sector. My interactions with the team and with the larger ecosystem as a whole were completely different from what I expected. The energy and passion around me reminded me a lot of what I saw in the Silicon Valley when I was starting out my professional career.
+By the next month, Id already decided to join Tech4Dev full-time, but I still had a couple of commitments to wind down. I did however attend the Kochi sprint with several amazing NGOs, involved in the Data Catalyst Program and the LLM Cohort. Met some of the most passionate, purpose-driven, humble and friendly people I have ever met. It was overwhelming at first, but I eventually got a feel for asking the right questions to get a big-picture idea of the impact they were trying to create and the challenges they faced in getting there. Still a total noob, but learning a lot with every conversation.
+Ive officially started my role as a fractional CxO, spending my first full week getting introduced to the people and visions of a couple of wonderful organizations that Ill be working with for the next few months.
+Im winding down my week tinkering with Airbyte (one of the open-source tools we leverage for our
+Dalgo
+platform). It loads up. And there it is – a familiar monochrome green flicker and a rush of excitement. What amazing things can we help make possible?

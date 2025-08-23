@@ -1,0 +1,15 @@
+Title: Month experience with Glific
+Author: Kurund Jalmi
+Date: April 2021
+Category: Glific
+URL: https://projecttech4dev.org/month-experience-with-glific/
+==================================================
+
+?Hi everyone, My name is Shreesh, I’m currently working as a software development engineer at Maverick Labs, Pune.  I was introduced to the Glific platform in mid-March 2021, wherein I was asked to attend a webinar on Glific to get started and to get an overall idea for the same.
+Starting with April 1, I got introduced to the Glific development team in their daily stand-up meeting. At the start, things felt a bit complicated since it was my first time working with a team of this capacity( I usually worked with a team of not more than 4) and overall project.  Then we had team orientation with Dignesh, and he then helped me to set up the project and briefing on the codebase. Then I took some time understanding and exploring web-app and code. Shortly after that, I got assigned the first issue for design enhancement. This is how my journey was started with the Glific.
+Following are few things I liked about the Glific team:
+Daily standups, weekly milestones, and fast-paced working.
+Active community on discord for help and support on both technical and non-technical front.
+People here are enthusiastic and passionate about their work.
+People commend you here for your work.
+There’s pretty much more than this but wanted to cut it short. This is my first time working with an open-source project, seeing people using it, and giving feedback for the same. I’m glad that I got the opportunity to work with these intellectual people, who strive hard to make this platform better. Also special thanks to Lobo for always encouraging and motivating.

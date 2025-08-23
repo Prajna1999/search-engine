@@ -1,0 +1,70 @@
+Title: Top takeaways from from AI for Global Development Sprint in Nairobi
+Author: Glific Admin
+Date: July 2025
+Category: Uncategorized
+URL: https://projecttech4dev.org/top-takeaways-from-from-ai-for-global-development-sprint-in-nairobi/
+==================================================
+
+By Tejas Mahajan
+“Smart does not mean useful”
+I am going to use this line more with the folks who reach out or figuring out AI enabled chatbot solutions. Yes, AI is getting smarter at performing calculations, coding, and reasoning. But its usefulness in the real world, to aid/ assist/ improve the lives of teachers, frontline workers, students still needs to be carefully designed and iterated on.
+The obvious: AI is a great enabler, provides a wide range of ideas and ways to achieve them.
+The nuance: but unlike a great mentor / guide persona, AI may not be able to categorize an idea as “bad” or a “time-sink” or “not-worth-the-effort” in the real world, and get the mentee to re-think a bad idea or outright call out a bad idea for what it is. It is likely to encourage most ideas. AI providers have done well for AI to filter out outright malicious, harmful or destructive ideas. But the real intelligence of a guide is in directing or nudging someone towards a better idea, towards a more refined, which comes from lived experience in most cases, and cannot be simply prompt-engineered.
+This is a learning from a research study shared by
+Hang Shen Chia
+from Center For Global Development (shared by CEGA) which used AI mentor for small business entrepreneurs. In the study it was observed that the entrepreneurs who were otherwise doing better, increased their performance with the use of AI, who were considered lower performance entrepreneurs did a bit worse. The results were attributed to the tendency of AI to continue to encourage bad ideas equally.
+Framework for impact evaluation
+I have previously written about the what to measure as one designs a program/ pilots a product. You can read it
+here
+. This essentially captures what broad headers of data to capture (at let’s say 50,000 ft) to track the outputs of the program/ product. During the course of this sprint, I was introduced to framework for evaluating AI enabled programs / products. This I think can be extrapolated quite well to non-AI products as well
+It shares the idea that orgs can start with
+Model evaluation
+, is the level 1 on this framework and the idea here is to check if the model is fit for the task, that it sticks to the role, and is technically accurate or provides useful information for the given purpose. A testing framework to evaluate on how it can be done is shared in a later section.
+Product evaluation
+, is the level 2 in the framework and the aim is to determine if the product is being used as intended. This step easily applies (in my opinion) to non-AI tech or non-tech product. This needs to answer how well the product engages users, and whether it solves a meaningful problem for the user. It is unlikely that a product will shift development outcomes if it fails to engage its users.
+User evaluation
+, is the level 3 in the framework and the aim is to determine if using the product positively influence users’ thoughts, feelings, and actions?
+Impact evaluation
+, is the level 4, an Independent impact evaluation of development outcomes: Is the tech / AI product a cost-effective way to improve development outcomes? Even if levels 1–3 show that the technology functions well, users are engaged, and data suggests improved knowledge or behaviors, organizations deploying tech for social good ultimately care whether their solutions improve users’ health, income, well-being, or other development outcomes. To assess this causal impact, evaluators must estimate the counterfactual- what would have happened to these key outcomes without the intervention.
+Read more in detail in this
+blog
+from Agency Fund
+AI evaluation cook-book
+At the highest level, AI evaluation comprises of:
+Golden set of Questions and Answers: This is the set of questions which the users are most likely to ask, or have asked in the past. This should be as close to user generated as possible. And corresponding to these questions must be the most accurate (in format, tone and content) answers that are expected. These questions should ideally cover a range of topics and categories, ex- knowledge based, implementation based, personalization based or stress-test (ex- questions that are not be answered by the AI, out of topic or random inputs)
+Golden should be golden, it has to be the most correct response expected from the AI, and the golden set of questions and answers should be slowly increased as the user interactions increase.
+Then comes the knowledge base (if RAG enabled) plus the system prompt, which is being provided to the LLM to generate the answers.
+Run a evaluation pipeline to determine how close the AI generated answers are to the human generated answers. Two simple metrics that can be run to get a deterministic metric of how well the LLM is performing as compared to the golden answers are:
+Cosine similarity:
+gives an indication of how similar is the LLM generated answer as compared to golden answer for the given question.
+Context precision:
+gives an indication of how close the chunks of information retrieved from knowledge base is as compared to the questions
+Determining a threshold value for these metrics, and then tweaking the prompt and knowledge base (if needed) to increase these, along with increasing the golden set of questions and answers is the iterative process to determine
+The above is a high level description of what needs to be implemented for a text based input and output for a RAG enabled solution. For more information on specific to your usecase, and deeper use cases such as voice to voice interactions, consider reaching out to Edmund Korely (
+edmund@agency.fund
+) for the tech part or myself (
+tejas@projecttech4dev.org
+) for help in thinking through what kind of AI evaluation can be applied specific to your org’s use case.
+Attention: What is your cost per unit outcome
+One must be start getting super articulate on the “output” and “outcomes” of the program, how are these being measured. What are the checks for unbiased analysis.  As per the common consensus
+randomized evaluations
+offer the most credible way to measure this, clearly attributing changes in outcomes to the intervention.
+If a nonprofit is able to demonstrate the outcomes achieved, the delta (change in outcomes attributed to a certain intervention), and in parallel go on to measure the cost per unit outcome. (it may sound absurd, but that is the mathematical and analytical modeling required). Without doing these, we risk overinvestment in products that
+feel
+good, at the expense of investing those resources in products that actually
+do
+good
+For example, the state of Espírito Santo, Brazil, piloted
+Letrus
+, an AI platform providing personalized essay feedback to students, alongside a randomized evaluation. The
+evaluation
+found that students using Letrus wrote more essays, received higher-quality feedback, engaged more individually with teachers, and scored higher on national writing tests than those who did not. Given these results, Espírito Santo expanded Letrus statewide, and the platform is now active in
+six additional Brazilian states.
+Being able to demonstrate an intervention or a solution which shows the outcomes at reduced cost is when there is a chance at getting the attention of the government stakeholders, policymakers to collaborate with you, for funders to listen and join in your amazing work.
+Disclaimer
+This blog borrows generously from Impact Evaluation Framework
+blog
+by Agency Fund. This eureka is a result of workshops facilitated during the course of the sprint as well as from listening to conversations from across a diverse set of folks who were present ranging from tech companies, research orgs, funders and mainly the grantees of the AI for Global Development cohort.
+Reach out to
+tejas@projecttech4dev.org
+to share your comments, thoughts, feedbacks or ideas to collaborate on.

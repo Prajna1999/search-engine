@@ -1,0 +1,108 @@
+Title: Nov partners’ meet: Highlights from days 2 & 3
+Author: Kurund Jalmi
+Date: November 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/nov-partners-meet-highlights-from-days-2-3/
+==================================================
+
+The
+Tech4Dev Partners? Meet was held over three days, from 10
+th
+Nov ? 12
+th
+Nov in Pune. Lumen was present on the second and the third day of the Meet and
+also helped in facilitating a few sessions. The two days were a mixture of
+discussions around the management of the Tech4Dev grant for NGOs as well as
+over technological platforms for advancing the use and adoption of open source
+solutions in the social sector.  Some of
+the key discussion points are highlighted in this blogpost.
+Cohort Management:
+1. Learning from Cohort 1
+The
+group of software partners attending the Meet deliberated on what went well in
+Cohort 1 and what could be improved for Cohort 2. Participants recounted
+experiences in Cohort 1 on
+Both, software partners and NGO
+     partners, understanding each other?s work better. The importance of face-to-face meetings early in the
+     project was highlighted, as well as the need for the software partner to
+     visit the NGO?s field site and not just their head office so as to better
+     understand the on-ground work.
+Clarifying roles and
+     responsibilities at the start of each project to avoid confusion on
+     commitments and obligations later. Several NGOs are at a scale and stage
+     of growth that are similar to those of a small business. Software partners therefore needed to account for
+     the fact that there may not be a dedicated IT team at the NGO which is why
+     the software partner would need to invest time in understanding the NGO?s
+     processes, helping with the articulation of requirements, and providing
+     the technical know-how to deploy a solution.
+Communication and responsiveness
+     throughout the project. Since technology
+     is likely to be an enabler for an NGO, and not the core reason for its
+     existence, it is important to recognize that the leadership of the NGO may
+     be grappling with multiple priorities. The software partners shared
+     practices on how to manage communication with a client so as to keep a
+     project on track.
+Software
+partners also discussed how their experiences, even outside the Tech4Dev grant,
+could be leveraged to improve management processes in Cohort 2.
+2. Looking ahead to Cohort 2
+Along
+with the software partners, we also finalised all that was necessary for a
+smooth cohort 2 management experience. This includes:
+A Standard
+operating procedure articulating best practices for managing cohort 2
+All legal
+documentation including relevant LOUs, contracts, and agreements between all
+partners within the Tech4Dev initiative
+Discussion
+on financials ? necessity of refining a template that details the financials
+During a webinar with the new
+NGO grantees, the NGOs were given a clear view of the timelines and milestones
+and some of the questions on LOUs and data management were answered.
+The purpose of the webinar was to emphasize on the fact that it is
+as important for the NGOs to own the project as for the software partners and
+that though there is no grant money flowing from the NGO to the software
+partner, both partners should consider the relationship as a client-vendor
+relationship.
+These steps taken for formalizing these documents are designed to work on areas of improvement articulated during feedback conversations with all NGO and software partners for cohort 1 and also to include other best practices in software development. Legal documentation makes the project concrete with clear timelines, milestones, deliverables, and responsibilities of all partners. This is expected to lead to a smoother project management experience.
+Technology Platforms
+:
+Tech4Dev?s
+vision is creating a movement for open source technology solutions for the
+social sector so that there is minimization of similar solutions being created
+repeatedly by different NGOs so that less money is spent on reinventing the
+wheel and the NGOs can economically access similar solutions for addressing
+their own challenges. This can happen through open source platforms that can be
+easily and quickly customised for a variety of applications and uses.
+1.
+Discussions on data collection and grant management platforms:
+Market sizing and research crucial
+     before investing in development
+UI/UX and perceived quality cannot
+     be less than other commercially available solutions and users do care
+     about these
+Developing these open source
+     platform solutions and pushing for more adoption within the social sector
+     would be a core Tech4Dev focus area
+All of these are important from the point of view of driving
+adoption amongst NGOs and also for encouraging technology providers and
+software companies currently not with Tech4Dev to take up these platforms for
+their social sector clients. Considering that most software companies are
+for-profit, it is also necessary to have a solid business case for them to take
+up the platforms being built at Tech4Dev and these would help build such a case.
+2.
+NGOs may need to do a lot more in terms of using easily available solutions and
+off-the-shelf alternatives before they get into customised solutions built for
+them. This may help NGOs get the maximum benefit from simple and economical
+solutions without the need for a big upfront investment into building something
+purely customised for their needs. This would also encourage them to be more
+disciplined and extract more out of existing data as process optimisation and
+understanding of data are necessary prerequisites to technology deployment. Raj
+Gilda, from LAHI, spoke on this.
+3. Product marketing based on the technology adoption lifecycle can
+be one approach to make easily deployable products out of open source solutions
+developed within Tech4Dev.
+The discussion
+highlighted how many of the existing Tech4Dev software partners have a
+background in services and stepping into a product mindset may be a new foray
+for many.

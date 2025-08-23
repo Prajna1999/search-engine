@@ -1,0 +1,49 @@
+Title: Project Intro: JSS Community Health Program Digitisation
+Author: Kurund Jalmi
+Date: June 2020
+Category: Avni
+URL: https://projecttech4dev.org/project-intro-jss-community-health-program-digitisation-using-avni/
+==================================================
+
+“
+India lives in its villages. All of us were taught that in school. What we weren?t taught was that much of India does not live very happily.
+“
+reads a page on the website of JSS highlighting the crisis of rural health.
+Jan Swasthya Sahyog (JSS)
+is an NGO working in rural Bilaspur, Chhattisgarh for last 20 years. It was established in 2000 by a group of socially conscious health and allied professionals, many of whom underwent training together at the AIIMS, New Delhi. The empowerment of village communities to prevent and treat illness has been central to the work of JSS.
+JSS has a
+community health programme
+running in 72 tribal villages of Bilaspur district covering a population of 36000 people. The villages are located in forests or at the forest-fringe, and many of them lack access to all-weather roads. The programme is structured in 3 tiers. It has the village health workers, all of them women, at the base, sub-centres that support clusters of up to 20 villages at the second tier and a referral centre at the third tier.
+The referral centre provides extremely low-cost care to people drawn from more than 2500 villages (approx. population 15 lacs)/towns of Chhattisgarh and M.P and has emerged as a centre for low cost, but good quality comprehensive medical, surgical and obstetric care in the region. At the referral centre, they are already making good use of open-source software by maintaining digital records of all the patients in
+Bahmni
+. In fact, JSS played a phenomenal role in the initial stages of the creation of Bahmni.
+For community programme, all the data is captured on paper in the field and then entered into spreadsheets at the level of hub by a data entry operator. With the increasing amount of work and data, this system is becoming ineffective in helping field workers to track beneficiaries in real time and planning and decision making. People at hub level analyse the collected data to see the progress and this causes delay in decision making.
+Thus they envision a comprehensive digital system for their programmes mainly the following
+Phulwari
+– prevent and address malnutrition among the under 3 years children. Help older siblings go back to school. Providing a stimulating environment for learning and development
+Maternal and child care
+– Reduce maternal and infant mortality rates by providing quality and comprehensive antenatal care, intrapartum, postpartum mother care, home-based neonatal care in programme villages.
+NCDs
+– Early diagnosis and prevention of complications of Non-Communicable Diseases (NCDs), hypertension, diabetes, sickle cell, epilepsy in the village community.
+Tuberculosis
+– Adherence to treatment and prevention of complications.
+The digital system will enable :
+Change from paper-based data capture to paper-less (Electronic format)
+Community-based efficient, quality data capture, analysis and reporting.
+Place and person distribution.
+Understanding of the disease trends by collecting longitudinal data.
+Monitoring and supportive supervision of field staff.
+Ease of advocacy for the health rights of the rural and marginalised
+The system will be used by a team of 25 users comprising of field supervisors and programme coordinators.
+The project started in December 2019. Requirements, scope and solution were identified through a series of online discussions. Some of the Samanvay team members already had an in-depth understanding of JSS work because of Bahmni, so that helped.
+The project will be done by?
+Samanvay Foundation
+as an implementation of open-source fieldwork platform?
+Avni
+.
+Most of the requirements will be met by existing features present in Avni. Following features were identified as gaps and decided to be added to the platform through this project
+Enhancement to Attendance feature
+The integration between Avni and Bahmni was not identified as an immediate need.
+The implementation
+went live with Phulwari programme from January 2020.
+Scope for rest of the modules was finalised and development started in the month of April 2020.

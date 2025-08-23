@@ -1,0 +1,74 @@
+Title: Avni
+Author: Kurund Jalmi
+Date: October 2022
+Category: Avni
+URL: https://projecttech4dev.org/avni/
+==================================================
+
+Avni
+Community service and data collection platform
+From health to hope, empowering frontline workers across diverse communities.
+Born as OpenCHS, Avni (meaning "earth" in multiple Indian languages) blossomed from a health worker platform to an open-source powerhouse for frontline impact. Avni is not just a platform, it's a movement. Witnessing communities flourish on its open-source soil, Avni's roots run deep, nurturing a brighter future, one field worker, one impactful use case at a time.
+Now transcending healthcare, Avni empowers workers in water, social welfare, education, and more, with:
+Community
+Focus
+Community
+Focus
+Designed for sub-center, village, and slum levels, reaching those often beyond the reach of traditional systems.
+Field-Ready
+Flexibility
+Field-Ready
+Flexibility
+Adapts to diverse use cases, from health monitoring to educational assessments.
+Open-Source
+Strength
+Open-Source
+Strength
+Freely available and customizable, fostering collaboration and local innovation.
+Key Features & Benefits
+Program Design Canvas
+Centralized Data Hub
+Data Capture Reimagined
+Secure & Controlled Environment
+Insights at Your Fingertips
+Program Design Canvas
+Drag & Drop Simplicity
+Move past simple forms and unlock a powerful data model to capture rich program data at every interactionNo coding required! Design your program’s data, processes, and protocols visually.
+Structure Your Impact
+Define people, households, groups, programs, and interactions – tailor-made for your needs
+Centralized Data Hub
+Unified Knowledge
+Monitor program performance, generate insightful reports, and download data extracts for deeper analysis.
+Longitudinal Insights
+Gain a valuable long-term understanding of your program’s impact through historical data.
+Data Capture Reimagined
+Go Beyond Forms
+Move past simple forms and unlock a powerful data model to  capture rich program data at every interaction
+Define Service Flows
+Design forms and data capture for each service and visit with ease, using the intuitive web interface.
+Auto-Generated IDs
+Streamline data collection with system-generated identifiers, empowering field workers and ensuring accuracy.
+Secure & Controlled Environment
+Data Fortress
+Protect sensitive information with robust security protocols and detailed access control.
+Fieldworker Empowerment
+Implement OTP support for secure login and data access in the field.
+Insights at Your Fingertips
+Customizable Search
+Find beneficiaries efficiently based on relevant data points like phone, name, ID, or program specifics.
+Fieldworker Dashboard
+Empower your team with personalized dashboards for real-time task management and progress tracking.
+How Avni Works
+Try for free
+Testimonials
+Hear from our
+Partners
+Insights and Experiences from Our Valued Partners
+Our adolescent program data used to sit in registers and excel. Because of Avni analytics, we uncovered vulnerable adolescents having different problems. Our supervisors are now able to schedule their fieldwork more effectively.
+Dr Shobha Shah and Maitri Vayeda
+Sewa Rural
+Earlier our health workers used to bring their paper records to the MIS data entry person. Now with Avni - our health workers manage the data in the field, make monthly data presentation themselves, and have gained even more respect in the community.
+Noah Levinson
+Co-founder, Calcutta Kids
+Community service and data collection platform for non-profits. Designed to work for all sectors Health, Education, Sanitation, Water, Waste, Agriculture, Social Security
+Visit Avni

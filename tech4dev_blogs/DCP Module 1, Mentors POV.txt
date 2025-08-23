@@ -1,0 +1,86 @@
+Title: DCP Module 1, Mentors POV
+Author: Deepak Nanda
+Date: July 2025
+Category: Data Catalyst Program
+URL: https://projecttech4dev.org/dcp-module-1-mentors-pov/
+==================================================
+
+By Tejas Mahajan
+This blog captures my (Tejas Mahajan) reflections, and personal unhinged opinions about the subject matter of the workshops conducted and other conversations. As a practitioner in radical candor, I welcome your criticism of this reflection as well. Personally, the best part of the 2.5 day event was to engage in deep conversations with the CMHLP team (the mentees) and go through the mentoring process. To challenge their thinking, have my thinking challenged, and to understand the deep nuances of their work aimed at reducing the gap in mental health support.
+DAY 1: NGO Mela and the 1-1 mentoring session
+The festivities started off with a
+NGO mela
+, where all the participants got a chance to explore the work being done by the cohort peers. This set the stage for participants to open up with each other, and realise that they were not alone from their respective sectors.
+Representatives from 13 wonderful orgs were present:
+Learning Links foundation
+Masoom
+SEEDS
+Make A Difference
+Nayi Disha
+Maitrayana
+WASH Institute
+Muktaa Charitable Foundation
+WELL Labs
+Sristi Foundation
+Centre for Aquatic Livelihood Jaljeevika
+Centre for Mental Health, Law and Policy
+Urja Trust
+This was followed by a 2 hour block conversation between NGOs and mentors to conclude on the problem statement, and the scope of work to be undertaken over the next 3 months. Problem statement template had to answer 3 key questions:
+What is the current situation
+What is it leading to
+What work will be undertaken
+This needed a lot of back and forth, pushing the thinking, sometimes asking basic silly questions, and having to repeat sentences back to confirm we are on the same page. This was followed by a quick session on ideating the scope of work.
+I personally think the first 2 hours provided a decent enough roadmap, but is likely to undergo changes as the weeks turn into months, and the finer details of the problems emerge through the implementation efforts. Nonetheless, the day concluded with mentors submitting the responses for problem statements and scope of work in the “Data Dialogues” doc, in preparation for the session planned on day 2.
+Day 2: Common grounds, Confusions galore and Canvas for dashboards
+Data Dialogues
+was the first session facilitated on day 2. One of the key outcomes of this session was NGOs realising that the majority of the cohort was in the same boat as them. Dealing with “fragmented data” coming from “various sources” trying to “consolidate” and  improve the “efficiency in analyzing”, “driving up the usage of existing systems”, and problems of such nature.
+The orgs were able to find “same as me” peers, and peers whose problem statements they could potentially help out in. This brought the cohort to a sense of commonality.
+Then came the confusion, the murky topic of outputs, and outcomes. Theory of change, related metrics and indicators, through the session
+Metrics that matter.
+The valiant effort to try and bring clarity was facilitated by
+Sharon Weir
+from 4th Wheel Social Impact. Go
+here
+to see the session deck yourself, and see if your thoughts on the topic align.
+Here is my opinion on articulating outputs and outcomes. At the core, folks work in social impact to make a positive difference towards worthy causes. This involves working with people in real life, dealing with the messy systems, getting stuff done, having an effect on people that can possibly never be measured in a number. But what makes their work sound “cool” is when they are able to talk about “development outcomes”, “change in indicators”. When they can articulate a “theory of change” which defines the method to their madness for relentlessly pursuing their everyday tasks with excellence.
+This requires plotting and scheming. Intellectualizing, sometimes overly so. But this is crucial because this clever articulation is what attracts the money, partnerships, and new talent, folks inclined to pursue a higher calling and devote their good years to join and continue the mission.
+So this is the bitter pill that must be swallowed by not just you as a leader. But also by your team members to sound “cool” while continuing to go about their business as usual that “changes the world” one task at a time.
+Third session of the day on the
+Art and Science of Data Visualization
+, condensing a wealth of knowledge on how to approach creation of dashboards into a single
+deck
+. A framework to draft the requirements. Starting with “key questions” and “decisions” that need to be made, to then arriving at the “indicators” and continuously asking why is this decision needed, while keeping the larger objective (outcome that needs to be achieved) of the org, at the front, mid and center.
+The session also shared practical tips on Visual Hierarchy principles implemented on a dashboard shared were. Go
+here
+to see all the practical tips in detail on dashboard design. I highly recommend it.
+Screenshot from the inverted pyramid rule
+Screenshot from the 1.2,4 rule
+This was followed by another half a day of mentoring. This is where NGO and mentors could start making progress towards the scope of work.
+Personally, this was an extremely important time for CMHLP and myself to go deep into their program flow, the data being collected at each step, the tools used, and the impending need for data points at each level in their programs. We put 2 of their programs (
+Atmiyata
+and
+Outlive
+) under the microscope, and tried to arrive at what are the most important aspects that we should focus on solutioning through the next 3 months.
+Screenshot of the program steps and data points mapping
+DAY 3: Data leadership, panel talk and the mandatory AI session
+The final day began with a session on
+Data Leadership
+. The crux of the session is still unclear to me, but the facilitator did play a long time favorite Ted Talk of mine, on Everyday Leadership and If nothing else, that idea is worth sharing 😉 watch
+here
+in case you have not. This was followed by a conversation panel featuring leaders from Arman, Civis and Pratham. As all panel discussions go, this was high level, with just enough hot takes to be a little edgy, make people laugh but resonate that idea that data is important, it is a continuous journey. The hottest take being “don’t bring me any dashboards” at the Data Catalyst Program. The irony was not lost on anyone.
+This was followed by a session on AI. This did spark conversations from the participants about what are the risks in using AI for analysis.
+Then came the last of the mentoring sessions. We used this time to dive deeper into the Outlive program. We started asking the “key questions” needed for the “decisions to be made” to achieve the 2 most important outcomes for the program. The outcomes being “Access to youth in need” for suicide prevention helpline. And the “Quality support” provided. The key questions we came up with are shared below. This involved deep conversation with the CMHLP team. Challenging the need for each of the questions that were being put up before we recorded them and discarding questions that did not lead to the outcomes.
+We ended the mentoring session with deciding the action points and potential outputs to achieve by the end of August month.
+For the Atmiyata Program
+Connecting with 2-3 orgs who have explored Commcare vs Avni, as a step towards evaluating Commcare as the platform over the next 3 years.
+Following the same template of key questions and decisions, and putting the present dashboards aimed for implementation team, and have a list of better questions, and a more targetted dashboards requirements
+Drafting the requirements and re-working on the dalgo platform, to share a version of the dashboards for empowered decision making.
+For Outlive
+Connecting with the Chat App developers (Think201) and figuring out what more logging can be done towards profiling an incoming support seeker while maintaining anonymity.
+Research in figuring out which tools can be used with the least cost implications, and least friction in the normal processes to automate the data pipeline that helps the
+Paper/ figma design prototype of the dashboard being envisioned to track and improve key program outcomes.
+Conclusion
+It was a humbling and rejuvenating 2.5 days. Refreshing change of pace from everydayness of working on Glific platform and with the Glific NGOs only for chatbot oriented conversations. Walking away with excitement to learn new technologies and tools, and more problem solving conversation as we move towards integrating data, creating automation for analysis which helps the team make faster decisions and move their programs forward.
+Feedback, comments and conversation on the views mentioned in this blog are welcome. Write to
+tejas@projecttech4dev.org
+and share your thoughts.

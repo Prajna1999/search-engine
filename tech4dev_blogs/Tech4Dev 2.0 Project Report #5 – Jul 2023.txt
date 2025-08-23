@@ -1,0 +1,249 @@
+Title: Tech4Dev 2.0 Project Report #5 – Jul 2023
+Author: Donald Lobo
+Date: July 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/tech4dev-2-0-project-report-5-jul-2023/
+==================================================
+
+Vision
+: A world with a
+strong technology ecosystem powering
+the social sector
+Mission
+: Build and support the ecosystem of
+software, data and design companies, nonprofit partners, and foundations
+working towards creating
+social impact globally
+2023 – Q2 Summary
+Q2 2023 saw us evolve as an organisation. We set goals for both our
+Technical
+and
+Executive
+Committees, and also set
+Metrics
+for how we would evaluate ourselves. We formalised the first draft of our Vision and Mission statements above. We had a combined team meeting with
+Dasra
+in
+Karjat
+that helped both our groups learn more about each other. This has resulted in joint team field trips to
+NGOs in Kutch
+and
+Pune
+, a combined
+Data and Learning program
+being planned, and capacity building for individual NGOs. We did a deep dive into our fractional CXO work with
+AktivAsia
+and
+CORO
+and have a few new ideas on how to
+structure our engagement
+with NGOs, especially in the first month. In partnership with the
+Code For GovTech
+team, we have onboarded 11 amazing student interns across our platforms.
+Highlights
+Tech4Dev formed an
+Executive Committee
+this quarter to help us with governance and strategy. We have assembled a dream team with
+Shilpa Kumar
+,
+Temina Madon
+and
+Kailash Nadh
+, each of whom come with different perspectives and advice to the work we do.
+We started the quarter with a
+team sprint
+at Karjat co-organised with Dasra. In addition to learning and strengthening the relationship with
+Dasra
+, each group within Tech4Dev reviewed their work and made plans for the next quarter. We also had
+Agency Fund
+and
+GoalKeep
+attend the sprint as part of our mission to build and collaborate with the ecosystem.
+In our pursuit of building a data culture within NGOs to accelerate their impact by using data and tech as levers, we are collaborating with Dasra and organising a
+cohort of NGOs on this
+.
+The Data Development platform is progressing at a good pace and is now transitioning from initial development phase to their 0.1 version launch in Q3. The Team has been involved in extensive piloting and have worked with 6 NGOs on a
+proof of concept (PoC)
+with the support of our partner,
+Goalkeep
+. Our long term focus is to make NGOs independent in managing their data pipelines.
+Glific has achieved fair growth this quarter, with increased NGO onboarding,
+feature launches
+like
+ChatGPT
+, and
+ticketing system
+. Our emphasis is on NGO retention, and in this quarter we organised city meetups in
+Bengaluru
+and
+Mumbai
+to foster engagement and collaboration. 12+ NGOs attended the events. The results have been encouraging and we will hopefully continue with this.
+Our Fractional CxO program with Reap Benefit is the first engagement that wrapped up this quarter. Excited for us to see the exit strategy executed for the NGO. We currently have 7 ongoing CxO engagements, supported by 3 full time and 3 part time fractional CxOs. Our focus is to enhance the structure of our engagements and implement processes, including high-level guides/playbooks, to provide improved support to NGOs in their engagements.
+We have partnered with
+Code for GovTech
+(C4GT) to onboard student interns on Tech4Devs projects. We have 11
+student interns
+contributing to Glific and Avni.
+Here
+is a blog written by one of the students while working on Glific. The quality of students from the C4GT program has been very high.
+Building on one of our focus areas of Data and Learning, we co-hosted sessions with
+Nilekani Philanthropies
+and
+Atmas
+NGOs for their grantees on Leveraging Technology for Social Impact.
+As we continue to grow as an organisation, it is imperative for us to have internal processes and systems in place. We implemented few structural changes in the organisation. We continue to take support from Dasra and crafted some
+guidelines
+to support our employees better.
+Misses
+Our platforms – Glific and Avni continue to experience prolonged and sluggish sales cycles. We did an analysis on the Glific sales cycle and found that it takes
+four to six months
+for an NGO to make a decision regarding their onboarding onto the platform.
+Looking inwards at the Fractional CxO program from the 1st year of experience and as the team grows, we see learnings for ourselves in building and improving our processes across the entire program from selection of NGOs, defining our engagement and actual engagement execution and delivery.
+A key aspect of learning in our engagements has been to reinforce (to both NGOs and ourselves also) that technology is just an enabler; we have to first understand organisation dynamics and the program aspect of these organisations well before plunging into technology solutions.
+Transitioning out of NGOs is still a work in progress and some of our long running engagements are well past what we had envisioned for us as a timeline; we are working on how best to evolve our strategy to transition out of our partners with still giving them the best chance of success at continuing the work done under the fCxO program.
+People management is an area we need to work on and improve. We will work with an HR consultant to help us incorporate a review cadence, set expectations and improve communication with the team. One major learning for the leadership team is what is obvious to some of us, is not obvious to everyone, and we need to make things clear. Weve been working with the team in setting up a few
+principles and guidelines
+for the organisation.
+Tech4Dev�s fCxO Program with Indus Action-
+Ankit Saxena
+Indus Action
+(
+IA
+) works towards bridging the gap between policy and action by easing welfare access to vulnerable citizens. IAs vision is to consolidate India’s 500+ low-impact welfare schemes into 5-10 high-impact and accessible schemes, called the
+PoWER
+[Portfolio of Welfare & Entitlement Rights]. IAs goal is to support
+1,000,000 families
+with PoWER benefits by 2025.
+IA has been leveraging tech to solve key challenges around welfare access. Last year, leadership observed that they were facing challenges around completing key tech projects. They also felt that there was an absence of a sound tech strategy that was aligned with their org strategy. With PoWER as a 2025 goal, tech became an even more of a key strategic lever for them. When IA got introduced to fCXO, they found it potentially addressing the tech challenges; they enrolled for the program & I was assigned as their fCXO.
+My journey started with spending the first month doing deep conversations with different stakeholders within the organisation – the leadership and program teams (both leads and associates). Through these conversations I gained valuable insights into the different programs, their strategy, and challenges. This initial phase was crucial in developing a comprehensive understanding of the organisation. At the end of first month, I presented my assessment of the org challenges and priorities along with my planned approach to tackle them in the upcoming months.
+As I delved deeper into the programs and engaged with team members, I realised that in most cases the root cause of the challenge was broken tech processes and an imbalance in tech team. Tech team didnt have the right number of project managers to effectively handle projects with the government. The critical role of product manager had not been considered by the org before. Developers were spread thin juggling between the development tasks and project management responsibilities. From a process perspective, there were significant gaps in aligning tech teams work with other departments, and important discussions happened verbally without proper documentation and tracking. To address all of these issues, I took immediate action by personally overseeing key projects, while simultaneously focusing on devising a long term tech strategy and improvements in tech processes.
+So far, the journey has been both challenging and rewarding. We successfully implemented the first version of PoWER platform in Delhi. I am pleased that IA team has been very receptive to suggestions and changes proposed, making the progress smoother. To further strengthen the development and expansion of the project, we hired a skilled product manager who would drive the vision, strategy, and projects for PoWER. However, hiring and retaining a capable tech team remains a big challenge that I plan to address by having a combination of inhouse team and reliable vendors, thereby ensuring the project’s continued success.
+Looking forward, my focus will be on developing an exit strategy for the fCXO program and transitioning out within the next few months. I am positive that with the system and process changes we have implemented and along with the tech strategy we have put in place, it has laid a solid foundation for IA to achieve its desired welfare outcomes. Technology will continue to play a vital role as an enabler in IAs journey and I feel confident that it is now well equipped to thrive even without the fCXO program
+Financials
+Tech4Dev 2.0: Summary of the Inflow & outflow
+FY 2023-24
+RECEIPTS
+Budget
+(Full year)
+Actual
+(YTD)
+Q1 Act.
+Jun 23
+Q2 Act.
+Sep 23
+Q3 Act.
+Dec 23
+Q4 Act.
+Mar 24
+% Act.
+to Est.
+B/f Donor bal*
+$3,072,296
+$3,025,964
+$3,025,964
+Grant
+$2,500,000
+$556,080
+$556,080
+Earned Revenue
+$500,000
+$0
+$0
+Total
+$6,072,296
+$3,582,044
+$3,582,044
+$0
+$0
+$0
+137%
+EXPENDITURE
+Budget
+(Full year)
+Actual
+(YTD)
+Q1 Act.
+Jun 23
+Q2 Act.
+Sep 23
+Q3 Act.
+Dec 23
+Q4 Act.
+Mar 24
+% Act.
+to Est.
+Sub-Granting to NGOs
+$0
+$0
+Program Salaries
+$765,833
+$103,991
+$103,991
+Program Cost
+$1,703,905
+$70,975
+$70,975
+Legal & Finance
+$300,000
+$0
+$0
+Capital Expenditure
+$70,000
+$1,833
+$1,833
+Total
+$2,839,738
+$176,798
+$176,798
+$0
+$0
+$0
+119%
+C/f Donor bal
+$3,232,558
+$3,405,246
+$3,405,246
+$0
+$0
+$0
+138%
+Complete details can be found
+here
+.
+Want More
+Details?
+Find more information on Project Tech4Dev in our
+Tech4Dev 2.0 Note
+and
+Tech4Dev 2.0 Pitch Deck
+. All our blog posts can be found on the
+Project Tech4Devs
+and
+Glifics
+website. All project documentation can be found on our
+shared google drive folder
+.
+Highlighting some of our blog posts from last quarter:
+From Project Selection to Building an Airbyte Connector: My ongoing Journey with C4GT 2023
+Glifics Bangalore city meet-up: functional takeaways for NGOs using Glifics WhatsApp chatbot
+Introducing ticketing system in Glific
+ChatGPT unleashed: journey to production and preparing for launch on Glific
+AgamiShaala 2023: A Beautiful Journey of Self-Reflection and Systemic Change
+And links to our existing work and archives
+Tech4Dev 2.0 Note
+Tech4Dev 2.0 Pitch Deck
+Glific Website
+,
+Glific One Pager
+,
+Glific Year in Review
+Avni Website
+,
+Avni 2 Pager
+Development Data Project (DDP) Presentation
+Tech4Dev 2.0 Project Reports
+Reach out to us via
+email
+or find more information on our
+website
+.

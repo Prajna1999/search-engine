@@ -1,0 +1,45 @@
+Title: Avni App Designer cohort 2 project update
+Author: Kurund Jalmi
+Date: June 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/avni-app-designer-cohort-2-project-update/
+==================================================
+
+We
+wrote in March
+about the scope and details of the second set of enhancements to the App Designer in an earlier blog post. It has been a few months, and the project is complete. This is an update of the progress in the App Designer, pending items and the future course.
+Forms page of App designer
+The initial phase
+We chose to go forward with the list of features identified as part of the scope. We were, for the most part, going in line with the list of planned features on time.
+One clear objective of the project was that the App designer has to be feature-complete. An implementer must be able to setup an implementation without having to run a script or ask the instance maintainer for help. This was of primary importance. Once this was possible, we could focus on features to make implementer’s life easier, and then progress towards having novice users without tech background use the App Designer (in the future).
+During the initial phase, we strictly worked on the list of features we had. Slowly, new implementations started using the App Designer to setup their apps. There were implementers from Samanvay, Soft-Corner and Ashwini using the App Designer. We were churning features every week for what was required by implementers last week. It was crazy for both us and the implementers. A big thanks to all our implementers for their patience !!!
+Having a variety of implementations helped us understand gaps in scope. We also discovered usability bugs that we fixed on the way. Several new features were also being added to the product, and enhancements corresponding to these features also made their way into the App Designer.
+The final month
+Showcase and bugbash
+By the end of April, we had a major showcase and bug-bash. We invited everyone to take the app for a spin to find out how it looked. Both the implementers and us developers were too much in the system to think outside the box.
+As expected, we discovered several places where the app needs to change. We took a list of changes, combined with our own list and tried to prioritise them. Here is what we used to prioritise the cards
+Functional bugs
+Missing features (Stuff from the original scope, with maybe one or two we discovered along the way)
+Usability bugs
+New features (Stuff from the original scope)
+Of course, there was some subjectivity in the prioritisation. We took into account the criticality fo the issue, feasibility of a fix, and time required to fix to choose items. However, the general principle was adhered to most of the time.
+By now, it was clear that some promised features will have to be deprioritised to make space for the new items that had come in. Notable among what we had to deprioritise include declarative rules and kickstarter modules.
+Passing the baton in the last month
+The last month also saw several changes in the team. Hiren moved on to spend more time with the data entry app. Amar started working on implementations for Shelter and Setco. Vinod and I started spending more time with the App Designer. Swapnil, Garima and Nupoor stayed on till the end.
+We also saw Sanjeev join in. Sanjeev tried setting up a new organisation for testing and provided a lot of useful feedback. His focus on the usability of the product was very important at this time when our focus also had been in sweeping out the small things that make implementer’s life simpler. Sanjeev provided feedback both at the micro-level (font size looks wrong, alignment is off etc) and at the macro-level (product focus).
+Moving all development to production
+All the implementation work being done by Samanvay, Soft corner and Shelter was already using App Designer since January 2020 but from a staging environment. In the last month, that is May, we also moved implementations to start using the production environment. Until now, features were not available, and we were not ready to move every new feature to production. It made sense for implementers to stay in staging and get the latest updates. However, it was not a permanent thing. Continuous deployments mean frequent outages, and bugs can stop work until they get fixed. Production environment was more stable. Once the churn of new development died down, we moved all implementations to start using production as their primary testing environment.
+In fact, right now, all you need to do is signup on the website to create your own organisation to try out implementing Avni. Go on to the
+website
+and give it a try (or send it over to someone you think might find it useful).
+We also made a
+public announcement
+.
+Where to next?
+Right now, an external implementer can implement Avni for their organisation on their own. We are feature complete. It may not be the best experience. But that is the next step. According to our implementers, the hardest parts now are
+Writing and testing rules
+Understanding failures in the system
+Dependency on an android device or emulator and longer development cycle
+For newer implementers, we will have to make our domain language simpler. There are also some places where usability can be better.
+Every living product needs some product love from time to time. The App Designer development is not over. Avni is in a better shape now. And will get better over time. And we will continue to listen and continuously improve.
+Bye for now.

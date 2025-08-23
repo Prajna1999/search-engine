@@ -1,0 +1,11 @@
+Title: DCP: “AI for Insights”
+Author: Jerome White
+Date: August 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/dcp-ai-for-insights/
+==================================================
+
+“AI for Insights” was a workshop presented for Cohort 2 of the Data Catalyst Program (DCP). Its primary objective was to introduce the audience to AI-powered tools to enhance their daily workflows: how modern AI services can aid in quantitative data analysis, and in qualitative data exploration. The 90-minute session was split between these two use cases, with audience members actively engaging with the tools using their own data, and sharing their experiences with their peers.
+For quantitative data analysis we looked at Julius AI, a service that allows users to upload their data then analyze it using natural language. For most audience members, it was their first time engaging with such a tool. Because they were using their own data, they had some sense for what to expect from many of their initial high-level questions. Julius made great first impressions by providing answers that were in line with their expectations. Many users were impressed that they could do advanced analytics like regression analysis; others were quite happy that they could get formatted results that met journal publication standards. One NGO was able to gain new insights into a recent social media campaign.
+The qualitative data portion of the workshop introduced OpenAI’s File Search, a service that focuses Open AI LLM responses on user-defined knowledge bases. Using the service in full requires a paid Open AI account. To overcome that hurdle, we developed a custom interface to File Search using Gradio and our own OpenAI keys. Like Julius, the audience found File Search relevant and informative. It was especially encouraging to see some members use English to gain new understandings of their documents in Hindi.
+Overall the session was quite productive. In addition to learning through doing, the audience was interactive amongst themselves, sharing experiences and feedback in real time. The biggest insight from AI was perhaps the importance of community and shared learning.

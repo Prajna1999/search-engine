@@ -1,0 +1,43 @@
+Title: Research Goals in Coordination with Housing and Case Management Providers
+Author: Kurund Jalmi
+Date: August 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/research-goals-in-coordination-with-housing-and-case-management-providers/
+==================================================
+
+Most people think of the Bay Area as an especially tech-savvy place, but the reality is that the local continuum of care is plagued by an inability to leverage the technology ecosystem right on its doorstep. There are many reasons why this is the case, and part of our work on the ReferAll Initiative is to improve our understanding of these causes.
+We?re inspired by
+Survivor Alliance
+?s founder Minh Dang, who contributes this evaluation framework for anti-trafficking providers and activists: for every action and initiative, consider how and to what extent it supports
+survivor well-being
+.  For each provider and process we evaluate, the foundational question will be ?how and with what success does this process help the provider support survivor well-being??
+Our working hypothesis is that high cost of living/housing in the Bay Area combined with underpaid and overstressed staff with insufficient mental health support for secondary trauma results in (i) high staff attrition and loss of institutional knowledge of tools like technology, (ii) resistance to any data entry and management not driven by funders, and (iii) lack of executive time to improve internal processes, and (iv) persistent scarcity of funding that results in cuts to critical resources.  In other words, the cost of running a shelter or case management program is inherently higher in the Bay Area than in any other US geography, and shelters make do with less in a way that detracts from the continuum of care.
+Based on this hypothesis, we have defined the following research goals for the provider evaluation portion of our efforts:
+Identify critical pain points in providing a full stage in the continuum of care at a variety of shelters to support product prioritization
+Over the years, we?ve heard providers complain of high staff turnover, low staff compensation, lack of funding, and onerous processes mandated by funder reporting obligations, especially to the State of California and for federal grants, as key pain points.  Survivors cite the lack of staff training and preparedness, a lack of trauma-informed operational models, severely limited staff working hours, and onerous admissions processes as the critical factors in provider failures to deliver support.
+In some cases, survivors also report abuses of food stamp eligibility and hate speech at providers. Any such requirements or considerations will be documented alongside care provision and benefits offered by the shelter to develop a full cost-benefit analysis of each provider from the survivor perspective.  In addition, we?ll document providers? expressed pain points that led to their criteria, documentation, and residency requirements.
+2. Identify operational process gaps and recommend technology or process improvements to fill them
+Most providers report that their internal documentation and record keeping processes are driven predominantly by funder reporting requirements, not operational needs in serving survivors.
+We?ll catalogue the funder reporting requirements that apply to help us define how to build later-stage software that auto-completes these reports. More importantly, we?ll dive deep with staff on what they really lack in their efforts to serve survivors and support survivor well-being because of the work they must do to meet reporting requirements.
+3. Identify and document capacity of and requirements for admission to shelter providers
+There is an inherent conflict in the requirements for messaging that supports fundraising efforts and the messaging that survivors review to evaluate whether they qualify for help at a particular provider.  For funders, providers are incentivized to represent a larger capacity for a wider range of services. For potential beneficiaries, providers are constrained by resources and often cannot support each offering listed on their 990 form or website for each survivor, and must honestly report this fact. We believe it is critical to identify the reality of capacity and turnover on the ground level to build solutions.  However, we recognize that providers need this research to remain confidential so that it does not impede or conflict with fundraising efforts.
+4.
+Assess turnover rate in beneficiaries at participating shelters
+The number of beds or therapy slots at any shelter is not a useful measurement without the context of turnover rates. Consider two scenarios:
+Four beds are available, and residents generally occupy them for 12 month stretches
+Four beds are available, and residents generally occupy them for 3-4 days
+Obviously, these two providers would not only serve a drastically different number of individuals, but would also deliver a drastically different benefit to each survivor. Problematically, in scenario (2), the provider would be able to report on a substantially HIGHER number of beneficiaries, which many funders hope to see in an effort to increase their own grant impact measurements. However, it is clear that provider (1) is making more of a contribution towards a full continuum of care and to survivor well-being. Three days of shelter is too often a mere hiatus from exploitation.
+5.
+Assess turnover rate in staff at participating shelters
+Anyone becomes better at a job the longer they do it. For providers whose staff have years of experience in their role, the likelihood of delivering trauma-informed, compassionate care increases substantially.  Moreover, the likelihood of personal networks with other providers in the continuum of care increases, allowing each individual staff member to coordinate or support more of the continuum for each beneficiary.
+By contrast, staff hired and departed within the space of a few months barely have time to learn client?s names, much less the details of a cse that are necessary to coordinate personalized support and survivor well-being.
+In both staff and beneficiary turnover, in addition to understanding WHAT causes turnover, we seek to document WHY turnover is happening – and how it could be fixed.
+6.
+Survey funder-mandated reporting technologies in use at participating shelters
+Colleagues working in the anti-trafficking movement have reported as many as NINE different, disparate funder reporting platforms staff at providers must use on an ongoing basis.  In many cases, these systems require inputs of the same data over and over again. Many are electronic, but others are not.
+Before planning the architecture for intake functions of our survivor-facing application, we believe it is critical to survey and document the various reporting tools common among shelters to design an application framework that can ultimately create the appropriate data and impact measurements – as well as compiling that data into a tool for auto-filling reports.
+7.
+Survey case management technologies in use at participating shelters and case management organizations
+Anecdotally, we know that not many Bay Area shelters even use software for case management. Those who do not report that they simply cannot motivate staff to use any more software or do any more data entry than what their funders require. In addition, many express confidentiality concerns in submitting personal information to any software platform because they do not feel equipped to evaluate the privacy and security of the platform.
+In part, this phase of research will help us identify what, if any, existing case management technologies could be readily adopted by these providers. More importantly, this will help us to generate a detailed accounting of what case management platforms our survivor application will need to integrate with, which may also drive the design of the survivor application back-end.
+Please stay tuned for more on the survivor application and opportunity for providers to join our initiative with a participation stipend funded by the Chintu Gudiya Foundation!

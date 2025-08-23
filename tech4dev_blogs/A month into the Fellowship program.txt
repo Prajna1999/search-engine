@@ -1,0 +1,43 @@
+Title: A month into the Fellowship program
+Author: Kurund Jalmi
+Date: March 2022
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/a-month-into-the-fellowship-program/
+==================================================
+
+In most IT workplaces, there is a significant gender imbalance even though given the correct leadership, flexibility, and understanding, a woman has the capacity to thrive in any role she takes on. The lack of an inclusive ecosystem that promotes women to flourish in their chosen area is one of the problems hindering women’s advancement in the IT industry, and most of it originates from gender bias.
+This problem needs to be corrected from its root by creating a space where women at the graduate level can start off on the right foot, acquire skills essential for the professional world, work with industry experts and gain hands-on experience with technology in order to close the gap between what is taught at college and what the industry actually requires.
+Backstory:
+We at
+ColoredCow
+are likewise concerned about the gender gap in the tech industry and want to address it. Lobo expressed his thoughts and why there is a need to develop an ecosystem that addresses the gender gap in the IT business during the November
+Social Impact Sprint
+at Tehri, and we found common ground with him.
+In the next few weeks, we met
+HyperVerge Academy
+(HVA) which also works in a similar domain to enable young people to learn software development and secure well-paying jobs in the tech industry.
+Kickstarting the Women in Tech Fellowship
+In collaboration with
+Tech4dev
+and HyperVerge on January 13, 2022, We Kickstarted the
+Women in Tech Fellowship
+program from ColoredCows Incubation office in THDC Institute of Hydropower Engineering and Technology.
+The induction session went well and was quite interactive, with 26 young fellows from
+THDC IHET
+joining us with a strong desire to learn more and the ambition to contribute to the tech community
+Over the next few weeks, HyperVerge and ColoredCow conducted interviews shortlisted 21 candidates, who were then divided into four groups.
+To facilitate the fellows’ overall progress, these groups were overseen by two mentors: a tech mentor from ColoredCow and a power skills mentor from HyperVerge.
+Check out Gayathri’s
+blog
+covering her view on kickstarting fellowship.
+Reflecting last month
+It’s been over a month since the fellowship program began, and it’s been a wonderful experience with these passionate and enthusiastic fellows, seeing their progress each week, listening to their doubts in daily standups, the clarity of questions they ask, and the efforts they put certainly bring enthusiasm in mentors as well. Being a mentor, myself, I felt that the motivation of folks heightened mine too.
+In addition to daily standup in the last month, we had two fortnightly FSD review calls where we consolidate two-week progress and reflect back on what went well and how we can improve. These review calls also give mentees the opportunity to present their work with the group, share the challenges they faced and how they overcome them.
+Though being a  mentor, I share feedback whenever needed but through review calls, it helps to reflect back two weeks of progress and share feedback on overall progress. I see it benefits both mentors and mentees since they help both visualize the broad picture and understand each mentee’s strengths and areas to improve on in the coming weeks.
+The Sky is the limit…
+As weeks keep progressing I see tremendous growth as these young women are taking the charge by leading daily standups, completing weekly milestones, writing weekly
+blogs
+, and helping one another in moving ahead together which truly are early signs of success in achieving what we set out to do
+We are very hopeful for the upcoming months of the program
+and excited to be a part of this journey with the WIT fellows to mold many more women tech leaders and create a diverse tech world.
+Looking forward to being part of many more initiatives for the public good

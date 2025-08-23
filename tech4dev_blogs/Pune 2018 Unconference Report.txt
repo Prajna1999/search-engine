@@ -1,0 +1,14 @@
+Title: Pune 2018 Unconference Report
+Author: Kurund Jalmi
+Date: December 2018
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/pune-2018-unconference-report/
+==================================================
+
+I recently got the chance to be a part of the first Tech4Dev unconference at Pune from Nov 30-Dec 1. Since I made the switch from corporate to running a non-profit, many a times I?ve felt like a lonely engineer who could not discuss her ?unique? engineering problems with her other friends. I was definitely craving for a network to geek out with and when Lobo mentioned the unconference, I knew I wanted to be there. The event was attended by technologists and engineers from organizations in the development sector. The first best thing about the event was the democratic agenda creation by the attendees. 🙂
+The 2 day event was organized chaos with A-grade fodder for the technical mind sprinkled with a good dose of fun, humor and getting to know each other.
+Day 1 was dynamic and included a breadth of topics in the form of speaker sessions, demos, panel discussions and group deep dives. Participants delved into issues ranging from using open data for advocacy to improving operational efficiencies using open source tools. My personal favorites were the use of open source GIS tools to create rich data that aid decision making and a very tactical session on data wrangling for non-technical folks. We are already using some tips we learned in this session in our team at Dost 🙂
+Day 2 went deeper into topics chosen by the participants. Learn-a-thons and demos went into implementation details and some groups also contributed to open-source projects. I thoroughly enjoyed co-leading a session on data analytics and visualization where we compared tools used in different organizations and discussed some good data and measurement principles to follow.
+After being on a super long flight, I was doubtful about my abilities to keep up. But this unconference blew my mind and I couldn?t have asked for anything better! I am very thankful for the honesty and openness in sharing both successes and struggles and the sense of camaraderie I felt. I am energized and happy to have found my tribe 🙂
+A big thanks to the organizers, Chintu Gudiya Foundation & Social Alpha for an inspiring event and for taking care of us for 2 days. Special thanks to Arun, Kurund, Arjav and everyone else. I?m elated by the experience and am already waiting for the next unconference 🙂
+Sindhuja Jeyabal, Co-founder – Dost Education

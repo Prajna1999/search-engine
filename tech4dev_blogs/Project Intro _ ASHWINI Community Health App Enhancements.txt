@@ -1,0 +1,44 @@
+Title: Project Intro : ASHWINI Community Health App Enhancements
+Author: Kurund Jalmi
+Date: June 2020
+Category: Avni
+URL: https://projecttech4dev.org/project-intro-ashwini-community-health-avni-app-enhancements/
+==================================================
+
+ASHWINI Hospital
+ASHWINI
+is a registered charitable society established in 1990. Its primary objective is to establish an
+accessible, effective and sustainable health system that is owned by the community
+.  The organisation runs in community ownership model and the program addresses the needs of more than 20000 Adivasis spread over 320 hamlets in the Gudalur Valley of the Nilgiri hills in South India.
+ASHWINI has a hospital as well as community health program.
+Hospital
+Gudalur Adivasi Hospital (GAH) is a 50-bedded hospital that provides both out-patient and in-patient services along with an in-house laboratory and pharmacy.
+They have been using Bahmni, an open-source hospital system, since 2015
+. The software holds medical records of patients as well as billing and lab data.
+Community health program
+The community health program runs with a 3-tier framework with Village health volunteers at the base, Area centres and health animators at the 2nd tier and GAH at the third tier. The key focus of the work is on maternal and child health (MCH). Other special programs include:
+Sickle cell anaemia program
+Tuberculosis
+Mental health
+Nutrition Intervention
+Screening programs
+The community program is already using
+Avni
+, an open-source fieldwork platform, since 2019. They have been using Avni so far only for the MCH.
+However now they wanted to expand the usage and utility of Avni. Hence they asked Tech4Dev support for Bahmni-Avni Integration and addition of new modules to already deployed instance of Avni.
+The project started in December 2019, initially with detailed requirements gathering including a site visit for face to face discussion.
+Bahmni-Avni Integration
+Doctors: The tribal patients have two main points of contact for care; the hospital and the area centre or village where the health animator sees them. When a patient with a chronic illness is seen by the doctor, it is important to understand what was the treatment provided in the field. For eg: we have over 300 patients with a chronic debilitating illness called sickle cell anaemia. With the villages being far out, they cannot come to the hospital every month. They are treated in the area centre. It is important for the doctor to see this treatment history. Health Animators: They would be doing a reverse of this and be able to see what medicines have been prescribed for the patient.
+Hence they envision a system where both the community health and the hospital software talk to each other and exchange essential data.
+Initially, it was understood that the integration will be achieved allowing the users to navigate to dashboards of the beneficiary in the two systems. After understanding their requirements
+Samanvay Foundation
+, partner on this project, recommended that to meet the expected use-cases, deeper integration is required where data flows from Avni to Bahmni and vice-versa.
+Project Scope and Development
+By the time the scope was getting finalised in April, COVID-19 crisis had engulfed all of the world and Tech4Dev also decided to keep the funding to minimal for all its projects. Thus Tech4Dev decided to remove Bahmni-Avni integration from the scope of the project. The scope was kept limited to the addition of following modules and reports
+Death
+Family planning
+Sickle Cell
+Chronic sickness
+TB
+Mental health
+Development on this project started by mid May 2020.

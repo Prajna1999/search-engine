@@ -1,0 +1,38 @@
+Title: Chat for Impact – Training Day 3
+Author: Kurund Jalmi
+Date: February 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/chat-for-impact-day-3/
+==================================================
+
+This blog post was written by Manish Manohar from
+Saajha
+Conversations have been the existential element of humankind. Right from being a tool for expression of information to elaborating feelings, conversations evolve us. With the advent of technology, the nature of conversations has transformed over the years. One of the influential modes being “Whatsapp” has reached a user base 2 billion! It has been at the forefront of changing how we communicate (Texts, voice and video calls) with one another.
+Recently, I had an opportunity to attend a three-day workshop by
+Turn.io
+in collaboration with Project Tech4Dev. The aim of the workshop was to initiate discussions on how organizations can manage various conversations and problem-solving using Whatsapp.
+Below mentioned are a few key takeaways I had during my experience at the workshop:
+#Structured conversations
+A conversation is by its core nature is personal. While we are using different channels to chat, we have to keep it in mind that chat should be personal, timely and actionable for it to create a social impact. A chat between two people goes through broadly three phases. These phases are the Introduction phase? Context setting phase ? Conclusion phase. Major changes take place between the introduction and the conclusion phase- this demands a structure to chat leading to more authentic and accurate impact analysis.
+Structuring can be done via the following:-
+Tags
+: It isn’t feasible to deeper delve into the analysis of each and every sentence. However, it is possible to analyze broader categories of chat. Tagging key sentences into one category or the other would help to assign conversations and to trigger action.
+Collections
+: Collections are the broad categories for easy answering. Collections would enable a user to look at the chat more holistically.
+Groups
+: Groups can be used to organize people especially when the Human resources of the organization have multiple clients to look after.
+#BOT versus human
+Everyone (at least the majority of) favors automation.  Until BOTs are able to understand the intent of the human being it is not likely that they are replacing human beings in the process. Nevertheless, BOTs are getting smarter every day, with the utmost due credits to machine learning.
+It is important to give a personality to your Chatbot. The personality of a chatbot should lead to behavior and action. The automated bot should be made based on how you would like another human being to treat you.
+#Use cases
+Noora Health
+is committed to training patients and their families with high-impact health skills to improve outcomes and save lives. To ensure this they have integrated all technology tools IVR, SMS and Whatsapp to support mothers and families. WhatsApp support team ensures personalized support to all mothers enrolled in the program.
+MomConnect
+is a South African National Department of Health initiative which aims to support maternal health through the use of cellphone-based technologies integrated into maternal and child health services.
+#Integration and Automation
+WhatsApp API and
+Turn.io
+give an opportunity to broaden the impact of conversation with the help of options such as integrations with other APIs such as SMS service, IVR, etc. Automation of chats, Webhooks to augment or alter the behavior of a web page, or web application, with custom callbacks and fall back channels to ensure that the message is not lost with the loss of internet connectivity.
+While For-profit sectors are reaching out to their customer through advanced modern technology platforms, a big shout out for organizations such as
+Turn.io
+and Tech4dev who are creating opportunities for Not-profits to create an impact at par with the former counterparts.

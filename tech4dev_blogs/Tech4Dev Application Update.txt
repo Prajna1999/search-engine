@@ -1,0 +1,39 @@
+Title: Tech4Dev Application Update
+Author: Kurund Jalmi
+Date: October 2018
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-application-update/
+==================================================
+
+A brief update and next steps on the
+Project
+Tech4Dev
+Application.
+We just closed the application process earlier this week. We received a total of 81 applications. We sent out our first emails on Sept 20, 2018, and closed the application process on October 21, 2018 (at approx midnight Eastern Standard Time). We allowed one late application due to an error. We received a steady stream of applications during the period as the chart below illustrates
+We received our first application approximately 3 days after the first email. We received 12 applications on the last day and  25 applications in the last 3 days.
+The two spikes in the above graph most likely were due to a mailing by our friends
+India Development Review
+and
+Guidestar India
+.
+We wanted to keep the application as simple as possible, so we did not ask too many questions about the organization. The closest proxy to the size of the organization was the budget. More than half of the organizations that applied had a budget of less than 1 CR
+Finally, only 12.3% of the organizations mentioned that they are working with a software company, which seems a bit low. Maybe, we did not phrase this question correctly.
+A few quick notes of the quality of the applications
+A third of the applications gave us very limited information. The long answers for the three questions for these applications were just a couple of sentences long. As such we will not consider these applications since we do not have enough information to make a decision.
+We went back to 10% of the organizations and asked them to give us more detailed information to make the application complete. We will incorporate this information when reviewing their applications.
+Most of the above applications with minimal information were submitted in the first half of the application period. Applications submitted in the last week of the application process seemed to have a fair amount of information. The below graph illustrates that many of the shortlisted applications were submitted in the last week.
+At a brief glance, we are very impressed with the quality and depth of the applications. We suspected there was a big need for a service like this, but are surprised at the scale of this need. This also means we need to figure out how we can serve more non-profits in a better and more efficient manner.
+Here are the next steps as we see them:
+We will send out a thank you email to all the applications. We will also send out our first round of emails to organizations that did not give us enough information to make a decision.
+There are some applications where we do not have the relevant skill sets and/or the project scope is significantly larger than we can handle and/or their budget exceeds our 10 CR limit. We will communicate the same to these organizations. This is approximately 20% of the remaining organizations.
+Next, we will go through the remaining applications and have an email discussion and clarification with most of the remaining applicants. We expect to have approximately 25 applicants at this stage
+We will evaluate the remaining applications across the following factors
+How much of an impact it has on the programs run by the organization?
+How important is the project to the organization?
+Can we reuse the work done and apply it to other organizations in the spirit of open source?
+Do we have the required skill sets in our partner ecosystem to complete the project successfully
+Can we build on existing open source projects or some of our past work to meet the needs of the organization?
+Can we group this organization with other organizations in the process having similar needs?
+We will try and be as transparent as possible during the process. We will post periodic updates on this blog.
+If you have any thoughts, questions or comments, please post a comment and/or send an email to
+tech4dev@chintugudiya.org

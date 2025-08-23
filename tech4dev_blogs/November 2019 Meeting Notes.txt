@@ -1,0 +1,85 @@
+Title: November 2019 Meeting Notes
+Author: Kurund Jalmi
+Date: December 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/november-2019-meeting-notes/
+==================================================
+
+Our regular (twice-yearly) face-to-face meeting with all our
+partners took place in Pune on Nov 10 -12. This was my first time attending
+such a meeting and so I was looking forward to meeting all the partners and putting
+a face to the names and voices I had heard on the calls. I was happy to have
+made it ? it was thoroughly educational for me and went a long way in getting
+to know the partners, the issues and the solutions we have been working on.
+Technical Deep Dive
+This was the first time we had a tech-day ? a deep dive
+technical session scheduled for the entire day ? on the Sunday (Nov 10) before
+the meeting began. All our partners were present from Sunday.  On Sunday, we were also joined by a couple of
+people from Persistent Systems, our newest software partner.
+The tech session had two parallel sessions; one doing a
+deep-dive into Avni (nee OpenCHS) architecture and another doing a deep-dive
+for a CRM solution. Both the sessions were attended by half the attendees and
+had a great open discussion on architecture details and technologies. That day
+was an engineer?s dream day ? sitting in a room all day spending time in the
+weeds rather than nebulous details like deployments and legal matters.
+Day 1
+We started Day 1 with introductions. The Lumen folks (Rahul
+and Arjav) had given us homework a few days before the meeting ? we were to
+introduce ourselves with a limerick. Everyone did an amazing job of
+introductions and that broke the ice to start off the proceedings.
+We started with a look back: we talked about learnings from
+Cohort 1 and how we could do better for cohort 2 in terms of managing the
+projects and improving engagement from NGOs.
+After the learnings and looking back, we started in earnest with presentations from the software partners about projects. Anurag from Think201 talked about their experience working with Indus Action project; Swapnil from Dhwani presented the mForm Funder Management Platform and Sunil from WebAccess presented the Toybank project.
+Our keynote speaker for the day was Raj Gilda who talked
+about his journey starting and running Lend-A-Hand India over the past 16
+years. Lend-A-Hand India has been doing amazing work teaching vocational skills
+in public schools to 9
+th
+to 12
+th
+grade students in over
+20 states. He had some insightful (and sobering) things to say about working
+with government and how underappreciated bureaucrats are. Raj has
+single-handedly grown his organization from one school in Maharashtra to over
+23 states in the last 16 years.
+We ended afternoon session with a discussion of legal
+documents we need from software partners and NGOs and general procedures for
+Cohort 2. We had great suggestions and action items from the partners who have
+more experience dealing with NGOs than Tech4Dev does.
+A team dinner followed the first day sessions; it was a
+great opportunity to meet and talk to everyone in a more relaxed setting over
+food and drink. Everyone had a great time. When I left the dinner venue, a
+bunch of folks were going for an after dessert walk.
+Day 2
+Day 2 started with a talk by Anuja Apte, a marketing
+consultant. She talked about product marketing and what it takes to change a
+company?s DNA from selling services (projects) 
+to marketing and selling products. For many of those present, it was a
+great introduction to marketing, market sizing etc.
+Anuja?s talk was followed by a second session on legal
+documents and clarification of why we need Letters of Understanding from
+software partners and from NGOs and what agreements should be signed when.
+Then we started the second day?s project presentations by
+the software partners. At this time. Some Tech4Dev and Lumen folks adjourned to
+another venue where the kickoff webinar for Cohort 2. The webinar was a great
+success, attended by all the Cohort 2 NGOs.
+The keynote speaker for day 2 was Pradnya Godbole, CEO of
+DeAsra Foundation. She talked about her personal journey to running the
+foundation as well as the foundation?s approach to giving.
+Keynote was followed by more technical presetations on Avni
+and by Civic Data folks on open justice projects.
+Takeaways
+All three days gave us a lot of things to think about and to
+work towards cohort 2 projects and beyond. The biggest takeaways for me were
+seeing how open and candid everyone was with each other. Everyone was genuinely
+interesting in learning and sharing; no one came with any other agenda than to
+tell us what they were doing and learning from others. 
+
+
+
+Finally, all the arrangements from meeting space
+to catering, to webinar space for our kickoff webinar and the team dinner were
+impeccably made by Arun. Arjav and Rahul from Lumen drove the agenda and the
+content for most of the non-technical sessions.  And, of course, all attendees came prepared to
+share and learn. Thanks.

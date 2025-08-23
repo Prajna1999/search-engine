@@ -1,0 +1,74 @@
+Title: Making Assessments Easier with Sashakt
+Author: Ninad Khanolkar
+Date: April 2025
+Category: Sashakt
+URL: https://projecttech4dev.org/making-assessments-easier-with-sashakt/
+==================================================
+
+Capacity building, training programs, and workshops form the backbone of growth and development within government and non-profit ecosystems. These initiatives are not just expenditures- they are strategic investments aimed at shaping the capabilities of employees, partners, and stakeholders.
+Yet, after every such session, one question lingers in the minds of the organisers:
+“Was it worth it?” –
+Did we achieve our objectives? Were the participants engaged? What impact did this session truly make?
+A successful intervention followed by the
+right assessment
+gives organisations the answers they need. It not only validates the effectiveness of their training investments but also empowers participants to reflect on their learning outcomes.
+Use Case – National Rural Livelihoods Mission (NRLM)
+NRLM
+is a flagship program in India aimed at
+reducing rural poverty
+by enabling economic and social empowerment of women through Self-Help Groups (SHGs) and other Community-Based Organisations (CBOs). Institutions like the
+National Institute of Rural Development (NIRD)
+and
+State Institutes of Rural Development (SIRD)
+play a pivotal role in designing and executing training content for these members.
+While training programs for NRLM are extensively designed, data on training effectiveness and impact remains
+underutilised
+, leading to inefficiencies in budget allocation, curriculum design, and training implementation. With a vast membership of nearly
+10 crore women
+under the aegis of NRLM, there is an urgent need to streamline data collection,
+improve training efficiency
+, and ensure capacity-building efforts are outcome-driven.
+Missing Piece
+While supporting training efforts for officials of
+NRLM
+, Veddis Foundation, a leading non-profit working at the intersection of technology and governance-faced this recurring challenge:
+There was
+no robust, flexible, open-source tool
+available to conduct fair and effective assessments at scale.
+Existing solutions were either too rigid, expensive, or not aligned with the needs of mission-driven organisations.
+Our answer – Project Sashakt
+In response to this gap, we at
+Project
+Tech4Dev
+are collaborating with Veddis Foundation and Avanti Fellows
+to build a
+generic, open-source assessment platform
+-one that could be used by any organisation to create, customise, and conduct assessments with ease.
+Project Sashakt is meant to be a highly adaptable and open-source assessment tool designed for non-profits and government bodies to evaluate the impact of their training  programs and enhance decision-making through data-driven insights.
+Our goal is to make this a
+Digital Public Good (DPG)
+, so that it can serve multiple stakeholders. Open access to the platform would enable cross-sector collaboration and contribute to a larger ecosystem of knowledge-driven governance reforms.
+What can Sashakt do?
+Configure multiple question types (MCQS, open-ended, ratings, etc.)
+Tag and classify questions based on topics, skills, or regions and more
+Combine questions into custom assessments, tests, and  quizzes
+Save assessments as reusable templates or deploy them directly to participants
+Allow candidates to participate anonymously or via registration
+Collect and analyse data to generate meaningful insights
+All this is wrapped in a
+minimalistic, user-friendly interface
+, mindful of the diverse contexts in which it may be deployed, from grassroots NGOs to state-level institutions.
+Sashakt: Test-Taker Interface
+What’s Next?
+We’re currently in the
+development phase
+, and our team is working hard to release the first version of the platform soon. With Project Sashakt, we hope to make assessments easier, smarter, and more accessible for everyone.
+At
+Project
+Tech4Dev
+, we believe that when assessments are simple and insightful, impact becomes measurable; that’s when real change begins.
+Access the code repository for Sashakt
+here
+Access the documents for Sashakt
+here
+.

@@ -1,0 +1,84 @@
+Title: Lakeer Project Update  June 2019
+Author: Kurund Jalmi
+Date: June 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/lakeer-project-update-june-2019/
+==================================================
+
+The
+past three months have been immensely productive for us at
+Lakeer
+.
+Thanks to Soft Corner for developing with us our products, and
+to
+Tech4Dev
+for
+the immense support and frequent follow-ups. Here?s a quick update
+on what we have been up to:
+Product
+1- QGIS plug-in for CitySight:
+Soft
+	Corner has
+	closely worked with us and developed a QGIS plug-in for us which is
+	currently connected to our CitySight?s staging database and loads
+	all the layers on the platform on to QGIS. The user of the plugin,
+	with authorized credentials, can connect to CitySight?s database
+	and look at all the available datasets on the CitySight?s
+	platform, select the desired layers and load them on QGIS. This
+	enables users to utilize QGIS? functionalities in CitySight.
+Amar
+	and team are working on the second part of the plug-in which will
+	allow the user to not just download layers from the database, but
+	also push analyses results from QGIS to the CitySight platform and
+	also specify the category and service (the hierarchical location of
+	the dataset) for such dataset while doing so. This plugin will help
+	us reduce the high costs of uploading individual datasets on to the
+	server.
+Product
+2- City-Reporter:
+Soft
+	Corner and Lakeer have built the first version of our City-Reporter
+	tool. The tool helps to report data stories for urban issues like
+	public transport, housing, climate change, etc. City-reporter so far
+	can:
+Help
+	build basic data stories on urban issues. Each story built on the
+	platform will consist of multiple sections in the form of text,
+	interactive map, media, embedded content, or a combination of any
+	two of these.
+CityReporter
+	allows users to pull specific analyses made on CitySight to augment
+	the data stories they are building. This helps tell a story
+	spatially across the city.
+The
+	stories created can be shared on social media platforms of LinkedIn,
+	Facebook, and Twitter. This helps readers to share the stories with
+	the larger citizenry.
+The
+	platform also allows a comments section at the end of each story,
+	the comments in which can be later approved by the admin.
+We
+	had a user training session with Soft-Corner where they trained our
+	team on working with all the features of the reporting tool.
+The
+	reporter tool has been deployed on the server and we are working on
+	building more test stories on the platform.
+Pradnya
+and the entire Soft Corner team have been immensely supportive
+throughout the development process and have closely interacted with
+us and made this progress possible.
+This
+week is very crucial for us as Soft Corner would be handing us over
+the city-reporter tool. We are still working on some minor changes
+and testing all the features.
+Click
+here
+and
+here
+for
+the previous two updates on our products.
+Rajesvari
+Parasa
+Program Manager
+Lakeer
+Foundation

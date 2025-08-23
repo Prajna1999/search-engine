@@ -1,0 +1,112 @@
+Title: Maximising Impact: Ummeed & Dalgo’s Approach to Data-Driven, Trans-Disciplinary Clinical Care
+Author: Pratiksha Rao
+Date: April 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/maximising-impact-ummeed-dalgos-approach-to-data-driven-trans-disciplinary-clinical-care/
+==================================================
+
+Ummeed Child Development Center serves children with and at risk of developmental disabilities. There are over
+50 million children
+with disabilities in India. Early identification and timely intervention has long term positive outcomes for the child, which doesn’t happen in India and their voices go unheard. When they do happen, interventions tend to focus on making the child “normal” and fixing deficits rather than leveraging strengths and supporting what the child needs, to be able to participate in life like all children.
+Ummeed’s vision is that all children with and at-risk of developmental disabilities reach their full potential and are included in society. Serving approximately
+15,500
+children through over
+152,000
+clinical sessions and training over
+11,200
+professionals, Ummeed has indirectly impacted around 560,000 children and families across India and other low- and middle-income countries.
+As Ummeed expanded its services, the organization faced challenges in unifying data across its Clinical Management System (CMS) and Training Management System (TMS). Dalgo’s intervention aimed to integrate these systems, enhancing data accessibility, operational efficiency, and the ability to deliver holistic care.
+Ummeed’s Work
+Established in 2001, Ummeed Child Development Center (
+www.ummeed.org
+) has, through its “family-centred approach”, been providing direct and indirect services to enable the participation, empowerment, and inclusion of children with developmental disabilities and their families in society. This has been done through:
+Direct clinical services
+– including diagnosis and therapy services – at Ummeed’s center in Lower Parel, Mumbai. These services have over time expanded to include an early intervention center (EIC) to help disabled children become school ready, caregiver training to build their knowledge and skills, and a family resource center (FRC) as a way for families to support other families in their life journeys.
+Training and capacity building for professionals
+– doctors, therapists, teachers, and community workers – through short-term and long-term training to expand their knowledge and skills related to child development and disability intervention. These programs now have a reach across almost every state and union territory, and have led to partnerships with other organizations, certificate courses run in collaboration with universities, and government engagements.
+Research
+to gather and disseminate data and evidence that is clinically sound and culturally relevant.
+Building awareness
+to change societal attitudes, reduce stigma, and build allies.
+Over the next 5 years, i.e., over 2025-2030, Ummeed will build on this work so as to focus its impact on three key ecosystems that disabled children and their families rely on heavily – Healthcare, Schools, and Communities (with a specific focus on inclusive early childhood development). The goal is to shift these ecosystems to become more supportive and inclusive of children with and at risk of developmental disabilities and their families – so that they can reach their full potential and be included in society.
+Ummeed’s Data Needs
+As can be seen above, Ummeed serves children with and at risk of developmental disabilities and their families via the clinic. Professionals working with them such as doctors, therapists, teachers, community workers, receive training and capacity building services from Ummeed.
+Families may avail multiple services under these different initiatives – e.g., clinical sessions, services of the Family Resource Center, as well as caregiver trainings. Likewise, professionals who attend Ummeed’s training programs may be serving some of Ummeed’s existing families or may refer children and families to Ummeed for clinical or Family Resource Center services. Thus, there are clear intersections between Ummeed’s various programs, and this is intentional given the need to bring about systemic change.
+However, Ummeed’s technology solutions are siloed. The clinic uses a Clinic Management System (CMS) for patient registration, appointment scheduling, and patient records (more than
+15,500 unique patient records
+and
+150,000 clinical sessions
+). The training and capacity building vertical uses a Training Management System (TMS) that contains training scheduling and participant registration information (more than
+14,000 unique participant records
+). The information from these two systems do not interact with each other.
+While the integrated interventions provided for the child, directly via the clinic and indirectly via training of professionals and caregivers, have a compounding positive effect on the child’s development – the segregated data from the CMS and TMS makes it hard to combine and trace the journey of the child and family served by Ummeed’s work. To be able to unify the data and analysis across these program verticals, Ummeed needed to enable a Data and Insights practice using data analytics technology, process transformation, and deeper competencies in analytics and automation.
+How Data is Currently Used
+Track and Resolve Issues Across Programs:
+Monitor, track and address challenges arising in both clinical services and training programs.
+Ensure Accountability and High-Quality Service Delivery:
+Access real-time information on session conducted and trainings held
+Analyze Trends and Patterns:
+Understand the trends in terms of children seen and participants trained across a time period to optimize resource allocation.
+Generate Comprehensive Reports:
+Provide stakeholders with insights into program effectiveness and areas for improvement.
+Monitor Statistics and Take Action:
+Make data-driven decisions based on output and outcome indicators.
+Challenges in Data Use
+Despite having finely tuned Data Collection systems, Ummeed faced significant data-related inefficiencies:
+Manual Data Processing:
+Combining data from both systems required extensive manual effort, increasing the risk of errors and consuming valuable staff time. The manual data cleaning, transformation, and upload/sharing process took up multiple hours of a dedicated full-time resource and was prone to a high risk of errors.
+Versioning & Documentation Gaps:
+Lack of structured documentation and version control made it difficult to understand and roll back changes, collaborate with others, and retain knowledge through changes in staffing.
+Siloed Data Systems:
+The CMS and TMS operated independently, hindering a unified view of a child’s journey and the overall impact of integrated services.
+Limited Data Accessibility:
+Staff had difficulty accessing real-time, comprehensive data, impacting decision-making and timely interventions.
+Scalability Concerns:
+The existing data infrastructure was not equipped to support Ummeed’s plans for systemic change across healthcare, education, and early childhood development ecosystems.
+These challenges led to reduced operational efficiency, delays in decision-making, and difficulties in tracking clinic & training trends at scale.
+Dalgo’s Intervention
+Ummeed partnered with Dalgo to integrate and automate data processing across its CMS and TMS, revolutionizing data management and utilization.
+The Dalgo Team collaborated with Team Members from Ummeed including Vinodhini, Cherian, Ninad and Vikrant to implement a solution taking into consideration their needs.
+Dalgo implemented a system that
+Integrated & Automated Data Systems:
+Unified CMS and TMS data, with automated pipelines, providing a hassle-free yet holistic view of each child’s interaction with Ummeed’s services.
+Enhanced Data Accessibility, Quality and Collection:
+Provided real-time, comprehensive insights to all stakeholders. Enabled monitoring of Data Quality through elementary to correct data collection issues at the source, and identified and fixed gaps in data collection.
+Has Completely Customized, Scalable Dashboards with documentation:
+Customized, scalable dashboards with relevant charts that monitor key indicators and answer key questions, customized filters and aesthetics, segregated by program, with row-level and program-level access. Also Implemented structured version control and documentation, ensuring efficient management of future updates and expansion.
+Manual Process Before Dalgo
+Automated ELT Process After Dalgo
+CMS and TMS Data is synced to Dalgo Weekly automatically > stored in postgres warehouse.
+Dalgo runs DBT Transformations on the data once the data has been pulled in.
+Superset Dashboards update with the new data.
+Impact on Ummeed’s Operations
+Dalgo’s automation significantly enhanced Ummeed’s operations at multiple levels:
+“The introduction of the dashboard has been a game-changer for our team. It has significantly reduced the time spent on compiling data manually, allowing us to focus more on analysis and decision-making rather than repetitive tasks. Earlier, creating reports required pulling data from multiple sources and cleaning it manually – a process that was not only time-consuming but also prone to errors. With the inbuilt data transformations in the dashboard, the data cleaning process has become much more streamlined and efficient. Overall, it has improved our workflow, enhanced data quality, and empowered us to respond more quickly and confidently with insights.” – Vinodhini Umashankar, Associate Director – Monitoring & Evaluation
+Operational Dashboards for the Clinic and Training Programs:
+The automated dashboards have empowered program teams to make data-driven decisions focused on improving efficiency. This has also eliminated manual data handling, freeing up resources to focus on higher-value tasks.
+These tools support optimal resource allocation, ultimately enhancing services for children, families, and professionals. Additionally, the Monitoring and Evaluation team uses the dashboards to track progress, identify mission drift, and provide regular updates to donors and management.
+Child’s Journey Mapping:
+By integrating various data sets, Ummeed has been able to map the comprehensive, multi-disciplinary services accessed by each child and their family. This aligns closely with Ummeed’s transdisciplinary approach to care. Clinicians now gain a holistic view of a child’s journey at the time of consultation, allowing them to deliver more informed guidance and connect families to appropriate services for optimal outcomes.
+Way Forward
+By leveraging Dalgo’s expertise in data integration and automating data insights, Ummeed has transformed its operational efficiency, improved decision-making, and enhanced its ability to deliver holistic care. This case study exemplifies how technology-driven solutions can empower organizations to create lasting social change.
+In the coming years, Ummeed plans to:
+Integrate Advanced Analytics:
+Build more sophisticated data models that will allow Ummeed to better understand and visualize the journey of the child through its various services and thus improving program outcomes.
+Expand Systemic Interventions:
+Turn consolidated data into actionable insights that improve outcomes for children and families across the ecosystems
+Integrate Interventions to Understand Child Outcomes:
+With better understanding of the journey of the child Ummeed hopes to integrate the information with child development outcomes. This will prove to be a valuable evidence base that early identification, timely intervention, and trans-disciplinary care collectively influence child outcomes.
+Advocate for Data-Driven Policies:
+Collaborate with government and other stakeholders to promote policies supporting integrated data systems in child development services.
+Get in Touch
+For organizations interested in similar automation and data-driven decision-making solutions, contact us at support@dalgo.in or explore our work on GitHub and YouTube.
+Read more about Ummeed’s work here
+Website –
+www.ummeed.org
+Annual reports –
+About Us | Ummeed Child Development Center
+Developmental Disabilities India –
+Developmental Disabilities India – YouTube
+Instagram –
+Ummeed Child Development Center (@ummeedcdc) • Instagram photos and videos
+Donate to Ummeed – Giving | Ummeed Child Development Center

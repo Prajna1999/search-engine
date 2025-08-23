@@ -1,0 +1,32 @@
+Title: Design to Development Journey – GiveIndia.org
+Author: Kurund Jalmi
+Date: June 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/design-to-development-journey-giveindia-org/
+==================================================
+
+“Well begun is half done”  – This is very true in case of project execution as well. We,
+Think201
+believe in starting off on a right note to ensure the rest of the project journey is nice & neat.
+Currently, we are in the development phase of the Data Collection & Reporting Project which we are doing for GiveIndia.org (
+read here
+). Our previous step,
+design phase
+, had a good impact on streamlining thoughts, ideas & finalizing at what we are looking at as an end product. We finished designing screens for all roles which is an
+interactive link
+depicting the final product outcome much before the product was built.
+The interface was then shared with the GiveIndia team as well to gather initial feedback & comments from the NGO teams who are our end-users of what we are developing. The early feedback helped in altering a couple of screens in the design phase itself & also gave us an insight that we are headed in the right direction.
+The interface designs became a guiding tool to the GiveIndia team too to design APIs to return the response of what is just needed.
+Current Project Progress Updates
+We took a UI (front end development) first approach to develop the screens designed across roles & booted the application. The application now has screens developed & tied together using internal APIs which matches the response structure. We pivoted to this approach so that we can make the best utilization of time & make the whole process efficient. Our team is marching ahead in developing all the screens & also towards building PWA.
+Our constant weekly meetings are helping us to exchange any queries/ updates without any hindrance which has kept the momentum of the project going on.
+What we plan next?
+We plan complete frontend development & move towards API binding (which will be coming from GiveIndia team) .We are also looking at Automation testing for the platform which involves UI Automation Testing  & API testing.
+Very soon, we will be making the application live in a staging environment & make it available to others to have a look at it.
+Technology Stack Used
+One major pivot which happened was in the choice of frontend technology. We switched to React from AngularJS since other applications that exist (at GiveIndia) are all built on NodeJS & React.
+React – For FrontEnd Development
+NodeJS – For Backend ( APIs, provided by GiveIndia)
+SailsJS – For intermediate Post APIs which we will be developing
+Mocha Framework, Protractor – For Automation Testing
+Stay tuned to learn more about project progress updates

@@ -1,0 +1,48 @@
+Title: My Experience at AALI
+Author: Mohd Shamoon
+Date: November 2023
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/my-experience-at-aali/
+==================================================
+
+Introduction:
+For individuals engaged in remote work, maintaining discipline can prove challenging. Personally, I found it increasingly difficult after some consecutive days confined to my home without much external interaction.
+Upon discussing my need for a change with Erica and Lobo, they suggested the idea of working from one of our partner NGOs’ offices. This would not only allow me to diversify my work environment but also provide an opportunity to contribute to the NGOs’ activities and gain insights into ground operations. Despite Lobo extending this offer multiple times before, I hadn’t considered it seriously until now, and I decided to seize the opportunity.
+Choosing AALI:
+Lobo provided me with a list of NGOs affiliated with the Dasra network in Lucknow, and after reviewing my options, I chose AALI primarily because of its proximity to my home and the commitment to women’s rights aligned with my interests, making it a fitting choice. Recognizing the effort involved in arranging this option for me, I committed to dedicating my time for two to three months, working three days a week. This arrangement allowed me to contribute meaningfully without overcommitting, considering the uncertainties of my workload and schedule.
+Initial Impressions:
+On November 1st, I stepped into
+AALI
+for the first time. Welcomed by Sonali, she gave me a tour of the office, introducing me to the dedicated teams working towards women’s empowerment. I really liked the room I was being assigned. It was a room filled with books, creating a conducive work environment.
+Understanding AALI’s Mission:
+I met with Renu, the Executive Director of AALI, who provided insights into AALI’s mission, revolving around three key strategies: Access to Justice, Active Citizenship, and Addressing Knowledge Gaps for women. AALI’s ideology resonated with the powerful quote: “Feminism isn’t about making women stronger. Women are already strong; it’s about changing the way the world perceives that strength”
+by G.D. Anderson.
+At the end she said: Yahan aaye ho to aadha lawyer to hum tumhe bana denge. If you have come here in our midst, we’ll mold you into half a lawyer, which I am hoping that I become more aware of our laws.
+Engaging in Educational Sessions:
+During the initial days, possibly on the first or second day, there was a session organized for psychology students from Lucknow University, which I attended. The focus of the session was to elucidate the provisions of the POCSO Act, enacted in 2012 following the Nirbhaya case.
+The session delved into intricate details, explaining the components of the law, the various categories of sexual offenses under POCSO, and the corresponding punishments. It emphasized the importance of clarifying the law’s language to understand it better.
+Living in a seemingly blissful world can sometimes blind us to the harsh realities of society, prompting contemplation on how to contribute to its improvement. In a room filled with girls, a poignant moment arose when the question about experiencing harassment was posed, and to everyone’s dismay, each had a story to share. This stark realization prompts reflection on the state of our society.
+Amidst this, Renus words served as a source of encouragement. Her advice to confront such situations boldly, delivering a resounding slap metaphorically, resonated stronglymaking it clear that silence only emboldens wrongdoers.
+Furthermore, the session shed light on inheritance laws, revealing that I have an equal right to my grandfather’s property, akin to my father’s entitlement. (I dont know why I remember this)
+Other engagements:
+They actively organize awareness sessions in multiple states to ensure that women are well-informed about their rights. The office sees a daily influx of individuals seeking discussions on pertinent issues. From my perspective, it’s evident that the team is wholeheartedly dedicated and exerting every effort to address these crucial matters.
+Contributing Beyond Tech:
+Feeling a sense of responsibility to contribute more than just occupying space, I offered assistance beyond my core expertise. From troubleshooting hardware issues to editing videos using iMovie, I found ways to actively support AALI’s ongoing initiatives in some way.
+AALIs 25th Anniversary Event Day Reflections:
+I was entrusted with the role of Technical Support for the event, overseeing the setup of presentations and ensuring everything ran smoothly. This responsibility granted me front-row access to each presentation, allowing me to absorb the impactful moments of the day.
+While I won’t delve into the exhaustive details of the event, I want to spotlight a few key moments that left a lasting impression:
+Naghma Mulla (CEO, Edelgive)
+addressed the pervasive issue of sarcastic jokes directed at women. She eloquently recounted instances where she encountered stereotypes, such as assumptions about women’s proficiency in mathematics or their ability to drive. Her insights shed light on the prevailing biases that women face.
+Jab mai CA karne gayi tab mujhe pata chala ki ladkiyon ko math nahi aati
+Jab mai car chalane gyi tab mujhe pata chala ki ladkiyon ko car chalana nahi aata.
+Social sector me aayi h to aaram wala kaam karne aayi hogi
+Renu Mishra (Executive Director, AALI)
+passionately advocated for allowing women the choice to be seen as individuals rather than being confined to societal expectations of either being deified as goddesses or relegated to the status of servants. Her call for recognizing the inherent humanity in women and according them the respect they deserve resonated deeply.
+Hame ya to devi bana diya jaata hai ya daasi. Hume insaan hi rehne do aur insanon ka darja dedo
+Renuka Mishra (DG-Training)
+shared poignant accounts of the challenges women encounter in police services and her proactive efforts to improve conditions within the system. Her commitment to driving positive change in a traditionally male-dominated field was truly inspiring.
+Tulika Srivastav’s (founder, AALI)
+dedication to creating a safe and supportive space for women to share their experiences was commendable. Her initiative in establishing AALI reflected a commitment to empowering women through open dialogue.
+Additionally, I was struck by the recurring theme of women acknowledging the pivotal role of their fathers in their journeys. It reminded me of the ongoing debate in my own home about parental affections, with some playfully asserting that fathers favor daughters and mothers favor sonsa dynamic that seemed to transcend cultural boundaries.
+Conclusion:
+After a month at AALI, I am inspired by the dedication of the team and their commitment to uplifting women. Moving forward, I aim to explore additional ways to contribute through the initiatives of Tech4dev. This experience has not only broadened my understanding of social issues but also strengthened my resolve to be part of positive change.

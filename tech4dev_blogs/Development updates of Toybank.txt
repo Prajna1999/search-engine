@@ -1,0 +1,44 @@
+Title: Development updates of Toybank
+Author: Kurund Jalmi
+Date: October 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/development-updates-of-toybank/
+==================================================
+
+Odoo implementation dropped?
+The initial engagement with Odoo for implementing the Inventory Management for Toybank helped us to understand,
+Odoo system is hard to understand and use because of complex workflow and usability issues.
+Issues faced like having multiple steps to perform tasks such as adding inventory, multistep request approval process, etc…
+Toybanks main requirement for generating toy requests is based on the category of toys i.e allocating the toy categories instead of individual toys.
+We didn?t find any freely available inventory system which fit with Toybank requirement.
+So considering these issues/requirements and based on discussion with the client we collectively taken a decision to drop the Odoo implementation and look for another solution that best suits the core requirement.
+We decided to use Drupal
+Drupal 8 –  a leading open-source CMS
+Features of Drupal 8
+Open-source CMS
+Page layout customization
+Custom content types and content listings
+Custom modules
+Various access control restrictions (user roles)
+Third-party contributed modules and themes to extend or override Drupal’s default behaviors without changing Drupal core’s code thus increasing flexibility
+Due to the above features and flexibility in code customization, Drupal 8 is finalized.
+Since this was custom development we created mockups for various workflows for Toybank.
+Mockup creation – balsamiq.cloud
+As per the requirement of Inventory Management System for Toybank we have created the Mockups using
+https://balsamiq.cloud
+.
+We made use of the Balsamiq wireframe to create a visual guide for the client to better understand what they are going to be seen and experienced and can judge if the solution adequately addresses their needs.
+After finalizing the mockups we were started the actual development of a fully customized Inventory Management System.
+Gitlab Project Management System – To track the project updates
+We are using Gitlab based PMS system to keep track of development work. It has the capacity to help plan, organize, and manage resource tools and develop resource estimates. Depending on the sophistication of the software, it can manage estimation and planning, scheduling and resource allocation. Added and assign tasks to each team member on a daily basis into the tracking system. which keeps Consistency of flow.
+Current status of the project
+We have implemented the following functionality:
+User Management
+Play Centers Management
+Administer various masters
+KBIs, Partner, Cluster, Source/Pickup, etc…
+Inventory workflows
+Key workflows: Request generation, Auditing
+Challenges faced
+The main road blocker of the system was generating a game request on behalf of the play center due to its complex flow and making it user-friendly. To tackle this, we provided a customized form that is simpler and easier to use in terms of UI and functionality. This was implemented using a custom drupal module specific to this project.
+As of today, the majority part of the project is mostly done, except for the reports.

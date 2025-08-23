@@ -1,0 +1,59 @@
+Title: Reflecting on 2024: A Year of Growth and Gratitude
+Author: ericamiglani
+Date: December 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/reflecting-on-2024-a-year-of-growth-and-gratitude/
+==================================================
+
+2024 in Review
+As we close the year, I find myself reflecting not just on the milestones we have achieved at Project Tech4Dev, but on the heart and soul of the organization—our people, our culture, and the shared values that guide our work every day. This year has been one of growth, transformation and learning, and I am filled with immense pride and gratitude for all that we have accomplished together as a team.
+Key Milestones and Achievements
+This year felt like a big step ahead in building the tech ecosystem we envision for the social sector.
+One of the standout moments of the year was the
+Glific
+Accelerator, where we brought 25 NGOs on board in just two days. The success of this initiative has led us to make it an annual program 2025 onwards!
+Dalgo’s
+10-hour Proof of Concepts (POCs) was another good experiment tested in the year. This initiative allowed NGOs to experience the potential of the platform firsthand by working closely with the Dalgo team, enabling them to make more informed decisions before signing up.
+Avni
+piloted a self-service model aimed at reducing onboarding costs for NGOs with limited budgets. By trying to address the affordability barrier, Avni is aiming to open the platform to more organizations, encouraging inclusivity and accessibility.
+Our
+Fractional CxO (fCxO) advisory program
+launched an internal tech support team to accelerate NGO project implementation. This allowed proposed suggestions from the fCxO to be put into action without delay, while NGOs simultaneously worked on building their own tech capacity with the fCxO’s support. The pilot successfully resolved previous delays in executing these suggestions, which were caused by limited capability and capacity within NGO teams. Building on this success, we are now investing in building a fractional tech team in-house to provide ongoing support for fCxO engagements.
+I feel happy with the data-driven approach behind these pilots, each of which emerged from the challenges we observed on the ground.
+Another key milestone was the
+Data Catalyst Program
+, run in partnership with Dasra and Goalkeep. This year, we piloted a new, more engaging format by awarding a sum of money to the most promising data pitch from the participating twelve NGOs to enable them to implement their idea. This initiative not only enabled innovation but also added excitement and competition. The results from this program have encouraged us to make it a regular feature every year. We are now exploring ways to scale it further, bringing in more NGOs while ensuring each one receives the same level of attention and mentorship.
+This year, we launched the
+Chai Pe Charcha
+initiative to connect with local NGOs near our quarterly sprint locations. The idea was simple: while our team works together in various locations for a week, can we also foster community, promote peer learning, and understand the tech challenges faced by nearby NGOs? We also aimed to raise awareness of the tech ecosystem available to them, including the opportunity for some to receive pro-bono tech and data advisory from our fCxOs. We’re excited about the learning environment we’ve cultivated in the past two sprints and plan to continue this initiative in 2025.
+The
+Tech4Impact CTO Convergence
+event, held for the first time at the beginning of the year, brought together tech leaders across nonprofits with the aim to create a supportive network for CTOs of NGOs. We wish to continue it annually, with the hope that in the future, the community will take ownership and lead the initiative.
+Culture and Values—The Heart of Tech4Dev
+One of the most meaningful milestones this year was the collective effort we put into defining our organizational values and culture. Through a deeply introspective process, team co-created six core values that define who we are:
+Social Impact Focus, Trust, Collaboration, Excellence, Openness and Innovation
+. These values are not just words but principles we live by every day, shaping how we interact with each other and our partners.
+Continuing this path of growth, we underwent a re-branding exercise this year. We launched a fresh new logo and a redesigned website that better reflects the essence of our work and the impact we strive to create. The new look captures the energy, innovation, and focus on community that lie at the core of Project Tech4Dev.
+This year, we also introduced several employee-friendly policies aimed at fostering a healthier work environment. From no-call days that promote focused working hours for the team to dedicated learning and development budgets and home-office setups, we prioritized creating an environment where our team thrives. Our employee engagement survey reaffirmed this – scoring 3.19 out of 4 in overall employee satisfaction, with 3.39 out of 4 reflecting the autonomy our employees feel in making decisions. 97% of our team reported feeling valued, which is a testament to the culture we have built together.
+Our Growing Team
+and Community
+This year, we welcomed 10 new members to the Tech4Dev family taking us to a solid 35-member team. In addition, nine team members celebrated their work anniversaries, while two marked their second year with us. Seeing this level of retention and growth fills me with immense gratitude.
+Beyond our internal team, the Tech4Dev ecosystem has also grown and we are now a community of more than 250 NGOs and partners – something that will continue to inspire and drive us forward
+As our platforms scale we have begun collaborating with partners such as 10x Impact Labs, SocialBytes, Dhwani RIS to extend our reach and support to NGOs
+Strengthening Governance and Leadership
+A key highlight this year was the strengthening of our executive board. We are delighted to welcome Ntefeleng Nene and Rikin Gandhi to our board, joining the incredible Temina and Shilpa. Their collective wisdom and experience continue to shape our strategy and provide invaluable guidance. I am deeply grateful for their belief in our work and their constant push to challenge us and refine our approach.
+Equally instrumental has been our advisory board—Sanjeev, Arun, Kurund, and Nidhi. Their support and perspectives have been invaluable. This group of mentors is always just a call away, ready to offer guidance and support, and I consider myself fortunate to have them by our side.
+I would also like to extend my heartfelt gratitude to our funders, both existing and new. This year, we were fortunate to welcome Fidelity Foundation, Azim Premji Foundation, Agency Fund, Cisco and a few others to our family of funders. Their belief in our mission and investment in our work has been pivotal in scaling our platforms and driving impact.
+Challenges and Focus for 2025
+While this year has been rewarding, it hasn’t been without its challenges. One of the areas we continue to refine is the onboarding process for new NGOs onto our platforms. Another critical focus will be hiring good talent, especially as we expand our AI and business development teams in India and Africa.
+Looking ahead, I am particularly excited about three initiatives:
+Grassroots Initiative
+– Developing light-touch tech solutions for grassroots NGOs to improve program efficiency and effectiveness.
+AI/LLM Platform(Mithril.ai)
+– Our under-development AI platform will explore how AI/LLM can transform NGO operations.
+Africa Expansion
+– We are ready to deepen our footprint in Africa, building on the foundation we laid this year
+Welcoming 2025!
+As we embark on this new year, we do so with fresh zeal and a clear direction. The foundation we have laid in 2024 will serve as a good ground for greater impact in 2025, and I am excited to see us continue to evolve and grow.
+To our team, funders, partners, and the broader ecosystem – thank you for walking this journey with us. Here’s to a year of innovation, collaboration, and transformative change.
+Wishing you all a joyful and prosperous 2025!

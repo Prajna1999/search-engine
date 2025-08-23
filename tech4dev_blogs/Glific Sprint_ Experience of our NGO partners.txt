@@ -1,0 +1,84 @@
+Title: Glific Sprint: Experience of our NGO partners
+Author: Kurund Jalmi
+Date: March 2022
+Category: Glific
+URL: https://projecttech4dev.org/glific-sprint-experience-of-our-ngo-partners/
+==================================================
+
+With the mission of interacting and working in person with our NGO partners, the Glific team organized a week sprint (28 Feb 2022 to 6 March 2022) in Mumbai.
+We asked NGOs to put down a requirement for a specific use case that they want to tackle and wrap it up by working together with us. We got a good response from the NGOs working and operating in Mumbai.
+Mukkamar
+,
+Bandhu
+,
+and
+Slam out
+Loud
+were one of them.
+It was a great experience to meet with
+Jacob
+from Bandhu,
+Ishita
+from Mukkamar
+,
+and
+Drashti
+from Slam out Loud during the sprint and work with them closely. It was surely an opportunity to understand the vision about their goals and the impact their making in society.
+I connected with them to get their views on Sprint and learn from their experience and suggestion with which we can make the next sprint better.
+Sharing the set of questions and their response to it below.
+Were your expectations and goals for the sprint met?
+Jacob
+–
+Yes, expectations were met and we made good progress on most of the tickets that we created for the Glific team. Other items were clarified, such as how to use webhooks, and some training was provided on what our team could do ourselves as we got more familiar with certain new/previously unknown features.
+Ishita
+–
+Yes, the expectations were met. We had the SOW laid out, out of which we could pick and choose. What worked (because of being physically present) was to modify the expectation basis complexity. Because we dont fully understand what is easy or tough to do on Glific, we come up with super complex things to do, which the Glific team was able to simplify and break into smaller goals, which allowed for a few things to get knocked off in a couple of days. If we tried to do this ourselves, we would have taken a much longer time.
+Drashti
+–
+We found the sprint to be really useful and what we haven’t been able to catch up on in the past 3 months, we were able to do that in a day. Looking forward to building robust systems for our programs.
+How was your experience working in person? Anything specific you want to share?
+Jacob
+–
+Very positive experience working with the Glific team, appreciated your patience and willingness to work one-on-one.
+Ishita
+–
+I really enjoyed meeting the team in person and putting a face to the names. Since we are going to be working on this program for a long time, it really helps to be in the same room and allows for richer exchange.
+Specifically, I think the last discussion, which was unplanned, around rewards and user motivation was very fruitful. Although it has not been put into action yet, it would be very useful to test with users. Often with competition and leaderboards, one has to be mindful of the disparity it creates, and hence, we think, if it works, the solution would be great for other NGOs too.
+Drashti
+–
+In the last 3 months, Slam Out Loud (SOL) has been working with Glific for building additional features on our Chatbot to develop dashboards and organize our student data. The meeting in Mumbai was to understand the progress on the developments and share about SOL’s programs for the upcoming year to align the Chatbot services to the program needs.
+We had the opportunity to discuss and work together for over 4 hours and that was very useful in identifying gaps in the dashboards and redesigning our flows to cater to program needs.
+Any suggestions for us going forward.
+Jacob
+–
+To prepare for the sprint, request that clients use a Kanban board as opposed to Google doc for submitting requests. Our doc ended up being very long and hard to track in some places. This will also help both teams scope out the time required for tasks, i.e. 3 hours per day, etc.
+Also related who is responsible for which change as the ticket/task is moving through the process. A few times it wasnt so clear to me whether I was waiting on the Glific team to complete something, or if I should be waiting for my team to make some change, so that cost us some valuable time during the week. This will also help in planning; our team does daily coordination meetings and can plan better for 2 scenarios:
+Before the sprint week, to plan the items that Glific will need from us to hit the ground running;
+During the sprint week itself, i.e. if Glific sets up a task on Monday and follow-up is needed from our team on Tuesday
+Ishita
+–
+My suggestions are mostly around community building and sharing. So I wouldve loved it if a couple of NGOs could have shared a meal together. Listening in to what others are doing would help everyone, and also help the Glific team, so you wont be repeating the same conversations with multiple stakeholders, assuming we all face similar challenges.
+Drashti
+–
+Review meetings like these could be really helpful, especially in the Development Phase. We would like to thank Pankaj; he has been our go-to person for all our queries and has consistently supported us through the development process. Looking forward to the next Sprint and building robust tech systems for our programs.”
+What will you tell other NGOs about the sprint?
+Jacob
+–
+Well worth it! The sprint accelerated our development process and is helping us deploy features much faster than otherwise.
+Ishita
+–
+Make time if you can. Dont worry about what a chatbot can and cant do, more often than not, if you imagine something crazy, the Glific team would find a way to make it possible. And l would look forward to meeting some of you in person too.
+In conclusion, The sprint gave us a possibility to work closely with our NGOs partner and understand their use-case a bit better, we shared lots of stories and thoughts at the lunch table 🙂 and something to take with us as learning. We are definitely looking forward to organizing these sprints more often and connecting with our NGO partners
+Thank you
+Ishita
+,
+Jacob
+, and
+Drashti
+for taking the time to share your experience, thoughts, and suggestions. They really mean a lot to us. We will surely learn from these and try to be better in the next sprint.
+FYI: Our next sprint will be in the week of April 11th in the Delhi / Gurugram area. Let us know if you are interested in being part of the sprint.
+Glific team has also shared their experience working with NGOs in these blogs. Please do give them a read as well.
+Spring Sprint at Glific  Abhishek Sharma
+Spring Sprint with Mukkamaar  Akhilesh Negi
+9 packed days in India with Glific, Amazing NGOs and the Sharanam Women – Lobo
+Glific Sprint  An opportunity to connect with NGOs  Mohd Shamoon & Vivek Amola

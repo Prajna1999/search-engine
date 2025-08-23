@@ -1,0 +1,59 @@
+Title: How an NGO Field Visit also became a Masterclass in Radical Candor
+Author: Krishna Priya Dwibhashi
+Date: April 2025
+Category: Glific
+URL: https://projecttech4dev.org/how-an-ngo-field-visit-also-became-a-masterclass-in-radical-candor/
+==================================================
+
+Three months ago, Radhika gave me a book on people management —
+Radical Candor
+. I’ll be honest — I judged the book by its title. I assumed it would be full of dense theories that would go over my head. But to my surprise, it’s packed with powerful and practical concepts. The core idea of “Radical Candor” intrigued me so much that I’ve been talking about it with anyone who’ll listen.
+Little did I know that I would witness Radical Candor in action — up close and personal — in the most unexpected place and from the most unexpected person: during a recent community visit with SNEHA NGO in Mumbai, through a community organizer (CO), a frontline health worker. That experience truly showed me how impactful Radical Candor can be, reinforcing its importance.
+But before I dive into what Radical Candor is (for those unfamiliar with the concept), let me first share a bit about the field visit that led to this reflection & many others.
+For the last seven months, I’ve been working as a Fractional Product Manager with
+SNEHA
+, a Mumbai-based non-profit organization focused on improving the health and well-being of women, children, and families in urban informal settlements. I’ve been supporting their team with capacity building, implementation, and planning for a Chatbot pilot in two areas to improve information-seeking behavior related to maternal and child health.
+As part of launching the Chatbot pilot, I visited the Malwani and Bhiwandi SNEHA offices to induct their community organizers (COs) — explaining the what, why, and how of the pilot so they could onboard women (users) onto the Chatbot. Since the Malwani CO induction was scheduled for the second half of the second day, I decided to tag along with a CO in the first half to see them in action and to better understand the community where we would be implementing the Chatbot.
+When I finally reached the Malwani SNEHA office (after many directions from Dishankita), I was a little surprised by what I saw. It was a humble setup tucked into a narrow lane of the community. I’ve visited quite a few NGO offices before, but had never seen a medium to big sized NGO office located
+within
+the community itself. Later, when I spoke with Shreya ma’am (their Associate Program Director), she explained that they chose this location because they didn’t want to miss anything happening on the ground (Sometimes, even the community domestic disputes & resolution take place in their office) — it helps them stay updated. I was deeply impressed and inspired by the team’s dedication.
+After waiting there for a while, I was introduced to Shahidunissa madam, a CO who has been working in the community for the past five years. She is responsible for around 400 households, where she engages with families on a range of topics such as menstrual health, family planning, maternal health, childcare during the first 1,000 days, domestic violence, and more.
+As I started walking with her through the community, going from one house to another, she was greeted by almost every second person. She exchanged casual conversations — checking on their health, asking if they followed the advice she’d given previously, or why the child hadn’t gone to school that day. In just that short span of time, I could sense the deep bond she had formed with the community — the kind that makes families see her as one of their own. When I shared this observation with her, she responded with a big, happy smile and said,
+“Haan madam, main agar do din bhi nahi aati hoon, toh mujhe call aajata hai — poochhte hain kya ho gaya didi, tabiyat toh theek hai?”
+I accompanied her to around five or six houses as she went about her routine work—doing anthropometry checks for ANC cases and other monthly follow-ups. I mostly observed in silence, watching how she engaged with each household.
+In just those few hours, I was exposed to a wide range of issues some of which I have never seen/ heard first hand—stories of domestic violence, tobacco addiction, a two-year-old child hospitalized due to underdevelopment, unemployment, water problems and young pregnancies.
+But it would be unfair to only highlight one side of the story. I also heard powerful stories of resilience, hope, and care—a single mother doing everything she can to ensure her son gets a good education; a kind-hearted woman caring for her neighbor’s sick child;
+Sanginis
+who step in and report violence when they witness it in the community; and volunteer who has offered their homes to serve as condom depots—something that’s far from easy in such a close-knit and conservative community.
+As I returned to the office, my mind was full of everything I had seen and heard. While I had a few personal reflections—on privilege, equity, and the ripple effects of systemic issues (thoughts for another day)—this field visit strongly reinforced the importance of truly understanding the nuances of ground realities: people’s needs, wants, fears, limitations, aspirations, and beliefs, before we even begin to think about solving their problems.
+It’s easy—and even satisfying—to design quick solutions from a distance, assuming things work the same way everywhere. But how terribly wrong I would have been if I had assumed that early morning messages would work (P.S. – we weren’t doing this), just because people elsewhere start their day early. I would have completely missed the fact that, in this community, many women wake up at 10 or 11 a.m. because they get water only between 11 p.m. and 2 a.m., and end up sleeping late after finishing household chores. That’s something I wouldn’t have known unless I had visited or asked the team—because it’s not how things work where I live.
+This visit also reminded me of the importance of staying consistently connected with program teams—asking questions, listening to their feedback and understanding their perspectives—because they know the community best.
+Most importantly, it underscored the responsibility we carry while building the chatbot for them (especially the AI-generated responses), since it’s being positioned as the digital version of a CO—a “SNEHA didi.” We have to make sure that the trust people have in their didis is not compromised.
+This field visit, in many ways, reminded me that it’s not enough to be a good Product Manager—I need to be a responsible one.
+And now, coming back to where I started—
+Radical Candor
+.
+For those who may not be familiar with the concept, Radical Candor is the ability to challenge directly while simultaneously showing that you care personally—without being aggressive or insincere. Simply put, it’s about giving honest and direct feedback, while maintaining empathy for the person on the receiving end. You can read more about the concept
+here
+to get a quick understanding.
+In almost every interaction CO Madam had with the women, I saw Radical Candor in action. She genuinely cares for the people she engages with—understanding their challenges, limitations, aspirations, and beliefs. While empathizing deeply with them, she doesn’t hesitate to give feedback that could help them improve their lives.
+Let me explain with a couple of examples-
+In her conversation with a woman who had continued fasting during Ramadan despite being pregnant (and many of them are usually high-risk cases), she gently but directly told her that she shouldn’t have done it, especially considering the well-being of her unborn child—and that even God would have understood, given her condition. She then immediately shifted the mood, saying, “What’s done is done,” and encouraged her to start eating healthy going forward. She explained the importance of a nutritious diet, pointed out the key nutrients missing from her current meals, and even enquired about her other children’s vaccinations and studies.
+In another instance, during a light-hearted chat with an older, fun-loving woman who was addicted to tobacco, she joked, “Don’t you want to see your grandchildren?” and “I would tell your husband not to give you any more money”—but then shifted gears to speak seriously, reminding about the risks of tobacco addiction. She recommended visiting a de-addiction center and even offered to explore alternative options like medication, since the woman wasn’t keen on going to rehab.
+In both cases, I saw the women listening to the COs with genuine attention and sincerity. And in that moment, it struck me—
+this
+is exactly what Radical Candor looks like. Shahidunissa Madam cared personally for the women while also offering direct, constructive feedback.
+If she had simply told the pregnant woman that her belief was wrong and she shouldn’t have fasted, it might have come across as
+Obnoxious Aggression
+. On the other hand, if she had avoided discouraging fasting out of respect for the woman’s beliefs, that too wouldn’t have helped either—
+Ruinous Empathy
+or even
+Manipulative Insincerity
+.
+Because she struck the right balance between
+caring personally
+and
+challenging directly
+, the women were not just listening—they were open, receptive, and possibly even ready to change.
+If you’re wondering whether this kind of approach leads to long-term change—oh, absolutely! After SNEHA’s intervention, the percentage of families practicing family planning in the Malwani community jumped from 27% to around 65%. I’m sure countless radically candid conversations like these happen every single day, often without even being consciously labeled as such.
+My respect for the SNEHA organization and their team has only deepened. I walked away from that visit feeling more inspired and more responsible—than when I arrived.

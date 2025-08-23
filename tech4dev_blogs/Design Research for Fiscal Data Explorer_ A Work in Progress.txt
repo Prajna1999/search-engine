@@ -1,0 +1,87 @@
+Title: Design Research for Fiscal Data Explorer: A Work in Progress
+Author: Kurund Jalmi
+Date: October 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/design-research-for-fiscal-data-explorer-a-work-in-progress/
+==================================================
+
+Exploring how Design Research can improve Access to Information & Civic-Engagement
+A
+Fiscal Data Explorer with Himachal Pradesh(HP)
+as the focus state is being developed in collaboration between
+CivicDataLab
+and
+Centre for Budget and Governance Accountability(CBGA)
+supported by Tech4Dev. Part of the experimentation driven development process at CivicDataLab is doing research as a means to connect the pre, during and post phases of the project. When we start a project we ask ourselves – ?What do we already know about who we are developing this platform for and how can we build on this knowledge?? We use research as a means to learn about how this newly developed artefact sits across the different user groups we have developed it for (usability and feedback) and at the end of the project research acts as a bridge to support what has been achieved and what will continue to be possible moving in this direction (outcomes and speculations).
+The Fiscal Data Explorer is one of its kind platform which aims to enable citizens to access budgets and spending data of their state government in an easy to comprehend and simple to use manner. This differs from the conventional approach of showing the state’s allocation and expenditure datasets on separate platforms making them look like separate concerns whereas they are essentially two sides of the same coin. For a project of this scale and vision, one can ask many questions (most of which can branch into their own research studies) right from what really is the fiscal literacy/curiosity in a given population to how well do certain kinds of data visualisations convey various kinds and levels of spending data that is made publicly available by the State.
+Research Objectives
+The
+Open Budgets India(OBI)
+platform was built in close partnership with CBGA and to a large extent reflects the concerns, ideas and possible solution pathways of the researchers at CBGA during its development. Given the limited possibilities of building on this we decided to test these assumptions and the platform in its current form with other organisations which work with public finance data and might have used the OBI platform at some point in the past year. The purpose of scoping the research this way was to meet the following objectives –
+Touch base with the potential expert users of the OBI platform to see what they feel about the platform.
+Understand how well the intentions of the team in building the platform translated into use by expert groups in terms of data discoverability and the actual features introduced on the platform.
+Familiarise ourselves with the workflow of the expert user to uncover opportunities and problem areas in public finance data that we could leverage/address in the Fiscal Data Explorer.
+Wherever possible discuss the opportunities and challenges associated with building the State-wide Fiscal Data Explorer.
+Planning and Execution
+Internal session on stakeholder mapping to understand various actors and their relationships
+Towards meeting these objectives a roadmap was created which can be viewed
+here
+. We identified around 20+ stakeholders at various levels including the state government, state specific NGOs, national research organisations which work with public finance data and have looked at HP before, national news media which have covered the state budget in interesting ways and so on. We reached out to them and managed to interact with the following organisations and/or individuals –
+Stakeholder Name
+Type
+Accountability Initiative
+Research
+CBGA
+Research
+Gungharmal, Former Panch
+Citizen, Shangarh – Kullu District
+HowIndiaLives
+Public Data Repository
+Labsingh
+Citizen, Bhuntar – Kullu District
+LiveMint
+News
+NewsLaundry
+News
+With each stakeholder, we roughly followed the following format of interaction –
+Introduction and demo of the OBI platform in its current state.
+Discussion about the unique features of the Himachal Pradesh public finance data platforms and the motivation behind creating Fiscal Data Explorer.
+Process Mapping of the stakeholder?s workflow related to Public Finance Data
+Suggestions and feedback for Fiscal Data Explorer and other efforts under OBI
+Workflow mapping of one of the partners interviewed for the study
+Outcome and Learnings
+On the synthesis of the interviews conducted with research organisations and media houses, we gained the following broad insights –
+The platform needs to find more effective ways to become more communicative about the data available on it. This calls for providing more process-related information about how figures are being calculated, assisting researchers in making sense of technical terms on the go and building checks and balances that ensure that laypersons don?t misread the data/make erroneous conclusions based on limited knowledge.
+Given that public finance data becomes more meaningful when understood at the sector level, the team should consider collaborating with sectoral experts to become a more reliable destination for answering sector-specific questions around budget data. This also calls for being transparent about the methods to arrive at these cohorts.
+The platform suffers from poor adoption due to the inconsistent outreach and advocacy efforts around it. This calls for a multi-channelled and focused strategy to increase platform adoption and usage among different user groups.
+The platform needs to start thinking seriously about how experts can leverage the data better for their purposes now that it has achieved the baseline goals of capturing and presenting the data. The insights about the workflow of expert users will help the team embed the platform use cases more deeply into the workflow of expert groups.
+Given our goal of being open about our efforts, there is a need for the same to reflect in the documentation and roadmap of the platform development on the platform itself so that it becomes open to criticism, suggestions and contributions from the wider community that will benefit from its development.
+Labsingh (M) shares his feedback about land use and farmer benefits in Kullu District
+While the team was already familiar with several of the insights mentioned above, the in-person interaction along with the mapping exercise provided further evidence which will help us prioritise these concerns into concrete user stories. A preliminary analysis of the interviews with two citizens in Kullu district revealed some interesting insights which will further inform understanding of the platform design –
+Citizens think and engage at very local scales – village, a cluster of families with similar interest (e.g. land holding, farming, crop insurance). Common concerns included primary and higher education, public healthcare and tourism.
+Despite having faith and confidence in the policies proposed by the State government there is a considerable amount of scepticism around the government?s ability to implement these while factoring in the ground level realities so as to benefit those who really need it.
+While it is good to have access to financial data, one citizen lamented that acting on it in some cases requires technical knowledge that they may not possess. For example, suspecting an anomaly in the Public Works Department’s spending how does one approach the department with evidence to back up the suspicion? Where will that evidence come from?
+Most conclusions or perceptions related to the availability of public funds and its use were based on anecdotal data rather than actual numbers. There did not seem to be any motivation to look for the actual numbers behind it. Often citizens felt that this ?data? seems to be circulating among powerful stakeholders including government and this enabled corrupt practices.
+The platform is best viewed on larger screens like laptops and desktop computers but most citizens are now more comfortable using mobile phones and own them in larger numbers compared to laptops or desktop computers.
+Although we only managed to do two detailed interviews it did get us thinking about how different the data needs are for researchers and regular citizens. Given the considerable difference in the nature of the interviews and the outcomes we will need to rethink our strategy to engage and collect more citizen perspectives on the platform and its use. It also calls for more participatory design approaches which may involve co-designing interaction possibilities with citizens directly (Botero and Saad-Sulonen, 2008) and using scenario-based design tools and drama to collectively speculate future narratives of the platforms (Brandt and Grunnet, 2000 & Halse et. al 2010).
+Heuristic Analysis of Himachal Pradesh?s existing platforms
+Besides the synthesis of the interviews, we also did heuristic analysis (based on
+Neilsen Norman group?s guidelines
+for the same) of the
+Himkosh
+and
+HP e-budget platforms
+looking at the aspects which overlap with the use of Fiscal Data Explorer. This resulted in the identification of 8-9 violations in each tool which will be shared with the respective departments along with recommendations. The usability reports for District Disbursement Officer (DDO) Query, DDO Receipts Query and eBudget can be accessed
+here
+. Some of the major corrections are required in the following areas ?
+1.     Visibility of System status
+2.     Error Prevention and Recovery
+3.     Help and Documentation
+4.     Aesthetic and Minimal Design
+While the tools were meant to have minimal options the current design is cluttered and is prone to errors while providing query values even by expert users.
+Closing thoughts
+While writing this blog, the last three items in the roadmap like generating user stories, feedback loops and dissemination strategies are still being worked on. With the experience of applying design research methods for this project, we are excited about exploring further opportunities to use design to uncover possible directions and improvements in our ongoing work in the public finance sector in collaboration with CBGA, Tech4Dev and other stakeholders.
+About the Author
+Thomson Muriyadan
+loves using design as a means to uncover the secret recipes of human and computer interactions. Having previously worked as a UX designer at many early stage start-ups in India and North America he now uses his design research and systems thinking skills at CivicDataLab
+to enable social change in India.

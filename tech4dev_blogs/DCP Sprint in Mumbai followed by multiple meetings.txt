@@ -1,0 +1,80 @@
+Title: DCP Sprint in Mumbai followed by multiple meetings
+Author: Siddhant Singh
+Date: September 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/dcp-sprint-in-mumbai-followed-by-multiple-meetings/
+==================================================
+
+We recently hosted our second DCP cohort in Mumbai, and this time, we made sure to spend quality time with the NGOs, focusing on meaningful interactions. But before diving into that, I want to share how this DCP cohort has significantly improved, particularly with the introduction of 1:1 mentorship.
+In the previous DCP, I wasn’t as involved in the process. With a larger team, it felt like the responsibility was spread too thin, both on our side and the NGOs’. I also felt that I missed out on the chance to review the problem statements from different NGOs and choose the ones where I could make the most impact.
+This time, with the 1:1 mentorship, the experience felt more personal and effective, allowing for deeper engagement and a stronger sense of responsibility.
+In the DCP Cohort 2, I particularly appreciated the 1:1 mentorship for several reason
+In-Depth Understanding:
+It provides an opportunity to dive deeply into the data systems of the specific NGO you’re assigned to, allowing for a more focused and thorough analysis.
+Collaborative Learning and Sharing:
+The mentorship has fostered a culture of learning and sharing. NGOs are openly discussing their problem statements and potential solutions, leading to a richer exchange of ideas. This collaborative environment has significantly enhanced the mentorship experience.
+Enhanced Mentor Collaboration:
+The emphasis on sharing has also strengthened collaboration among mentors, enabling them to work together more effectively in addressing challenges across different NGOs.
+Working with AVANTI FELLOWS
+I was assigned to
+Avanti Fellows
+and also I asked Abhishek to give me something complex which I can work on. But before diving into the data system of theirs here’s a short description on what they do.
+Avanti Fellows
+is a nonprofit organization focused on providing affordable and high-quality education to students from low-income backgrounds in India. They work primarily in the field of STEM education, offering programs that help students prepare for competitive exams like the JEE (Joint Entrance Examination) and NEET (National Eligibility cum Entrance Test). Avanti Fellows employs a peer-learning model and technology-driven teaching methods to enhance learning outcomes, aiming to bridge the education gap for underprivileged students and empower them to pursue higher education and careers in science and engineering fields.
+As part of the DCP program, we conducted our first meeting with
+Avanti Fellows
+around the last week of July. Before this, the organization needed to complete the DMA score, which helped them decide their focus areas for the next two months. We had over a month to finalize the SOW, and I was fortunate to work with Avanti, as they already had a clear vision of what they wanted to improve. They shared the problem statement with me which I’m sharing here
+Problem Statement:
+Their current data infrastructure for tracking metrics across various tech modules is disorganized. For example, chapter tagging is handled in Google Sheets, leading to inefficiencies and inconsistencies. To access metrics, we often pull data from multiple sources like Google Sheets and PostgreSQL, and write scheduled queries on top of that. Each program has its own set of metrics, resulting in the creation of multiple tables on BigQuery. Moreover, our scheduled queries on BigQuery lack version control, making it difficult to maintain data integrity and track changes over time. PMs and operations team members also spend significant time manually cleaning Google Sheets before ingesting them into BigQuery, which is time-consuming.
+Review Process
+Upon reviewing the disorganized state of Avanti Fellows’ data infrastructure, I suggested that they create a mapping of their data system flow. This would help them gain a clearer understanding of their existing pipelines, data dependencies, and integration points, which is essential for laying the groundwork for effective solutions. Once we had this mapping, it became immediately apparent what needed to be fixed. We then planned one immediate, achievable goal and a long-term goal focused on architectural improvements, which they could either start fixing internally or at least begin thinking about. I was very impressed with Heena and Deepansh for their dedication in putting this together and really appreciated their effort.
+Immediate Goal Achieved
+During my meeting with Deepansh and Heena, we briefly discussed actionable steps and identified a short pipeline that we could automate. We identified several issues with their current pipeline:
+Long Queries on Looker Studio:
+A lot of lengthy queries were running directly on Looker Studio, causing slow chart loading times.
+Disjointed Query Scheduling:
+Multiple queries were scheduled at different times, leading to the creation of separate orchestrations for each new metric.
+Lack of Documentation and Version Control:
+There was no documentation or version control in place for these queries, making scaling and maintenance difficult.
+To address these issues, we determined that running these queries directly on Looker Studio was not ideal. Instead, we should think about pre-processing the data so that only aggregated tables are used in Looker Studio. We also suggested testing these queries directly in BigQuery or Postgres clients to check performance.
+To solve the issues related to query management and orchestration, I recommended using DBT (Data Build Tool). I’m a fan of how DBT allows breaking down long queries into multiple tables, which can be organized into intermediate and aggregated schemas. The modular nature of DBT makes it easy to reuse components in intermediate steps to build additional metrics. Moreover, DBT supports GitHub integration and documentation, which resolved several issues at once.
+How should we think about scaling this
+Once they understood this approach, we quickly began working on it, and we successfully built the entire pipeline in Dalgo. Deepansh even set up DBT in his local environment and quickly built the first model, which was very encouraging. This experience helped them grasp several key points:
+Improved Query Performance:
+By breaking down queries into multiple tables with DBT, they no longer need to run long queries directly in Looker Studio, resulting in improved performance.
+Automated Pipeline Scheduling:
+These models can be integrated into the Dalgo pipeline, scheduled to run automatically at specific intervals (e.g., daily, weekly, monthly), and allow for easy addition of new metrics to Looker Studio.
+Comprehensive Documentation:
+As they build these models, they can also document each model and its functionality, which enhances maintainability.
+We realized we need to review some of the queries deeply so that they can implement that in dbt by breaking down the queries and we’ve scheduled a call on
+3rd September
+to discuss this.
+Discussion with Fortify Health
+I had an insightful discussion with the team from Fortify Health about their architecture and how they manage some tools, which, while available in open source versions, they are utilizing through paid services. Here are a few key takeaways from our conversation:
+Pipeline Setup:
+They’ve built their data pipeline using Airbyte Cloud and DBT Cloud. I was pleased to see that someone had developed a SurveyCTO connector for them using Airbyte’s No Code method. Interestingly, it functions similarly to what we’ve already implemented in the open-source version.
+Scaling Considerations:
+As they scale, they need to be aware of how to manage DBT models running on DBT Cloud, especially since the free tier only supports up to 10k model runs. Beyond that, the cost increases to $100 per month.
+Another concern I have is that while we built the SurveyCTO connector to benefit other NGOs, which is why we contributed it back to Airbyte, I don’t think many NGOs are aware of the open-source connectors available in the market that could help them solve their data ingestion challenges. To address this, I’m sharing my
+blog
+again, which I believe could be very useful for NGOs looking to leverage these resources.
+Meeting with Shuzaaj, ATECF Team and Search Founder
+Oh these sprints are tiring and exhausting at the same time full of learnings. After the sprint was over we met with the
+Shuzaaj Team
+to implement the 10 hour Dalgo POC.
+Shujaaz is a nonprofit organization based in Kenya that focuses on engaging and empowering young people through innovative media and social communication platforms. The organization primarily targets youth aged 15-24, addressing critical issues such as health, economic opportunities, and social justice. Shujaaz uses a mix of comic books, radio shows, social media, and SMS messaging to reach its audience, providing them with valuable information, inspiration, and practical tools to improve their lives.
+Read more about it here what we wanted to achieve and
+high level goals.
+We successfully developed two dashboards focused on tracking engagement with Facebook and YouTube. Vinod, who leads the FCxO team, is now spearheading discussions on how to streamline and integrate the various tools that the team uses internally, ensuring a more cohesive and efficient workflow.
+After a long and exhausting week, Lobo decided to make it even more challenging by inviting me, Abhishek, and Dawit for a walk. But as usual Abhishek ditched us. We still ended up doing a 10 km walk on Sunday, from Marine Drive to Malabar Hills and not stopping there, I extended my walk in the evening with Abhishek, venturing near Carter Road and Pali Hill to achieve my first 25,000 steps in a single day.
+Meeting ATECF Team on Monday
+We’ve been working closely with ATECF for the past few months, and I decided it was time to meet the team in person. Hiral was incredibly helpful, introducing me to the various teams at ATECF. My main goal for the visit was to discuss and plan the next steps for Dalgo.
+We had a brief discussion about the different charts they can use to represent data. They’ve provided some suggestions that will require us to modify or customize a few aspects of the implementation.
+I also met Sandeep, who has recently joined the AVNI team. His role will involve aligning Dalgo with Jasper Data. I’ll be meeting with him soon to discuss how he can analyze Dalgo data for comparison.
+Once we finalize the current dashboard, we’ll replicate the same view across all other dashboards in Dalgo.
+Unexpectedly, we all had lunch together afterward, and I was fortunate enough to meet Amit Chandra himself. Joining us for lunch were Amit Chandra, Gayatri Lobo, Amrtha, Hiral, and Kanika.
+Meeting with SEARCH founder: Anand Bang
+In the same evening, Lobo invited me to meet Anand Bang. Lobo had spent close to 2 weeks to understand how the organization is being run, the processes, the initiatives, and the work is done. Do read more about it
+here
+. After reading this I would really want to do one week volunteer work with them and spend some there to understand how things are happening on the ground.
+Okay. That’s it for now. My social energy was drained up towards the end and I need to recover

@@ -1,0 +1,45 @@
+Title: Tech4Dev Internal Meet and DDP Sprint – Recollections and reflections
+Author: Kurund Jalmi
+Date: September 2022
+Category: Dalgo
+URL: https://projecttech4dev.org/tech4dev-internal-meet-and-ddp-sprint-recollections-and-reflections/
+==================================================
+
+This blog is written by Vinod Rajasekaran, Fractional CxO at
+SNEHA
+through Tech4Dev and works on the Data Development Platform
+Sitting in sweltering, bustling Chennai writing this blog post, the calmness of the forest and camaraderie of the community at the
+Tech4Dev
+internal meet and sprint seems a universe away. A lot of firsts for me over the last week – my first face-to-face meeting with colleagues at
+Tech4Dev
+, my first Data Development Platform sprint, my first development sector community meeting with NGOs, and more…
+The first two days were a blur with meeting the
+Tech4Dev
+team face-to-face after all the Meet calls over the last 4 months. It was nice to interact in person with Lobo and Erica especially after having interacted so much on video calls over the previous months. Super cool to hear the history of Tech4Dev 1.0 from Lobo, Arun, Arjav, Kurund, and Arjun! Spent a lot of time with Ankit (also my roomie for the sprint) who is the other Fractional CxO currently at Tech4Dev working with
+Indus Action
+and
+Reap Benefit
+.
+The next few days were an interesting mix of DDP sprint work and conversations with the community at the sprint. Being new to the development sector, one of my goals was to talk to as many folks as possible and get a broad sense of the work being done. I came away with a lot of awe at the passion and amazing work being done by the folks at the sprint. Also, got to meet Nadeem and Vinitha from
+SNEHA
+who I have been working remotely since late May.
+Abhideep from Gramvaani
+A couple of conversations that stood out for me:
+GramVaani
+and the power of community radio in the Indian context – have always loved seeing the power of community radio during my time in the US and hearing about GramVaani from Abhideep was very uplifting. The other conversation I had that really made me go back and do some research was with Gautam Prakash and Tejas Mahajan from
+Reap Benefit
+. I was quite a skeptic of the scaling of Reap Benefits Civic Action endeavors until they talked to me about the 3.5% rule (Reference:
+The 3.5% rule: How a small minority can change the world
+). I had never heard about this and was pleasantly surprised that a small involved population segment can influence the path of society. The jury is out on this but I have moved a bit towards the Reap Benefits side of the fence ????
+The first day of the DDP sprint with hands-on participation from Tech4Dev,
+IDinsight
+,
+Dhwani
+,
+Aam Digital
+,
+SNEHA
+was a tough one – the Wi-Fi problems coupled with issues with previous connectors on ELT tool Airbyte made for a tough start. We circled back, reduced our goal set, and got things going to achieve a couple of goals we had laid out before the sprint- try out Apache Superset as a visualization tool and get feedback on how easy it would be for folks at the NGOs as a replacement for existing visualization tools and also a proof of concept data pipeline going from data in SurveyCTO to visualizations in Apache Superset using Airbyte and PostgreSQL as the middle layers.
+Learnings from the DDP Sprint include – easy-to-make connectors on Airbyte for data sources once you understand the process which is quite well documented (a few hours of work to get a primitive connector going – sprint developer); Apache Superset was easy to work with for the SNEHA team coming from a Tableau background; reconfigure future sprint sessions and work to be more broken down into tasks and have much longer 4-hour sessions instead of our current 2.5-hour sessions.
+Overall an exciting start for DDP and excited to push this further along in our next pilots with a couple of NGOs and get a few more learnings on the platform.
+Some memorable moments outside of work – Glific team members (especially one that shalt not be named) intensity with the Exploding Kittens game, Lobo and me bonding over the lack of good coffee on the first two days, the quick jaunt to Mussoorie that was more of musical Antakshari in the back of the bus and conversations all around. Looking forward to the next sprint and continuing the conversations from this one!

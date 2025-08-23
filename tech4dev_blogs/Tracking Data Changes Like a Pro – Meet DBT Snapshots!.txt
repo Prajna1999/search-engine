@@ -1,0 +1,177 @@
+Title: Tracking Data Changes Like a Pro – Meet DBT Snapshots!
+Author: Pratiksha Rao
+Date: January 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/tracking-data-changes-like-a-pro-meet-dbt-snapshots/
+==================================================
+
+When Data Chaos Strikes
+Picture this: You’re running an NGO, collecting data from various sources – schools, health facilities, or community surveys. Your team enters data into a Google Sheet about a program’s progress, and everything seems fine. But the next day, the numbers don’t add up. Someone updated the sheet. Was it a mistake? Or did the program really change? What was the previous value?
+Cue frustration.
+Wouldn’t it be great if you had a way to
+track those changes
+automatically? Enter our hero:
+DBT Snapshots
+! With snapshots, you’ll never lose sight of how your data evolves. Let’s dive into how NGOs can benefit from this game-changer.
+What Are DBT Snapshots?
+DBT Snapshots are like a time machine for your data. They let you capture the state of a table (or parts of it) at specific points in time and store all the historical versions.
+Dalgo makes it easy to ingest hundreds of data sources, and DBT Snapshots can help track changes at every step before visualizing the insights on Superset. Whether it’s a Google Sheet tracking attendance or survey results coming from SurveyCTO or CommCare, snapshots preserve the history so you can always look back and see what changed, when it changed, and why.
+Why Use DBT Snapshots?
+Auditability
+: Track every update or correction to your data.
+Historical Analysis
+: Compare how metrics evolved over time.
+Accountability
+: Spot errors or inconsistencies in data entry.
+Ease of Use
+: Once set up, snapshots automatically log changes with every dbt run.
+How Do DBT Snapshots Work?
+Data Source
+: Snapshots start by pulling data from a source like a Google Sheet, synced through Dalgo.
+Unique Key
+: Each row is identified by a unique key (e.g., id).
+Tracking Strategy
+:
+Check Strategy
+: Tracks changes in specific columns. If any of these change, a new row is added to the snapshot.
+Timestamp Strategy
+: Tracks changes based on a timestamp column.
+Snapshot Table
+: Stores historical versions of the data with valid_from and valid_to timestamps. The valid_to field remains blank, until the data of the row changes. Once the data changes, the valid_to field updates to the data that the data change was detected and synced – so that way, when looking at a row, you know till when that data value was accurate, and when it changed!
+Requirements for Using DBT Snapshots
+To use snapshots, you’ll need:
+DBT Version
+: At least 0.18.0 (or higher) for stable snapshot functionality.
+Unique Identifier
+: A unique_key column to identify rows.
+Change Strategy
+: Define whether you’re using check (column-based) or timestamp (time-based).
+Target Schema
+: A place in your warehouse to store snapshots, like snapshots.
+Example Use Case: Tracking Covid Death Rates in a Google Sheet
+Here’s a step-by-step walkthrough of how I used DBT Snapshots to track changes in a Google Sheet:
+1. Data Source:
+A simple Google Sheet tracking daily COVID-19 deaths.
+Check it out here!
+2. Syncing with Dalgo:
+I synced the sheet into my data warehouse through Dalgo.
+3. Writing a Basic Model:
+First, I wrote a dbt model to pull the data:
+{{ config(materialized=’table’) }}
+SELECT DISTINCT
+“id”,
+“Date”,
+CAST(“Deaths” AS INTEGER) as “deaths”
+FROM {{ source(‘source_demo’, ‘covid19’) }}
+4. Creating a Snapshot:
+Next, I set up a snapshot to track changes in the deaths column. I used the check strategy:
+{% snapshot increase_death_rate_snapshot %}
+{{
+config(
+target_schema=’snapshots’,
+unique_key=”id”,
+strategy=’check’,
+check_cols=[“deaths”]
+)
+}}
+SELECT DISTINCT
+“id”,
+“Date”,
+CAST(“Deaths” AS INTEGER) as “deaths”
+FROM {{ source(‘source_demo’, ‘covid19’) }}
+{% endsnapshot %}
+5. Running the Snapshot:
+You use the dbt snapshot command to update your snapshots.
+First Run
+: The snapshot table captured 999 rows from the initial dataset.
+Second Run
+: I ran it immediately after the first run. I didn’t make changes, so it added 0 rows – as expected!
+After Updates
+: I edited 3 rows in the Google Sheet, synced via Dalgo, and ran the snapshot. The table:
+Added 3 new rows with updated values.
+Updated the valid_to field for the older versions of these rows
+.
+Updated rows in the google sheet:
+Values in bold were changed from 0.
+Snapshot table sample before changes:
+id
+Date
+deaths
+dbt_scd_id
+dbt_updated_at
+dbt_valid_from
+dbt_valid_to
+12
+2020-01-22
+0
+b415517c77aa4b92b4fde7ab87778181
+2025-01-15 4:05:18
+2025-01-15 4:05:18
+NULL
+11
+2020-01-22
+0
+fe0b52e959fb749310e080c084682722
+2025-01-15 4:05:18
+2025-01-15 4:05:18
+NULL
+9
+2020-01-22
+0
+042d2e43557116b1f15666ca41f44c23
+2025-01-15 4:05:18
+2025-01-15 4:05:18
+NULL
+Snapshot Table sample after changes:
+id
+Date
+deaths
+dbt_scd_id
+dbt_updated_at
+dbt_valid_from
+dbt_valid_to
+12
+2020-01-22
+0
+b415517c77aa4b92b4fde7ab87778181
+2025-01-15 4:05:18
+2025-01-15 4:05:18
+2025-01-15 4:11:51
+11
+2020-01-22
+0
+fe0b52e959fb749310e080c084682722
+2025-01-15 4:05:18
+2025-01-15 4:05:18
+2025-01-15 4:11:51
+9
+2020-01-22
+0
+042d2e43557116b1f15666ca41f44c23
+2025-01-15 4:05:18
+2025-01-15 4:05:18
+2025-01-15 4:11:51
+11
+2020-01-22
+85
+03b4924c87388fd808a6f115d2d8f772
+2025-01-15 4:11:51
+2025-01-15 4:11:51
+NULL
+12
+2020-01-22
+45
+69d8ec112f054dbb551bc67b3fd6bfbc
+2025-01-15 4:11:51
+2025-01-15 4:11:51
+NULL
+9
+2020-01-22
+12
+a6dcd0f9898bf178bb92f7dc2708e07d
+2025-01-15 4:11:51
+2025-01-15 4:11:51
+NULL
+Takeaways
+DBT Snapshots are a lifesaver for NGOs dealing with dynamic data. Whether you’re managing program metrics or tracking attendance over time, snapshots ensure nothing slips through the cracks and makes debugging a breeze. Combined with Dalgo and Superset, they make building transparent, historical insights easy!
+So, ready to snapshot your way to cleaner, smarter data? We can help you!

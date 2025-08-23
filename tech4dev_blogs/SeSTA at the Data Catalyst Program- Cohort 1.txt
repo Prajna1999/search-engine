@@ -1,0 +1,12 @@
+Title: SeSTA at the Data Catalyst Program- Cohort 1
+Author: Abhishek Nair
+Date: October 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/sesta-at-the-data-catalyst-program-cohort-1/
+==================================================
+
+This blog is written by the SeSTA team
+The Data Catalyst Program, 2023 was a great opportunity for Seven Sisters Development Assistance (SeSTA), as this was one of its kind focused on data related processes and strategies. It gave us a lot of insights on various tools available for not-for-profits and how other organization are utilizing those tools.
+As SeSTA is progressing onto a data driven organization, this event came right in time to handle our future goals. Having its own data collection application in place, it is moving forward on how to utilize its collected data to bring out decision making capabilities for its benefits. Therefore, this event aced the purpose which helped us to improvise our data flow, how we can do better in terms of designing our data collection and visualization processes. During the event we also got the opportunity to interaction and input from peers and like-minded people helped a lot in the learning process of their existing data systems in place.
+Following which, there were also case studies given out to the peers to understand concepts like data culture, data levers that are essential based on an organizations strength and areas of development while considering its problem statement. This exercise itself gave us clarity on what should be the approach while considering the possible levers for our organization, in terms of data collection strategies.
+Another insightful take away for SeSTA was the understanding of how LLM and AI works. This is the generation belonging to the technology world and we are excited to get along with it. We are thankful to our assigned PoCs and hosts for such sharp, exciting and rejuvenating sessions. We are looking forward to the next few months of our work flow together.

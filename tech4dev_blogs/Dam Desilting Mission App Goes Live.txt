@@ -1,0 +1,49 @@
+Title: Dam Desilting Mission App Goes Live
+Author: Kurund Jalmi
+Date: April 2019
+Category: Avni
+URL: https://projecttech4dev.org/dam-desilting-mission-app-goes-live/
+==================================================
+
+The previous post describing the project is
+here
+.
+An image uploaded by a user from the app at start of desilting work
+On 21st March we made the app available to be used on field by users to record desilting data of more than 2600 waterbodies across 21 districts in Maharashtra to be done by approximately 1250 users. At the time of publishing this update, about 60 users have actively started using the app.
+A reporting and analytics dashboard is also provided to the project management team with benchmark indicators like the following along with their threshold/goal values
+Amount of silt excavated
+Rate of silt removal
+Rate of work completion
+Silt removal efficiency (JCB and Poclain)
+Fuel efficiency (JCB and Poclain)
+Average working hours per machine per day (JCB and Poclain)
+Average silt per acre of land
+Number of villages benefitted
+Number of farmers benefitted
+https://youtu.be/KMPA8jFILP0
+Benchmark dashboard based on data from the app
+KPMG, which is monitoring the overall desilting project on behalf of Government of Maharashtra and working closely with the stakeholders including funders and NGOs in different districts, is using the reports and analytics to provide reports to all stakeholders as well as streamlining adoption and usage of the app.
+Collaborative work of KPMG, Web Access and Samanvay
+KPMG is the client for this app. Web Access being in Mumbai helped in understanding requirements and identifying OpenCHS as the solution and ensuring that the project remains within constraints of timlines, scope and budget. Samanvay OpenCHS team took up the challenge of adapting OpenCHS product for this usecase and delivering in a short span of time.
+The collaborative effort with spliting of responsibilities helped in achieving the effectiveness and efficiency this project demanded.
+Development work: OpenCHS Product enhancements and implementation work
+OpenCHS team at Samanvay added the needed features to the product – mainly supporting case management of non-humans, video and image upload and geolocation tracking. Samanvay also did the implementation work of creating forms and reports required in this project. The geographical hierarchy, waterbodies, and users were imported as data. As part of user acceptance testing, the app was initially made available to KPMG, Web Access, and 10 pilot users. The feedback from this UAT phase was incorporated and then the app released for wide usage.
+The reporting dashboard is built using Metabase an open-source product used by OpenCHS. Metabase also allows user to do further analysis on top of the reports provided.
+The implementation code is open sourced and can be found on github
+here
+.
+The reports are documented
+here
+.
+Pointers to OpenCHS product, documentation, demo, source code and more can be found
+here
+.
+Usage on field and feedback
+Since the ‘Go Live’, the app has been getting rolled out in different districts as the NGOs responsible in respective districts are starting the desilting work and also adopting the app.
+The users have so far found the app easy to use. As part of the baseline form to be filled at the start of the work, users are supposed to upload images and a 10-20 sec video showcasing the site and start of work. One such image and video are added to this post.
+But its not that everything has been a cakewalk. Some users faced challenges understanding how to login. Feedback has also been coming from the field due to scenarios relating to some users not comfortable with mobile and human resource problems at the NGOs as well as some usability confusions leading to users performing wrong data entry. KPMG and Web access are working on providing solutions through training, process and workarounds. This is the first time that OpenCHS is getting used at this scale that too with users who have not undergone any training for the app. OpenCHS team is keenly listening to the feedback and making changes to product backlog.
+Next Steps
+From OpenCHS perspective all the requirements have been closed and the project has entered into a support phase. Requests like additions of new users and some data fixes are being handled as support tickets. The need for continuous user addition was anticipated and hence a User management will also be soon released.
+Correlating with Tracker data : There is one more requirement pending from KPMG which is to be able to co-relate and cross check the data entered by users in the app with the data provided by trackers attached to vehicles at the site. There are APIs available from both OpenCHS and the tracker vendor exposing relevant data. Web access is working on providing a solution for this.
+https://youtu.be/8hDKwLbJ5no
+Video uploaded by a user from the app for proof of work being done

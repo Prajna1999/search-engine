@@ -1,0 +1,20 @@
+Title: Setco project  COVID impact
+Author: Kurund Jalmi
+Date: April 2020
+Category: Avni
+URL: https://projecttech4dev.org/setco-project-covid-impact/
+==================================================
+
+Come 2020, and COVID-19, came out of nowhere and disrupted our ways of living. Every individual, every organization was impacted in one way or the other. For most NGOs this led to a disruption in both their operations as well as funds.
+Setco Foundation being a CSR activity of Setco Automotive, the unprecedented COVID blow, did not immediately impact their funds, but it did impact their day-to-day operations.
+Being working into health care domain and primarily for mother and child care, their work usually led to health care workers working on field with mothers, children, pregnant women and adolescent girls. Versus the backend office people would take care of the data digitization, program designing for beneficiaries and evaluating the program impacts.
+But, with the advent of COVID, they had to stop all their field work. And for the backend office people, first few days of lockdown were spent in setting up the logistics around work from home.
+This was the same time, when we were planning to kick start work on Setco project using Avni. Owing to sudden disruption in the ways of working, the project was put on hold for two weeks. This two week period helped Setco team setup right infrastructure for working from home ? which also later on helped us (the software partners) to kick start the project exactly after two weeks.
+The project deliverable for Setco, consists of following modules
+Maternal and child health
+Child nutrition and development
+Adolescent health
+Preschool
+Reports and
+Importing of legacy data
+Of the above, so far we?ve started work on Maternal and child health module and have been able to carve out forms for pregnant woman registration and enrollment into the Antenatal Care (ANC) program, along with scheduling of ANC visits. While doing this, we?ve been in constant interaction with the Setco POC and have been getting feedback from him on the work developed so far. Since work from home is a new concept for their industry, so at times, there have been a little delay in getting response to some questions, but so far so good.

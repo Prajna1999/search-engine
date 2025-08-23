@@ -1,0 +1,85 @@
+Title: Beyond Data, Beyond Borders- The Kenya UnConference
+Author: Abhishek Nair
+Date: February 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/data-beyond-borders-the-kenya-unconference/
+==================================================
+
+Writing this blog on the long journey back to Nairobi from Masai Mara (an amazing post-sprint visit), signaling the end of another successful collaborative adventure with Project Tech4Dev.
+Following our sprint in Naivasha (check out blogs by
+Krishna
+and
+Siddhant
+), we hosted a one-day
+UnConference
+at the
+Tamarind Tree Hotel
+in Nairobi to bring together different stakeholders (mainly nonprofits, social enterprises, service providers) from the social impact ecosystem in Kenya. This blog describes the event and how I think it went.
+The UnConference was planned with two key objectives in mind.
+For Kenyan nonprofits to step outside of their day-to-day to; connect with the larger ecosystem, share openly, learn from each other, and solve problems together, with a focus on data for social impact and learning.
+For the cohosting team to build a collaborative space to discuss and develop a collective understanding of the social impact landscape in Kenya, explore synergies and build avenues for future collaboration.
+We planned the UnConference in a fairly short timeframe of about a month! We knew we couldn’t do this alone and in just a few days of outreach, Jim from
+Tech Matters
+, connected us to
+Degan
+from
+Adeso
+. Degan was tremendously helpful, she appreciated the aim of the initiative and helped reset our expectations (from 10 to 20 nonprofits to at least 50!) and connected us to
+Dawit
+, who, in my opinion, embodies the spirit of openness, collaboration and community building that Project Tech4Dev aims to create. Within a matter of days we went from three partners (
+Dasra
+,
+The Agency Fund
+and Project Tech4Dev) to seven with our new partners (
+East Africa Philanthropy Network
+,
+Global Giving
+,
+Let’s Create Africa
+and
+Adeso
+) from Kenya!
+I must say this was the most smooth and productive collaboration I have ever had the privilege of being a part of. I think this is because it was built on a mutual trust and a common vision and understanding of what we sought to accomplish.
+On the day of the UnConference we had over 80 participants (luckily everyone fit in the conference hall!)
+After a quick internal debrief we started the day off by introducing the event and cohosts to our participants. It was amazing to see Dawit,
+Wahiga
+, and
+Matilda
+inject the room with energy and direct this energy towards a spirit of openness and cross learning.
+During the first session, Data Beyond Borders, nonprofits had the opportunity to share the excellent work that they were doing with the attendees. We had a few tech surprises with the projector which the presenters handled quite well.
+In the true spirit of an unconference, Dawit then ran a round of elevator pitches amongst our participants where anyone could volunteer to take a minute to share what their organization does and why, following which he would ask the audience if they would want to fund this initiative. This led to some engaging back and forth in the room and gave us an opportunity to quickly learn about the different initiatives and interests in the room.
+After lunch, we moved into roundtable engagements, this constituted product/project demos, working groups, and discussions on key themes for the unconference; Open source platforms for the social sector, AI enabled chatbots, Data for storytelling, Building an ecosystem of collaboration, and Data driven learning and Experimentation. Data for storytelling generated the most interest amongst our participants (easily the biggest circle). Hats off to all our facilitators for making this the most lively and engaging segment of the day.
+The roundtable discussions and demos were a great format, the discussions served as a safe space where participants shared why they do what they do, their challenges and their aims. Through the demos, participants were able to build a tangible understanding of how to use data and tech for impact.
+We had initially planned for the participants to switch groups every 20 minutes so that they could be part of multiple discussions, but they became so deeply engaged that almost all of them stayed within their original groups for the entire 90 minutes! Since this was an unconference, we adapted and let things flow as per the participants interest. (Though every 30 minutes I did continue to yell out for people to switch groups if they wanted to, much to their amusement)
+I was also happy to see that there was significant interest in product demos for
+Glific
+and
+Dalgo
+! Krishna and Siddhanth had their hands full during and after this session!
+We closed out the day with a fun activity facilitated by Matilda which involved some clapping (I hope she mentions and explains it in her blog), broke for tea and networking at around 4pm!
+I’d call this a resounding success and a great start towards furthering our mission of transforming the way nonprofits use data and technology for social impact globally.
+As we breathed a sigh of relief at the end of the day and debriefed, some key insights that we had were:
+This was a great opportunity to learn from grassroots NGOs and understand the key issues that NGOs are trying to solve for (teen pregnancy, employability and entrepreneurship, education, gender based violence, deforestation and climate change)
+Collaboration grounded in trust has been the basis of this event’s success.
+Less presentations, more discussions, demos, and working groups
+.
+There is a common interest in:
+Storytelling with data
+Events like these, the high turnout and sustained attendance is evidence of this.
+WhatsApp chatbots (given the
+high penetration of WhatsApp in Kenya.
+)
+Solutioning collectively is useful for the ecosystem. More so when this is done in a non-funder-centric environment
+We should do more events like this in the future and our partners in Kenya should take the lead!
+As with all Tech4Dev adventures, I am happy, tired, and thinking of what next.
+Read more about what our cohosts thought of the UnConference in blogs by
+Waihiga
+,
+Matilda
+and
+Dawit
+Check out
+Lobo’s
+and
+Kavneet’s
+blogs to learn more about our time in Kenya!

@@ -1,0 +1,37 @@
+Title: How we used Metabase with Avni to analyze data
+Author: Kurund Jalmi
+Date: September 2020
+Category: Avni
+URL: https://projecttech4dev.org/how-we-used-metabase-with-avni-to-analyze-data/
+==================================================
+
+Reporting needs at Setco
+During our initial requirement gathering phase, Setco team had shared with us a list of reports they would need for each module we implement using Avni. The list shared with us was pretty exhaustive and the idea was to get an aggregate summary of major data points captured right from user registrations, to enrollment in various programs to the periodic visits that happen during that program.
+Per this list, every module had 12-15 such data points that needed to be tracked. These were the same points that Setco had been using in the past to monitor the impact of their programs at various locations in Kalol district of Gujarat. Towards the end of every financial year, based on the analysis of these points, they decide on improvements needed for the program.
+Choosing reporting tool for Setcos implementation
+Since the list of reports to be implemented for Setco was ready, the next step was to identify the tool for reporting. Avni is flexible enough to be able to handshake with any reporting tool.
+During the early days of Avni, the team had used Metabase extensively for all its reporting needs. But, over a period of time, as data volumes increased, the team faced certain hurdles especially with complex long-running queries in Metabase (
+heres a nice blog from Avni explaining these details
+). This was when Avni team suggested that we should judiciously decide on the reporting tool based on our reporting needs
+As mentioned earlier in Setcos context, the reports revolved around an aggregate summary of major data points. So, for us, Metabase came as the natural choice – as the queries were not very complex.
+The second driving factor for using Metabase was – in order to use any other reporting tool, we would need access to Setcos transactional data stored in the Avni database. With Avni being multi-tenant by design, sharing organization-based data with us (the implementers) was something that was unprecedented and needed additional engineering efforts by the Avni team.
+So, to be able to stick to our time estimates and also considering that our queries were not that complex, we decided to choose Metabase as a reporting tool for Setcos needs.
+Metabase Reports
+Once the choice of reporting tool was made, the next step was to see if we could templatize these report queries. This we thought was an important step, as all the data points tracked in the report, were to be analyzed on a monthly, quarterly, and yearly basis.
+Templatizing Queries
+So, logically speaking the queries had to be the same, what would really differ is the period on which they were grouped.
+Typically, when we start translating the requierments into SQL queries for a requirement like ours (in case of Setco), queries differ from each other only on the period range on which the records are grouped and many a times developers end up writing 3 different queries for monthly, quarterly and yearly analysis of the same data point. This is where we thought of coming up with a query template, where we could use a single query, to pivot the results around any period monthly, quarterly or yearly.
+Above is the query template that we used, to do these period wise analyses. Further, the part highlighted in red is a reusable query that can be used in every report that is aggregated on time period. So the SQL snippets feature of Metabase was helpful here – where we moved the red highlighted part as SQL snippet in Metabase.
+Dashboard
+With every module having 12-15 reports under it, the next step was to make a decision on how we display all these reports so that the end-users do not have to search for a specific report – and get the entire picture of any of their programs at one single place. Metabase dashboards came in handy here. Metabase dashboard lets you pull charts as well as data in tabular format on its dashboard, and arrange them, the way you like.
+To start with we thought, we could have one dashboard for each module. Each dashboard in turn could have one graph for every key indicator of the program that needs to be monitored. At one glance, this would give a quick analysis of the program at all the places where it was implemented (Setco implements all its programs at 18 different locations in Kalol). The dashboard therefore would be a good indicator to quickly highlight how good or bad a program implementation was, at any particular location as compared to the other. Heres a sample dashboard for their ANC (Antenatal care) program.
+Further, applying filters on the dashboard helps analyze data on different timelines. The screenshots below show one report for different periods. Notice how just changing �Period Type� parameter of the dashboard filter changes the report data grouping.
+Year wise report
+Quarter wise report
+Month wise report
+Drilling down data from dashboard reports
+The enterprise edition of the dashboard does provide a way to click on say a bar in the bar graph and link it to another report which can show the exploded details (Read more
+here
+). However, this kind of linkage from a bar graph or a column in a data-table is not possible in the free/open-source edition. So, as seen in the above screenshots, a column called View details was added to each data table, to help users drill down to the details
+As of now, all these decisions have turned out to be helpful in making progress with the reports. Recently, Avni also released a new feature that lets implementers automatically generate views for each of the forms they design in Avni. This feature will help implementers like us write reporting queries without having to understand the complex Avni schema. We are still doing back and forth with the team, to make use of this brand-new feature to the fullest.
+Stay tuned for more updates about it in our next blog.

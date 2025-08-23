@@ -1,0 +1,67 @@
+Title: Reflecting on Dasra Philanthropy Week, 2023
+Author: Abhishek Nair
+Date: March 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/reflecting-on-dasra-philanthropy-week-2023/
+==================================================
+
+My time with the Project Tech4Dev team at
+Dasra Philanthropy Week
+(DPW), 2023 was a mix of new and old. The event gave me the opportunity to connect and reconnect with peers who have been doing great work, and left me with so much to explore in the following days. Im using this blog as a way to consolidate my takeaways from the experience.
+The venue for the event was Godrej One, a throwback to my days in the Teach for India Fellowship, when wed make occasional trips to this office for larger meetings/events with the staff. It was odd to be entering the building 5 years later, not having to worry about my lesson plans for the next day at school.
+For me DPW started with an interesting chat with Lobo and the folks from
+Indus Action
+(IA). We exchanged thoughts on what impact looks like for different types of NGOs, the role that NGOs play in social impact at scale, adopting tech that meets your needs, and how data is playing an increasingly important role in the sector. We also discussed annual team meets and how Indus Action creates spaces for their team members to connect with the communities they serve. I suspect we will soon see blog posts about Tech4Devs own experiences with community engagement.
+Later that morning Erica and Vinod led a workshop on Leveraging Technology with the
+Rebuild India Community
+. We explored what tech means to the cohort and how they can leverage existing solutions and the support of the nonprofit/tech community to help them along their tech journey.
+Erica Arya, India Head, Project Tech4Dev opening with the question What comes to mind when you think of using tech?
+The
+Rebuild India Fund
+is a super interesting initiative, providing flexible long-term funding to non profits which are led/founded by members of the communities that they serve. A great way to encourage and nurture impact through leaders who have the commitment and competence to understand and address systemic problems in their communities.
+Through the day, ecosystem partners held short sessions in which they spoke about their work and explored collaboration with the community;
+Dhwani
+,
+Pravah India
+,
+Manah Wellness
+,
+Atma
+,
+GuideStar
+,
+Arthan
+,
+India Development Review
+. Some familiar and some new to me.
+I particularly enjoyed the talk by Ashwin Naik from Manah Wellness, who started with a very simple question Do you have stress? and almost therapeutically guided us through their work, ending by passing around neat little cards which had a barcode linking to an emotional wellness questionnaire. Manah offers free mental health support to nonprofits, and has a program around developing champions or proponents for mental health within organisations. I think this is a much needed service in the social impact space.
+Over the two days, I reconnected with friends from
+Atma
+,
+Antarang
+, and
+Teach for India
+, which made me feel like part of the larger community. I also chatted with some new people about their work at orgs like
+DEHAT
+,
+Sristi
+,
+UTMT Society
+, and
+Maitrayana
+, amongst others, and discussed their relationship with tech and data. Each conversation around tech and data was surprisingly different, with each org at a different stage in their tech and program development journey.
+Project Tech4Devs time at DPW culminated (in my opinion) with a great panel discussion on Leveraging Technology for Development where we had a full house of nonprofits moving from one table to another, engaging in 10 minute introductory discussions around the themes of Collaboration, Platforms, Data, and Community. Each table had a member from ProjectTech4Dev and an ecosystem partner,
+Goalkeep
+,
+SNEHA
+, and
+The Apprentice Project
+.
+The energy in the room was great, I loved that everytime Arun rang the bell to signal that it was time to switch to another table, it took a good 2-3 minutes to get people to actually move because they were engaged in discussion. It was also good to see people moving in general, as most of us had spent all day sitting in one place or another.
+I perceive all those discussions that were cut short as an indication of the value in building this community and having more conversations like this.
+Arun and Erica closing the panel discussion by welcoming more discussions in the days to come.
+Spending time with the team is becoming something I value more every time it happens; Whether it’s learning about their home lives during a team dinner, getting an education on open source tech development on the cab-ride back home, or watching arguments over the
+best filter coffee joints
+break out every 5 minutes.
+Im also steadily developing a sixth sense for incoming Tech4Dev team banter and am looking forward to testing it out the next time I meet the team.
+All in all DPW has been a great opportunity for me to look at things more holistically, beyond the Glific lens of things. In my 4 months here I have received so much valuable exposure to the tech and social impact space. If this space interests you then get in touch with us, 12/10 recommend it. You can thank me later, with filter coffee.

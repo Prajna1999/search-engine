@@ -1,0 +1,37 @@
+Title: Fractional CxO Program from Tech4Dev – For your technology strategy, data and technology needs.
+Author: Kurund Jalmi
+Date: September 2022
+Category: Fractional CxO
+URL: https://projecttech4dev.org/fractional-cxo-program-from-tech4dev-for-your-technology-strategy-data-and-technology-needs/
+==================================================
+
+Tech4Dev runs a technology, data and tech strategy assistance program called the Fractional CxO program. This program assists NGOs with a combination of their technology strategy, technology/data needs by placing a seasoned technology professional at the NGO for 3 – 9 months.
+How it works
+You fill out a form giving details of your organizations technology/data needs, vision and plans.
+We evaluate your needs, vision and plans and choose a few NGOs to work with that meet our criteria
+We assign a seasoned technology professional to work with you. This person is embedded at the NGO and spends 10 – 20 hours a week working with NGO executives to
+Define technology and data strategy if needed
+Whet the technology and data vision and help identify tactical elements such as software partners, build vs reuse decisions,  etc
+Set up engineering processes to streamline solution creation and rollout
+Be a hands-on technologist if needed and act as tech lead/architect.
+Advise on best practices on maintaining data issues including security, privacy and consent.
+Help NGO with the recruiting process as they build their internal tech team.
+We have weekly check-ins with all our embedded CxOs so they can compare notes and learn from their peers. Tech4Dev will mentor and work closely with the CxOs and support them when needed.
+We expect each fractional CxO to work with 2 or 3 NGOs at the same time
+We expect a CxO to work with an NGO between 3 – 9 months
+The NGO pays 2/3rd of the salary of the CxO, while Tech4Dev will pay the remaining 1/3rd. We expect the cost of a half time CxO for an NGO to be approx 1 – 1.5L/month. Yes, we know it’s expensive, but we do believe that we need to pay good salaries to recruit great people.
+Tech4Dev will continue to support the NGO as it transitions to hiring its own tech resources and/or working with a software partner.
+Most of the work that a CxO will do with the NGO will be online. In-person meetings can be arranged based on geographic locations and proximity of NGO and CxO, and preference from each party. NGO will be expected to pick up travel expenses for CxO.
+Expectations from NGOs
+Your main technology and data systems for your program are relatively stable.
+You have decided to invest significant amount of time and resources into your technology and data systems
+This is a top 3 priority for your NGO
+The CEO and/or COO is driving the process and will work with the CxO especially in the first month.
+The CxO will need to spend time across different layers of the organization and also do a few field visits as needed which the NGO will enable.
+Next Steps for an NGO
+We will be accepting NGOs on a rolling basis based on the capacity of our fractional CxO team. We plan on accepting 5 more NGOs into our pilot cohort in 2022.
+Please fill out
+our form here
+and we will get back to you in 3 business days.
+You can read about some of our
+learnings on Fractional CxO on our blog

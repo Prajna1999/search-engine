@@ -1,0 +1,25 @@
+Title: Exploring foorlop.ai
+Author: Mohd Shamoon
+Date: June 2024
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/exploring-foorlop-ai/
+==================================================
+
+Main Offerings for normal users
+forloop.ai
+provides three primary services:
+Web Extractor
+Pipeline Editor
+Web Watchdog
+Web Extractor
+I tested the Web Extractor on the website dalgo.in. It offers a visual selector to extract data from various elements on a webpage. After selecting the desired elements, you can export the data in CSV, Google Sheets, or other formats (with more options coming soon). You can also schedule extraction tasks to create a pipeline.
+The extraction logic uses xpaths to navigate the tag hierarchy and retrieve text after the webpage loads. This method ensures accurate data extraction.
+Pipeline Builder
+The Pipeline Builder is incredibly comprehensive, offering a wide array of options. It appears to be an advanced version of the UI for data transformation that we used for dalgo, and with significantly more features. It is designed to handle various use cases with five main categories of nodes:
+Currently, dalgo supports some data sources and cleaning nodes, while Glific supports the control and integration categories (in whatsapp context). The extensive list of options in forloop.ai is impressive.
+I particularly appreciate the robust support for Google Sheets, allowing for seamless data loading and writing. Given the widespread use of Google Sheets, this feature is highly practical. For dalgo, integrating Google Sheets into the UI for transformation could be beneficial. Running a daily job to generate a Google Sheet with extracted data would streamline processes.
+Web Scraping and Use Cases
+The web scraping functionality is a valuable addition, enabling data extraction from a webpage, which can then be added to another database or sent via WhatsApp. An organization had asked me if we could web scrape data from recruitment sites can be sent to students on WhatsApp through Glific. This could maybe fulfill that need effectively.
+AI Capabilities
+The AI capabilities are available for the Enterprise users where it gives suggestions on data and pipelines so I was not able to explore that part.
+In summary, forloop.ai offers a powerful suite of tools for web extraction, pipeline building, and data integration, with extensive support for Google Sheets and potential applications in various sectors.

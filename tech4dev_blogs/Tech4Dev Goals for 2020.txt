@@ -1,0 +1,38 @@
+Title: Tech4Dev Goals for 2020
+Author: Kurund Jalmi
+Date: January 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-goals-for-2020/
+==================================================
+
+As we begin 2020, it would be good to think and reflect back on what we accomplished in 2019 and plan on a few ambitious goals for 2020.
+You can read about our 2019 accomplishments in our Q4 report
+here
+. Briefly, we are proud of our 2019 accomplishments, a sampling of which are listed here:
+We surpassed our goals of NGO projects, software partners and funding by a significant margin in all cases.
+Our experience in 2019 has helped us develop a good idea of how to work effectively with various types of organizations
+We are on track from an open-source software platform perspective with
+Avni
+,
+Kobo
+,
+Primero
+. We are also working on designing and building a
+“people management” platform
+that we can customize for multiple NGOs
+We have built partnerships with multiple players in the Indian social sector – NGOs, funders and intermediaries.
+I would classify our 2020 goals into two different sections. The first section is devoted to operational goals and specific targets that we’d like to achieve:
+Work with at least 50 NGOs in 2020. To that end, we’re keeping our application open year-round. We will review applications at the end of each month and start projects as other projects complete.
+Start adopting a User-centered design approach and make usability and design a key value proposition. We are definitely lacking in this area today.
+Recruit 5 more software partners across India, ideally in cities where we currently don’t have a presence. I suspect that this will be our biggest challenge.
+Hit our “Series A” fundraising goals for the 3 year period ending on Dec 31, 2021, i.e. raise $3 million. Lay the groundwork for our “Series B” funding round. We expect this to be 2-3x larger than our “Series A” round.
+New name for Tech4Dev (it’s a commonly used term). Establish a non-profit entity in India for Tech4Dev and register for 12A, 80G and FCRA.
+From a larger vision and thinking big perspective, a few ideas, and thoughts:
+My biggest lesson from 2019: One of our main priorities should be to educate funders and foundations to do a few things, specifically on the software side of things:
+Be transparent about their work and publish the work they do and support.
+Open Source all their work.
+Research before they build.
+Collaborate with fellow funders and foundations on shared goals.
+Building on the first point, we would love for Tech4Dev to have greater ownership by entities in India. Getting one of the larger funders/foundations in India, collaborating and building Tech4Dev with us, would be super awesome.
+We would like the open-source solutions that have been built under Tech4Dev to be used widely by NGOs. As a step in these directions, we would like to support the Avni project to a state where an NGO with some in-house tech resources can install and use Avni on its own. This would necessitate the building of a strong development and support community for this product.
+Charge NGOs a percentage of the total cost of the project – around 25%. This would increase the NGOs’ ownership of the project and cover part of our expenses, thus reducing our dependence on grants going forward. For larger NGOs, we will make them responsible for all the project costs because their greater need is often technical expertise rather than funding.

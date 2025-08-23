@@ -1,0 +1,24 @@
+Title: Conversation with Software Partners
+Author: Kurund Jalmi
+Date: September 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/conversation-with-software-partners/
+==================================================
+
+As we grow as an organization, we discover new things, which means we also iterate and improve on the way we do things. Based on our previous conversations with our NGO Partners (
+here
+,
+here
+and
+here
+), Rahul (from Lumen Consulting) and I figured we should also talk to the software partners individually and get their thoughts and opinions.
+We spoke to all 6 of our current software partners this week. We structured the conversation using a
+set of questions
+that we invited them to think about before the call. We also asked them to use those questions as a guideline and just talk about their experiences to give it a better flow and get them talking about the issues rather than answering each individual question. As with the NGOs, we kept out interruptions to a minimum and only asked a few clarifying questions.
+Rahul will do a detailed post based on the notes he took and specific action items from the conversations. I’ll just give a few of my thoughts and observations and some changes I think we should make going forward. Overall, I do think that  our group of partners have been amazing and a really solid group of companies and individuals for us to begin this journey with.
+We need to improve on our communication. In the first cohort, we should have done a better job explaining to the NGOs  who we are, what we do and how we do it. Having an introductory webinar/physical meeting with the NGOs before we start the project is important.
+We need to give NGOs a better sense of who is responsible for what, what the partner or Tech4Dev expects the NGO to do, and what our commitments to the NGO is. In the first cohort, Tech4Dev did not really engage with the NGOs and this needs to change.
+We need to improve our on-boarding process for new partners and have some documents that they can read and refer to if and when needed. This is a work-in-progress and we do hope to get better and more structured with future partners.
+Responsiveness among all participants was a recurring theme. Our current model assumes that we will wrap up a project in 6 months and move on (but continue providing support and bug fixes as needed). This also means that NGOs need to have the resources to pay attention to the project as well as drive the project to a state that satisfies their needs and requirements.
+Overall, the relationship between the software partner and the NGO has been good. Both do grade the relationship approximately at the same level ( the average and median grade was a B, there were very few A’s and very few D’s. A being the best grade and D being the worst). Both NGOs and partners did feel that they were quite responsive most of the time.
+In conclusion, I think we are at a good place. There are a few places that we can and will improve. At the same time, we also need to be pleased that many things are working quite nicely and quite a few of our initial assumptions have been validated.

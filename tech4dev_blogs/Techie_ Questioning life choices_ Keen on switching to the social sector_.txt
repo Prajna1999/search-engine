@@ -1,0 +1,34 @@
+Title: Techie? Questioning life choices? Keen on switching to the social sector?
+Author: Donald Lobo
+Date: November 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/techie-questioning-life-choices-keen-on-switching-to-the-social-sector/
+==================================================
+
+Over the past 18 months, I’ve had lots of conversations with folks specifically from the tech/corporate sector who’ve expressed an interest in switching to the social sector. We’ve had some amazing successes with a few of them (here’s to you: Vinod, Ashwin, Rajeev, Ashwini, Thomas and Radhika!), a few failures and a a fair number in between. The below post is our experience, learning and approach, what has worked well, and what we can improve on. We wrap it up with some pieces of advice and links to a few blog posts and reading material.
+We recently wrapped up a hiring spree for senior tech folks where we hired three senior people from the tech + data world to join us full time. One of them works from the San Francisco Bay Area (like me), and we had to figure out how we could match her goals with our needs. So lots of interesting conversations, a few stumbles and definitely lots of learning. Figured I’d write down some of our learnings and how we’ll approach this the next time, for our future selves, when we do our next hiring spree. All of the stumbles below are mine, hopefully this will help others (and me) from repeating some of my mistakes, and build on some of the things that worked well for us.
+Be clear with your communications and expectations. We should let people know that while we really want to get more people in the sector and encourage the switch, we are also running a fairly large NGO with commitments to our users and funders. We have a budget, we have positions we need to fill. While I am happy to experiment and roll the dice many a case, we need to balance this with our immediate needs and goals.
+While folks from the tech industry bring important skills to the table, it does not transfer completely to the social sector. There is a learning curve, there is an understanding of the space that needs to be built up, there is exploration that needs to be done. If you’ve not spent a fair number of hours working with NGOs on any aspect, the first step is to volunteer with a local NGO and get to understand the sector better
+One of our recent hires, volunteered with us for three months or so, before he was willing to commit to a full time role and we were comfortable knowing how he could help us. It seems like a long time, but it did work out really well. A few of our other recent hires, have spent a fair bit of time exploring with other local NGOs, participating in hack-a-thons and more.
+While we would like to hire all the folks interested in making the switch, we also need to make sure that we know how we could use them, we have work lined up for them, and we can fit them into our budget and funding cycles. Ultimately, we need to raise money for each and every hire, something that is not trivial
+There is a big difference between accepting a volunteer vs considering someone for a full time role. In our experience, around 1/2 of the volunteers drop out in the first month or earlier. We try to limit the amount of time we invest in them, but give them more open-ended projects where they can make independent progress. A good example would be to work on a feature that will be useful to our NGOs , but not super-urgent. People who we end up working with have taken the initiative and made some progress on these projects.
+We need to ensure we have a process for engaging volunteers in a meaningful way, without it being a significant load on the team member. Have a clear specific deliverable that they can make progress on independently. Ensure someone on the team spends an hour or so with them per week whenever needed.
+We used to be very open and welcoming to folks attending our sprints and gatherings. As we’ve grown as a team and as our commitments have increased, it’s really hard for us to accommodate other folks unless we know what they can bring to the table. If you’ve volunteered with us, and we know your skill set, it makes it a lot easier to have you be part of the sprint and contribute to what we want to achieve. At our most recent sprint, our biggest feedback was team members were too busy with various tasks, that we did not get to engage with each other as much as we’d like. Being a remote-first organization, these week-long meetings are super important for the team to catch up and address some large problems.
+Going forward to make it easier for all of us, we’ve decided to allocate one day at the sprint for visitors and funders. They get to meet the team in person, interact with the community and see what we do. Easier for us to manage and ensure that we can be good hosts.
+Aman volunteering his time to educate the group on LLMs and his work with sens.ai
+Some words of advice for folks who might be considering a switch to the social sector (derived from the above points, so a bit of a repeat here)
+If you’ve not volunteered with an NGO, go volunteer with a few for 20-30 hours / week for a few weeks
+Think of it as a mutually beneficial association. While the sector can potentially use your skills, the sector is looking for people who can help them sooner rather than later. The more you understand and empathize with the organization, the better it works for everyone. Ultimately think of this as a job / career search, you have to be more vested in it.
+Take the initiative, follow up if needed. Send folks a reminder email, sometimes things fall off our plate and we forget to respond.
+Ask questions, jump on public channels if available (for tech4dev this is our discord channel, or GitHub repos) along with the multiple webinars we have) where you can help. See what is happening, Get involved in an open source way, if you can.
+Attend as many events as you potentially can. You get to know the people, talk to other folks in the sector, see the dynamics. It may or may not be your cup of tea or coffee. This gives you a chance to explore
+Some early blog posts from a couple of our recent hires:
+Dabbling in the the Indian Social Sector
+– great example of someone jumping in and trying to absorb as much as possible and expressing interest
+Ashwini’s experience in her first week
+Thomas’ path to the social sector
+Milestone: Tech4Dev  new beginnings  The Giving Shrub
+– More insights from Radhika on her switch
+Reading List of books/videos./blogs connected to the social sector
+Roopa Kudva’s advice on transitioning to the social sector
+Pathways to Impact – Interviews with people on their journey to the sector

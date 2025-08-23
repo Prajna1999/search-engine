@@ -1,0 +1,35 @@
+Title: Weeklong Sprint at Gurgaon
+Author: Kurund Jalmi
+Date: April 2022
+Category: Glific
+URL: https://projecttech4dev.org/weeklong-sprint-at-gurgaon/
+==================================================
+
+As Glific continues to expand, it already has over 40 NGO partners and is in talks with many more. Kickstarting this quarter, we continue in the spirit of our sprints where the entire Glific team meets in person and invites our partner NGOs as well for a weeklong sprint to learn more about their use cases and difficulties, and to assist them in completing a few items from their future to-do list.
+For this sprint, we were hosted by the
+ColoredCow
+team at their Gurgaon office from 11th April 2022 to 15th April 2022.
+Overview of the week
+The week was packed with work plans with our NGO partners and insightful talks.
+STiR Education
+:
+Collaborating with Aparna in brainstorming sessions and structuring flows for their upcoming program aiding teachers in receiving adequate support from their supervisors and evaluating the type of support received.
+Alohomora
+:
+Sneha from Alohomora led a session on the issues her NGO is seeking to solve, what are the various programs they are running and how they hope to use Glific to aid their cause
+Reap Benefit
+:
+An insightful discussion with Gautam Raj where we discussed Reapbenefits experiences with chatbots, as well as what common metrics we can incorporate into v3.0 Glific data studio templates to provide our partner NGOs with data studio reports regarding the general health state of their chatbots straight out of the box.
+Hyperverge Academy
+:
+Catching up on the Women in Tech fellowship program with Gayatri and Shruti from Hyperverge, retrospecting the program so far, and planning for the upcoming weeks for the fellows
+Talk by Bharti Ali from HAQ CRC:
+An eye-opening experience for everyone where Bharti shared her experience working in
+HAQ CRC
+and alongside the government to mainstream child rights to create a better society where human rights of all children are recognized, protected, and realized
+Apar Gupta from Internet Freedom Foundation:
+An informative talk where he shared about his foundation –
+IFF
+and how his organization seeks to ensure that technology respects fundamental rights. He further added how vital it is for India, which has the world’s second-largest number of Internet users, to have a fighting force to protect people’s fundamental rights.
+Despite the fact that we had a full week packed, we managed to sneak away for a few hours for a delicious Japanese supper at Ebisu.
+It is as they say, A Family That Eats Together, Stays Together

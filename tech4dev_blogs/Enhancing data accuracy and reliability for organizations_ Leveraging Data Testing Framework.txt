@@ -1,0 +1,43 @@
+Title: Enhancing data accuracy and reliability for organizations: Leveraging Data Testing Framework
+Author: Mohd Shamoon
+Date: November 2023
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/enhancing-data-accuracy-for-organizations-leveraging-data-testing-frameworks/
+==================================================
+
+Introduction:
+Picture this: you’re spearheading a remarkable project for your organization, employing cutting-edge technology to measure its impact. You have a dashboard showcasing the metrics that are achieved till date. However, a nagging doubt creeps in as you suspect inaccuracies within the data on the dashboard. Determined to validate the information, you engage with the creators of the dashboard, only to discover a series of complex transformations applied to the original data for getting these visuals. The transformations were applied based on the given requirements for the dashboard. Uncertainty lingers, prompting you to explore a solution: the implementation of a Data Testing Framework (DTF).
+Understanding the Data Testing Framework
+The primary goal of a Data Testing Framework is to evaluate the accuracy and reliability of calculated data, which results from various transformations within a specific technological framework. This testing process involves cross-validating the data using a different technology to ensure consistency and integrity.’
+Utilizing Google Sheets as a Differential Technology:
+To carry out this validation, we leverage Google Sheets as an alternative technology. The process involves several key steps:
+Dashboard Understanding:
+Gain a comprehensive understanding of the dashboard, compiling a list of metrics requiring testing.
+Calculation Methods:
+Understand the calculation methods for each metric to identify datasets contributing to their creation.
+Documentation:
+Document the significance of each column in the dataset, explaining its derivation. Additionally, document the source tables of the original data and all transformations in the pipeline.
+Sample Size Determination
+: If dealing with a sizable dataset, determine an appropriate sample size for testing in Google Sheets.
+Data Import and Transformation
+: Import the sample size data from source tables and the dataset used in the dashboard into Google Sheets. Apply documented transformations using Google Sheets formulas.
+Consistency Verification:
+Verify the consistency of all columns between the data calculated in sheets and the data from the dashboard dataset.
+Discrepancy Resolution:
+Identify and rectify any discrepancies in the data, ensuring the integrity of the pipeline.
+Accuracy Confirmation
+: If all column data matches, it indicates that the data is accurate and reliable, having been calculated using multiple methods.
+Applying DTF to Quest Alliance:
+One of the challenges we are currently addressing is enhancing data accuracy for one of our esteemed
+data catalyst
+partners,
+Quest Alliance
+. Initial learnings from this endeavor include:
+Data Context Awareness:
+We should comprehend the context of the data, understanding what each dataset contains and its relevance to the program.
+Walkthrough Analysis:
+Explaining the pipeline to a different set of eyes aids in better and more reliable data. This is crucial as complex queries and a single mistake in joins or grouping can lead to incorrect data.
+Cardinality Clarity:
+For the dataset under testing, clarity on the cardinality of the table is paramount. Understanding how each row represents uniqueness, whether it is the user alone or the user along with details, is crucial.
+Future Steps:
+Over the next two months, we plan to run this framework with the Quest Alliance team, gauging its effectiveness and fine-tuning the process for optimal results. By enhancing data accuracy through DTF, we aim to empower organizations with reliable insights for informed decision-making.

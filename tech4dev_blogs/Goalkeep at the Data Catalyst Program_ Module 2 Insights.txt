@@ -1,0 +1,27 @@
+Title: Goalkeep at the Data Catalyst Program: Module 2 Insights
+Author: Abhishek Nair
+Date: February 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/goalkeep-at-the-data-catalyst-program-module-2-insights/
+==================================================
+
+Goalkeepers stand ready to champion data culture!
+Module 2 of the Data Catalyst Program, unfolding against the serene backdrop of Goa was structured as a two-day workshop featuring engaging sessions by Project Tech4Dev, Dasra and Goalkeep. Our sessions bookended the agenda on both days anchoring the opening session
+Catalyst Chronicles
+, and the closing, reflective session
+Are We There Yet: {{Insert Future}}
+‘ that closed Module 2. Another of our priorities was to walk the talk and manage the feedback collection process during the workshop with the aim of ensuring data-driven design for future iterations of the program.
+During the three months between modules 1 and 2 of the program, organizations worked on action plans to address specific problem statements they had articulated in their application forms and further refined through discussions with program team representatives assigned to each org. Participants received continuous support from subject matter experts during this period. This structured approach was aimed at (a) driving tangible change within each organization and (b) building new knowledge and skills among individual participants.
+The objective of the ‘Catalyst Chronicles’ sessions was to create a space where each participating organization could showcase and actively discuss their data journeys, providing an opportunity not only to gain insights but also to receive positive reinforcement and feedback from their peers.
+While most teams made commendable progress, they were not without challenges. Some organizations refined their problem statements for precision, while others grappled with securing buy-in from leadership and other internal stakeholders. Participants also tried to update their solutions to account for the interconnected nature of various data elements, emphasizing how data literacy is foundational to effective data utilization and how the absence of data governance can erode trust in data.
+The panel discussions during the presentations (which were organized based on the progress of organizations through the data maturity lifecycle), showcased their challenges and solutions. The first group showed how they were leveraging data for pilots, hypothesis testing, and optimizing user journeys for improved Data Utilization. Trust in Data – the collective responsibility of all members to maintain data quality through robust data governance structures – was the focus of the second group. The third group delved into optimizing Data Consolidation to enhance data access and reduce costs, while the fourth group shared insights on improving Data Collection processes. Taken together, the groups addressed all four domains of data culture (Strategy, Technology, Process, Data)..
+Two quick glimpses into the progress made: Uninhibited presented their adoption of Avni as a data collection tool, a substantial stride toward digitizing their data collection process within the three-month period. Saajha showcased their prowess in data transformation, achieving a remarkable reduction in data processing costs by over 50%.
+NGOs share their data journeys and answer audience questions
+Our commitment to collecting feedback led to the design of a gamified experience for all participants. A brief five-minute window was provided to complete the feedback form, with a live counter displaying total responses received. Participants were granted access to the next section or a much-needed chai-biskoot break upon reaching the target number of responses. Adding a touch of excitement, Manije from the Goalkeep team took on the role of a bouncer, ensuring participants submitted their responses before exiting the room, which helped us achieve a 95%  feedback collection rate!
+The concluding session of Module 2 saw participants crafting timelines of the two days on chart paper alongside reflections on their learnings during the closing session. We shared the story of
+how ARMMAN leveraged machine learning to better target interventions to the right beneficiaries
+to inspire the cohort as well as to underscore the fact that building a data culture is a tedious and gradual process. What we wanted the cohort to know, however, was that they had successfully taken the first (and hardest!) step in that direction during the past three months.
+Data Catalysts summarize their takeaways from each session
+Our highlights from Module 2 included observing participants actively engaging in dialogue, posing questions, and offering solutions based on their project progress. The seamless flow of sessions on both days, with minimal delays, underscored the meticulous planning that went into shaping these interactions.
+As we embark on the next phase of this transformative program, our vision is to empower the cohort to navigate their data journeys independently and continue to build a data-driven culture!
+And that’s a wrap for DCP Cohort 23-24!

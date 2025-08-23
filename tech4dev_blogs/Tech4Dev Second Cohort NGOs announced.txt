@@ -1,0 +1,39 @@
+Title: Tech4Dev Second Cohort NGOs announced
+Author: Kurund Jalmi
+Date: December 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-second-cohort-ngos-announced/
+==================================================
+
+After a fairly long involved process, we have selected the cohort for Project Tech4Dev’s second round. We modified the application process quite significantly based on our first cohort experience. In specific, we added a lot more human interaction in the final stages and gave NGOs a better sense of what the grant is all about and their expected involvement.
+We got a fairly diverse group of NGOs – both geographically and sector-wise. We continue to maintain a focus on public health deployments via
+Avni
+and have 5 NGOs as part of this cohort. We also continue our focus on Open Data with
+CivicDataLab
+and have 2 NGOs in this cohort. The other NGOs are across the spectrum from sectors like Skilling, Self Help Groups, Individual Giving, Rights-Based groups.
+Without further ado, the 10 NGOs and their websites are:
+ASHWINI (Association for Health Welfare in the Nilgiris)
+Centre For Equity Studies
+Department of Community, Yenepoya University
+Empower People
+Internet Freedom Foundation
+Jan Swasthya Sahyog
+Oorvani Foundation
+SeSTA
+SETCO Foundation
+Vidhayak Bharti
+In addition, we have made one research grant to
+Dhwani RIS
+for the development of an open-source
+Fund Management System
+. We are also working with
+Give India
+and
+Medha
+in pilot projects with medium-sized NGOs which are more involved.
+Finally, we have entered into a partnership with the wonderful folks at
+Persistent Systems
+. Persistent is contributing a team of 6 people towards the development and usability of
+Avni
+which is an open-source field service delivery and data collection platform.
+We thank all the NGOs who applied and were part of the process. We tried to be as transparent in the process and give useful feedback whenever possible.

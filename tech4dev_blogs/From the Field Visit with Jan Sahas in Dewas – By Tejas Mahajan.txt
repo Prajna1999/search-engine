@@ -1,0 +1,49 @@
+Title: From the Field Visit with Jan Sahas in Dewas – By Tejas Mahajan
+Author: Ankit Saxena
+Date: November 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/from-the-field-visit-with-jan-sahas-in-dewas-by-tejas-mahajan/
+==================================================
+
+Date: 7th, 8th November 2023
+Jan Sahas
+is an NGO that works for two major causes, support for migrant workers (MRC abbreviation used internally) and prevention of violent crimes against women and children (PVAWC). The visit was aimed at understanding the PVAWC vertical for the fractional CxO arrangement they have ongoing with Project Tech4Dev.
+At a high level PVAWC serves two major functions, i.e.
+Prevention,
+under which the team does work with the community to set-up safe spaces for women and children of the community to educate themselves and equip with tools to fight such crimes and on the other hand is the
+Response Rehabilitation Reform
+work which is important and crucial to the survivors of such crimes.
+The organization and work is scaled to about 78 districts where there is strong ground presence and operations like identification of cases, fact finding, support to the survivors and the family in form of legal assistance, mental health support, preparation for the trial, accessibility to the benefits and compensations and so on.
+A survivor case in best case usually takes anywhere between 1-3 years to come to a conclusion with compensation being provided to the victims, and still the rehabilitation work of the team continues to help survivors overcome the sense of trauma and blend in the normality of life. Each ground team tracks the journey of each of the cases manually by maintaining meticulous notes and following the system of logging details of each case in ledgers for future use and reference. Navigating cultural, social and political pressures in the society as well as the fear and mistrust from the survivor families.
+Context of the Field Visit: Jan Sahas team is looking to digitize the work being done through the vertical and the onground team members, so as to reduce the time spent by ground staff in duplicating or triplicating the handwritten notes from one ledger to another, as well as to drastically improve the reporting of work done to the donors as well as to the larger organization itself. Another outcome of a digitized system could be the potential of cross learning between multiple districts and the immense value consolidated data of field notes from response to violent crimes against women and children can inform the future policies and laws.
+Day 1: Immersion and Discovery
+We arrived at the office at 10pm and were promptly greeted and taken to the first meeting with the mid-managerial staff, where we were introduced to the heads of clusters who have overseen the delivery of this program for more than 7 years on average. We learned the nuances of how the present team is structured and the problems being faced in reporting to funders under the present structure and systems.
+Ankit also demonstrated a quick prototype of an envisioned app for the cluster coordinators to take a look and share any initial feedback and suggestions.
+We witnessed the helpline and staff that anchors the helpline. We learned the process they follow to answer queries and deal with emergency situations that come their way.
+A team member engaged in conversation over the helpline
+Post lunch we visited a stakeholder office One Stop Centre which is a facility by Govt of India made specifically for women who are seeking refuge from domestic violence. We had an insightful conversation with the Woman Empowerment Officer who gave us a lay of the land, the kind of cases that come up and the challenge involved in dealing with such cases. Jan Sahas seemed to have a very cordial fruitful rapport with the local administrator.
+Post this we were driven to the field office outside of Dewas called the Resource Centre. This is the main hub of activity where the case workers, district coordinators, field counselor and other support staff work. We spent a good 1.5 hours interviewing them, understanding the work they do, the nuances involved, the challenges that they face, their previous experience with using technology and many more such details.
+A pic of some of the registers/ ledgers the team maintains which contains similar information
+Through this meeting we understood the process involved for the field team to respond to violent crimes, the day to day and the journey of a case. Through this conversation we were able to discover that there have been attempts to introduce an app which was failed which has created a sense of doubt to any technology, and that field workers keep track of a single case across multiple ledgers over any given period of time and reducing this work is a potential value add that they will look forward to.
+We ended the day by making plans to visit the local temple early in the morning.
+Day 2: Going deep in the field
+We started the day bright and early. Did a mini trek to the local temple and had ourselves a good local breakfast.
+Picture of the local temple famously called as tekdi
+We then set out for a day of going deep into the field of the office, meet some of the survivors, have deeper conversation with the district coordinator accompanying us to really understand the process and purpose of each of the ledgers being maintained in order to get an essence of the documentation, what can be digitized and what is best left as is.
+We visited 3 survivor families, as a routine part of the follow up. All three families were supported in the past, whose cases were resolved and compensation done. These families had great respect for the visiting Jan Sahas team and as a result treated us with equal respect and affection to invite us in their abodes and offer us tea and fruits.
+We also visited a Dignity Centre in one of the remote villages, this comes under the prevention vertical. The dignity centers are anchored by a member of the local community, who is recruited as a part time Jan Sahas team member. Their work is to set up baal or balika panchayats, constituting 20-30 adolescents from the village. These dignity centers and the panchayats provide a platform for the local children to learn about the rights, the tools, and educate themselves about gender, violence and legal aspects of these things. Apart from this, a major focus of these centers is to develop the leadership and citizenship skills of the kids who are a part of it.
+A picture of the entry to Dignity Centre we visited
+We also visited another local administration office – called the woman and child friendly police station, another one of the government initiatives being supported by Jan Sahas team. The police station room outside the police station and away from the usual melee inside a station is to provide a safe and comfortable place for the survivor to report the incident and seek help and protection.
+The police station is one of the main sources of leads to Jan Sahas team to identify the cases to support.
+Key Learnings:
+Field team works dedicatedly on the ground and their success at the moment is not hindered by the presence or absence of a tech solution
+The field team is doubtful of a tech solution mainly because they do not want to see their meticulous notes on the cases disappear because of a glitch or a crash.
+Field team does notes taking in different ledgers, and is super data and process oriented. But it is a major pain point for them to add the same notes 5-6 times in different ledgers to follow the process
+The field team is fairly well versed in the use of technology.
+Reflections:
+There are a diverse range of activities being undertaken by the field team, data from some of them is more critical than others. It is worth considering a strategy to start by digitizing a low consequential process, in order to build the trust of the team, get them used to the technology, as well as for the implementing and developing team to learn the necessary skills to adopt.
+The evaluation of any tool or system being adopted will depend on how flexible it is to allow making changes to the processes, with very less dependency on developers of the system.
+A very objective Why to adopt the tech solution or in other a very objective value add will have to be articulated for each level of the organization to rally behind and implement the system in the long run.
+Gratitude
+Deep appreciation to the entire Jan Sahas team, Ms Reena and district coordinators who took us around, and answered each of the questions we posed at them patiently to help us understand the ongoing processes.
+Very few times in life does one feel like Yes, my faith in humanity is restored. Seeing the work of Jan Sahas, observing the team do their thing passionately, dedicatedly, seeing the smiles and relief they brought to the families of the survivors was one such rare moment.

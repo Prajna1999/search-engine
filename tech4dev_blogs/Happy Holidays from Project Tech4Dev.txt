@@ -1,0 +1,42 @@
+Title: Happy Holidays from Project Tech4Dev
+Author: Kurund Jalmi
+Date: December 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/happy-holidays-from-project-tech4dev/
+==================================================
+
+This is an update we shared via email with the community and our funders. Posting it here, in case you are not on either of those lists 🙂
+We want to take this time to thank our community for supporting us over the past couple of years.
+The financial stability that our generous funders have provided us has made our life a lot easier. As you are aware, this year has been radically different, but we feel quite good about our approach and our pivot towards focussing on our open-source platforms while giving our NGO partners the space to handle the pandemic within their organization and programs.
+A few highlights for Tech4Dev over the past year (Jan – Dec 2020)
+Glific
+– our two-way communication platform has had tremendous traction within the NGO community in India. In the
+span of 7 months
+, we’ve gone from a concept to a working product and have
+10+ NGOs
+paying to use the SaaS platform. We got a
+significant grant from Omidyar Network India for Glific
+and will be exploring opportunities to collaborate on open source technology with ON.
+We got a head start working with NGOs in the first quarter of 2020. Thanks to the early start, we managed to deliver solutions to
+20+ NGOs
+via Tech4Dev.
+The third-cohort NGOs have used a communication platform to deliver timely messages to their communities during the pandemic. In particular, we are proud of the work done by
+Saajha
+and
+Reap Benefit
+. The common thread in their work was the combination of personal and automated conversations with their beneficiaries. Their learnings have been incorporated into Glific.
+We i
+ncubated the
+FundImpact platform
+– a grant management system for NGOs to consolidate budget expenditures and project performance in one place. The platform allows NGOs to automate the routine & monotonous reporting work. FundImpact will facilitate hundreds of NGOs across India in reducing their efforts on reporting project performance and managing grants from donors.
+For the
+Avni Project
+, digitizing the community health projects for organizations like
+JSS
+and
+ASHWINI
+,covering all their vertical programs was the big milestone achieved in 2020. Avni is now
+full-featured fieldwork and beneficiary MIS
+for community-based organizations.
+On behalf of all of us at Project Tech4Dev, we wish you and your families a happy and safe holiday season. Please take care.
+P.S> Our Q4 2020 quarterly report will hit your inbox in the second week of January 🙂

@@ -1,0 +1,61 @@
+Title: My First Tech4Dev – Glific Sprint Sep 2022
+Author: Kurund Jalmi
+Date: September 2022
+Category: Glific
+URL: https://projecttech4dev.org/my-first-tech4dev-glific-sprint-sep-2022/
+==================================================
+
+This blog is written by Vandana, from
+Bhumi
+Thoughts before Sprint
+A few weeks back, my founder(Dr. Prahalathan) and I got a mail from Abhishek from
+Glific
+about the Sprint happening in September where
+Tech4Dev
+communities and different NGOs are attending, and we are also invited to join the same. Initially, I was very confused about what this Sprint looked like and whether it was worth attending for my organization or me. When I saw the Sprint Schedule for the first time, I started having thoughts of meeting different people who are working in the same sector and meeting the
+Glific
+team in
+person to understand the system better.
+Thoughts while traveling to the Sprint –
+I started my journey from Delhi on the Shatabdi Express. Coming to the Sprint for the first time, I was very nervous and had multiple thoughts about meeting new people and taking learnings, key takeaways from the Sprint. I reached the
+Salwood resort
+in the afternoon, which was surprising to me a resort inside a village surrounded by greenery with a beautiful view which was my home for the next three days.
+Sprint Days, 13th Sep- 16th Sep:
+The evening started with an ice breaker arranged by Tejas from Reap Benefit, meeting the NGOs(
+Indus Action
+,
+Reap Benefit
+,
+STiR Education
+,
+The Apprentice Project
+,
+VOPA
+,
+Key Education Foundation
+,
+Quest Alliance
+,
+Suno Sunao
+,
+Gram Vaani
+, and
+Bhumi
+) as well as Tech4Dev communities(
+Aam Digital
+and
+IDInsight
+) and understanding about their work and how they have used Glific platform in their Organizations.
+It was very interesting to understand the flows people have used in their organizations and the different functionalities of Glific, which can be integrated with Bigquery, Dialog flow, Google ASR, and Exotel. I would personally like to thank the Glific team for having the collaborative support session where we discussed the challenges NGOs faced while working on the platform and what we are expecting more from the Glific team to support.
+In the end, we had a reflection session again arranged by Tejas, which was a great success to see where we are today and as a community, how we will be going forward and achieving our goals.
+BTW(Behind the Work)
+BTW, I enjoyed these days while socializing and wandering around the streets of Sigli , Mussorie and most fun thing to add was Exploding Kittens – a card game which was the heart of the Sprint.
+Thoughts after the Sprint :
+I am so glad I got the opportunity to attend this Sprint and learn from the different NGOs about their work and see the future of collaboration with
+Bhumi
+. Additionally, I was able to map some more flows for
+Bhumi
+and able to work with
+Glific
+on the challenges we faced in the past. I had a fantastic experience at the sprint and am already excited for the next one in December.
+Lastly, I would like to thanks everyone I interacted with in the Sprint and looking forward to collaborate in the future.

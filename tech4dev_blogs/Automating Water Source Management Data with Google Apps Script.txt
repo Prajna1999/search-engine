@@ -1,0 +1,96 @@
+Title: Automating Water Source Management Data with Google Apps Script
+Author: Mohd Shamoon
+Date: February 2025
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/automating-water-source-management-data-with-google-apps-script/
+==================================================
+
+One of the most exciting aspects of my work at FCXO is the opportunity to rapidly prototype solutions for unique challenges. Today, I encountered an interesting problem faced by an NGO managing water sources using
+KoboToolbox
+.
+The Problem
+The NGO collects survey data to monitor water sources affected or improved by an intervention. The key questions in the survey include:
+What is the type of intervention area?
+Which water sources were impacted?
+Types of Intervention Areas
+Catchment Area
+– Where rainfall collects and drains into a water body, such as a river or lake. Interventions here may include reforestation, soil conservation, or erosion control.
+Outside Source-shed
+– Areas adjacent to watersheds that indirectly affect water quality.
+Command Area
+– Downstream regions where water is distributed for irrigation or drinking.
+The survey also collects geospatial data, allowing users to map the intervention areas by inputting coordinates and generating polygons.
+The Existing Process
+Once the data is collected, the current workflow involves:
+Downloading the CSV from
+KoboToolbox
+.
+Cleaning the data manually.
+Loading the coordinates into
+QGIS
+to visualize and validate if the intervention areas align with the affected sources.
+This was a tedious and repetitive process. The NGO asked if we could
+automate the workflow
+to streamline data updates and cleaning while maintaining the ability to visualize the data efficiently.
+Automating the Workflow with Google Apps Script
+Google’s
+Apps Script
+is a powerful tool that allows automation within the Google ecosystem. Given the structured nature of the cleanup process, I wrote a script that:
+Pulls data from KoboToolbox
+using its API, which exports data in JSON format.
+Cleans the data
+based on predefined transformations.
+Writes the cleaned data
+directly into
+Google Sheets
+.
+To keep this process efficient, I leveraged
+Apps Script Triggers
+to automate data fetching at a scheduled frequency (e.g., daily). This ensured that the latest survey data was always available and pre-processed without manual intervention.
+Addressing the Visualization Challenge
+With data processing automated, the next challenge was
+visualizing the intervention areas
+. Initially, I explored
+Looker Studio
+, as it provides great tools for visualization. However, it
+lacked native support for displaying polygon-based GeoJSON data
+on maps.
+Exploring Alternatives
+Custom Visualization in Looker Studio
+Looker Studio allows custom visualizations using JavaScript.
+I considered building one using
+Leaflet.js
+, but it required additional effort, and I wanted a quicker solution.
+Deploying a Web App with Apps Script
+Apps Script can also be used to create
+simple web apps
+.
+I built a web app that:
+Fetches data from Google Sheets
+.
+Converts it into proper GeoJSON format
+.
+Displays it on a map using Leaflet.js
+.
+Enhancements and Final Touches
+To improve usability, I added:
+Satellite view options
+for better clarity.
+Captions and proper zooming
+for easy navigation.
+Unique map links for each intervention area
+, making it easier to inspect specific locations.
+The Final Outcome
+Now, with a single script execution:
+Data is fetched from KoboToolbox
+, cleaned, and stored in Google Sheets.
+A unique map link is generated
+for each intervention area.
+Users can visualize and validate the interventions
+quickly, eliminating the need for manual CSV handling and QGIS processing.
+Key Takeaways
+This project highlights how
+simple automation with Google Apps Script
+can significantly reduce manual effort and streamline workflows. If you work with data processing and visualization, I highly recommend exploring
+Apps Script, Looker Studio, and Leaflet.js
+to build similar solutions!

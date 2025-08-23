@@ -1,0 +1,36 @@
+Title: Empower People Project Kickoff
+Author: Kurund Jalmi
+Date: February 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/empower-people-project-kickoff/
+==================================================
+
+About Empower People
+Empower People (EP) is an organisation working with survivors of bride trafficking in India, primarily in Haryana and Assam.
+EP works with trafficking survivors on the ground who are leading the movement against bride trafficking and fighting crimes against women and children.
+Current Data Management Process
+EP’s On-the-ground data collection is done via photos, audio recordings and videos captured by the survivor leaders on smartphones supplied by the organisation.
+Further reporting, communication and data management is over a combination of paper-based methods and various Whatsapp and Facebook groups.
+Project Details and Scope
+As part of the second cohort for Tech4dev, we are working together with Empower People to identify what tech solution would fit best.
+We identified three primary modules for different user roles-
+Survivor Leaders
+Mode of use – Android App
+Securely capture media files, auto upload to server
+Auto-delete media after upload
+Activists
+Mode of use – Android App
+Report on cases
+NGO Admins
+Mode of use – web portal and android app
+Manage all case data
+Access media files uploaded
+We decided to target the functionality for user role 1 first, and as an app separate from the cases management app that will be used by activists .
+Current Progress
+We are currently exploring the possibility of using the open source Android app Tella –
+https://hzontal.org/tella/
+as the media reporting app.
+Tella supports capture of image, audio, and video files, and stores them encrypted on the phone storage.
+Together with the Tella team, we are exploring development of a configurable setting where files can be auto-uploaded to a server, and then auto-deleted from the device after the upload.
+We are also working to further scope out the case management needs for activists and admins
+More updates to come.

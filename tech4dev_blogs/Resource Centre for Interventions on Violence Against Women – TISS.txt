@@ -1,0 +1,26 @@
+Title: Resource Centre for Interventions on Violence Against Women – TISS
+Author: Kurund Jalmi
+Date: July 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/resource-centre-for-interventions-on-violence-against-women-tiss/
+==================================================
+
+About RCI-VAW
+The RCI-VAW(Resource Centre for Interventions on Violence against Women)  was started in the year 2008 under the Centre for Equity for Women,  Children and Families and School of Social Work. It engages in a  consistent and sustainable manner with the issues of Violence against  Women. The RCI-VAW nurtures effective interventions with different stakeholders through training and research to enable a deeper understanding of the issue and interventions to stop Violence against  Women.
+Current Process
+RCI-VAW runs special cells for women. The special cell is actually a  police station based unit which helps or aims to eliminate violence against women and children. When a woman registers a case it is registered in an Intake Register and is assigned a PU number (unique ID  for the case. A case letter with date and time mentioned is sent to the respondent and the same is noted in the Diary or Register. The Cell coordinator then calls the respondent for a first individual meeting,  depending on the case Joint and Group meeting sessions are organized. A case once registered is never closed and the cell coordinator can access the last 3 years data.
+Project Details
+We are working to automate their process to help the social worker with case and cell activity tracking at Special Cells. This would improve their data accuracy and the captured data will be used to improve their reporting process by generating monthly and quarterly progress reports.
+The team related to this project consists of Social Workers, Special Cell Coordinators, and Research Officers.
+Project Requirements
+Collection of basic case details through the mobile or web application.
+Social workers at Special Cells will feed in data into the app.
+Data accessibility based on roles assigned to social workers and coordinators.
+Automated reports for Social WorkersQuarterly progress report
+Monthly progress report
+Automated reports for Special Cell CoordinatorsMonthly progress report
+Quarterly progress report
+Half yearly progress report
+Technology Solution
+We have used Primero an open source software for our previous project  HAQ. After analyzing the requirement for RCI-VAW we think that Primero might be a good fit for this project as well. The development of the project has started in the last week of June.
+Any suggestions and feedback are most welcomed.

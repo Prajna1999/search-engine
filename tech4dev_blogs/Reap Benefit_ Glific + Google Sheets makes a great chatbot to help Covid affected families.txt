@@ -1,0 +1,25 @@
+Title: Reap Benefit: Glific + Google Sheets makes a great chatbot to help Covid affected families
+Author: Kurund Jalmi
+Date: May 2021
+Category: Glific
+URL: https://projecttech4dev.org/awesome-integration-by-reapbenefit-with-glific-to-help-covid-patients/
+==================================================
+
+Our friends at Reap Benefit recently deployed a Covid related chatbot to help multiple NGOs use their volunteer base to link Covid families who are looking for help to resources and hospitals that could potentially be a good match for their needs. We’ll describe in detail some of the aspects of the system, but the below video should give you a good idea of the overall goals and how the system handles different use cases
+Initial version of Covid Chatbot showing how the pieces are linked together
+The various components that make the system useful are
+WhatsApp Client for the citizen to interact with the system. Citizens can find information on their Covid test, hospital beds and other relevant information. This information can be dynamic and tailored as time evolves
+Glific to structure the flows and interact with the citizen. Flows are mainly used to collect relevant data from the citizen, and give back reports to the citizen based on their SRF ID (the ID used by govt apps and testing centers)
+For administrators and volunteers, Glific can expose another set of flows via Glific’s collection and permissioning system to give them enhanced access and detailed reports.
+The system can ask the citizen for the location of the patient, with geocoding, we can get the city and ward for that citizen. Volunteers can be assigned to handle all requests for a specific ward.
+Volunteers enter and edit information via Google Sheets for the citizens they are responsible for. Based on the phone calls and other information they collect externally they can update the Google Sheet. Depending on the NGO process, volunteers can also call the citizen up to get updated and/or more detailed information.
+The updated information can then be sent back to the citizen when they request it again and/or via a nudge message.
+We can also add an analysis layer to the information collected to give us a better estimate of how many requests were handled and updated by volunteers, the frequency and distribution of when and where requests are coming from. Based on this, the NGO can tweak the forms to collect more specific data and/or focus on the most pressing problems
+As the system increases in scope, we can use Google Sheets to collect the information, and then merge it into a database for efficient processing and distribution. The main goal would be to keep things simple along with the ability to handle multiple formats in a seamless manner.
+Super cool and motivating to see how Glific can be used so effectively and serve as a vital communication piece of the this multi-layered problem. This has also given us a few good idea on ways we can add functionality to Glific to make things easier for external integrations.
+Please do get in touch with us or the folks @ Reap Benefit if you would like to deploy something along similar lines for your organization. Together we can help make a difference and chip in our small contributions
+Special thanks to Gayathri from
+Hyperverge
+, and Gautam Prakash from
+Reap Benefit
+for being so open and sharing about their work.

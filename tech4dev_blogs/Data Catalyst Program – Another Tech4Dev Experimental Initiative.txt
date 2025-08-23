@@ -1,0 +1,57 @@
+Title: Data Catalyst Program – Another Tech4Dev Experimental Initiative
+Author: Donald Lobo
+Date: September 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/data-catalyst-program-another-tech4dev-experimental-initiative/
+==================================================
+
+2023 has been quite an eventful year for the team at Project Tech4Dev. In addition to growing the team significantly, we are also starting to see and thread problems across the sector. Love the vantage point we have across the Indian social sector and truly grateful to our NGO partners for being so open and sharing with us. A common refrain from folks outside the ecosystem, is how NGOs in the sector do not collaborate, I recommend they come sit with us for a few days to see the strength and power of the collaborative ecosystem 🙂
+Our platforms:
+Glific
+,
+Avni
+and
+Dalgo
+have a focus on on-boarding as many NGOs as possible at relatively low cost. Hence our close interaction with most of these NGOs (beyond the onboarding and initial setup) is fairly limited. On the flip side, our
+Fractional CxO
+program is a highly intensive (half time typically) 6-9 month engagement with medium-large NGOs. We had enough data points from both these interactions, to realize the need for a program around data in general and
+responsible technology + data
+in specific.
+We started off by having conversations and explorations with some of the organizations in the space. These included:
+Data.org
+,
+PJMF Data Accelerator
+,
+Aapti Institute
+,
+Digital Futures Lab
+,
+Omidyar Network India
+,
+D4GX India
+/
+Dasra
+,
+GoalKeep
+and
+Agency Fund
+. We also had lots of conversations across different NGOs in our ecosystem, during
+Tech4Dev sprints
+and different in-person gatherings. Building a data platform gave us a deeper insight into the data use case within the NGOs piloting Dalgo.
+Based on these conversations and discussions, we felt it was the right time and space to introduce the
+Data Catalyst Program
+– a cohort based approach to help NGOs use, manage, process and analyze data. We also did not know enough about the subject matter to run this cohort by ourselves. So, we invited some of our ecosystem partners: Dasra, GoalKeep and Agency Fund to help us design and run this cohort. This was a great group of partners:
+Dasra brings in their expertise and experience of running cohorts over the past decade, along with insights and educating NGOs from a strategic and organizational lens
+Goalkeep brings in their expertise from a Data Culture via their Data Culture Rubric. We’ve been working alongside them with some of our Dalgo NGOs
+Agency Fund brings in their expertise from a Learning and Experimentation Perspective, building data systems for scale and quality
+Project Tech4Dev contributes our technology expertise and deep understanding of NGO systems and processes
+Deep Dive with a Data Catalyst NGO (Uninhibited)
+We released an open application and got a lot of great responses. We kept the application as short as possible, had a few follow on conversations and finally chose 12 NGOs to make up the 1st Data Catalyst Cohort. Our current model of the program is:
+Spend the first month learning more about the NGOs data systems via the Data Culture Quiz, some deep dive pre-work, followed by a 60-90 min deep dive call. We will then allocate 2 team members to each NGO to help them over the next 3 months
+A 2 day in-person meeting (happening in Kochi, Oct 17-18) where we get into details, sharing data stories and journeys, some best practices, a lot of time addressing problems NGOs currently have and some time reflecting and figuring out the roadmap
+3 months of offline work between the NGO and the 2-person team allocated to the NGO. We expect to spend 3-4 hours/week with each NGO during this period.
+We wrap up this cohort with another in-person meet in the second week of January
+All of the information on the program can be found on
+our shared folder
+. We’ll follow up with periodic blog posts as we make progress with the cohort. Abhishek Nair will have a follow on post about the application process and the pre-work we did before the quiz.
+Big tip of the hat to Kavneet, Toshal and Nirali from Dasra for moving and dragging us along at a good clip, and to Priyank and Joanna from data.org for being so generous with their time and sharing the work they’ve done

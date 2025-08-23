@@ -1,0 +1,149 @@
+Title: AI Use Cases in NGOs: FIR Data Extraction
+Author: Mohd Shamoon
+Date: June 2025
+Category: Fractional CxO
+URL: https://projecttech4dev.org/ai-use-cases-in-ngos-fir-data-extraction/
+==================================================
+
+This is a common challenge faced by many NGOs. They often receive a large volume of PDFs and image documents that need to be manually processed for data entry. This task is usually assigned to interns or done by volunteers, which often results in inaccuracies and errors in data and facts.
+One such example comes from our work with an NGO focused on FIR (First Information Report) extraction. The NGO receives numerous FIRs in PDF and image formats and needs to extract 32 key data points to generate actionable insights. These data points typically include:
+The accident location
+Types of vehicles involved
+Fatalities and other details
+Such information can be used to pinpoint accident hotspots, identify common negligence factors, and help in policy-making.
+In an FIR, accident location details are typically found in the summary, stating phrases like “2km north of the police station” or “on this particular road,” which can then be mapped in Google Maps.
+However, the manual extraction process was labor-intensive and prone to errors due to the lack of cross-verification.
+The traditional process involved:
+Extracting and entering data into an Excel sheet, organized by district.
+Generating heatmaps and insights in QGIS based on the data.
+Presenting findings, such as fatalities, in Google Slides for the government.
+While this method worked to some extent, it had significant limitations, including:
+Difficulty in comparing data across districts or at the national level.
+The need for centralization and streamlining.
+Solution: Centralizing the Data System
+Our first recommendation was to centralize the data management system. We chose the
+Frappe framework
+because it met our requirements:
+Easy form creation
+Automatic import and export functionality
+Robust filtering and reporting capabilities
+By moving all Excel data into a centralized database, we simplified access and created the foundation for a real-time dashboard, which was previously a challenge due to the fragmented data sources.
+Leveraging AI for Data Extraction
+The next challenge was automating the extraction of key data points from the FIRs. The team initially used
+Pytesseract
+for PDF and image-to-text conversion, coupled with regular expressions (regex) to extract data based on FIR formats. However, this approach had several drawbacks:
+Pytesseract had low accuracy, especially with image-based FIRs.
+The regex logic had to be customized for each state’s FIR format and language, leading to complexity and errors.
+AI-Powered Approach
+We proposed an AI-driven approach to automate and improve the accuracy of data extraction. The solution involves the following steps:
+A user uploads a folder containing FIR PDFs.
+The PDFs are added to a queue for processing.
+Each FIR is processed using
+OpenAI’s Vision model
+to convert the image/PDF into a markdown (MD) file, which worked well for most of the FIRs.
+The 32 key points are then extracted using another
+OpenAI model (GPT-4o)
+, generating a structured JSON output.
+This JSON data is sent to the
+Frappe database
+for viewing and reporting.
+Frappe workflow
+Cost and Efficiency
+At the time of the experiment (April 2025), the cost per PDF file (around 5-6 pages) was:
+Vision model: $0.01 per PDF
+OpenAI processing: $0.02 per PDF
+This results in a total of
+$0.03 per PDF
+or
+₹2.6
+.
+For an estimated
+10,000 PDFs
+, the total cost would be
+₹26,000
+, significantly reducing the time spent by employees (which could take months).
+We also considered implementing an agentic verification system for accuracy which is to be taken later after manual verification.
+Privacy concerns regarding citizen data led us to abandon using OpenAI for the idea. OpenAI’s privacy policy assured no data usage for training, but we still opted for a more secure solution.
+Hosting an Open-Source LLM Model
+To address privacy concerns, we decided to host an
+open-source LLM model
+. This approach had its own set of challenges but offered greater control over the data. Here are the key components of our setup:
+Marker-PDF
+: We used
+Marker
+(an open-source tool) to convert PDFs to markdown format. After evaluating several options, we found
+Marker
+to be the most accurate and user-friendly.
+Marker GUI to test on local
+Ollama and Open WebUI
+: For processing the extracted data, we used
+Ollama
+(an open-source LLM interface) alongside
+Open WebUI
+for easy interaction with the models.
+Open web UI to test local models using ollama
+Infrastructure and Costs
+To run the models efficiently, we provisioned a
+GPU machine
+on AWS. Here’s a summary of the machines used:
+g5.2xlarge
+: $1.212 per hour
+g5.4xlarge
+: $1.624 per hour
+g5.16xlarge
+: $4.096 per hour
+g5.24xlarge
+: $8.144 per hour
+We moved from a
+g5.2xlarge
+machine to a
+g5.16xlarge
+machine due to the need for faster processing.
+The Process
+After provisioning the hardware and software, I integrated everything into a
+FastAPI app
+. The workflow includes:
+Uploading the FIR PDFs to
+Frappe
+.
+Converting PDFs to markdown using
+Marker
+.
+Using
+Ollama
+to process the markdown and extract the 32 key points into a structured JSON format.
+Storing the data in
+Frappe
+and exporting it for reporting.
+During testing, I processed
+135 FIR files
+, and it took about
+3.5 hours
+to summarize everything.
+Evaluation and Next Steps
+We used
+Langfuse
+to track input/output tokens and evaluate processing time. After the data was processed and stored in Frappe, it was exported to a Google Sheet for accuracy verification. The feedback was positive, though more adjustments are needed for large-scale use.
+Langfuse for llm model evaluation
+Costs for the Pilot
+The
+cost per FIR
+was around
+₹18-20
+, and while this is higher than expected, we aim to optimize the process during the next phase.
+Open-Source Tools Used:
+Marker-PDF
+:
+Marker GitHub
+Ollama
+:
+Ollama
+Open WebUI
+:
+Open WebUI GitHub
+Langfuse
+:
+Langfuse
+Frappe Framework
+:
+Frappe

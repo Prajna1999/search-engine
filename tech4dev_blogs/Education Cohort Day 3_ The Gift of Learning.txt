@@ -1,0 +1,30 @@
+Title: Education Cohort Day 3: The Gift of Learning
+Author: Kurund Jalmi
+Date: July 2022
+Category: Glific
+URL: https://projecttech4dev.org/education-cohort-day-3-the-gift-of-learning/
+==================================================
+
+This blog post is written by Shriya from
+Slam Out Loud
+Its Day 3 at the Glific sprint and it is another day of thundering rains! But just like this rain has cut through the hills to form beautiful waterfalls, we have imbibed its spirit to learn and grow through it all.
+The day started with everyone strolling into the dining hall, conversing over breakfast, and bidding adieu to some members (and our beloved Karaoke) with a promise to meet again in the next sprint. After all the goodbyes came to the learning sessions. We had
+EdZola
+present their work. They have been working to bridge the gap between technology and NGOs, a timely and urgent problem to solve. It was wonderful to learn how EdZola is helping bridge the prevalent gap by bringing in technology to enable the impact of the NGOs they work with.
+We then had a talk by Rahul from
+V-School: Liberating Education
+, an initiative that was started in August 2018 by a group of socially active, passionate engineers. A unique feature of their program is its contextual and localized content. They have content in languages that the children speak, including Marathi and Urdu. That is not all! You will find various dialects of the same language being used in their content, to make learning contextual. V-School has enabled e-learning in the classroom through resources catering to all. Get in touch with them and learn from their experience to bring affordable and accessible content to your work.
+With all the inspiring talks we had in the morning, the conversation continued over tea and coffee with clouds, rains, and waterfalls in the background. What more can one ask for! We then moved into our afternoon session with Surya presenting about
+Avanti Fellows
+. They work on providing free mentoring and tools to children from underserved communities to support them in getting admission to top government colleges. Surya also brought the power of Rajnikant (Sivaji) like a boss with his AI talk where he opened a whole new world for us to finetune and review things.
+Click
+this link
+, play around, finetune and review your work, from art to text!
+We then had yours truly,
+Slam Out Loud
+, present their work and engage everyone in a poetry activity. It was a joy to take everyone through our work over the years and also listen to poems of hope and sleepiness (understandable) to take us along. Bringing art to the space and having people engage in The Gift of Poetry felt amazing.
+In conclusion, the sprint has been a great learning journey with organizations, individuals, and experiences to learn from every day. One of our major takeaways was the amazing work that is being done across the board and the need for connection, communication, and collaboration to multiply impact. Something that stood out from the conversations and sessions was the quantity and quality of work done by NGOs in leveraging tech for their programs. While there is still a long way to go, the sessions helped us explore the diverse ways NGOs are using their chatbot to reach and engage their beneficiaries, the evolution of their chatbots, the solutions they have implemented, and ignited the hope of having technology enable the impact of our programs.
+There are a lot of learnings to take back and implement at
+Slam Out Loud
+. One idea that has stood out has been the concept of articulating key questions for our programs, their importance, and the fact that old questions will generate new ones thus allowing organizations to evolve and reach their goals. The sprint has helped me work on challenges with the Glific team and brainstorms ideas to make the chatbot more meaningful, engaging, and impactful. We are going away with a head full of questions, insights, some solutions found and some to find.
+With a mind full of learning and a heart full of joy, we are ending the blog with a takeaway that defines the sprint for us – No task is too big when done together – this sprint is an apt example of seeing this power of collaboration and the collective! With a feeling of hope, growth, and a lot of learning, we slowly move to the last dayonly to meet again soon for new learning in the next sprint.

@@ -1,0 +1,29 @@
+Title: WhatsApp Simulation within Glific
+Author: Kurund Jalmi
+Date: October 2020
+Category: Glific
+URL: https://projecttech4dev.org/whatsapp-simulation-within-glific/
+==================================================
+
+Glific aims to empower non-profits to take their communications to the next level through seamless integration with WhatsApp. While the larger goal is to help various organizations solve severe social problems like illiteracy, climate changes, gender oppression, etc, we also need to make sure that the tool is getting utilized to its best. This means that our primary users, the non-profit staff, should get a seamless user experience.
+Problem
+One of the primary features we released recently was the
+Automations
+. They enable organizations to have automated but meaningful conversations with the beneficiaries, hence ensuring that the core problems get resolved. With such ambition, the team did a lot of hard work to get the pieces stitched together and provide a seamless tool for the users.
+Automation workflow in action
+The first few trials with non-profits seemed to be aligning with our vision. However as things scaled up and complex automation started coming in, we figured that the outcomes were difficult to measure. We were left with few choices:
+Rethink and probably restructure our whole automation feature, or
+Create learning resources and train the users on how to effectively use the automation feature, or
+Figure out a way so that the users can easily measure automation outcomes.
+Rewriting the whole thing was too big of a task. We clearly wanted to not redo everything. Also, creating learning material was too much. Our aim was to create a simple and easy-to-understand system. Hence, we were only left with the third point.
+Solution
+The team came up with the idea of a simulator that would allow testing a real use-case from a single screen and live editing and testing for automation. This will help with the following:
+Fewer back-and-forths
+Once automation is created, it needs to be tested thoroughly so that it can cater to a general audience. This needed a lot of trials with the actual end-users and use that feedback to make it close to perfection. These trials will be avoided at the root level by non-profit staff testing the automation flow using the simulator.
+Less time to market
+New automation added can be tested more readily and accurately which in turn reduces the time to make it available for actual use.
+End-user impersonation and minimizing errors
+While using the simulator, one can experiment with inputs that could be provided by the end-user and make sure edge cases work perfectly.
+WhatsApp Simulator in action
+To make our vision more aligned, our design team created a UI for the simulator and it simplified our task a lot. The interface looked exactly like WhatsApp which gave a sense of having an actual phone with WhatsApp installed in it.
+With the simulator in place, the team is looking forward to getting all the setbacks resolved by the end-users. It will not only help non-profits to understand what their beneficiaries need but also find creative ways to test the automation to their extreme use cases.

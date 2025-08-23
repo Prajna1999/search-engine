@@ -1,0 +1,40 @@
+Title: Spring Sprint at Glific
+Author: Kurund Jalmi
+Date: March 2022
+Category: Glific
+URL: https://projecttech4dev.org/spring-sprint-at-glific/
+==================================================
+
+It’s soon going to be 2 years of building Glific. So far we’re going strong with a good partnership from the NGOs – our main users of the product. We are in touch with many of them on a daily basis through our communication channels. However, once in a while we bring down the virtual walls to meet and work in-person. Like this last
+Glific sprint that happened in Tehri
+in November between Tech4Dev, Glific Team, ColoredCow and 12 NGOs. It was a great experience for the Glific team to get to know the work done by some of the great NGOs in impact space. Continuing the same spirit, the Glific team planned to hang out in Mumbai between Feb 28 and Mar 6 for another sprint. This one is at a slightly smaller scale than the previous one, but carries the same ethos as before.
+Sprint planning
+A few weeks before the sprint was finalised, we invited our NGO partners to work together with us pro bono. Atleast the ones in Mumbai(and nearby areas) could join in. The only requirement for them was to plan what they wanted to work on with us. We asked for a detailed and actionable requirement doc so that we knock off some tasks and have a productive time together. And that the requirements should likely be generic enough to impact most users. A few NGOs showed interest. So we started planning our week
+here
+. It was a mix of working together, just meeting with people and hanging out in Mumbai with some
+nice recommendations from Lobo
+.
+Landing in Mumbai on Sunday. Glific team gearing up for the week ahead. People not in the picture are Vivek, Mohit, Lobo.
+We all huddled up on Sunday evening to look at the calendar again and plan for the week. We had assigned who from the team would work with whom.
+Structure for the week
+We had 1-2 NGOs planned to visit us everyday with
+Bandhu
+– working on sms triggers and flows optimisation
+Mukkamaar
+– brainstorming ideas for more engagement and creating contextual nudge messages
+SlamOutLoud
+– planning for a new program launch,
+along with visits from
+SoftCorner
+– for their help with business development for Glific
+Hyperverge academy
+– sharing more about the women in tech program
+A few highlights from the week so far:
+Working with Jacob from the Bandhu team and learning a lot more about their application stack, the problems they are trying to solve and how Glific fits in their solution. We got quite a comprehensive presentation from Jacob on day 1.
+We had already been interacting with Ishita from the Mukkamaar team regarding their programs. They are doing great work with scrutinising the impact of their programs by creating detailed reports and questioning the engagement. We are trying to help in these two areas to gear up for program launch at scale.
+Hyperverge, Tech4Dev and ColoredCow have also been working on Women In Tech program that trains female college students for software jobs. It was nice reconnecting and catching up on it with Gayathri Meka.
+Day 3 brought together Drashti from the SlamOutLoud team who had also shared with us some specific items to work on. We were able to discuss beforehand to clarify the requirements and approach.
+All the interactions with NGOs were quite productive as per our feedback from them. It was efficient, engaging, and informative.
+We were also visited by Ranjana from SoftCorner who is going to be helping us out with outreach for Glific. We want to be able to reach out to more NGOs and help them with their program through the chatbot. We built a good connection with Ranjana and we’re looking forward to a great collaboration.
+We’re also keeping our sprint healthy and fun with morning walks out for breakfast or filter coffee or just workout in the park. We’re graced with really tasty food from Lobo’s family too.
+We still have a couple of days to go. We will edit it further to add more adventures and experiences from the sprint.

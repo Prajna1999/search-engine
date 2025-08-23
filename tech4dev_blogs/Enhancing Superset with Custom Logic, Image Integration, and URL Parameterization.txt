@@ -1,0 +1,46 @@
+Title: Enhancing Superset with Custom Logic, Image Integration, and URL Parameterization
+Author: Siddhant Singh
+Date: August 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/enhancing-superset-with-custom-logic-image-integration-and-url-parameterization/
+==================================================
+
+Over the past few months, our team has been working on refining and enhancing Superset’s functionality to address unique requirements from various projects. In this post, I’ll dive into two key customizations we implemented, highlighting the challenges and solutions that made these features work.
+1.
+Hierarchical Filtering for A.T.E. Chandra Foundation
+https://www.loom.com/share/c60718f5e0be450aae42740d686da92b?sid=cece153a-5e6f-453a-a1a4-81096725f88c
+One of our most challenging projects was implementing dynamic, hierarchical filtering for A.T.E. Chandra Foundation. They needed the ability to drill down data at multiple geographic levels: state, district, taluka, village, and dam. The main challenge was building logic that could automatically adjust based on the filters selected by users.
+Here’s the logic we developed:
+This CASE statement determines the granularity level based on the filters applied. When a user selects a filter, the query automatically adjusts to display data at the appropriate level.
+Here’s a sample query that illustrates this in action:
+This solution allows for a smooth drill-down experience without overwhelming users with too much data or forcing them to constantly switch filters. The tricky part was ensuring the logic was robust enough to handle all possible cases within the limited time we had.
+2.
+Passing Parameters via URL for User-Specific Filtering
+https://www.loom.com/share/84410c8bc1f94c6a81f9fb7aefe0905e?sid=589930c1-e000-4839-bf23-b30826476efd
+Another key customization we implemented was URL-based filtering. The goal was to enable dashboards to dynamically filter data based on the user accessing the page. For this, we set up a virtual table and utilized URL parameters within the Superset query.
+The query looked like this:
+We were able to filter data specific to the logged-in user without needing manual intervention. This approach is particularly useful for creating user-specific dashboards with tailored data views, and the setup is relatively straightforward once the virtual table is configured.
+3.
+Adding Background Images in Superset
+Adding images to Superset dashboards involves working directly with the CSS. First, we inspect the dashboard and use the developer tools to identify the correct CSS selectors. For example, in one instance, we targeted
+.dashboard-char-id-215
+to apply a background image.
+The image is then added using the CSS editor within Superset:
+Go to
+Edit Dashboard -> Edit CSS
+.
+Write the necessary CSS to set the background image:
+The main challenge lies in correctly identifying the CSS selectors and writing effective CSS.
+4. Deploying Images to the Server
+When dealing with images, it’s essential to have them hosted in a stable, accessible location. One recommended approach is to deploy these images directly to the Superset server. Here’s how we did it for A.T.E. Chandra Foundation:
+This setup allows you to manage all assets for an organization in a single location, making it easier to update and deploy images.
+5. How to change logo
+Follow the same steps to copy the logo from your local system to the remote system.
+2. Now since all configurations are already done , just change the name of your image that you uploaded to logo.png.
+3. Inside the env file check for the OVERRIDE_APP_LOGO field and set it to true or 1.
+4. Now do (docker compose down) and (docker compose up -d ) to restart the container.
+5. Hard refresh the frontend and you can see the logo.
+*Note->For Images we can use any link, but to change logo, we have to follow each and every step.
+That’s it for now. We will keep experimenting this with
+Superset
+and all the custom things which you can do.

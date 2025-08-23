@@ -1,0 +1,37 @@
+Title: SeSTA FMS Project Status
+Author: Kurund Jalmi
+Date: September 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/sesta-fms-project-status/
+==================================================
+
+We�ve resumed the SeSTA FMS project after the break of a few months. In the last few weeks, we�ve completed a lot of features and also integrated the CRM platform.
+You can find the code at
+https://github.com/webaccess/SESTA-FMS
+The project is going well as per the revised timeline.
+Here are some of the key features implemented so far:
+Manage Roles and Role-based Access Control
+Manage various masters
+Countries
+States
+Villages
+Farmers Producer Organization (FPO)
+Self Help Groups (SHG)
+Loan models
+Manage Members
+Create a member (shareholder) who can apply for the loan
+Manage Loans
+Loan application on behalf of shareholders
+Upload signed loan application copy while approving the loan
+Track installments and tasks against the loan application
+Record Activities
+Dashboard for Community Service Provider (CSP) user
+Features being developed:
+Auto population script for various activity types, Loan EMIs, and Loan tasks
+Dashboard for FPO
+Dashboard for Sesta Admin
+SMS Reminder for EMI
+MIS Reports
+Here are some of the previous updates on the project:
+https://chintugudiya.org/blog/sesta-fms-project-update/
+https://chintugudiya.org/blog/sesta-fms-project-update/https://chintugudiya.org/blog/sesta-field-visit/

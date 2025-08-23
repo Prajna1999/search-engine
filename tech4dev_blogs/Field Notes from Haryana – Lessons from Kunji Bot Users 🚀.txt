@@ -1,0 +1,66 @@
+Title: Field Notes from Haryana – Lessons from Kunji Bot Users 🚀
+Author: Ashana
+Date: June 2025
+Category: Glific
+URL: https://projecttech4dev.org/field-notes-from-haryana-lessons-from-kunji-bot-users-%f0%9f%9a%80/
+==================================================
+
+Date of field visit: May 27-28, 2025 | Districts visited: Mahendragarh, Rewari, Faridabad
+🗺️
+As part of the Haryana State Rural Livelihoods Mission (HSRLM), we launched the Kunji bot to provide district officials, block coordinators, and Self-Help Group (SHG) members with WhatsApp-based access to key policies and processes. Our objective for the field visit was to understand user interaction patterns, to gather feedback on current functionality, and identify opportunities to improve user centricity and adoption.
+Our discussion with Radhe Radhe SHG group led by Sushma ji in Rewari district, Haryana
+User demographics and digital readiness
+We met a diverse range of stakeholders, including program coordinators, district officials, and SHG members. Key findings on digital readiness include:
+Device ownership:
+Approximately 85-90% of SHG women use android smartphones
+Literacy:
+Most users demonstrated functional Hindi reading capabilities
+Connectivity challenges:
+Network issues persist in remote villages
+Digital familiarity:
+Varied levels of smartphone proficiency was seen across user groups
+User Perception and Interaction
+🟢
+Users perceive Kunji as a “
+female guidebook
+“—
+a trusted companion with answers to all their questions
+. For district and block officials, the bot is especially relevant and useful since it offers quick, accessible information during meetings or field visits. The concise responses are key, as users often struggle to navigate through lengthy policy documents.
+Critical pain points
+🔴
+Response reliability:
+Inconsistent answers caused by overlapping or outdated policy documents.
+Poor response to short forms in queries:
+Limited support for common abbreviations Eg: RF – Revolving Fund
+Formal language:
+Administrative Hindi language makes the response difficult to understand for SHG members
+Response format:
+Text-heavy responses lacking visual or multimedia elements make it difficult to read through
+Long policy documents attached as links
+: The policy documents attached along with the response are in English and some of them run into many pages. These are not useful and are never opened by SHG members.
+Our meeting with District Program Manager, Aftab Ahmad ji, Rewari district
+User requirements and preferences
+Content format
+Short video explanations similar to YouTube shorts for complex processes
+Conversational Hindi in place of formal administrative language
+Visual aids and step-by-step guidance format followed in responses
+Interactive design
+Proactive communication including greetings and policy updates initiated by the bot
+Technical errors faced at the location sharing step during registration process needs to be simplified
+Trust and credibility
+Government branding and official attribution to the responses sent by Kunji bot will add to the credibility of responses
+Adding a government logo, description and a verified HSRLM website will make the bot look official and increase trust amongst users
+Strategic insights from the field
+💡
+Content Optimization
+We need to start sending nudges to users through Kunji bot for important days, occasions to build salience
+A regular content vetting process through which revised policy documents can be updated, needs to be set in place
+Technical Reliability
+Response consistency and speed needs to be improved
+Voice note functionality needs to be improved
+Details about common abbreviations needs to be updated
+Meeting with NARI Shakti Nirman SHG group, led by book keeper Bhawna Sharma ji, in Faridabad district
+Conclusion
+💫
+The Kunji bot demonstrates significant potential for democratizing access to government services through AI-powered WhatsApp interactions. However, realizing this potential requires addressing fundamental issues related to technical reliability, content accessibility, and user experience design.
+The field visit was an amazing experience since it helped me connect with the users, see the environment in which they work and understand their perspective on the product. Something that one would never get through multiple meetings or brainstorming sessions. Watching their eyes light up at features we’ve built, and noticing where they struggle, gave us invaluable insights into what’s working well and where we need to improve.✨

@@ -1,0 +1,24 @@
+Title: Community Contributions
+Author: Rohit
+Date: April 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/community-contributions/
+==================================================
+
+Dalgo is an open-source project, our codebase is public and we are open to contributions from outside Project Tech4Dev. But it’s only recently that we have actually begun to receive contributions.
+We are an active member of C4GT’s
+Community Program
+, and this month we saw several contributions from first-time contributors.
+Show Docker tag and version of Airbyte’s connectors
+. This was requested by one of our clients who has enough familiarity with Airbyte that they are able to read the documentation for the changes introduced between versions of the Airbyte connectors they use.
+Fix the title in the Edit Connection form
+. The title used to be “Add a new Connection” even when editing an existing one.
+Tooltips for the side menu, and a new icon
+. Our side menu was made collapsible via another C4GT contribution
+in February
+, and we received feedback that a tooltip on hover would be useful. We had also been using the same icon for Analysis and the Usage dashboard, so we took this opportunity to put in a new icon.
+Show the correct source name in the connection form
+. Our Connection form showed the type of the source rather than its name, this was fixed by this PR.
+Fix the BigQuery configuration form
+. This was a bug from July 2023 (!) which none of us had been able to fix… I think two attempts were made by two different people and neither managed to do it.
+We continue to list issues with the C4GT community program and expect to see continued contributions from that excellent community.

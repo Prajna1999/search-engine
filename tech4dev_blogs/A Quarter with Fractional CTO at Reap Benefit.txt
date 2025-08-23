@@ -1,0 +1,53 @@
+Title: A Quarter with Fractional CTO at Reap Benefit
+Author: Piyali
+Date: February 2023
+Category: Fractional CxO
+URL: https://projecttech4dev.org/a-quarter-with-fractional-cto-at-reap-benefit/
+==================================================
+
+If you were expecting deets on a conversation we had over drinks by the beach at the Glifics sprint in Goa, then I am sorry you have read the title wrong, Quarter here is referring to 3 months we spent working closely fractional CTO
+Pic shows fractional CTO in real life Mr. Ankit Saxena (left) with yours truly (right)
+Reap Benefit
+is on the mission to activate young people of India (whom we refer to as Solve Ninjas)  to become custodians of their neighbourhoods and build hyper local antifragile communities that are rooted in their local contexts while being connected by technology. Over a decade of Reap Benefits existence 112,000+ solve ninjas have been activated across 12 states, who have taken 94,000+ actions towards solving civic and climate problems.
+This blog is about Project Tech4Devs collaboration with Reap Benefit to help us onboard (and afford) human resources with deep tech capabilities to enhance the work we have been doing  as a tech enabled grassroots organisation.
+Why we chose fractional CTO over full time CTO
+Reap Benefit has had about 10 years of experience in being a tech enabled grassroots organisation. While we know our ground, users and customers well, and we know how to get  adaption, we needed help on developing robust systems and doubling down on the learnings we have to prepare for the long term and build platforms that add value to the ecosystem at large.
+This seemed like a perfect challenge for a high potential resource to come and solve over a defined period of engagement. Also when I mentioned this has helped us to afford the talent, i was not kidding.
+6 ways in which the fractional CTO helped accelerate our tech journey
+1- Created platform that provides framework to prove that climate and civic actions lead to activating 21st century skills in the youth
+Presenting the solve ninja
+leaderboard
+and
+civic identity profiles
+.
+Screenshot of the leaderboard
+There are young people across India, urban and rural, there are citizen volunteers working with local bodies who are solving problems everyday by building solutions, creating and participating in campaigns and engaging the civic authorities to work on problems. This platform is providing the feedback of the type of skill activated through these actions taken and a visibility of similarly active citizen champions across the country.
+Thoughts shared by solve ninjas on seeing their work get a digital identity
+Rated 4.5/5 on the overall look and utility of this platform.
+Screenshot a solve ninja user profile
+In verbatim feedback from the users
+It helps me as a solve ninja reflect on my journey, giving me both a sense of satisfaction for the work done and retrospection for the work yet to be accomplished. Besides it also provides an opportunity for all of us to learn and get inspired from each others journeys. from Samarth J, a solve ninja from Bengaluru
+2- Platform for visualising crowdsourced, crowd verified hyper local civic and climate data
+Presenting
+samaajdata.org
+, this is adding to the repository of solutions in digital public goods for attaining the sustainable development goals.
+See how
+widespread stubble burning across Punjab over the last 3 year was, and how having open data can lead to
+citizens initiatives
+for solving problems.
+Please share your feedback on this platform
+here
+3- Helping the team to think structured and more process oriented
+While Reap Benefit has been a tech-enabled for a long while, and also ahead of the curve in adapting to technology to scale the impact (if i say so myself)  there are still gaps in the way the team developed and deployed tools, relying heavily on the prototyping DNA, As a veteran of technology space, our fractional CTO asked us right questions to  help us set processes which will help the team to get more product oriented, and put our minds and energy together for sustaining tech operations over a longer period of time.
+Also as a fractional CTO, they are also able to bring learning from functioning of the NGO where they are splitting time, thus adding to the research and making decisions from a more informed space of the ecosystem as a whole.
+Screenshot simple tools to get more process oriented.
+4- Optimising cost of operations
+Having a veteran of the industry helped us re-look at how we were utilising the servers and moving things around as per usage and cut down some of the costs. Also by leveraging the network of human resources in the tech space, they were able to get us help in terms of part time consultants who were willing to devote time for the cause at a lower price point than industry standard while doing work that was above par in the industry.
+5- Cyber Security and Data Protection
+Cyber security is an increasing concern especially as we scale and are custodians of personally identifiable information as well as sensitive personal information. Having the right person with the right connections to navigate the world of cyber security becomes an exceedingly important need of the hour for non-profits looking to scale by leveraging technology. As the saying goes, better to be safe in investing time and resources in this, than to be sorry in losing the trust of the ecosystem and the beneficiaries.
+6- Pushing the teams towards tech adaption and closer collaboration internally
+Having spent 3 months with the team, we had them driving the tech (midfield) team harder to collaborate more closely internally across the org, with the frontline who is on ground, with the fundraising who is pitching the org and involve them in the decision making, thus adding complexity but also an important step towards building trust, and a more sustainable way towards increasing the adaption of the tools to drive exponential impact towards the mission.
+The next part of the blog is important to not put out an overly positively biassed point of view, and be transparent to share both the pros and cons. If youre reading this from the project tech4dev team, then please take it with a pinch of salt, and here is a picture of the team working happily together to assure that alls positively well
+Nonetheless, there are probably too many things on the plate for one problem solver to take up
+This is the human psychology (or maybe just the Indian parent mentality) of always wanting more. Having access to the high capacity team members and wanting them to be contributing more knowing the potential they have is a constant gnawing feeling. Of course they could be doing something more to add value to the mission at Reap Benefit, had their time not split 2 and half ways.
+But overall to summarise,  for a sector that is struggling with retaining the tech talent, building tech capacity, and driving tech adoption this is another one of Project Tech4Devs excellent initiatives that is helping build the capacity of nonprofits to use technology as well as building the ecosystem as a whole.

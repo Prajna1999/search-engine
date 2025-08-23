@@ -1,0 +1,37 @@
+Title: My 3 months journey
+Author: Kurund Jalmi
+Date: December 2022
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/my-3-months-journey/
+==================================================
+
+This blog is written by Ankit Saxena,
+Fractional CxO at
+Reap Benefit
+and
+Indus Action
+through Tech4Dev
+It has been 3 months since I joined the
+Tech4Dev
+group. I think its a good time to review my journey so far and share my experiences.
+When I was joining the Tech4Dev group I had detailed conversations with Lobo and Erica about the group, programs, and different ongoing projects. I had the option to either join one of the platforms or to start work in the fractional CxO program. Lobo recommended that I should start my journey from fractional CxO program so that I get an opportunity to deeply understand the work that NGOs do and their challenges with tech. Indeed, the past 3 months have been a great experience for me and definitely they help in setting the right base and understanding of the social development sector.
+My work in the fractional CxO program started with two wonderful NGOs, with supercharged people, and teams. I wasnt very sure of how to best manage the work and break my week between the two NGOs, given the fact that I didnt have a fair idea about the scope of work and the ground challenges. So we decided to let me spend a month with each NGO dedicatedly and then come up with a plan in the 3rd month.
+I started my first month with NGO A. My initial conversations with this NGO started with very clear and specific delivery goals. There were 3 different products on which the NGO wanted help in feature development. Also as part of my one-month engagement, another objective that we set was to have a tech strategy and roadmap document for the next 3-6 months (at least).
+The first month with Tech4Dev was very intense and exciting. I got an opportunity to attend the sprint organized in Dehradun. It was great meeting people from different NGOs and listening to their journeys and how they have been using tech and their future plans. This sprint also helped me understand the overall ecosystem and also build some personal connections.
+Coming back to NGO A, I super liked the work – it was designing systems and coding (things that I love the most). In the first month, we were able to push out the majority of the features that we had planned. I also got a chance to understand and learn
+Frappe
+. While keeping an eye on the weekly to-dos and deliverables, I started some conversations with the team on the tech strategy and the roadmap. Overall a great month – good learning, able to deliver the majority of the features, met some exceptional folks, and got a chance to understand NGOs work at a deeper level.
+Month 2 started with changing with focus on NGO B. Here instead of specific feature delivery, the need and focus were more on the execution of projects, building products, and ensuring that seemingly different tech initiatives align with the broader vision and objectives of the organization. I took a holistic view of the tech team structure and how it fits into the NGOs overall systems and processes. As a result, we reorganized the team structure, opened new hiring positions, reprioritized tech initiatives, and paused a few. I am sure that this helps set the right base and practice to build and execute the technology strategy.
+At the end of month 2, a very different thought process and sense emerged. NGOs A and B – both having different needs and challenges. While one has a clear vision and an org/ tech roadmap it needs help in execution, and another needs a clear tech strategy and vision to be developed. It was time to create a structure and plan on how to divide my week between these 2 NGOs, and what the deliverables would be. I also saw that we as the Tech4Dev group are expanding and had a couple of open positions that needed to be filled. I had some experience in hiring and engaging an agency to fast-track the overall process. Therefore I also decided to mark out some time to support hiring.
+Finally, I created a structure and weekly schedule to divide my time between NGO A and B, and also some time for setting up the hiring agency. Also created a monthly delivery plan for both NGOs. So far I have been able to stick to the schedule. But for sure I would be revisiting it in the upcoming months.
+As for hiring, it was easy for me to reach out to a couple of agencies but slightly challenging to help them understand the whole Tech4Dev ecosystem. Thanks to Erica who helped join some conversations and set the right context. We have finally onboarded an agency to help us with recruitment. It was interesting (and time-consuming, but a necessary process) to get the agency onboarded (in terms of the agreement, approvals, etc). This also gave me an opportunity to set up the whole application tracker on Notion (thanks to Vinod for his idea).
+Some of the key learnings and challenges in these 3 months  –
+Data collection is easy but ensuring that an NGO is able to drive the relevant metrics for decision-making remains challenging. One of the NGOs has been doing surveys and data collection using different tools. But a lack of a clear tech strategy and thought process on data pipeline and visualization tools has made the situation challenging. This aspect is one of the top priorities to be handled.
+Integrating systems that have been built by different vendors, at different times and for different purposes is a challenge in itself.
+Not having the necessary technical expertise to ensure that the technical design of a software application (either being developed or being procured) supports the envisioned use cases or the realization of the intended benefits. A good case in point is the execution of the highest priority strategic product for one of the NGOs. While we review the tech design, some gaps have surfaced that will need to be filled sooner
+Not having the necessary expertise to evaluate different software applications and to do build vs buy analysis. Also, not doing a thorough analysis of the need, users’ expectations, and requirements is another challenge that I discovered with one of the NGOs hasty decision in purchasing a license for a project management tool that had to be put off in just 2 months.
+Overcommitting and saying yes to each and every opportunity, without factoring in the tech capacity
+Over-exposure of developers to roles such as product manager and/or project manager
+No clear product strategy and design
+And last but the most important one – lack of clear organization strategy and then trying to fire up tech engines. Tech strategy is derived from a solid organization strategy which gets formed when an organization clearly sets out a goal that it needs to achieve in a specific period of time (ensuring that the goal aligns with the organizations mission/vision statement)
+Overall a great journey so far. Super excited when I look forward to it. I am thankful for the support the overall Tech4Dev group and the ecosystem provided me. Special mention of Lobo and Erica for their mentoring, guidance, and support, and for helping me with the nuances of working as a fractional CxO.

@@ -1,0 +1,29 @@
+Title: AI for Social Impact – Reality, Myths, and What’s Next
+Author: Donald Lobo
+Date: May 2025
+Category: AI
+URL: https://projecttech4dev.org/ai-for-social-impact-reality-myths-and-whats-next/
+==================================================
+
+This blog is written by
+Apurva Srivastav
+who drives Data, Tech, and AI for
+Dasra
+As data and technology practitioners in the social impact sector, we often connect among ourselves to share experiences of how the introduction of new tech (read AI) affects us with hype cycles, funding gaps, standardization approaches, unintended consequences, and much more, in unique ways. We deeply admire the work that the CSO leaders and tech builders who understand AI application across forms and impact use-cases, are doing in crucial thematic areas like education, climate, youth-action, governance, and more. And, we feel committed to the importance of supporting these initiatives, the urgency of demystifying tech use cases, and the responsibility of making it more accessible.
+What’s better than getting together to enhance the discussion ourselves. We believe the rest of the path opens up organically even if gradually. With that in mind, collaborators across a few leading organizations came together to organize a half-day event on AI for Social Impact, in Bangalore on 25th April.
+The genesis of the idea came from the
+AI for Global Development Sprint
+by  ProjectTech4Dev and Agency Fund earlier this year, where leaders from Give.do and Atlassian Foundation shared their interest in conducting a learning and engagement session for CSR and Funder community in India. With their leadership in mobilizing reach-outs, sponsorship, and content, the session felt seamless. We at Dasra made a few contributions from our philanthropic networks and insights and were grateful to engage with the forum across AI driven CSOs, CSR funders, as well as partners, helping the case of adopting AI in horizontally scalable, impact centric, and responsible manner, forward.
+The event was curated with the intent of going a step deeper into discussing the
+transformation potential of AI with real use cases, the avenues of supporting AI investment, while staying true to the pragmatism of the development sector and CSO experiences. 20+ Philanthropic leaders attended and engaged in active discussions with both CSOs and Partner orgs to explore what they could do in their portfolio programs or extend support to new initiatives.
+It was inspiring to see NGOs’ impact experiences with AI, and validate some of the learnings we’d seen previously in impact, technology, and social psychology. The growth potential is undeniable and the India development sector has been steadily making early strides in establishing working frameworks and responsible use. Sharing a few insights (non-exhaustive list) I carry from the day
+Multi stakeholder engagements are not just good to have, they are the way to go for successful deployments
+– Kunji, a pilot project aiding IAS officers via a whatsapp enabled chatbot (Glific) to augment informational capacity was made successful through close collaboration of 3 stakeholders working closely together- Veddis managing the working with rural development office, Spectra scaffolding the grassroot NGO work, and Project Tech4Dev providing the tech behind the chatbot
+Scalability loves a modular approach
+– There’s too much to do for us to risk duplication of efforts. Building tech that is transferable to other NGOs is the way to go and both Reap Benefit and Project Tech4Dev are doing that really well.
+Learning happens by sitting
+through difficult problems
+– Hyperverge’s sens.ai demonstrated how well trained AI can patiently nudge students to resist the urge of jumping into finding the right answer; and encourage them to pause and review any mistakes they were making in the steps of solving a difficult problem. Something we all can do more of, at any age!
+Thriving through equity-
+a case study from Ghana showed us how AI based math tutoring levelled the playing field for girls and helped them do better in a system where they were underperforming due to low expectations of their tutors. AI when used judiciously can help us reduce unintended bias and uncover true potential.
+A gathering where committed leaders come together to discuss avenues of partnering for effective innovation in the impact sector has to be energizing on any given day, and this one absolutely was! Thank you Lobo, Erica, Sumit, Harshith, for making us a part of it, and Jerome, Pratiksha, Anand, Kuldeep, Aman for sharing your experiences with the group.As a committed partner, Dasra looks forward to continuing our advisory discussion with funders and augment their journey of supporting NGOs in leveraging AI for greater impact on communities.

@@ -1,0 +1,70 @@
+Title: Tech4Dev Pune Unconference recap
+Author: Kurund Jalmi
+Date: December 2018
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-pune-unconference-recap/
+==================================================
+
+Overview and Recap
+We just wrapped up the Tech4Dev Open Source UnConference in Pune, India. It was a gathering of 48 people most of them being technical developers working for or in NGOs across many different sectors: Water, Sanitation, Child Protection, Governance, Public Health, Education, Open Data. We also had a few capacity-building organizations and funders in the room.
+We approached this event with lots of curiosity and a bit of apprehension. We were not sure of how folks would react to the format or if they would even interact with other people and organizations, We were worried about not having enough content and folks not willing to lead sessions and demos. We were wrong on all of our fears and partway through the first day, we were fairly confident that people are getting a lot from this meeting.
+We structured the first day as a mixture of introductions, open source and funding overview, discussion sessions, and brief 15-minute demos. Based on the feedback from the first day, we structured the second day as a mixture of detailed demos, skillshare sessions, and deep dives into a few topics. We entered the conference thinking we would do a few group hackathons but changed the second-day agenda based on the feedback we received from the group.
+The event has left me with excitement about the community that gathered and lots of ideas on how we can collaborate and help each other as a part of a larger initiative. I think the main goal of this event (from my perspective) was to bring this set of folks together to talk, discuss, learn and meet each other. From that perspective, I do think we met our objective. I do hope that members of the group reach out and let each other know when they accomplish something cool and useful and seek help when they are stuck or need assistance.
+Links to posts from different folks on their views of the event and what they got out of it are below along with links to meeting notes and photos. Going forward, we hope to have another event in a year or before to continue building the community. We hope to expand the group and bring in more folks into the community.
+Notes, Photos, and Reports from Participants
+Event Meeting Notes
+Event Photos
+Report from Himshi Bachchas
+Report from Sindhuja Jeyabal
+Report from Akash at Shelter Associates
+Report by Swapneel Rane
+Financials
+We had 48 participants on Day 1, 35 attended the evening dinner and 35 participants on Day 2. We estimate that 35 of the 48 participants were developers and/or had a fair amount of technical background.
+Category
+Number
+Amount (in INR)
+Accomodation
+10 Rooms, 20 Participants, 2 nights
+81,538
+Venue – Day 1
+48 Participants
+28,742
+Food – Day 1
+48 Participants
+22,643
+Dinner – Day 1
+35 Participants
+27,500
+Lunch – Day 2
+35 Participants
+6,725
+Supplies
+3,553
+Total
+USD 2,438
+1,70,701
+Where can we improve
+Discussion slots on the first day should be more focused with a couple of facilitators chosen beforehand. Need to ensure it does not turn into a presentation but can veer in the direction the group is more interested in.
+Ensure that we minimize the use of tech jargon and be aware of participants in the group who might not be up to speed on various abbreviations.
+WiFi was not available. This potentially limited the demos that people gave. On the other hand, most people were engaged in conversation instead of their devices. This may not necessarily be due to the absence of WiFi but might be a factor
+Both days seem pretty packed with little time for networking.
+The hackathon did not happen primarily because we felt there was unfinished business from day one. Also seemed like due to the broad interests of the participants, there was limited interest in specific projects. For e.g., most attendees for the health software topics were attended by folks from those organizations and was of limited interest to others. (which was a surprise to me, since I thought they do the most interesting work)
+Limited time for demos on Day 1 raised some concerns with people. On the other hand, we got 16 demos in on day 1 and then had 8 detailed demos on day 2. I think of day 1 demos as more of an introduction and day 2 demos where you can go in-depth
+What?s next
+Keep the discussion going when starting new projects or tackling difficult problems.
+Inform and educate people about interesting and cool work that you are doing
+Have monthly webinars with one group demos the work they?ve done. E.g. Within Reach and their analysis platform. Tech4Dev and the projects they are doing for their grantees
+Schedule the location and month of the next conference and start a conversation on the focus of the conference and the participants.
+Increase the community and get more folks on the mailing list.
+Reach out to more women and aim for more diversity. We can and should do better.
+Feedback from Participants
+We had a discussion on our mailing list about the event. A few folks wrote detailed reports which we put on our blog (links above). Here are some of the other impact statement people made
+It was, quite literally, an eye opener, and I am so glad to know that there is a growing and thriving tech community that has a specific focus in the development sector. The unconference allowed me to explore open source implementation beyond my domain and I was thrilled to find so many similarities in tech implementation across different domains – I will definitely be knocking on some doors now. And the unconference format allowed me to learn so many things at once. –
+Neha Kulkarni @ Grammangal
+As most people have already said I loved the conference. The un-conference part of it reminded me of the many BarCamps I have attended thru the ages – and was a really good fit for this event. And on a personal note, a big thank you to Kurund for taking up the ‘Creating FOSS community’ session. It was a session that I really wanted to learn from. I put it up on the board – and was very happy that there was a person with good experience in that area willing to take it up. –
+Binny @ Make a Difference
+I would like to share some of my takeaways from the conference:
+Got to see various perspectives and learn about what tools are people using to solve different problems. There were also some ideas in there which we could potentially use.
+There were sessions around data collection and data cleaning using tools which required no coding. These tools would be very useful for our operations team and can reduce some of their manual work.
+It was inspiring to meet so many people working in this sector and feels great to be a part of the community. I felt that we are all part of something big and at the same time it made me realize that there is still so much more to do. –
+Archit @ DOST Education

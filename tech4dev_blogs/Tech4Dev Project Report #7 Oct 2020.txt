@@ -1,0 +1,178 @@
+Title: Tech4Dev Project Report #7  Oct 2020
+Author: Kurund Jalmi
+Date: October 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-7-oct-2020/
+==================================================
+
+Tech4Dev
+Mission
+Building the Open-Source Technology Ecosystem for the Social Sector.
+Detailed information on Tech4Dev can be found on our
+Tech4Dev 2 Pager
+, and
+Tech4Dev Info Deck
+Summary
+Q3 2020
+was not a lot different than Q2 2020. The impact of the pandemic on small to medium-sized NGOs is huge, and a fair bit of uncertainty into what the road ahead will look like for everyone involved. We continued our focus on open source platforms, specifically FundImpact and Glific, and slowed down our technology projects with NGOs across the board.
+We are using this period to ramp up our education efforts across the sector in concert with multiple partners including
+Tech4Good Fellows
+, and
+India Development Review
+. We are also building the community around Glific, FundImpact, and Avni with monthly releases and webinars.
+We continue to provide pro-bono advisory services to multiple medium-large sized NGOs including STiR Education, Lend-a-Hand India, Educate Girls, Jan Sahas, and Indus Action.
+Given the pandemic and our focus, this report is a lot shorter than the previous reports. Well share some highlights from our projects and partners, share links to our product demos, and end with our financials.
+Case Study of Saajha
+– Use of two-way communication
+Saajha was part of the Tech4Dev Third Cohort. They started off using WhatsApp communication to target families in Delhi who were in crisis during COVID-19 and needed food supplies immediately. Being able to automate parts of the communication flow, they were able to target the families in crisis relatively quickly. This was an example of good interaction between technology and human intervention, where a staff person would call and talk to the involved families and ensure they got the necessary supplies.
+Saajha is building technology tools to solve problems for parents of students studying in government schools. One such problem is the lack of information related to schools which is usually available with the school authorities or the department of education. COVID-19 has further disconnected parents from the school leading to an information gap. Their vision is to ensure that a parent spends less time getting answers to their questions and has the necessary support whenever required. One of the tools that are critical to the success of their vision is their WhatsApp Bot. In the last few months, they have supported around 3,300 parents and exchanged around 50,000 messages. Recently they organized an hour-long online training session in collaboration with the Delhi govt. for parents; about 10,000 parents and 800 schools attended the session over two days.
+Manish @ Saajha advises the Tech4Dev team on Glific.
+Highlights
+|
+CivicDataLab wins
+2020 Presidential Hackathon
+Our partner CivicDataLab has won the 2020 Presidential Hackathon for the Health Procurement Performance Index for Himachal Pradesh – the first-ever Open Contracting Data solution deployed in India. Tech4Dev had funded CivicDataLab to build a fiscal data explorer for Himachal Pradesh. Fiscal Data Explorer is a unique tool where citizens can explore both budgets and spending data of state governments in an easy to comprehend and simple to use manner.
+|
+Tech4Good gets
+funding from Omidyar Network
+Our partner Tech4Good got a Rapid Response Covid19 grant from Omidyar Network India to help bridge the gap between available technology tools and the challenges that nonprofits face in adopting them. This includes a weekly Spotlight webinar on various tools used in the ecosystem.
+|
+FundImpact releases
+v0.2 of its platform
+The team at DhwaniRIS is hard at work on a monthly release schedule of the Fund Impact (FI) platform. They just released v0.2 of the platform that helps medium to large-sized NGOs manage donors, deliverables, and impact reports. FI Bridges the gap between Project Monitoring Tools and Accounting tools and helps organizations track the progress of project commitments with the grants received.  A
+short video of the product can be seen here.
+|
+Glific releases
+v0.4 of its platform
+The Glific team has released v0.4 of its two-way communication platform. They also launched their website at
+glific.org
+. We had two well-attended webinars in August (95 attendees) and September (40 attendees) and will continue to do so monthly. The main goal of the webinars is to showcase how a couple of pioneering NGOs are using communication to move their programs forward in a super effective manner. The team is currently piloting the product with a few NGOs in India and is actively recruiting new NGOs to the platform. You can watch an
+overview video of Glific here.
+Our pilot NGOs are in the educational, career awareness, and skilling sectors, using Glific to interact, guide, and engage their students.
+|
+Tech4Dev to sponsor
+an article series in IDR
+Tech4Dev is sponsoring a series of 8-10 articles over the next 8 months in the
+India Development Review
+(IDR). IDR is a media platform that publishes articles on problems, ideas, and real-world solutions within the development sector in India. The sponsored series will cover the dynamics between technology and non-profits and through the series highlight learnings from our experience working with nonprofits. The series will also include thought-pieces on broader topics such as the functional prerequisites and conditions for non-profits to adopt technology, thinking right about processes, necessary tools, and resources that could be easily accessed by non-profits, and technology adoption by users.
+Financials
+Income
+Grants – Contributions
+Funders
+2019 (USD)
+2020 to date (USD)
+2020 to date (INR)
+Carry-Over from the previous column
+–
+?0
+International Funders
+$785,000
+$810,000
+?60,750,000
+Turn.Io Contribution from Cohort Organisations
+–
+$14,300
+?1,072,500
+Indian Funders
+$24,286
+$62,857
+?0
+Total Grants Received
+$809,286
+$887,157
+?61,822,500
+Expenditure
+Support for NGOs – Expenses
+Sector
+2019 (USD)
+2020 to date (USD)
+2020 to date (INR)
+Rights and Advocacy
+$133,841
+$65,656
+?4,924,200
+Education and Life Skills
+$177,534
+$102,184
+?7,663,800
+Governance & Public Finance
+$55,570
+$51,222
+?3,841,650
+Health
+$15,857
+$74,102
+?5,557,650
+Technology
+$25,000
+$50,000
+?3,750,000
+Rural Development
+$31,380
+$0
+?0
+Research
+$48,885
+$195,841
+?14,688,075
+Support for NGOs – Total Costs
+$488,067
+$539,005
+?40,425,375
+Other Costs – Expenses
+Area
+Description
+2019 (USD)
+2020 (USD)
+2020 (INR)
+Grant Management + Events, Travel
+Attendance at funder events + Cohort 1 partners’ meet
+$17,900
+$2,000
+?150,000
+Other Costs – Strategy, Legal, Fundraising
+All fees paid to Lumen Consulting directly from the Chintu Gudiya
+            Foundation
+$18,500
+$49,048
+?3,678,625
+Other Costs – Total Costs
+$36,400
+$51,048
+?3,828,625
+Total Expenditure
+$524,467
+$590,053
+?44,254,000
+Surplus for the year
+$284,819
+$297,104
+?22,282,775
+Surplus to date
+$581,923
+?43,644,200
+Details on individual projects can be accessed
+here
+.
+Want More
+Details?
+All our blog posts can be found on
+the project website
+. All project documentation can be found on our
+shared google drive folder
+. Each project blogs every month, so we have quite a bit of detail and history as the project evolve.
+Glific Website
+FundImpact Website
+Tech4Dev Project Report #6 – Jul 2020
+Tech4Dev Project Report #5 – Apr 2020
+Tech4Dev Project Report #4 – Jan 2020
+Tech4Dev Project Report #3 – Oct 2019
+Tech4Dev Project Report #2 – Jul 2019
+Tech4Dev Project Report #1 – Apr 2019
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Reach out to us via
+email
+or find more information on our
+website

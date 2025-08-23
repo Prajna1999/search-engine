@@ -1,0 +1,29 @@
+Title: Reimagining communication with your Beneficiaries
+Author: Kurund Jalmi
+Date: September 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/reimagining-communication-with-your-beneficiaries/
+==================================================
+
+This article is co-authored with
+Manish Manohar, Tech Lead, Saajha
+Re-imagining your style of communication in current times would potentially help deepen your impact. Glific is one of the technology tools that could enable you to build personalised connections.
+Glific is a two-way-communication tool that runs on WhatsApp platform. This tool could potentially help you answer the following questions that you might have come across while building your impact model, such as,
+How might we increase our reach from a few hundreds to thousands of beneficiaries?
+How can we automate our conversations?
+Is it a challenge to align the right staff member to the right beneficiary?
+How might we conduct online programs more often with lesser manpower?
+If you have built an organisation that can solve social issues at a local level, this is the time when you could think of scaling up your reach. Right technology tools and better implementation strategies can accelerate your impact. Youve probably been taking small steps and now its time to take some giant leaps for society.
+Glific is developed keeping NGO and social development sectoral requirements in focus and conversations at the centre of it. With the in-built features such as setting up automation, quick replies, integration with external machine learning engines etc, Glific could help build an effective communication strategy of an NGO. It is intuitive and easy to use with no prior knowledge of any programming language or coding skills.
+Key steps that can help to start your journey in building your communication strategy:
+Identify the problem statement that you want to address with your intervention
+Identify whether your proposed solution involves communication/conversation with your beneficiaries.
+If your solution involves a conversation, then you might have to imagine the ideal flow of conversation that you would like to have with your beneficiaries. This would serve as a north-star for your communication strategy.
+Once you have your north-star, running a pilot with few beneficiaries would help position your north-star.
+Identify a business service provider and the technology platform that could help you reach your communication goal.
+A change even for a better system and process involves some resistance in the beginning. NGOs can get more prepared for that by following the above steps to re-imagine communication. Connecting with your problem statement and the communication process would be a crucial first step and hence the biggest takeaway for this article is to sketch out your communication flow. If you need any help or have any questions, you can reach out at [
+abhishek@coloredcow.in
+] or [lobo@chintugudiya.org]
+You can also
+register for the upcoming webinar
+on 23rd September, 10AM IST to learn more.

@@ -1,0 +1,37 @@
+Title: Tech4Dev 2019 Application Update 1
+Author: Kurund Jalmi
+Date: August 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-2019-application-update-1/
+==================================================
+
+We closed the Tech4Dev Application Process for the second cohort a few weeks ago. We were a bit busy with
+fundraising for Tech4Dev
+and hence the slight delay in analysis of this years application.
+We advertised the Tech4Dev application using the same process as previous years.
+GuideStar India
+and
+IDR Online
+are places where we got significant exposure. This year we were also picked up by two other sites:
+NGOBOX
+and
+Funds for NGOs
+which gave us some more exposure. We received a total of 137 applications for the second cohort. Our referral data (after some cleanup) shows the following distribution:
+The application submission count over time is another interesting metric to look at. There are a couple of bumps at various spots, with a big bump close to the last date. It seems a bit smoother in this cycle compared to our first cohort
+The size of the organizations also has a slightly more even distribution this time around. Most of the orgs lie within the 25L – 1 CR range, but there is a solid group of orgs above the 1 CR range
+Similar to the first cohort, only 12.5% of the organizations had approached anothe software vendor and received a proposal from them.
+This year, we’ve split the application into two stages. The first application is a short application and our goal was to ask approx 25% of the organizations to fill a more detailed second round application. We’ve done some preliminary filtering and broken the organizations into six groups as follows:
+Second Round
+– Invite the organization for a more detailed second round application
+Reject 1
+– Did not give us sufficient information
+Reject 2
+– Is not a good fit for Tech4Dev
+Reject 3
+– Application was too broad and covered too many areas
+Reject 4
+– We had worked with them in a prior cohort. This was our fault, since we did not make it clear that they should not apply
+Reject 5, 6
+– This is specific to farmers and MFI. This is a area where we do not have the required skills but do intend building the skill set by recruiting software partners in those areas as soon as we can find them.
+So we’ve ended up with 34 organizations for the second round. We’ve categorized those orgs into various sectors from a tech perspective:
+This is the state of things today. We’ll definitely go back and tweak a few things before sending out email to the organizations and letting them know. Overall, we do think we have a good set of potential NGOs and platforms to build for the sector

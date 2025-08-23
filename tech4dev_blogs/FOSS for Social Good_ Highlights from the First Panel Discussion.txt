@@ -1,0 +1,64 @@
+Title: FOSS for Social Good: Highlights from the First Panel Discussion
+Author: Akhilesh Negi
+Date: October 2023
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/foss-for-social-good-highlights-from-the-first-panel-discussion/
+==================================================
+
+We at
+Tech4Dev
+are all open source and promotes same, that means all our work is open source which includes our products
+Glific
+,
+Dalgo
+and
+AVNI
+as well. We’re always thrilled about FOSS India the annual celebration of free and open-source software, hosted by the dedicated FOSS United community. This year’s event, which came right after our Kochi sprint, was especially exciting as we geared up to join the third edition in Bangalore.
+Read more about our past FOSS experience here
+My India FOSS Experience
+First Talk at India FOSS
+It started somewhere early September, 2023 when we submitted 5 talks from
+Tech4Dev
+. The one I submitted was about our recent C4GT experience, and journey from code to community and how an organization can foster community of new contributors
+On the day when results were announced they shared that they received nearly 180 proposals for talks and had only enough time to schedule about 48-50 talks. We were bit disappointed but later on got invite to be on the panelist on FOSS for Social Good along with other OASIS partners. Read more about
+OASIS
+and why it is important for social sector
+here
+Day 1 at FOSS
+The FOSS opening ceremony kicked off at 9:30, but we were so amped up that we got there by 8:30. We grabbed some breakfast and set up our booth. We chatted with folks who stopped by, telling them all about Tech4dev and our various projects and initiatives
+At our stall, we primarily showcased
+Glific
+,
+Dalgo
+,
+FCXO
+and
+AVNI
+. It was awesome to connect with people who shared our passion for tech and the community.
+There were many other stalls but two which caught my attention were:
+Bruno
+: It is a fast and open-source API client that challenges tools like Postman and Insomnia. It stores API collections on ones computer in a plain text format, allowing collaboration through version control systems like Git.
+Newrelic
+: It is an observability tool that provide data for engineers to monitor, debug, and improve their entire stack.
+Apart from other community partners, we also had students coming up to us all pumped about our platforms. They were eager to know how they could contribute and how they can start their journey in development. Since we’re already looking for new developers for our project, it was a perfect fit. We put up a “We’re Hiring” sign, and that got us even more attention.
+If you’re feeling the same way and want to jump in, send us your resumes at
+resumes@projecttech4dev.org
+We then wrapped up Day 1 at 4:30, and excited for Day 2!
+Day 2 at FOSS
+The first half of Day 2 we spent at our booth, and we had a cute additiona poster made by Rohit’s son that said, “We’re Hiring.”
+Similar to day before we had quite a traction, where people from different people reached out and want to know about Tech4Dev and various products/initiatives
+In the second half, we had a panel discussion about FOSS in the social sector.
+It was a real honor to be on this panel with some industry leaders like Ramya Sundarajan from
+Welive Foundation
+, Venay Venu from
+Samanvay Foundation
+and Akhila Somnath from the
+Tech4Good Community
+. Each of us brought our own perspective from different fields, but we all shared the common goal of exploring how tech and FOSS can help the social sector.
+A big shoutout to Shemeer Babu for being an awesome moderator.
+I felt pretty good about how the discussion went overall. We covered a wide spectrum, starting with the perspective of NGOs around tech presented by Ramya, then delving into how tech has made a difference and why it’s essential, as shared by Akhila and at last shared nitty-gritty from a developer’s point of view, with Vinay and me.
+I hope the audience got something valuable from our chat, and I’m looking forward to seeing more folks get involved.
+I’m grateful to FOSS for giving me this opportunity, and excited about future chances to showcase the work we’re doing at
+Tech4dev
+or share our two cents in more panel discussions.
+More power to open source!

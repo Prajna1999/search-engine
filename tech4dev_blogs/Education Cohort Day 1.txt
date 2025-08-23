@@ -1,0 +1,79 @@
+Title: Education Cohort Day 1
+Author: Kurund Jalmi
+Date: July 2022
+Category: Glific
+URL: https://projecttech4dev.org/education-cohort-day-1/
+==================================================
+
+This blog post is written by Tejas from
+Reap Benefit
+Day 1 at the
+Tech4Dev
+sprint. We are at a beautiful location off Pune called
+Garudmaachi
+and we are a mix of some amazing organizations like
+Lend a Hand India
+,
+Slam Out Loud
+,
+Dasra
+,
+Shelter Associates
+,
+Soft Corner
+,
+GOALKEEP
+,
+Indus Action
+,
+EdZola
+,
+Pehley Akshar Foundation
+,
+Avanti Fellows
+,
+Key Education Foundation
+,
+HyperVerge Academy
+,
+The Apprentice Project
+,
+VOPA
+, and
+Reap Benefit
+.
+To start off the sprint, those of us brave enough to take on the onslaught of rains got the excellent opportunity to visit the beautiful mini waterfalls and walk the nature trails around the property at Garudmaachi.
+1-
+Goalkeep.net
+– Swapneel Rane kickstarted the talks by setting the tone for the tech4dev sprint and helping everyone to think about how nonprofits can be data-driven in their culture.
+2- Samanvay Foundation: Arjun Khandelwal gave an overview of
+Avni
+platform shared about their work done through project
+Avni
+which is a community service and data collection platform for nonprofits.
+3-
+HyperVerge Academy
+– who among other things are also in partnership with the tech4dev team upskilling women from tier 2 and tier 3 cities in tech skills and helping them start and have successful careers in the tech field. Gayathri Meka shared their learning and observations on cohort 1 of their women in tech program and also shared about their upcoming plans with cohort 2.
+4-
+Shelter Associates
+–  who have worked extensively in slums and informal settlements to provide technical support for, and facilitate access to, improved housing and essential services. Kuldeep Lodha shared about how
+Avni
+is helping them in their projects on Sanitation and Covid
+Through the conversations with the NGOs (
+Key Education Foundation
+,
+Pehley Akshar Foundation
+,
+Reap Benefit
+,
+The Apprentice Project
+,  and the
+Glific
+team we ended up having an impromptu roundtable of the NGOs to share the challenges the collective is facing and trying to overcome while implementing the technology and specifically the
+Glific
+chatbot. Some of the insights from the conversations.
+Topics that came up through the roundtable with the NGOs.
+How to get creative to get users to opt-in
+How to increase engagement
+What gamification elements can be added
+We ended the day with a round of games, karaoke singing, lot of getting to know one another. It has just been one day, but it feels like it has been years since we know each other a statement made towards the end of the day from one of the sprinters kind of summarises the value in getting together for sprints like this where continuous peer to peer learning, sharing of best practices and overcoming challenges together can happen.

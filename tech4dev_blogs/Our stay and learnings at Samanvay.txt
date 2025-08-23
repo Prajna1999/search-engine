@@ -1,0 +1,19 @@
+Title: Our stay and learnings at Samanvay
+Author: Kurund Jalmi
+Date: August 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/our-stay-and-learnings-at-samanvay/
+==================================================
+
+OpenCHS is an open source and a comprehensive field worker system with built-in case management. It has a rule designer which gives configurable forms, decision support systems and visit-scheduling facility. It is a very powerful tool that can be used across domains. We got associated with it through a conference organized by Tech4Dev.
+To take it to the next level, we found that the form designer was a crucial functionality which can be made much simpler than the current way of defining it. To speed up the course of development, Arjun planned for a collaborative face-to-face process and decided to have us visit Bangalore at their office for two weeks. The week starting July 22nd was the most suited for us to visit the Samanvay office.
+Hiren, Amar, Swapnil and Arjun.
+Photo taken by – Vinod 🙂
+During the first couple of days, we did a deep dive into the rule functionality, which is a major part of the form designer. Since rules are a strong functionality in OpenCHS, we spent two days discussing its integration using the form designer. We tried out small spikes of executing the rules. For designing the UI, we made an effort with a couple of open source tools and finally chose one and start designing the UI. However, Vinay and Arjun suggested to sketch the UI with pen and paper instead of going for the exact look and feel as it would take ages to get to it.
+On the third day, Hiren gave us an overview of the existing WebApp that has some functionality over the form builder part. We installed it to have some hands-on experience. Hiren and I did some sketching of the UI design
+On the fourth and the fifth day, Swapnil started exploring ReactJS and began working on one of the stories. I teamed up with Hiren for adding stories and the estimation. For this, we used the ZenHub application where we created Epic for form designer. We initially started adding stories with some basic details and a few images of the sketch and later did the estimation. We showcased it to Arjun, Vivek and Vinay and noted the changes suggested by them, to include them in the stories later.
+By the end of the first week, we were at a stage where we had the stories and estimation ready. Swapnil had already begun the work and I was supposed to take up the new form mapping story next week. We not only learnt ReactJS but also understood the importance of using pen and paper in this digital world.
+On each of these days, we had a quick stand-up call. This made collaboration with the team easy and we could incorporate each other?s ideas. Also, I must add – each day, we enjoyed the delicious lunch served at Samanvay :-).
+We had a few suggestions from our new friends on the places to visit during the weekend. On Saturday, we decided to explore Mysore. We visited some great places like The Mysore Palace, Chamundi hills and Saint Philomena’s church. Our stay at the hotel (more of a hostel really) – Backpacker’s panda was great!
+Backpacker’s Panda
+Einstein room

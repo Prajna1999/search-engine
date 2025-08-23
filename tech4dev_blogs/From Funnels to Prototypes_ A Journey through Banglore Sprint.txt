@@ -1,0 +1,34 @@
+Title: From Funnels to Prototypes: A Journey through Banglore Sprint
+Author: Glific Admin
+Date: July 2024
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/from-funnels-to-prototypes-a-journey-through-banglore-sprint/
+==================================================
+
+This blog is written by Arushi Kapoor and Poojita from
+Avanti Fellows
+Working in a social sector can sometimes be very demanding and overwhelming where we are constantly striving for the larger good and sometimes work in isolation. Key tasks of the 3-day sprint were majorly divided into:
+User Funnels
+Identifying which segment of the funnel to focus on & building a prototype
+Experimentation – A/B testing
+On the first day, when we presented our funnel, we deliberately focused on Desired Outcome, the segment we were unsure what/ how to track, to get ideas and suggestions from The Agency Fund (TAF) & the other organizations. As we proceeded with that day’s activities, we quickly realized that our WAU definition would have to be tweaked to be more aligned with our theory of change. We realized that we needed to track % watch time of plios for weekly active/regular students (engagement of students) instead of just tracking attendance. This was our major takeaway from day 1. This fed into our Day 2 activities and most of the exercises revolved around improving Plio watchtime.
+The second day started with a session by Yuxi Liu on User Experience. This was particularly significant for us as we could discuss a critical decision we recently made to pause development on one of our products, the Learning Analytics Dashboard (LAD), due to the user feedback we had received. She dug deeper into it and gave us valuable insights on why it could have gone wrong; our clickable prototype might have been viewed as too finalized and students were perhaps overwhelmed and felt that they could not make any changes – this could have limited their feedback. She, along with TAP’s UX Designer, Fatema, suggested that we go to them with paper-drawn prototypes and invite them to the drawing board (we’ll probably write another blog on how this goes!). We might start thinking about LAD in some time.
+We had a very active session with James from TAF on Intervention Design, where we deep-dived into how to identify the funnel stage to target, brainstorm on how our end user’s motivations & capabilities affect the action we want them to take, generate intervention idea and prioritize them based on impact and feasibility. We identified that our largest drop-off was at the engagement stage and the action we want our students to take is to increase their watchtime on our Plios. The activities were designed in such a way that we could logically come up with ideas that could improve this metric. Our students are highly motivated by the scorecard that appears after completion of the Plios; they take screenshots, edit them with their photos/ trophy emojis, and share them in the WA group. The scorecard highlights the Accuracy % and has no mention of the Watchtime. We decided to replace accuracy with watchtime on the scorecard and test if that has an impact on the average watchtime%. We then moved on to build prototypes for this intervention. (details of the above can be found
+here
+)
+On the third day, we delved into how to design an experiment and A/B testing mechanics. We were in the process of structuring an experiment to see which of our two intervention ideas would yield better results but unfortunately, ran out of time. We got to learn about the A/B testing software that is being built for Rocket Learning. We never knew that it could be so easy to pull out the sample for A/B tests by using such software where the entire data of our program is already stored at the backend and we just need to put in our requirements and tada the experiment sampling is ready.
+The Agency Fund Sprints have always been useful for meeting organizations working in the same ecosystem we learned a lot, to name some:
+Rocket Learning – The scale they are targeting is massive. Some of the features they use in their teacher product are interesting -. Signals (green, yellow, red) to indicate the status of their target metrics
+Saajha – They presented the list of experiments they had run on the ground. It was so grounding to hear about what was learned from every experiment and how funding also plays a key role in the scale and choice of experiments. Their experiment log discipline is very commendable!
+The Apprentice Project – TAP is working in the domain of 21st-century skills. We are also building a career guidance vertical for our product. We can learn more about their product since we need to equip students with 21st-century skills to make them career-ready.
+Thinking after a few days about the sprint now, here are some of our reflections on the 3 days we spent together:
+Sprint Positives:
+We could deep dive into the gaps in the data we track for our product during the detailed prework while discussing with different stakeholders within the team.
+We interacted with many organizations and understood their processes through the activity pairing. We didn’t have to just do the activity on our own as every organization was paired with another and we had the opportunity to discuss both products. It was refreshing to have a second opinion on how we were going about our solutions.
+Facilitators from The Agency Fund were always there to facilitate the group discussions. There was someone from TAF who would go over the activity each team was doing and either give their input or suggest how we could overcome whatever complication we were having. They suggested we connect to the researchers and organizations working in the same field. In our case, they suggested looking into healing classrooms to improve the attitudes of the students.
+Some suggestions:
+In a few sessions, we could not complete the given task but had to jump to another task due to the time limit. There was a lot of time spent on the first few agenda items that were covered in the prework, such as what are funnel metrics, how they should be defined, etc. The later activities like the experiment design, which are more complex could have been allocated more time
+There was no intersection between 2 tracks, LLM and User Engagement- if we had some intersection, maybe some solutions to our product issues may have been solved there and then.
+One of the combined sessions: Reflections on Udhyam Foundation’s Journey
+Overall the sprint was very useful in giving us a framework/ process towards identifying where we need to focus on and design thinking. It also greatly enabled us to network with not just organizations in the same ecosystem but with individuals in similar roles, engaging in similar day-to-day product work. We, for sure, are going to ring up at least three PMs we met in this workshop, the next time we need a second opinion or guidance!
+It’s a wrap

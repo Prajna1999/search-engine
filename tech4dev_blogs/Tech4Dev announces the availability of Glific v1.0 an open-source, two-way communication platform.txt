@@ -1,0 +1,18 @@
+Title: Tech4Dev announces the availability of Glific v1.0  an open-source, two-way communication platform
+Author: Kurund Jalmi
+Date: March 2021
+Category: Glific
+URL: https://projecttech4dev.org/tech4dev-announces-the-general-availability-of-glific-the-open-source-whatsapp-based-communication-platform/
+==================================================
+
+Feature-rich, Intuitive and Community-tested
+Tehri, India  March 7, 2021: Tech4Dev announces the general release of the Glific two-way communication platform for NGOs. Glific is currently being used by about 20 organisations to uplift the lives of thousands of their beneficiaries.
+Now complete with a range of features that allow automated chatbot-like conversation with a mix of manual interventions where required, NGOs can interact with thousands of beneficiaries on a weekly or daily basis. With the release of v1.0 Glific has taken a shape thats better than ever for NGOs to run their program. A 4-minute product video showcasing the most important features of Glific can be
+viewed here
+. Glific is available for download at
+https://github.com/glific
+and as a managed service through
+Tides
+.
+Glific has paved a path for organisations to adopt it as a solution and be prepared for moments of crisis such as presented by COVID-19 where digital mediums of connecting with the community has proved crucial to protecting and safeguarding the population at large.
+Read more here

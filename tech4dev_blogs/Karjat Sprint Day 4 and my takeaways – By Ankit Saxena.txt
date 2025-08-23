@@ -1,0 +1,31 @@
+Title: Karjat Sprint Day 4 and my takeaways – By Ankit Saxena
+Author: Piyali
+Date: April 2023
+Category: Fractional CxO
+URL: https://projecttech4dev.org/karjat-sprint-day-4-and-my-takeaways-by-ankit-saxena/
+==================================================
+
+This was my 3rd Project Tech4dev sprint. This was setup along with the dasra folks at Karjat, near Mumbai. While it was hot, the resort was great with good facilities. And we had a good time interacting with each other, learning, sharing and just hanging out.
+On day 4 we had a blast by playing indoor games within the team. We played musical chairs and heads-up games. Thanks to Shamoon for organizing the event.
+Musical chairs was a great way to start the day (running and dancing). I was destined to win it but then Lobo, KP, and Sneha – they all ganged together (glific vs fcxo) and had me out. Anyways, the above pic is of Sneha who won the game and received a 5000$ award
+The second game was heads up where a topic/ word will be chosen. Except for the person who is playing the question game, the rest of the players would know the word. Now, the player  will try to guess the word by asking questions to the remaining team. Team can answer yes/no. Was a lot of fun to see people guessing and making fun and some spreading confusion as well. One word that remains the highlight is
+thook
+(saliva).
+After that we worked in smaller groups till afternoon. In the afternoon we made a presentation about project tech4dev and the different initiatives to the dasra team. That started with a very deep and insightful conversation with Lobo. While many may know this, I got to know for the first time that Lobo would wear free t-shirts so that he can donate the money that he saved !
+His talk was followed by a presentation by Sneha, Piyali and Rohit on Glific, Avni, fCXO and DDP. After that we asked the dasra teams to think of an area where any of these tech4dev initiatives can fit or be leveraged. Good and thought provoking conversations, while we all tech4dev members helped each group to think through about this topic.
+Finally towards the end of the day, the team started returning back to the base, starting with the Pune gang – myself, KP, Arun an Amit.
+That�s me, Piyali, Arun, Akhilesh and Sidhdhant in the bar, enjoying the party. And how can I not mention the
+chumma-chumma
+dance that Siddhant did; it was the highlight of the party.
+As it happens, each sprint has a different vibe, setup and also gives a different perspective to look at things. This sprint, for me as an individual and as a fractional cxo, was very enriching. While I reflect back and write this blog, I think it is important to list the key points that I take back –
+We had a good conversation on the open source philosophy that we as tech4dev people believe in. And not just philosophy, how should one implement it in day to day work and projects (such as using github issues, docs, etc) was something that I take back as a  fcxo, reflect and then get my team to start using.
+We had another good conversation on the open source licenses and a high level understanding of a few ones. I take back the learning and Tech4devs recommendation to use
+OSI
+approved licenses.
+The importance of in-person conversations – this is something that virtual can never beat. I had a good time talking to different tech4dev members, understanding their perspective and learning from their experiences. While we as a team have adopted the hybrid working mode, I would definitely look forward to meeting team members in Pune once or twice a month.
+The importance of informal and casual interactions, playing games, etc – this again we used to do in previous sprint, but this time I found a new meaning to it. I realized that I got to know a great deal about the people whom I work with. This definitely would help me to collaborate better and have difficult conversations, with slightly more ease.
+The importance of being true to yourself and accepting that you dont know everything, asking for help/ guidance and support. Also, always open to the possibility of questioning your belief system. Ability to take critical feedback, process it and work upon it if necessary.
+Another area that opened up for me is that especially for people who come from the corporate sector, knowledge is a personal power that can be used as a tool to control and career growth (by not sharing it and creating power circles). I dont believe in this consciously but I have seen this happening around me (and maybe in some point of my life I even did it). So sharing something with a wider group doesnt come naturally for people like me. We need to work actively on this and change this behavior.
+Another beautiful aspect was that of appreciation. We live in a world where on a daily basis we are flooded with criticism and complaints coming on to us. And thats what we radiate back. But I realized that this is a vicious circle and we need to break it by actively nurturing a culture (both at work and family) to feel gratitude and express our thankfulness to people who even do a very small thing to make our day better.
+Finally I am thankful to my colleagues – Lobo, Erica, Sneha, Siddhant, Rohit, Ishan, Akhilesh, Piyali, Abhishek, Rob, Shamoon, Arun, Amit, KP, Kurund (sorry if I missed someone) – who made my trip and stay a great and memorable one. Thanks everyone, you all rock!
+PS – the 5000$ was a joke heheheheh ????

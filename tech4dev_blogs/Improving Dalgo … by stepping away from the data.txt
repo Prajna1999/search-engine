@@ -1,0 +1,54 @@
+Title: Improving Dalgo … by stepping away from the data
+Author: Ashwin Srinivasan
+Date: July 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/improving-dalgo-by-stepping-away-from-the-data/
+==================================================
+
+“Data is the new oil.” – Clive Humby
+“Information is the oil of the 21st century, and analytics is the combustion engine.” – Peter Sondergaard
+We’ve all heard quotes like these. This sentiment has been supercharged in the last 2 years due to the advances in AI, with data being the bedrock of much of AI’s promise. NGOs have also been hearing this repeatedly, from the ecosystem … and often from their funders.
+So Dalgo, project Tech4Dev’s data platform for the non-profit sector is ideally placed to help NGOs in this regard.
+The problems are clearly articulated, and the value proposition seems obvious. The Dalgo team has built a solid data product, enabling automated pipelines,  powerful dashboarding capabilities, and consulting and support from people who understand non-profits and their needs. And all of this, at a price point affordable to most NGOs.
+For the past two years, we’ve been neck-deep in building infrastructure and supporting customers as they get used to running a data platform. We’ve grown to serve over 20 customers, saved our users countless hours in spreadsheet wrangling, and provided tailored support and assistance to our customers. Moreover, we’ve had low churn and are hearing very positive feedback from most of our users.
+So, what next? Logically, now that we have product-market fit, we should look to scale. Sharpen our product analytics, refine our marketing, sell more assertively, and proactively adopt the latest and greatest data and AI advances to supercharge our product and its distribution.
+But actually, when we started doing this, it didn’t feel right.
+Instead, it led us to some uncomfortable questions.
+Why does our product exist? Can we convincingly tell NGOs that we’re offering them something unique, that will help them in a way that other products will not? Or are we just adding to the noise and trying to perpetuate our own existence? Or scaling for our own benefit?
+Earlier this year, at our sprint in Mahabalipuram, with customers like SNEHA, Antarang, INREM, Arghyam, Janagraha, we set aside the language of tech and turned to the language of need.
+What actually helps these teams? What do their days look like? How has Dalgo helped them? What does a “useful” insight mean when you’re running a large-scale intervention or reporting to a donor on short timelines?
+It’s easier to make products and services for the customers you seek to serve than it is to find customers for your products and services. – Seth Godin
+What started in Mahabalipuram, has continued through regular sessions with many of our customers. We get feedback on ideas, jointly iterate on prototypes, and try to learn more about the nuances of their challenges with data. These engagements are sometimes long-winded, circuitous and often reach dead ends or rabbit holes … but we’re ok with this. We don’t know our destination, so we must be prepared to wander and wonder.
+From Tables to Transformation: What We Are Learning
+We hope we have got better at listening, and what we have heard has shaped how we see Dalgo’s next evolution. Here are 7 things that have stood out:
+“Chat with your data” is intriguing, but not urgent
+Our users
+want reliability and simplicity more than novelty. LLMs can help — but only if grounded in specific tasks and clean data. At the start of the year, we were very excited about chat and other AI-centric features, and wanted to commit much of our roadmap towards this end. Our customers have pushed us towards a more balanced perspective – chat with your data and other such features could be valuable, but there are more fundamental things to work on ahead of this.
+Dalgo still speaks to a technical audience
+Our interface, structure, and terminology still feel built for data scientists and engineers. That’s not who we serve. We’re rethinking our information architecture to appeal to NGO leaders, field staff, program teams, and M&E officers.
+Guidance is gold
+NGOs need to be nudged toward value. What metric should they look at today? What’s changed this week? Passive dashboards aren’t enough. This is specifically relevant when NGOs are onboarding onto the platform.
+Quant must embrace qual
+When narrative and numbers intersect — a quote alongside a trendline — teams feel informed, not just presented to. This overlay of storytelling and stats is where we can create differentiated value. This is something that we are still unpacking, but we know that it’s very important because almost every NGO is interested in this.
+Maps matter
+Geographic insights resonate powerfully. Program teams light up when they see patterns emerge on a map. Better maps are one of the most demanded features, and we’re investing in it.
+Messy data is the norm
+And it’s okay. Instead of expecting clean inputs, we’re focusing on helping NGOs assess
+how reliable
+their data is, and how to improve it incrementally.
+Reporting is not a by-product — for many, it is the product
+The end goal for many teams isn’t the dashboard. It’s the deck, the digest, the PDF, the donor update. Dalgo must embrace reporting and storytelling as core workflows, not afterthoughts.
+Dalgo should not just be a tool for building data pipelines, but should be a partner in storytelling, decision making, and should make data accessible to everyone as they go about their daily work. The
+everyone
+is important here, because Dalgo should help people from all roles work more effectively by using data – and should not just be a power tool for M&E and Data teams. We have long articulated how Dalgo can help a variety of people within NGOs, but we have more work to do to make this a reality.
+Staying Grounded
+It’s easy to get swept up in the metrics of product-building — activation, qualified leads, sales funnels, monthly active users, churn, retention, roadmap velocity. But those aren’t the metrics that matter most to the NGOs we serve. Dalgo was never meant to be about the data alone. It’s meant to be about the change that data empowerment enables.
+We thank all the NGOs who have been generous with their time and their insights over the last several months. Thank you for giving us a window into your world, and helping us to hopefully serve you better.
+As we move forward, we’re holding onto a few reminders:
+“Numbers have an important story to tell. They rely on you to give them a voice.” –
+Stephen Few
+“Data will talk to you if you’re willing to listen.” –
+Jim Bergeson
+“NGOs will talk to you if you’re willing to listen.” –
+Dalgo Team
+We’re listening. And we’re just getting started.

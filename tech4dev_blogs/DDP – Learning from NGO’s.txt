@@ -1,0 +1,39 @@
+Title: DDP – Learning from NGO’s
+Author: Siddhant Singh
+Date: April 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/ddp-learning-from-ngos/
+==================================================
+
+The DDP team is working really hard for the last few months and we wanted to share what weve
+been doing for the last quarter. So far were running three pilots on production for Sneha, Stir, and Dost Education and were constantly looking for more NGOs to onboard them for DDP.
+Since were looking at more NGOs who are facing similar challenges and trying to find how Data Platform can help them with automating the whole process. Right from pulling the data from the data collection tool to getting the final data for the dashboard.
+Recently weve started working with
+Antarang
+,
+TAP
+, and
+SHRI.
+We started by having a lot of back-and-forth conversations with them for trying to understand their use cases. Goalkeep is working with us on the Anatrang data pipeline and Im sharing the
+Concept Note(Antarang)
+which is written by Swapneel. I really like what GoalKeep is doing it personally. The approach is where they break down the data problems to focus on one thing the program needs to get an outcome for. Lot of learning for me to approach data problems like this.
+Im working very closely with SHRI and Im going to explain what data challenges are they facing. So SHRI works in the area of Sanitation and Health Rights in India. SHRI works with local communities to improve local health and hygiene.
+Current Process
+Sanitation facility uses Data collected using the Kobo toolbox platform. We have APIs to pull data from each form.
+Currently, R code pulls data using the API. This data is cleaned and transformed and pushed into a Google Sheet
+The amount of data each API is pulling right now is around 30k at a time.
+Final data is pushed to Google Sheets which is then analyzed using Google Data Studio.
+Lots of manual processes are involved in the cleaning and transformation
+Challenges
+Significant manual intervention to have data cleaned, transformed, and pushed to analysis dashboards
+Kobo’s limitations of pulling amount of data and getting around those issues
+Versioning and documentation of code for cleaning and transformation
+The slowness of dashboards – cause unknown at this point but could be related to Google Data Studio pulling data from Google Sheets through an API instead of from a database
+Impact
+No/very reduced intervention is required to keep data flowing between Kobo and Analysis dashboards
+Faster iteration time to change any cleaning/transformation steps along with usage metrics.
+Possibly faster dashboard loading time
+Where are we
+We have built the kobo toolbox connector for the airbyte which pulls raw data from the source and weve added the support for incremental sync so it can pull the latest changes.
+All the data from different forms are consolidated to one place and weve started out DBT work for doing the cleaning and transformation.
+Soon we will be deploying this to our staging server for testing and we will ask SHRI to look at their data for testing.

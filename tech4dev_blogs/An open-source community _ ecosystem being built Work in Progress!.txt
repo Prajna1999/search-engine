@@ -1,0 +1,37 @@
+Title: An open-source community / ecosystem being built  Work in Progress!
+Author: Arun Kadekodi
+Date: January 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/an-open-source-community-ecosystem-being-built-work-in-progress/
+==================================================
+
+It was great attending the quarterly Tech4Dev sprint in Goa. I reached Goa on Sunday, 15
+th
+Jan in the afternoon and left on the morning of Wednesday, 18
+th
+Jan.
+The programme was divided into
+Avni
+and
+Glific
+sprints with some overlap between them. For people of my generation, the Information Technology revolution (which is no less than the industrial revolution) has been a roller coaster ride. I am sure Sanjeev and Lobo would agree with me (though Lobo would probably not like to be clubbed with us, who are 10 years his senior ?). We have graduated from using the unit record machines to computers using punched cards to seeing the birth of the IBM PC and its clones to mobile phones to wearables and so forth.
+During this journey, it was interesting to see the birth of free and open-source software. It all began with the launch of the GNU project in early 80s and really caught speed in early 90s with the advent of Linux  where the source of an entire operating system kernel became available for volunteers to build upon. This really opened the gates for many other open-source projects as well, which ran on Linux. Netscape Navigator made it to the open-source in late 90s to make the world wide web accessible to the common man. I used to always wonder on how these things were born and how they continue to thrive.
+It was interesting to see one being built at close quarters!
+With Avni and Glific, we have our very own contribution to the open-source world  and it is exciting to see these products (Avni from its infancy and Glific from its birth) grow and being used by so many NGOs. Avni is in use with 40+ NGOs while Glific has gone on to capture the imagination of more than 70 NGOs, who have been onboarded.
+On January 15
+th
+and 16
+th
+, I could attend some NGO presentations that described the way they were using Avni and discussed some of the challenges being faced by them. Most users of Avni, who did not know the varied applications for which Avni was being used, suddenly realized how it could be difficult for Avni team to include seemingly small changes very soon as it could affect something else! On the other side, developers from Avni too got to see the struggles their users were going through and could understand the reasons for the changes they were asking. In other words, this bringing of the NGOs and the developers together makes each of them empathize with the others reasoning. This is one of the key steps in building an ecosystem.
+Such an ecosystem in the social sector survives mainly on a good feedback mechanism that allows the development team to collect inputs that not only improve the product but also provide a robust roadmap. The sprints, like the one in Goa, help greatly towards it. While Avni users presented the issues they were facing, they also discussed about the different work arounds or methods used in their own work. I am sure this would have led to a cross breeding of ideas and brought forth solutions to some who were struggling to find them.
+The roadmap was also discussed with all the users, while the users voted on the priorities of the upcoming features. Team Avni could also size up their staffing requirements based on the above and already there was a discussion on how they need to double the team in this year to be able to meet the expectations of their users.
+From a team that seemed to be in a fire-fighting mode in the past, Team Avni appeared to be far more structured in their approach and mindful of the tasks needed to run a tight ship.
+I also had a detailed demo of Glific but because I left on January 18, I could not attend their NGO interactions. It was interesting to know that Glific and Avnis paths would also cross in some interesting use cases. Glific, with its slick and simple user interface, is very impressive and easy to use and implement.
+The sprint also provided an opportunity for almost the entire team of
+OpenBrackets Foundation
+to meet in person. Most members of this team, work from different cities, and quarterly sprints like these are the only times when everyone can meet each other.
+The OpenBrackets team
+The
+Development Data Platform
+is going to be the youngest platform offering from Tech4Dev and promises to be of use to almost all NGOs.
+For us (oldies, if you may ?), just like the journey from large computers to mobile phones as computing machines excited us, it is as exciting to see a whole set of nebulous ideas grow into sustainable ecosystems!

@@ -1,0 +1,62 @@
+Title: From Architecting Tech Giants to Strengthening Grassroots Impact: Devi’s Journey into the Social Sector
+Author: Deepak Nanda
+Date: April 2025
+Category: Fractional CxO
+URL: https://projecttech4dev.org/from-architecting-tech-giants-to-strengthening-grassroots-impact-devis-journey-into-the-social-sector/
+==================================================
+
+“What am I doing?”
+This single question sparked a journey of transformation for Devi, who went from leading engineering teams in major tech companies to embedding herself within the fabric of nonprofit systems that often lack even the most basic technological infrastructure.
+In conversation with Deepak from Project Tech4Dev, Devi shares the arc of this journey—one that many professionals in the private sector may resonate with but few dare to take.
+A Leap from the Known
+After 18 years in tech, including roles as a Principal Engineer and Architect across global MNCs and startups, Devi had reached a professional high. But with that came a sense of detachment.
+“I had it all—global roles, diverse domains, scale, influence. But then I found myself asking repeatedly,
+‘What am I doing?’
+I realized I needed to pause.”
+That pause became a one-year sabbatical. During this time, she volunteered to teach 4th-grade English and supported small-scale education and climate-focused startups. But most importantly, she explored. There were no concrete plans—just a desire to discover what
+really
+mattered to her.
+Finding Her Fit—Not as a Founder, but as a Force
+While surrounded by social entrepreneurs building their own initiatives, Devi had a realization.
+“I was exploring whether I could start something of my own. But through that process, I realized that I’m far more suited to contribute meaningfully
+within
+existing efforts.”
+It was serendipity that led her to the
+Fractional CxO (fCxO) program
+by Project Tech4Dev. A LinkedIn post brought her attention to a role that bridged her skill set with a purpose-driven path.
+“When I saw the description, it clicked. I could see how I could apply my skills, even coming from a tech-heavy background, to problems that matter deeply in the social sector.”
+Transitioning into Scarcity
+The move wasn’t just a change in domain—it was a shift in mindset.
+“Coming from an MNC, I’d never even factored cost into my architectural solutions. We were optimizing for scalability, uptime, performance. Here, I now check the
+pricing page
+before even considering a tool.”
+Working with NGOs that lack dedicated tech teams—and sometimes even data clarity—meant learning to navigate resource constraints creatively. Devi’s first engagement was with a Pune-based NGO running five programs
+without a single tech person on staff.
+“It was a crash course in building trust, working within limitations, and finding solutions that are ‘good enough,’ not perfect.”
+Tech Isn’t Always the Answer
+One of the most refreshing parts of Devi’s role is the freedom to say
+no
+—not to NGOs, but to unnecessary tech.
+“Sometimes, it’s clear that what an NGO needs isn’t technology—it’s a process fix. Our application process actually helps them realize that. We ask:
+Is tech even in your top three priorities this year?
+”
+This clarity ensures that when engagements do move forward, they’re grounded in real needs, not just trends.
+Reframing Innovation and Ownership
+Working in the social sector also brought up questions around data, openness, and trust.
+“In tech, we talk about open-source code. But in nonprofits, data—especially research or beneficiary data—is the core IP. I began asking:
+Can we treat program data like open-source code?
+Can it be reused, built upon, shared?”
+This often meets hesitation, rooted in fear, compliance, and the sector’s own trust deficit. But through gentle conversations and “aha” moments—like showcasing relevant open data examples—Devi is planting seeds for a culture shift.
+Lessons in Humility and Co-Creation
+What makes the fCxO experience unique, Devi believes, is the intentionality behind the matching process and the mutual respect that it fosters.
+“There’s no savior complex here. We’re not parachuting in with all the answers. We ask questions. We listen. We
+build together.
+”
+She credits the first three months of just shadowing fellow fCxOs—like Thomas and Vinod—and observing their engagement styles as being foundational to her own transition.
+A Call to Tech Professionals
+Devi’s story is both inspiration and invitation. For tech professionals wondering if there’s a more meaningful way to apply their skills, the social sector offers rich, complex problems that demand empathy, curiosity, and collaboration.
+“It’s not about doing less. It’s about doing differently. And often, with far more impact.”
+Curious about the Fractional CxO Program or how your organization could benefit from tech for good?
+Learn more about how Tech4Dev is building this bridge between the social sector and tech leadership.
+👉 Explore the FxO Program:
+https://projecttech4dev.org/call-for-applications-fcxo-cohort-h1-2025/

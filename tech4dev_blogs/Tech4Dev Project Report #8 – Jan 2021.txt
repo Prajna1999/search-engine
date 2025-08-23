@@ -1,0 +1,190 @@
+Title: Tech4Dev Project Report #8 – Jan 2021
+Author: Kurund Jalmi
+Date: January 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-8-jan-2021/
+==================================================
+
+Tech4Dev
+Mission
+Building the Open-Source Technology Ecosystem for the Social Sector.
+Detailed information on Tech4Dev can be found on our
+Tech4Dev 2 Pager
+, and
+Tech4Dev Info Deck
+Summary
+Q4 2020
+was in a similar vein to the previous 2 quarters, a continuation of our pandemic rituals. The US election, the election disputes following that, and the violence at the Capitol was a shock to all of us and the world at large, but it re-emphasizes why it is so important for all of us to be involved and be part of the social and justice movement in whatever way we see fit.
+In Q4 2020,
+we continued our focus on our open-source platforms. FundImpact (FI) released its first version and began conversations with a few medium-large sized NGOs on using FI. While they do have high-level buy-in from NGO management, it has been a lot slower getting organizations to adopt and start using the platform. Our goal is to get 3 NGOs to be on FI in this quarter.
+Glifics
+continued onboarding more NGOs onto the platform. Our goal was to get 10 NGOs using the platform by the end of the year, and we managed to meet and exceed that goal. As of mid-Jan, we have
+15 NGOs
+on the platform. We continue to learn a lot from our user base as we build/extend features that apply to their use-cases. A couple of testimonials from them:
+The power of the platform is too powerful! – Gautam from
+Reap Benefit
+We have been using flows to share activity content with the students and can leverage the power of two-way communication for online self-learning of students. We want to co-develop an open-source platform on Glific to collate the data and implement gamification in our communication – Prashant from
+The Apprentice Project
+Highlights
+Glific got a grant
+from
+Omidyar Network India
+. We also welcome a new funder, Anjali Vishwanath. The Glific team has incorporated grant applications as part of their regular process.
+Tech4Good Fellows
+in partnership with
+Edelgive Foundation
+is
+launching a special technology cohort
+for
+womens rights NGOs
+Our partners,
+Civic Data Lab
+,  released a report on the
+State of FOSS in India
+.
+We wrapped up the second Tech4Dev cohort project. We will resume new projects in Q2 2021.
+Glific will extend its backend platform to incorporate Signal (if feasible) and Telegram. The latest Glidic platform video can be
+seen here
+.
+Our end-of-year email was well received and by far got the most responses from all of our past communication. Following that pattern, our reports will now consist of a summary and highlights section, a spotlight section, and end with an updated financial statement.
+Case Study of Zombie Tracker
+– A Project with The Internet Freedom Foundation (India)
+Internet Freedom Foundation
+(IFF) is an Indian digital liberties organization that works to ensure that citizens can use the Internet with liberties guaranteed by the Constitution. With support from Tech4Dev, IFF is collaborating with
+CivicDataLab
+, one of the technology partners within the Tech4Dev network, on building a case-law tracker to identify and report cases registered under
+Section 66A of the Information Technology Act (IT Act), 2000
+(S. 66A). We’re calling it the
+Zombie Tracker,
+to signify how a dead(struck down) provision is still being invoked.
+This provision penalized the sending of offensive messages via online communication but was deemed unconstitutional by the Honble Supreme Court of India in 2015. This was a progressive step that didnt come to fruition as, to date, we see instances of this provision being invoked by the authorities across the country. We intend to use the insights gained from collected data to strengthen our advocacy efforts to ensure that S. 66A dies a complete constitutional death.
+Financials
+Income
+Grants – Contributions
+Funders
+2019 (USD)
+2020 (USD)
+2020 (INR)
+Carry-Over from the previous column
+–
+?0
+International Funders
+$775,000
+$838,150
+?62,861,250
+Turn.Io Contribution from Cohort Organisations
+–
+$14,300
+?1,072,500
+Indian Funders
+$10,000
+$71,429
+?5,357,175
+Total Grants Received
+$785,000
+$923,879
+?69,290,925
+Expenditure
+Support for NGOs – Expenses
+Sector
+2019 (USD)
+2020 (USD)
+2020 (INR)
+Rights and Advocacy
+$133,841
+$72,733
+?5,454,975
+Education and Life Skills
+$177,534
+$96,959
+?7,271,925
+Governance & Public Finance
+$55,570
+$51,222
+?3,841,650
+Health
+$15,857
+$74,102
+?5,557,650
+Technology
+$25,000
+$50,000
+?3,750,000
+Rural Development
+$31,380
+$0
+?0
+Research
+$30,885
+$229,007
+?17,175,525
+Support for NGOs – Total Costs
+$470,067
+$574,023
+?43,051,725
+Other Costs – Expenses
+Area
+Description
+2019 (USD)
+2020 (USD)
+2020 (INR)
+Grant Management + Events, Travel
+Attendance at funder events + Cohort 1 partners’ meet
+$17,900
+$2,000
+?150,000
+Other Costs – Strategy, Legal, Fundraising
+All fees paid to Svarya (formerly Lumen Consulting) and India Development Review (IDR) directly from the Chintu Gudiya Foundation
+$18,500
+$69,108
+?5,183,125
+Other Costs – Total Costs
+$36,400
+$71,108
+?5,333,125
+Total Expenditure
+$506,467
+$645,131
+?48,384,850
+Surplus for the year
+$278,533
+$278,748
+?20,906,075
+Surplus to date
+$557,281
+?41,796,050
+Details on individual projects can be accessed
+here
+.
+Want More
+Details?
+All our blog posts can be found on
+the project website
+. All project documentation can be found on
+our
+shared google drive folder
+. Each project blogs every month, so we have quite a bit of
+detail and history as the project evolves
+Our Journey of Remoulding Data Collection � From Paper to KoboToolbox to Avni
+Project Progress Update � Data Collection & Reporting Application � GiveIndia.org
+WhatsApp Simulation within Glific
+Glific Website
+,
+Glific One Pager
+FundImpact Website
+,
+FundImpact One Pager
+Tech4Dev Project Report #7 – Oct 2020
+Tech4Dev Project Report #6 – Jul 2020
+Tech4Dev Project Report #5 – Apr 2020
+Tech4Dev Project Report #4 – Jan 2020
+Tech4Dev Project Report #3 – Oct 2019
+Tech4Dev Project Report #2 – Jul 2019
+Tech4Dev Project Report #1 – Apr 2019
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Reach out to us via
+email
+or find more information on our
+website

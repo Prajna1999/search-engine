@@ -1,0 +1,18 @@
+Title: Goa Sprint: Day 1 (Product reviews and awards)
+Author: Glific Admin
+Date: January 2024
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/day-1-product-reviews-and-awards/
+==================================================
+
+– This blog is written by Akansha Sakhre from the Tech4dev team
+The Tech4dev sprint’s day 1 kicked off with the
+Opening Circle
+at 9 am, where everyone shared quick intros.
+Following that, we dove into a
+quarterly product review
+featuring presentations from Glific, Dalgo, and Fractional CxO. The presentations covered key highlights, and we also discussed the lowlights, providing a comprehensive overview of each organization’s achievements and their focus for the next quarter. The session was interactive, with people asking questions. As someone who is new to the team, the session was highly informative, providing valuable insights into the projects and deepening my understanding.
+The next session, organized by Radhika for the Glific Team, turned out to be quite fun. The team was divided into three groups, and each member wrote down personal or team wins and losses on sticky notes. Afterward, the teams combined their common wins and losses, placing them on the three boards up front.
+Later we had a discussion, which started with wins, and some notable ones included improved team coordination, team growth, and the successful launch of new features like the ticketing system and the AI Discord bot. A win that everyone had in common was for better coordination between the product and development teams, thanks to Radhika. After that, everyone walked around, reviewed the notes, and added their initials to the ones they agreed with.
+Following this, each team picked two losses and discussed appropriate solutions, which were further explored later on. Teams delved into issues like enhancing invoicing systems, improving feature documentation, and refining social media content.
+The last event of the day was “techie for dev,” a fun award ceremony hosted by Krishna Priya and Shamoon and hosted by Tejas, Sangeeta, Shamoon and Krishna Priya. Some amusing tags were given to team members, such as “coffee connoisseur” won by Vinod, “sorry not sorry” won by Lobo, and “happydent smile” won by Erica.

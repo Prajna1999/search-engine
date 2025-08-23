@@ -1,0 +1,51 @@
+Title: The Fractional CxO Program with Vasudha Foundation: Tech Assessment
+Author: Thomas
+Date: October 2024
+Category: Fractional CxO
+URL: https://projecttech4dev.org/the-fractional-cxo-program-with-vasudha-foundation-tech-assessment/
+==================================================
+
+Overview
+This is the second in a multi-part series (
+part 1
+) on Project Tech4Dev’s Fractional CxO engagement with Vasudha Foundation. This post focuses on the org-wide tech assessment that’s often the first deliverable in our engagements.
+Why an initial tech assessment is important
+We spend a significant amount of time interviewing the NGOs we work with to ensure that tech is one of their top priorities and that they can allocate enough resources to tech interventions that we mutually agree are necessary and high-priority. We then arrive at a proposed approach for the engagement, which includes a plan sequenced in milestones and specific deliverables, that is signed off on by the NGO.
+Given this, it would seem like undertaking a tech assessment during the initial phase of the engagement would be superfluous. In most cases, the initial few hours of conversations with (mostly) leadership likely lack the depth required to ensure that our engagements result in long-lasting improvements in tech capacity and capability across the organization. There are  however engagements that are more narrowly focused on specific projects or programs and in those cases we may skip the org-wide tech assessment.
+Tech assessment plan
+Strategic Alignment
+: Are programs, projects, and operations aligned with the organization’s vision, mission, and strategy?
+Tech Systems
+: Is there a clear tech strategy and roadmap? Are systems integrated, reliable and scalable?
+Tech Team Capacity
+: Does the team have the necessary skills and capacity to meet current and future needs?
+Vendor Performance
+: Are vendors providing reliable, cost-effective support?
+Data Governance
+: Is data managed securely, ensuring privacy and proper usage for decision-making?
+Strategic Alignment
+Starting at the top of this list is important since tech interventions are less likely to be productive if there’s no strategic alignment. After a month of in-depth conversations and interviews with leaders and individual contributors at Vasudha, it was clear that programs were aligned with the organization’s strategic objectives. There were also clear signals of horizontal and dynamic alignment across programs and projects. However, there were a lot of opportunities for improvement in operational efficiency in cross-team project execution and coordination.
+Tech Systems
+As with most of the organizations that I’ve worked with so far in this sector, there was no well-documented, overarching tech strategy or roadmap. It’s worth iterating that this is usually not high-priority initially for many organizations we work with no matter how far down the road they are in leveraging technology. For Vasudha, leadership felt that tech decisions are not as grounded in technical expertise and experience as they can be and that this could limit their ability to scale their impact effectively.
+As a growing organization (from 20 people to around 70 in less than 2 years) Vasudha has quickly outgrown its start-up like IT infrastructure and asset management processes. Though many organizations manage with BYOD policies, this didn’t seem likely to work well for Vasudha given the broad range of hardware and software systems requirements – from relatively light workloads like policy analysis and writing to compute-heavy ones like energy systems modeling and GIS analysis. Here too, software tooling was mature for these compute-heavy tasks but lacked the same level of maturity for collaboration tools. e.g. though Google Workspace is used across the organization, adoption of Google Drive for document management is minimal at best.
+Project management tooling was also virtually non-existent. There were teams that felt the absence of this more than others, in particular, teams that worked across programs were starting to find it difficult to manage, coordinate and communicate deliverables and deadlines. As with many non-profits, where donor reporting is an important requirement, managing project budgets and resources involves a complex set of tasks whose needs can outgrow spreadsheets over time. To this end, there was an effort to build a homegrown project management system.
+Tech Team Capacity
+Though there’s only one full-time developer, team members across programs leverage technology in their daily work which ranges from visual design and web development to GIS analysis and energy systems modeling. Here, software and hardware tooling is well-provisioned; team capacity however will need to grow to accommodate the increasing number of projects in the pipeline at Vasudha.
+Vendor Performance
+Vendors are fairly responsive when issues arise. Turnaround time for enhancements, bug fixes and data updates seem to be hindered by a few factors such as:
+Suboptimal data architecture and processes – especially in data collection and ingestion
+Lots of back-and-forth before requirements (including design choices) are fixed
+Lack of technical expertise in-house slowing down decisions such as selection of deployment architecture and infrastructure
+Mitigating some of these issues could go a long way in reducing costs and timelines and increasing quality and reliability of tech systems.
+Data Governance
+Data is central to key objectives and as such is reviewed and leveraged across all programs. However the utility of the data is limited by the fact that it remains undiscoverable across the org and exists in silos managed by each project team.
+Priority Areas
+Tech strategy and roadmap
+Tech team capacity and capability
+Operational process maturity
+Data governance
+Emerging recommendations
+At the outset, filling at least two roles appears to be required:
+Senior technology management (possibly at the CTO level) to chart an overarching tech strategy and roadmap and with the requisite experience to engage with stakeholders, manage vendors and advise and mentor developers, engineers and other tech workers.
+Data engineering to architect, build and maintain data management systems and automate existing manual processes
+Whew – that was a long write-up and yet it feels like I didn’t cover a lot of what goes into our tech assessments. If you got this far, buy yourself a nice coffee (or other beverage of choice) – you deserve it!

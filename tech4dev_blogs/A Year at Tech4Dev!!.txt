@@ -1,0 +1,62 @@
+Title: A Year at Tech4Dev!!
+Author: Radhika Bhagwat
+Date: November 2024
+Category: Glific
+URL: https://projecttech4dev.org/a-year-at-tech4dev/
+==================================================
+
+Laitlum Canyon, Meghalaya
+, Oct 2024
+I wrapped up my first year with Project Tech4Dev with the Shillong sprint in October – very much a “cherry on top” experience!
+I started my journey to pivot my career in July 2022, with a checklist –
+an Ideal Career Plan
+(credited to career coaching at
+Happen to your Career
+). My decision to join Project Tech4Dev had checked most of the boxes (which boxes it didn’t check? Well you’d have to read on for that!). This was also an opportunity for me to validate if I really wanted what I think I wanted for a career. A year since I joined, as I reflect back, I answer to the question my past self put in that time capsule. Is this the career you were looking for?
+Well now, I say to my past self… maybe!! A year is too short a time to judge.
+I still have those couple of boxes unchecked. But the best part is that most of the things I had struck-off in my checklist while being an outsider to Project Tech4Dev, still remain checked! …and that is much more than I could ask for of an organization (and people in it) from a career pivot search.
+My Checklist:
+Be able to mentor and grow people – check
+Being able to
+Galvanize
+a team – check
+Learn something new – check
+Work for an org whose values match with mine – check
+Look up to the leadership – check (Lobo makes it look so easy and is so down to earth, that one cannot not look up (or down :P))
+Have flexibility with time – check
+Work remotely – check
+Be able to make time for kids and travel – check (double check since I’m able to see my father more often as well)
+Be able to make time for workout and stay healthy – check (double check thanks to Lobo’s fitness role modeling)
+I was looking for work that would show immediate impact. This was one of the main points why I started my search with Kiva, DonorsChoose, GoFundMe and other such organizations, so I could measure the impact and know I was making a difference. My husband, Anshuman in the last 6 months started partnering with Sri G at KindKart full-time;
+KindKart
+helps with procuring basic necessities for small charities in India through their fundraising platform. Such tech platforms that have a direct impact, make it very easy to measure how one’s work makes lives better for others (or at least doesn’t make it worst). I’m very happy for the work they are doing, and the strides they are making. At Tech4Dev we work on open source software platforms that enable NGOs, but they don’t impact the people on the ground directly, at least not in an easily measurable way. That work is done by programs and the NGOs we support through tech. We enable those people to work smartly, efficiently! I am still struggling to justify the social impact I make through my daily work. I have these discussions at work and outside of work as well, in the hope that I can check this box for myself and see the impact. But all I can say is I’m going to put this question into a time capsule, and let my future self answer it (soon enough!).
+This other one doesn’t bother me as much. But from time to time it does grow in like a thorn, and then I have to talk it out with someone, to make that unchecked box stay at bay. Both me and my husband, having worked for 20 years, I’d like to think, we as a family, would sustain for a while now. The joy of working at Tech4Dev as an org, with Lobo as a “boss”/ friend/mentor, the team as individuals and as a group, just makes the sustainability aspect diminish for me. And though this box isn’t checked yet, I think we (my family) are going to be more than fine, for now.
+I’m not one of those people who is super passionate about something and plunges right into it and sticks on with it for time on end. Well, actually I do stick with things (heck, I spent 10 years at Amazon), but I’m not the one with the passion of a founder, or hard(core) worker like a CEO. Though I’m definitely that person, who a founder or CEO can rely on. You trust me with something… I will get it done! But if you don’t “trust” me enough… I may wonder if I really belong here. I like my freedom and choice to lead the way I do. I get this to some extent at Project Tech4Dev. I got a whole lot of that at Amazon (and that’s probably why I hung around). I could take risks, and learn from them, and allow my team to grow in turn. I hope to do the same at Project Tech4Dev if the space allows me to. Hoping to learn a lot in the process myself, and keep this box checked as well.
+As I look forward to another year with Project Tech4Dev, it would be amiss if I didn’t look back at the year past and pin up the star moments that I thoroughly enjoyed. This past year with Tech4Dev team, has been a steep ramp up of learning and exploration. When I started my journey in pivoting my career in mid 2022, I wasn’t sure which geography I would end up working in. India was not even remotely in my mind, since it seemed unreasonable to think about working in the Indian social sector, living in the US. But Project Tech4Dev made it possible for me, and I’m immensely thankful for this opportunity.
+The work I’m involved in is very similar to my responsibilities at Amazon, but so much more! I don’t get to work on the ground in Indian NGOs, but I get to support these NGOs through our work at Glific, the WhatsApp chatbot.
+Last year after the sprint in Kochi, Kerala, I decided to join Project Tech4Dev full-time. I was to work partially as a fractional CxO and rest of the time head the Glific team – Engineering, Product, Biz dev and Support. As the fCxO, my first stint was with
+The Aangan Trust
+. Aangan is a non-profit based in Delhi, that focus on child security, mainly the girl child. I had the opportunity to visit their team in Delhi, and understand the challenges they faced. The experience was a good learning opportunity for me, in terms of understanding what basic challenges most NGOs face, not just smaller ones, but also the bigger ones like Aangan, with over 100 employees, and being around for 25 years! These challenges aren’t very technical in nature either – HR processes and tools, back office operational hygiene and so on. This was a stint I enjoyed, but it also didn’t come naturally to me. For multiple reasons with bandwidth and demand of the Glific head role, I had to gradually move out of the fractional CxO group.
+The January sprint was in Goa. I got to be involved much more in planning with the Glific team. Here’s more about the
+Jan sprint highlights
+. I got more involved in biz dev and comms as well. which I’d not done before. I got to learn how biz dev and comms works, and I related to the counterparts I worked with at Amazon in these same functions.
+Jan 2024 Goa Sprint. Team size 25
+By April I had moved to Glific solely, to do justice to it. I was able to put a lot of process and mechanisms I used at Amazon, in practice at Tech4Dev in different forms for the Product and Dev teams. The bangalore sprint in April was a Tech4Dev only sprint, and it gave me special time to bond with a lot of people outside of Glific. The team had grown significantly by then.
+April 2024 Bangalore sprint. Team size 28.
+The July sprint in Delhi was the first one with only Glific team. We executed on our accelerator, the first of its kind, and biggest so far in terms of bringing NGOs together. I was so proud of the team is pulling this through.
+In October, I wrapped up my first year. My 5th Sprint was in Meghalaya!! I got the opportunity to plan it. It was such fun collaborating with high spirited Pratiksha and Priyesh who had joined Tech4Dev recently, as well as Ashwin, who facilitates open-ended session with such ease. The sprint was one of its kind. I enjoyed planning for it, and loved the energy at the hackathon as well as outdoor walks and talks.
+First day at Shillong sprint, Oct 2024. Outdoor circle time. Team size 34
+What I Love about my work:
+The team is very passionate about their work and goals
+The culture is transparent, flexible, open to critical feedback, and quite different than most social orgs in India.
+I get to meet passionate social sector founders and CEOs in US tagging along with Lobo, and expand my view of things.
+Get to connect Lobo and Sanjeev who are so full of information wealth. Always learn something new when I meet them.
+I am able to stay connected with India.
+Learn more about how the govt and non-govt orgs exist together and function in India.
+What I would like change/ make progress towards:
+Bring in processes and mechanisms that improve hiring, career growth, mentoring as the org grows
+Knowing and showing impact: like to have data I can find myself.
+Not staying up at night too late. Figuring this one out on how I can support my own circadian rhythm and health. Its not at its best right now.
+Sustenance for my family.
+Traveling every quarter with kids. Taking at least half of the summer off work to travel with them.
+My wishlist started with people at work and wandered into my daily life and into my family life. These are the things that are my focus as well (corporate or social sector). Looking forward to 2025 in meeting these and more goals that stay nascent in the corner of mind for now. Adios!

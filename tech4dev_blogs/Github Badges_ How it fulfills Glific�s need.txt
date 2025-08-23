@@ -1,0 +1,68 @@
+Title: Github Badges: How it fulfills Glific�s need
+Author: Kurund Jalmi
+Date: June 2020
+Category: Glific
+URL: https://projecttech4dev.org/github-badges-how-it-fulfills-glifics-need/
+==================================================
+
+GitHub badges, a consolidated way to present concise pieces of information about a project. These badges help in increasing the readability of the readme file because they provide metrics about the repositories that help the readers to get a clear idea of the repository very quickly just by scanning the attached badges.
+For
+Glific
+, we�ve added badges. Let�s have a look at what was our expectations and how ti helped us to achieve it.
+What we needed
+For an open-source project, the readme should be sufficiently readable so that anyone can have a look at the readme and have a quick glance at the project. The badges can provide the following metrics:
+How can someone contribute to the project?
+This will help in attracting the right kind of contributors to our open source project.
+It will help to attract the investors as well by giving them more confidence about the product.
+Making sure the new contributor is not breaking any existing functionality.
+What is the frequency of maintaining the project?
+The level of code/test coverage?
+Whether the project is documented well?
+For an open-source project, the readme should be more readable so that anyone can have a look at the readme and it should provide the users with a quick way to collect metrics about the repository.
+How it helped or can help to achieve the expectations.
+These badges provide information simply and quickly.
+As it is visually appealing as well to the visitor, it will help to attract the right contributors as well as the sponsors/investors.
+Provide a quick overview of the quality of the product, how/who is maintaining it, what are the best practices we are following so that the new contributor can maintain that sanity as well.
+The badges that we have added to the
+Glific repositories
+to cover several topics and areas. Starting with the license of the project, the list is below.
+License
+Public repositories on Github are often used to share open-source software.
+So the question is, how we can say that our repository is truly open-source
+?
+For a repository to be truly open-source, we’ll need it to have a proper open-source license. In that way, the others are free to use, change, and distribute the software. A good way to catch the user’s attention to the license is by creating a badge. There are many ways to include badges about license and I found
+shields.io
+as the easiest. You can simply create the badge you want by filling the relevant details there. You can visit
+https://shields.io/category/license
+for more information.
+Continuous Integration
+As we are using the
+GitHub workflow
+for CI, we use the status badge as the Continuous Integration badge. You can have a badge for each of your GitHub Actions CI workflows.
+For the significance, it shows whether the code changes are integrated and tested well before merging to the master branch. This will ensure that any new changes are not breaking the existing functionality.
+Code coverage
+The code coverage is an important thing to It displays the code coverage and test coverage of the project.
+The code coverage can be generated locally, but for an open-source project, it is recommended to automate it so that it will show the updated coverage all the time. For that, we have integrated
+codecov.io
+in CI so that, every time the CI runs, it generates the latest coverage report and update it to
+codecov.io
+and we�ve access the coverage data from there itself.
+Hex
+The
+Glific documentation
+is generated and hosted using Hex. The badge shows the version of Hex we are using for Glific.
+Conclusion
+As we can see the badges are giving a quick way to collect metrics about the repository. These were the few badges we have included till now, there are a lot of other relevant badges as well that we can include as the project grows such as
+Github issues
+,
+Chat (for discord)
+,
+Size
+,
+Downloads
+and many more. You can check all of these out on
+shields
+.io
+or
+badgen.net
+.

@@ -1,0 +1,44 @@
+Title: Short and Learning-Packed Sprint at Dehradun
+Author: Kurund Jalmi
+Date: September 2022
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/short-and-learning-packed-sprint-at-dehradun/
+==================================================
+
+At the Dehradun Tech4Dev sprint, I had the opportunity again to represent the Women In Tech program along with Arun Kadekodi. We got a chance to introduce the WIT program to many who joined Tech4Dev recently, and reflect on the learnings from the 1st cohort and share updates on the 2nd cohort.
+The sprint kicked off to a great start already when I reconnected with
+Arjun
+and met Ashwin, and Arjuns friend Bharat at the Bangalore airport. Over the course of the sprint – conversations ensued, areas of passion, alignment emerged (sometimes misalignment too!) and by the time we packed our bags home, we had solid plans to meet/reconnect again, take forward the conversations, and either potentially start working with each other or at the very least, stay in touch to continue our exchange of knowledge and learnings ????
+This blog is dedicated to the 8 people I met for the first time over the course of 1.5 – 2 days (depending on whether we were travelling together). It still blows my mind how we were able to connect at a fairly deep level in such a short span of time. As usual, morning walks, breakfast, lunch and dinner conversations were one of my favourite times to connect with people.
+Nidhi Goyal
+:
+Nidhi was my roommate, so I got extra time with her before we dozed off to sleep every night and got a chance to pick her brain on things ranging from skill development, marketing and branding, culture in big companies vs small, to managing work life balance as a working mom. Her insights were super helpful and it was reassuring and exciting to see the parallels in our respective work areas.
+Sebastian Leidig
+:
+While I didnt get too much time with Seb (and would have liked to, lets connect again!), I loved the clarity he brought in his presentation about Aam Digital. Very crisp, to-the-point, and he showed us a demo, which I feel is always an impactful way to showcase your work, especially in tech. The thing that amazed me the most was that we had 3 competing organisations (Samanvay, Aam Digital and Dhwani) under one roof talking about their work and sharing learnings with each other! While every product has its subtle differences, it was still lovely to see the open and collaborative nature of this consortium. It was also great to learn from Seb his thoughts on how best to learn programming.
+Swapnil Agarwal
+: Swapnils talk about Dhwanis work and his insights on how technology works differently in the social sector in comparison to mainstream, was an inspiration. His vast experience in the sector was evident from the depth of clarity in his talk. Here are some nuggets from his talk that stayed with me at a personal level:
+His experience of doing a 2-month rural immersion program at NIRMA where you do nothing i.e. no reporting of outcomes of any sort
+Getting paid to do projects but they never see the light of the day
+How he feels they are more solution-oriented over product since they cat say no
+How field workers have 5 apps on their phone which do the same thing
+Their work on scraping data from MGNREGA MIS and building APIs for Bharat
+How non-profits are more open to SAAS-based pricing models now
+Arjav Chakravarti
+:
+Arjavs session on culture and values was super interesting for many reasons but the best part for me was pondering about the similarities and differences in how culture works in consortiums like Tech4Dev vs how it works at a standalone organisation. I also loved his moderating style and Im hoping to get some tips from him on the same so I could do a better job at it!
+Vinod Rajasekaran
+:
+Tech4Dev 2.0 has 3 verticals- Platforms, Fractional CXO and WIT. In a span of 3-4 months, Vinod joined as a Fractional CXO, was able to identify a challenge that was a problem not just for the NGO he was working with, but across the sector – and thus conceptualise a platform and even start working on it! His insights on how the data industry is shaping up was a great learning, and Im hoping that when the time is right, we could work together on co-creating a curriculum for WIT in this space as well.
+Kurund Jalmi
+:
+It was great to finally meet Kurund, who Id heard about for a long time as one of the core members of Tech4Dev 1.0, and hear about their origin story. Its always great to listen to a small teams journey on how they all started out and reminds us that we all start small and theres always a long way to go. Dinner conversations on the college education system in India, the joy of learning programming along with Arun, Siddhant, and Seb is something I cherished and will take away with me.
+Ashwin Srinivasan
+:
+Ashwin and us had a lot of synergies right off the bat, and we got a chance to dig deeper into how we could potentially work together as well! Ashwin is also the one who introduced us to our newest partner Mahalakshmi from Ananya, and it was lovely to become a part of this small world of super passionate, amazing human beings who genuinely care and hopefully will also start working together very closely. Very excited to reconnect with Ashwin in Bangalore, introduce him to our team and take things forward!
+Ankit Saxena
+:
+Despite the short amount of time we spent with each other, I was extremely happy to have connected with Ankit, shared my story and the why behind our work. It was immensely reassuring and morale-boosting to have him connect so deeply to the philosophy were working with, as someone who had experienced it himself. Im hoping to stay connected, loop him into our work and do amazing things together! Special thanks to Kurund, Vinod, Ankit and Ashwin for spending that extra 30 mins and listening to me deep-dive into the WIT program (which I learnt in hindsight that I should have done earlier). Your insights and specific suggestions were extremely helpful and will ensure that we make our program better and take it to the next level.
+Overall, it was a privilege to be part of a group where everyone around me was somebody to look up to, and Im taking away a lot of learnings and fun memories back with me.
+Special kudos and gratitude to Erica Arya, Sanchita and the MiceKart team for managing the logistics and making sure everything went by so smoothly. Until next time!
+Visit to the Robbers’ Cave in Dehradun

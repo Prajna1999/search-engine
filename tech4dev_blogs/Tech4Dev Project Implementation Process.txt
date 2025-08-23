@@ -1,0 +1,17 @@
+Title: Tech4Dev Project Implementation Process
+Author: Kurund Jalmi
+Date: March 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-implementation-process/
+==================================================
+
+Here is the process that we typically use for any Tech4Dev project and we are following the same for the Medha STPC project.
+Prepare a scope document based on the project proposal that is submitted by NGO to Tech4Dev and after discussions with the NGO.
+Once the scope is agreed by NGO, we create a detailed project plan document explaining project functionality, timeline, cost, technologies, etc for the implementation.
+Typically a project is divided into multiple milestones to make it easier to track the progress of the project.
+Workflow mockups and UI designs are created and shared with the NGO before any development work.
+Once development starts we schedule weekly status update calls with the NGO. This call will also include a demo of the functionality that is being worked. A meeting document is maintained to capture all the interactions which can be updated by both the parties.
+We will also share the staging server instance once the project is in working condition. NGOs can use this to provide their feedback.
+All the code and the documents related to the project are shared with the NGO right from the beginning of the project. NGO can also track the development of the public Github repo. The documents are stored on a google drive folder which is shared with the NGO (and also open for viewing by the world)
+A final acceptance test is performed by the NGO on the completion of all the milestones. After that, we will deploy the project on NGO?s production server and/or recommend a hosting solution and transition the project to the NGO team.
+Questions, Comments and/or suggestions are welcome.

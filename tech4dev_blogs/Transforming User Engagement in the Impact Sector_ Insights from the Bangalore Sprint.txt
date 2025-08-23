@@ -1,0 +1,114 @@
+Title: Transforming User Engagement in the Impact Sector: Insights from the Bangalore Sprint
+Author: Glific Admin
+Date: August 2024
+Category: Tech4Dev Sprints
+URL: https://projecttech4dev.org/transforming-user-engagement-in-the-impact-sector-insights-from-the-bangalore-sprint/
+==================================================
+
+This blog is written by Fatema Ranpura from
+The Apprentice Project
+A 3 Day Sprint to move from designing User Funnels & Design Interventions to Experimentation Design – A TAP (The Apprentice Project) case study
+Organised by the
+The Agency Fund
+and
+Project Tech4Dev
+, I had the opportunity to attend the User Engagement track of the Bangalore Sprint representing
+The Apprentice Project
+.
+This three-day event comprised two tracks: User Engagement (UE) and Large Language Model (LLM). The UE track explored using technology to make interventions more impactful through data-driven design. We delved into user funnels and metrics, identifying key stages and crafting design interventions based on user behaviors and motivations. The sprint’s goal was to create and orchestrate experiments to enhance these key metrics.
+Participants mainly from India, Kenya, and South Africa representing organizations like
+Rocket Learning
+,
+Avanti Fellows
+,
+Noora Health
+,
+Saajha
+,
+Precision Development (PxD)
+,
+Involve
+,
+Karya, and SameSame
+attended the User Engagement track of this sprint. These organizations are doing impactful work in the social development sectors of
+Edutech, Healthtech, Agritech, and Employment generation.
+Key Highlights
+1. User Funnels & Metrics
+We started Day 1 by discussing the “Theory of Change” and its effectiveness in checking for impact in social intervention designs and program evaluations. However, to promote Evidence-based Funding, a scientific and user-centric way of measuring impact in the development sector would be to use User Funnels. A User Funnel maps out the user’s stages in the program, identifying ideal behaviors and metrics at each stage.
+TAP Case study
+The Apprentice Project (TAP) is a Not for Profit that delivers learning content to enhance 21st century skills through an AI enabled Whatsapp bot to marginalized children in India. It is currently catering to 34000+ children from grades 4 through 12 to ~ 250 schools.
+We began by creating a User Funnel for TAP, based on pre-work completed before the sprint.
+The key stages of this funnel
+Onboarding:
+Students are inducted into the TAP program by school teachers through a presentation on a WhatsApp group. Students register on the WhatsApp Bot – TAP Buddy to start learning Social and Emotional Learning skills.
+Activation:
+Once registered, students click on the link to open the first TAP video on the TAP Buddy WhatsApp bot and continue engaging with the learning content.
+Engagement:
+Students watch videos, submit activities, answer quiz questions, and receive digital reward points to encourage continued participation.
+Retention:
+Students must submit at least one of four activities monthly to remain engaged with the bot.
+Feedback
+Received interesting feedback on some of the nuances which could be captured in the funnel
+Focus on different users like Teachers, and creating separate funnels for Teachers and Students to focus on their individual metrics.
+TAP would have to define levels of engagement to be able to capture the depth of learning. Is watching a video, submitting an assignment, answering a quiz question leading to similar levels or depths of learning
+To be able to create evidence based impact, TAP needs to figure out a way to connect the proximal outcomes to the developmental outcomes. eg: increase in engagement results in increase in SEL skills results in getting better jobs.
+Reflections from Day 1
+from other organization presentations and group discussions
+There is scope of consolidating broader metrics across the social sector for benchmarking purposes to evaluate and validate our efforts eg: what are the activation metrics in edutech across social products What is the impact which a leaderboard has created
+Avanti Fellows
+– Watch time metric may not reflect accurate engagement, as students love skipping videos to get the right answers on the quiz PLIO.
+Rocket Learning
+– Involvement with parents and measuring parents activity as a metric can push students’ involvement.
+2. User Experience & Intervention Design
+Day 2 was all about focusing on one particular stage in the funnel, to enhance the ideal user behavior which is highly impactful
+This was a 4 step process
+Source: Jamie Walsh, The Agency Fund
+1. Funnel Assessment
+For TAP I decided to focus on
+Churn
+as an important metric that needs to decrease to influence the Retention stage of the Funnel. Currently, churn is defined as
+the number of students who do not submit even once in 4 weeks.
+2. Action Mapping
+The User behavior is elaborated here,
+Student should make atleast one submission in a period of four weeks, measured on a monthly basis
+3. Driver Evaluation
+Listed down all the possible drivers and blockers impacting this behavior. This was based on a recent user research we had just completed at TAP. Plotted these motivators and demotivators from surface to deep axis to get a clear picture
+4. Idea Generation
+Brainstormed design interventions which could boost the drive and counter the blocks around submitting assignments continuously for students accessing TAP.
+We also explored a 4 step process to prioritise and pilot the ideas quickly to check feasibility of those design interventions
+1. Prioritization:
+Prioritized all the design interventions on the axis of impact vs feasibility
+2. Planning:
+Based on this prioritization, picked out the most impactful, yet feasible ideas to elaborate onElaborated the selected ideas as per
+Theory of Change
+The interventions I chose to take ahead were
+Messaging It’s ok to fail – We know through User Research that, sometimes students find it difficult to understand the curriculum and find it tough, and they expressed fear of failing with the submissions. Create an empathetic tone to encourage submissions.
+Commitment – Take commitment from students/parents about dedicating a certain amount of time on TAP Buddy so that they are able to engage. We heard from User Research, as lack of time can be a factor, due to the marginalised children supporting parents in their shops, businesses (eg: making flower garlands) or household chores.
+Motivating Video – Sending a motivational video reinforcing the value of TAP in their lives, TAP will help them fulfill their dreams. Students expressed in the User Research, aspiration to come out of their current economic conditions by becoming something, and positioning TAP as a way to fulfilling that dream.
+Feedback – Students sometimes drop out as they find the curriculum tough, hence constantly taking feedback on the WA bot and end it back to the curriculum team to formulate learning strategies around it.
+3. Prototype
+Prototyped a few ideas, as I was prototyping I realized I could combine a few ideas into single design interventions. Example combine motivational video with taking commitment and messaging of it’s ok to fail with feedback on curriculum. Paper prototype was created to mimic the conversational flow of the WA bot
+4. Pilot
+While piloting the ideas in the group (other participants role played the users persona of students, and I showcased the prototype to them)
+I learnt
+Future commitment would be too stringent to take
+We need to give flexibility to the user to make the commitment
+It will be difficult to get reactions on commitment
+Reflections from Day 2
+from other organization presentations and group discussions
+An open source experiment registry listing down all the ideas already tried out by organizations in the social sector would be great to learn from
+However would organizations be open to share data, what would be the concerns privacy opportunity cost resources
+What would be the motivators to contribute to this registry maybe directly or indirectly linked to potential funding a.k.a RCTs or credibility
+Also who would be the potential consumers for something like this
+3. Experiment Design, Execution & Analysis
+We started this day by deep diving into A/B testing frameworks. We also looked at a real world example from PxD, to learn from experimental design and the impact it could create.
+Setting up the experiment included
+Target Metric: Define the metric in detail, including measurement value, frequency, and the exact action to be measured.
+Target Audience: Define the attributes of the target audience, such as grades, courses selected, schools, and the expected decrease in churn.
+Defining the Intervention: Describe the exact design intervention introduced in the bot and the stage where it will happen.
+Piloting the Intervention: Show the prototype to a small slice of the target audience to incorporate feedback before developing it further.
+Experimental Design: Define the final audience and hypothesis of the experiment, including the number of students involved and the expected outcome..
+Reflections on Day 3
+Collaboration with other organizations in the social sector offers valuable learning opportunities. There is much to do at TAP! Notable experiments shared by Rocket Learning and Saajha can provide further insights for TAP.Conclusion
+Conclusion
+The event provided valuable insights and actionable takeaways that can significantly benefit TAP. By focusing on user-centric development, strategic use of technology, and fostering collaboration, TAP can drive better outcomes and continue to innovate in the development sector. Reflecting on these insights and applying them strategically will help TAP achieve its goals and make a lasting impact.

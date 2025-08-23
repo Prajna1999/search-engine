@@ -1,0 +1,361 @@
+Title: Tech4Dev 2.0 Project Report #8 – Apr 2024
+Author: Donald Lobo
+Date: April 2024
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-2-0-project-report-8-apr-2024/
+==================================================
+
+Vision
+: A world with a
+robust technology ecosystem powering
+the social sector
+Mission
+: Build and support the ecosystem of
+software, data, design companies, nonprofit partners, and foundations
+working towards creating
+social impact globally
+2024 – Q1 Summary and Highlights
+Writing this report from the mountains in California again, getting in a few more days of skiing before the end of the season. This quarter has included a lot of travel and my body feels on permanent jet lag. We had sprints happening in Goa (January), Naivasha – Kenya (February), and Bangalore (March) and unconferences in Nairobi and Bangalore. Our main focus on building the ecosystem is falling into place quite nicely with multiple partners from across the globe involved.
+The first quarter continued our momentum from 2023. We refined the
+Data Catalyst Program
+with
+Dasra
+and Goalkeep building on our learnings with the first session. This resulted in a better experience for both the NGOs and the collaborative. The feedback from the participants was very encouraging and plans are afoot to run the next cohort in a few months.
+Sprints and Unconferences
+The sprint in Goa was our largest ever with approx 80+ participants over 9 days. This included the teams from Avni, Dalgo, Glific, and Fractional CxO. Glific had its largest-ever sprint with 15+ NGOs attending a packed 3-day schedule. In the spirit of community, we had a few
+senior sprint veterans
+from NGOs run many of the Glific sessions. These sprints are core to the mission and important to the community, but they are resource-intensive and tiring for the group. We will need to balance the larger sprints with a combination of smaller sprints and team gatherings only. More details in our blogs are here:
+Community connections: The Apprentice Project’s experience of Glific sprint
+A look back at Glific sprint in Goa, Jan 2024
+We followed up the Goa sprint with another sprint and unconference in Kenya with our partners The Agency Fund with a very different format and our first foray into the global south. The Naivasha sprint was a 3-day event with a combination of Agency Fund grantees across Africa and India. Reminded me a lot of our first sprint in Tehri, where the main focus was bringing the community together and a fair amount of peer learning. It was very inspiring to see the work being done across the globe, the common problems that we are solving in our regions, and the power of open source and collaboration. The Nairobi unconference was an amazing trust-based collaborative that we managed to pull off in less than 4 weeks. We had around 100 folks from the Kenyan NGO and CBO ecosystem and realised how
+similar the cultures and systems
+are between Kenya and India (thanks to the colonial legacy bestowed on us).  More details from our team here.
+Beyond Data, Beyond Borders- The Kenya UnConference
+Sprinting Through Kenya: Collaboration, Learning, and Wildlife wonders
+Kenya was followed by Dasra Philanthropy Week in India where we participated in events in Ahmedabad and Mumbai. Interacted and learned in detail about the work done by the grassroots NGOs from the Empowerment Foundation Cohort. We had similar conversations later that week with NGOs that have a similar profile from Dasra’s Rebuild Cohort. Our current offerings and expertise are not a great match for the majority of these NGOs, but we do need to think about how we might be able to help them out going forward. At the other end of the spectrum, we also had quite in-depth conversations with larger NGOs where we are playing a more active and influential role. Did meet with a lot of folks whom I admire including Vanessa from SNEHA Mumbai, Safeena and Maharishi from Educate Girls, Gagan from Center for
+Social Justice, Vishal and Sucheta from Dream a Dream, and others.
+Marketing, New hires and NGO Satisfaction.
+Our marketing team has been working hard over the past year. We recently unveiled a new logo and have been
+very active on LinkedIn
+which has helped us with outreach from both a sales and a hiring perspective. We get a steady stream of great engineering talent looking to switch to the social sector. If you are not following us on LinkedIn, do so
+here
+.
+We also have a few new folks who joined our team: Gautam Prakash – Glific BizDev, Jerome White – AI/ML Lead, Anandu Pavanan, Akansha Sakhre – Glific Developers, Devi – fractional CxO, and Diana Gomes – Talent Management.
+We got the results from a customer survey across all of Tech4Dev Platforms from
+60 Decibels
+. The results are quite interesting and give an overview of the impact of Tech4Dev. Across all our initiatives we got an NPS (Net Promoter Score) rating of 50, which is good, but we can and will do better. Many NGOs also feel that there are not too many affordable alternatives in this space, and Tech4Dev fills in that gap. However, the raw data is even more interesting since it allows us to dive into each of our platforms and initiatives and get insights into the products. Overall, we are offering a good service to NGOs with 74% of them reporting that their business has improved due to our platforms. Surprisingly, 50% of NGOs report they are using a service like Tech4Dev for the first time. You can see the report and data
+here
+.
+Platforms and more
+Our main platforms: Glific, Avni, and Dalgo are now all certified Digital Public Goods. We do want to build both user and partner communities around these platforms to ensure they are sustainable in the long run. We added a few new features in our platforms that we are proud of that we feel need to be mentioned in this report, they include
+UI for Transformations
+– Adding a no-code transformation layer to empower NGOs
+WhatsApp Group Automation
+– Personal Groups in WhatsApp + Glific – a match made in heaven
+Auto Translate via LLMs
+– Conversations in multiple languages? No problem, we can auto-translate!
+Our fractional CxO program has now worked with 17 orgs since its inception. Our learnings over the past 18 months are nudging us in towards:
+“When you partner with us, you partner with a team”
+mentality and not one senior person to bring in expertise across multiple areas to the engagement. We are currently experimenting with the team model and plan to incorporate it across all engagements when successful.
+As we expand our scope and goals, there are a few
+key
+positions where we want
+your help to connect us
+with the right folks. Most of our team has come in through our internal networks, so please keep those
+referrals coming
+(Vinod promises unlimited filter coffee as a referral bonus)
+Head AI/LLM Engineer
+– Someone to help pave the way for the whole new world we are exploring
+Senior Engineering Director
+– To meet the demand for fCxO especially those with strong engineering chops
+Senior Data Scientist
+– It is time for us to venture into the data science and engineering game
+Head Business Development and Sales
+– We need to dedicate resources to grow the business both in India and the Global South
+In other news, our CEO Erica Arya was selected to be in the Okta Fellowship Cohort. We also received an emergency grant from Rati Forbes, Azim Premji Foundation, and Persistent Foundation for our Indian Entity. This money was needed to demonstrate a growth trajectory from a funding and distribution lens for the Indian entity. We feel that this will help us when we apply for our FCRA license. Grateful to these folks for helping us out when needed. We also had a meeting with Nandan Nilekani, a current funder, in a rapid-fire question-and-answer session, it was a fun experience, and we hope to get time on his calendar every year 🙂
+Top-of-the-mind things that we kicked off this quarter include a CTO gathering in Bangalore on Apr 5, a writeup on this will come in our next report. We’ve also kickstarted the Tech4Dev 3.0 planning and strategy document which we will also share next quarter.
+Misses
+We’ve been doing fairly well from a fundraising perspective. However this quarter, we had two foundations who we’ve worked with closely over the past few months with our Fractional CxO vertical let us know that they will not be funding us. This is a bit disappointing primarily since they know us AND we demonstrated the value of what we do and how we do it. Sad that funders who see our work in action, are not convinced that funding the ecosystem at a broader level is a good investment.
+Our newest platform on the block, Dalgo is going through its awkward early years. We have the basics of what’s needed out there for NGOs to use, however trying to figure out what to build next and why is proving to be a bit of a challenge. This will improve as we get more NGOs onboarded and they come in with their specific requests, but in the meantime, we’ve been floundering a wee bit. Erica and Lobo have stepped in to help bring focus and clarity to the team.
+As our internal team has taken over the financial aspects of running Glific as a business, we’ve realised that collecting payments due from NGOs is a challenge. We recently made a concerted effort to collect all outstanding payments but will need to change our process so this does not become a chore. The goal is to automate the process by using an existing billing platform across all our platforms and services. This was on hold due to some regulatory changes made by the Indian regulatory agencies.
+The team feels we can do better at our fCxO delivery to match our expectations. We’ve gotten pretty good reviews from our NGO partners, but we know we can do a lot better than what we are currently doing. Our NPS scores for the fCxO program have been 60+.
+This year we will focus on improving our sustainability percentage for our platforms and fCxO initiatives. Last year this percentage decreased to 35% overall due to increased staffing. Our goal is to increase it to 45% this year. Balancing our pricing, staffing, and salary is not going to be easy.
+Our fCxO pipeline continues to remain very strong and demand exceeds supply there. The other platforms: Avni, Glific, and Dalgo continue to see variable demand. We seem to be getting a better handle on this with Glific and will plan on implementing some of the things (webinars, boot camps, sprints, constant outreach) that worked for Glific in our other platforms.
+Ensuring that we have a great culture and a super happy workforce is very important to us. In a recent survey, we recorded good ratings from most of the team. Our goal will be to get most of those ratings to be great (i.e. from satisfied to very satisfied) in the next feedback cycle.
+We recently did our annual review cycle (we plan on doing this semi-annually) and this was a bit bumpy. We need to figure out how to normalise it across the entire team and ensure that folks have a clear idea of their goals and expectations and what the ratings and feedback mean.
+Financials
+Tech4Dev 2.0 – Summary of the Inflow & outflow
+(USD’000)
+2023-24
+RECEIPTS
+“Budget
+(Full year)”
+“Actual
+(YTD)”
+Q1 Act.
+Jun 23
+Q2 Act
+Sep 23
+Q3 Act.
+Dec 23
+Q4 Act.
+March 24
+% Actual to Est.
+B/f Donor bal
+$3,072
+$2,920
+$2,920
+$3,265
+$3,815
+$4,471
+95%
+Grant
+$2,500
+$2,522
+$556
+$808
+$949
+$209
+101%
+Earned Revenue
+$500
+$395
+$0
+$96
+$68
+$232
+79%
+Total
+$6,072
+$5,837
+$3,476
+$4,169
+$4,832
+$4,912
+96%
+EXPENDITURE
+“Budget
+(Full year)”
+“Actual
+(YTD)”
+Q1 Act.
+Jun 23
+Q2 Act
+Sep 23
+Q3 Act.
+Dec 23
+Q4 Act.
+March 24
+% Actual to Est.
+Sub-Granting to NGOs
+$0
+$0
+$0
+$0
+0.00
+0.00
+0%
+Program Salaries
+$941
+$820
+$131
+$218
+$197
+$275
+87%
+Program Cost
+$1,529
+$532
+$44
+$91
+$128
+$269
+35%
+Legal/Admin
+$300
+$136
+$34
+$34
+$34
+$34
+45%
+Capital Expenditure
+$70
+$20
+$2
+$10
+$2
+$6
+28%
+Total
+$2,840
+$1,508
+$211
+$354
+$361
+$585
+53%
+C/f Donor bal
+$3,232
+$4,328
+$3,265
+$3,815
+$4,471
+$4,328
+Tech4Dev 2.0 – Summary of the Inflow & outflow
+(in INR Crore)
+2023-24
+RECEIPTS
+“Budget
+(Full year)”
+“Actual
+(YTD)”
+Q1 Act.
+Jun 23
+Q2 Act
+Sep 23
+Q3 Act.
+Dec 23
+Q4 Act.
+March 24
+% Actual to Est.
+B/f Donor bal
+24.58
+23.36
+23.36
+26.12
+30.52
+35.77
+95%
+Grant
+20.00
+20.18
+4.45
+6.47
+7.59
+1.67
+101%
+Earned Revenue
+4.00
+3.16
+0.00
+0.77
+0.54
+1.86
+79%
+Total
+48.58
+46.70
+27.80
+33.35
+38.65
+39.30
+96%
+EXPENDITURE
+“Budget
+(Full year)”
+“Actual
+(YTD)”
+Q1 Act.
+Jun 23
+Q2 Act
+Sep 23
+Q3 Act.
+Dec 23
+Q4 Act.
+March 24
+% Actual to Est.
+Sub-Granting to NGOs
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0%
+Program Salaries
+7.53
+6.56
+1.05
+1.74
+1.58
+2.20
+87%
+Program Cost
+12.23
+4.26
+0.35
+0.73
+1.02
+2.15
+35%
+Legal/Admin
+2.40
+1.09
+0.27
+0.27
+0.27
+0.27
+45%
+Capital Expenditure
+0.56
+0.16
+0.02
+0.08
+0.02
+0.05
+28%
+Total
+22.72
+12.06
+1.69
+2.83
+2.89
+4.68
+53%
+C/f Donor bal
+25.86
+34.62
+26.12
+30.52
+35.77
+34.62
+Want More
+Details?
+Find more information on Project Tech4Dev in our
+Tech4Dev 2.0 Note
+and
+Tech4Dev 2.0 Pitch Deck
+. All our blog posts can be found on
+Project Tech4Dev’s
+and
+Glific’s
+websites. All project documentation can be found in our
+shared Google Drive folder
+.
+Highlighting some of our blog posts from last quarter:
+Fueling Success: Antarang’s Data Breakthrough with Goalkeep and Dalgo
+Empowering Vision Care: Project Chashma’s Transformation with Avni Platform
+Glific: New interface changes
+The importance of mother language in the Indian development sector
+Growth with Glific sprints
+And links to our existing work and archives
+Tech4Dev 2.0 Note
+Tech4Dev 2.0 Pitch Deck
+Glific Website
+,
+Glific One Pager
+,
+Glific Year in Review
+Avni Website
+,
+Avni 2 Pager
+Dalgo Website
+,
+Dalgo’s Presentation
+Tech4Dev 2.0 Project Reports
+Reach out to us via
+email
+or find more information on our
+website
+.

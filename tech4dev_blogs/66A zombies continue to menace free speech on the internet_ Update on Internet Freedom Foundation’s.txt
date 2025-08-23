@@ -1,0 +1,56 @@
+Title: 66A zombies continue to menace free speech on the internet: Update on Internet Freedom Foundation’s 66A Zombie Tracker Project
+Author: Kurund Jalmi
+Date: April 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/66a-zombies-continue-to-menace-free-speech-on-the-internet-update-on-internet-freedom-foundations-66a-zombie-tracker-project/
+==================================================
+
+Tl;dr
+Last week a flurry of complaints were filed against news anchor Arnab Goswami for, amongst other things, ?inciting communal hatred? under various provisions of the IPC and also included, was a charge under the now defunct  Section 66A of the Information Technology Act, 2000 (IT Act). S. 66A  of the IT act has been struck down, by the Supreme Court, as unconstitutional in 2015. However, despite
+repeated directions
+by the SC, that all pending cases under S. 66A be closed and also that no fresh charges may be registered, the provision continues to be invoked across the country.
+#IndiaVSSection66A
+Last week,
+at least 16 complaints were made
+at various police stations all over India, against news anchor Arnab Goswami. The complaints were filed in respect of comments made on his news show,  on 21st April 2020, for, amongst other things, ?inciting communal hatred?. On the basis of these complaints,
+FIRs were filed under multiple provisions
+against Arnab Goswami in Maharashtra, Chhattisgarh, Madhya Pradesh, Rajasthan, Telangana and Jammu & Kashmir. The complaints  mention offences under Sections 117, 120B, 153, 153A, 153B, 295A, 298, 500, 504, 505, 506 etc of the Indian Penal Code and Section 66A of the Information Technology Act, 2000(IT Act) .
+S. 66A of the IT act, introduced by amendment in 2008, penalized sending “offensive messages” via online communication. The wide powers of the section were frequently used to stifle political dissent. For example, in May 2014,
+five students were temporarily detained in Bangalore for allegedly sharing a message on the mobile application ?WhatsApp? that was critical of newly elected Prime Minister Narendra Modi
+.  To combat this a case was filed before the Supreme Court seeking a declaration that Section 66A of the IT Act, 2000 was unconstitutional.
+In March 2015, S.66A was declared unconstitutional by the Hon?ble Supreme Court in
+Shreya Singhal v. Union Of India
+as it violated the right to freedom of expression guaranteed under Article 19(1)(a) of the Constitution of India. The Court found that S. 66A was vague and could be arbitrarily interpreted to penalise even innocent speech. Significantly, the Court found that the provision was not ?severable? i.e., no part of the section could be saved and the provision as a whole was declared unconstitutional. This would have meant that the provision was void ab initio i.e was deemed to never have existed on the statute books. The effect of this would be that all pending cases would be dismissed and no fresh cases would be instituted under S. 66A.
+#UnconstitutionalProsecutionsExposed
+In light of the provision being declared unconstitutional, the story should have ended there. However, a 2018 study, ?
+Section 66A and Other Legal Zombies
+?, highlighted the continued use of S. 66A, including cases registered after the Shreya Singhal decision.
+Taking note of the above-mentioned study, People’s Union for Civil Liberties (?PUCL?), one of the original petitioners in the Shreya Singhal Case approached the court in January, 2019 highlighting the study and applying for directions to ensure implementation of the Court’s decision. Prior to the hearing, in a
+counter-affidavit,
+the Union of India detailed steps it had taken to generate awareness on S. 66A. This included a letter the Government wrote on 11th January, 2019 and then a reminder on 14th January, 2019 to various state governments asking them to furnish data on S. 66A cases and also asking them to close them. Some states responded. For instance,
+Kerala stated that there were 19 cases that were filed after S. 66A was held to be unconstitutional
+and they would be closing all of them. The Court by judgement dated February 15, 2019,
+not only directed that all pending cases under S. 66A be closed but also that no fresh charges may be registered
+. The SC further directed that  the Shreya Singhal judgement be sent to all courts in the country, to senior administrative officers and director generals of police.
+Inspite of the above, fresh claims were still instituted, as recently as last week, under the now unconstitutional provision. In January 2020, the
+Karnataka High Court imposed a cost of Rs 10,000 each on two police officers for registering an FIR under Section 66 A of the Information Technology Act
+. As recent as February 2020,
+a guest lecturer at a college in Assam, was charged under S.66A of the IT Act
+, arrested and later sent to judicial custody for posting derogatory remarks against the BJP, the RSS, Prime Minister Narendra Modi and ?Sanatan dharma?. In March 2020,
+the Patna High Court granted bail to two petitioners accused of offences, amongst others, under S.66A of the IT Act
+. They had been in custody for 6 months. These instances highlight the continued invocation of S. 66A, 5 years after it was declared unconstitutional, despite further directions by the Supreme Court in 2019. This points to a systematic failure by the judiciary and law enforcement system.
+#IFFBatsForDigitalRights
+This is not about Arnab Goswami, but about the use of an unconstitutional provision of law. Even today people, ordinary smartphone users all across India are being prosecuted across the breadth of India. A casual search through the
+IndianKanoon database
+(like Pintoo Kumar) shows cases of FIRs being actively prosecuted as recently as March, 2020. This is more than 5 years after a Supreme Court judgement and is a stain on our criminal justice system.
+Internet Freedom Foundation (IFF) is committed to erasing Section 66A from every FIR and criminal case all across India, irrespective of the person who is being prosecuted. The journey of S. 66A highlights the importance and challenges of monitoring and ensuring compliance with the final decisions of the Supreme Court. To meet this challenge we have come up with a data driven, evidence based solution in partnership with
+CivicData Labs
+. We will be working in partnership with CDL to build a tool to track cases under S. 66A at the district level between 1st January 2008 till 15th February 2020. We intend to analyse the data to identify and highlight the gaps in the system, put forth recommendations and advocate for a stronger, more accountable and transparent system. S. 66A must die a complete constitutional death.
+(This post has been authored by Sonalakshi Naidu, a legal intern at IFF, and reviewed by IFF staffer, Anushka Jain)
+Important Documents
+Section 66A and Other Legal Zombies by Abhinav Sekhri and Apar Gupta (
+link
+)
+Section 66A bites ?zombie? dust. SC issues fresh directions. #RightToMeme #Section66A (
+link
+)

@@ -1,0 +1,26 @@
+Title: Another India Trip – Another Recap post …
+Author: Donald Lobo
+Date: March 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/another-india-trip-another-recap-post/
+==================================================
+
+Headed home to San Francisco after another energizing and inspirational trip to India and the week revolved around the
+Dasra Philanthropy Week
+(DPW) and a Project Tech4Dev mini-team meeting. I also met quite a few NGOs both virtually and in person.
+This trip was a combination of so many different things, that Ill go back to my favorite list format of highlighting the highlights and misses
+Building a team in India was probably the best decision
+Project Tech4Dev
+made. Its been a year since we hired Erica Arya, and now we are an amazing 14-member team.
+A few of Tech4Dev team members at the after event dinner
+As a close second, our collaboration with Dasra has been really helpful, primarily since we get significant assistance from them in areas where we just dont have the skills or expertise. As with any relationship, we have a few struggles, but having good communication helps. Our engagement with DPW at multiple levels was a direct result of the collaboration and I do think it helps both organizations grow and build on each other’s strengths
+Learned a lot from conversations with the small NGOs that are part of
+Dasra’s Rebuild
+portfolio. The diversity of the folks involved there and the passion in which they describe their work gives us clarity on where we fit in the ecosystem and how we might be helpful to some of them. It was amazing to see translators present to do live translations of the various talks so folks could understand and participate. First time seeing this at any event in India, and glad that it was done for the event. Really increases the bar for all of us.
+The team had a few in-depth conversations with our ecosystem partners and colleagues: Swapneel @ GoalKeep, Shobit @ DhwaniRIS, Santosh @ DataOGram, Gopi @ Dhwani Foundation, Sneha @ Atma Education and Shivangi @ Goonj. The best thing about the space is that everyone is very open and collaboration with folks is a lot easier in the sector. Many of us are facing similar problems and hopefully as a group we can come up with solutions that will improve our effectiveness.
+Specifically thinking on how we can help NGOs make better tech decisions when they work with a software company. We do a good job with the NGOs we work closely with, but there are lots of NGOs that need help, and many-a-times they are not aware of the broader ecosystem that they can rely on. We need to figure out how to reach more NGOs effectively. We also need to improve communications between NGOs and partners, and avoid some common mistakes and pitfalls. Funding tech is a big challenge for most NGOs, especially when they separate tech from program. Lots of things to figure out and improve.
+Spoke to a few folks from the funder ecosystem. Seems like we are getting a lot more traction and buy-in from them especially with keeping things open and sharing, and designing and deploying common solutions across the sector. I suspect we will work with a few of them later this year.
+Had some good meetings with our existing funders with Erica. Its really cool to see how much we’ve grown and expanded over the past year with the work we are doing with NGOs across all our initiatives. Murugan summarizes this quite nicely in his
+LinkedIn post.
+I’m always so energized after my India trips. Super proud of the team we’ve built. Really helps to have an experienced set of technology folks on the team, since all of them are basically running their own projects with very little involvement from us. I do think this model will help us grow and serve a larger number of NGOs effectively.
+Looking forward to see how this unfolds over the next few years

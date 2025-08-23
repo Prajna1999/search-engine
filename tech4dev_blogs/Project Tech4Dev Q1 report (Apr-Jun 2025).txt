@@ -1,0 +1,250 @@
+Title: Project Tech4Dev Q1 report (Apr-Jun 2025)
+Author: Deepak Nanda
+Date: July 2025
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/project-tech4dev-q1-report-apr-jun-2025/
+==================================================
+
+From CEO’s Desk
+Our Vision:
+A world with a robust technology ecosystem powering the social sector
+Our Mission:
+Build and support the ecosystem of software, data, design companies, nonprofit partners, and foundations working towards creating social impact globally
+Project Tech4Dev Team – 2025
+Looking Back, Moving Forward
+As I look back on the past quarter, one word sums it up for me –
+growth
+. Both professionally and personally, it’s been a meaningful few months. We added 11 new members to the team, taking the team strength to 45, phew! Quite a milestone for a small but fast-growing organisation like ours. Having joined as the first team member back in April 2022, watching Tech4Dev evolve feels a bit like seeing a child grow –  once a baby, now a confident toddler beginning to walk independently:)
+There’s a quiet confidence in how our platforms are gaining traction. The trust from our partners, the experience we have built, and the strength of our team are giving us the courage to take bold steps. Highlight for me last quarter has been the new ecosystem partnerships we have formed, each one bringing in fresh perspectives and possibilities.
+On the personal front, I had the joy of visiting the US in May to attend my daughter’s graduation, a proud moment, as she’s the first in her generation within the family to earn a degree. And as I write this, she’s just begun her first job, now truly independent, and it’s a huge moment for us as a family. This quarter has also been a reflective one for me. Leading a rapidly evolving team has taught me that emotions at work aren’t a weakness. A close acquaintance reminded me that emotions, when acknowledged and channeled well, can be a strength and that’s the thought I’m carrying with me into the second half of the year, with renewed energy.
+Highlights:
+Q1 has been full of energy, collaboration, and learning, and it’s heartening to see Tech4Dev’s work gaining momentum across so many fronts.
+Building Culture, One Sprint at a Time
+One of our favourite moments this quarter was the week-long team sprint in Khopoli, a time to connect, collaborate, and reflect. Akansha from the Glific team built a chatbot specifically for the sprint to keep us all updated on the sprint activities. For the first time, many of us experienced Glific as users ourselves. She captures her experience beautifully in this blog –
+Dogfooding Glific
+.
+The sprint also gave us the space to collectively reflect on our culture. A powerful workshop on workplace biases, facilitated by Team Sama sparked deep conversations and has led to the drafting of a Mutual Respect Charter (expected to be out in July) – a shared guide to how we show up in both physical and virtual spaces.  Our bi-annual Employee Happiness Survey showed that 88% of the team feels supported and appreciated, with collaboration and ownership emerging as key strengths. It also highlighted areas for improvement, like new joinee onboarding, clarity in planning, and work-life balance, which we are actively working to address.
+Platform Updates
+Glific onboarded 23 new NGOs this quarter, with 17 joining through its flagship
+Glific Accelerator program
+. This two-day in-person event enabled NGOs to build and launch a working chatbot with hands-on support from the Glific team. Reflections from the accelerator captured by our Biz Dev lead, Sneha Trivedi, in this
+blog
+.
+Dalgo is undergoing a strategic revamp, moving beyond just building pipelines and dashboards to a more consultative approach, helping NGOs holistically understand, track, and monitor their program data. A recent
+blog post
+shares more on the thinking behind this shift. The platform is going through a major redesign using the AI-powered design tool V0 to make it more intuitive and accessible to users. To increase awareness of the platform, a refreshed pitch deck and an introductory Dalgo video are also in the works.
+Avni saw positive outcomes from increased marketing, with 4 new NGOs onboarded and more nearing conversion. The team launched in-person and online knowledge-sharing workshops across cities and networks. These sessions are helping the Avni team build visibility as subject matter experts, deepen NGO relationships, and generate new leads.
+The
+Sashakt Assessment Platform
+(designed in collaboration with Veddis Foundation and Avanti Fellows), has completed development and has been deployed for field testing in mid-July.
+Preparations for two major cohort programs took shape this quarter – the third cohort of the Data Catalyst Program brings 13 NGOs together this July. The program this time welcomes new ecosystem partners – 4th Wheel and 10X Impact Labs, joining hands with GoalKeep, Dasra and us in running the program. The second cohort program is a pilot – AI cohort, designed to offer hands-on support to 8 NGOs in building impactful AI solutions while also engaging with important themes such as data security and ethical use. The program kicks off in July. Details of the program are shared
+here
+.
+Fractional CxO Service and Grassroots Initiative
+The fractional CxO (fCxO) model continues to gain traction. The fractional tech team model has proven to be effective in driving experimentation and deeper engagement. We have doubled the fractional tech capacity and are considering adding one more person next quarter to further scale and accelerate our work.
+The grassroots initiative kicked off in Chennai with four grassroots NGOs. This pilot, run in partnership with Dasra’s Rebuild Fund and People4Good, is helping us understand the specific tech and data challenges that grassroots NGOs face and thereafter propose low-touch solutions and integrate relevant tools into their operations. Some learnings and experiences are documented in this
+blog
+. Our goal is to expand this program to other parts of Tamil Nadu and more geographies by year-end.
+Misses:
+While we made good progress across many fronts, we faced a few challenges also:
+Recent changes in Meta’s messaging policies have led to increased messaging costs and a significant drop (30–60%) in delivery rates of messages across all partner NGOs on Glific. We are in talks with other chatbot providers to raise this concern with Meta but progress is expected to be slow and uncertain.
+Glific sales team fell short of the Glific accelerator target by almost 50%. The team will review the performance to improve conversion in the next cycle.
+Dalgo did not onboard any new partners in the quarter, against a goal of three. The team is re-examining its outreach strategies to strengthen engagement.
+Avni fell short of its target to reach 50% sustainability this quarter. Fundraising efforts to support the platform’s growth are yet to begin and will require focused attention. Additionally, one of the four co-founders of Avni, who was leading engineering, moved on for financial reasons. This has led to a redistribution of responsibilities among the remaining co-founders, which will impact the momentum seen this quarter. The team will need to assess how best to manage this transition and maintain the momentum.
+Fractional CXOs have been very busy this quarter due to high demand and limited bandwidth. While new team members have begun contributing, we anticipate further capacity-building next quarter to better serve partner NGOs. In few partner engagements, we chose to take a harder look at the impact and long-term alignment rather than continue with short-term fixes.
+The AI Platform bid adieu to our long time consultant Jerome White who took a research position at the World Bank. Jerome was instrumental in creating our AI roadmap. We also parted ways with our AI lead engineer due to differences in our goals and how to achieve them.
+Finalizing the structure of our finance team is taking longer than expected. It’s important to close this soon to bring clarity and stability to the team, ensure smoother day-to-day operations, and strengthen our financial planning and compliance as we continue to grow.
+What’s Next…
+As we look ahead, we are excited to share that our
+Tech4Dev 3.0 strategy
+for 2026–2029 is now ready. The strategy is built on six years of working with 200+ NGOs across India and Africa. It focuses on scaling our existing platforms, developing new platforms, deploying fractional tech and product teams, supporting grassroots NGOs and strengthening the ecosystem. Through
+Tech4Dev Global
+, we plan to expand our mission beyond the Global South by engaging skilled professionals from around the world who are eager to contribute to social impact. We are also partnering with The Agency Fund to drive
+AI for human development
+, and with Dasra to strengthen tech and data capacity across NGOs, governments, and community-based organizations.
+Case Study
+Tech4Dev’s AI Platform – Strategy, Status and Roadmap
+As the demand for AI capabilities across the platforms we built continued to grow, we recognized the need for a
+centralized AI platform
+. Rather than duplicating efforts to embed AI separately into each platform, our strategy is to build a unified, modular AI layer that can be integrated across various tools and products in the ecosystem. The AI platform is being developed using learnings from our work with Glific and Dalgo at the AI for Global Development Sprint.
+The
+platform
+is being built as a
+plug-and-play integration layer
+that leverages open-source components and SDKs, including
+OpenAI, LiteLLM, and Langfuse
+. This design allows us to expose AI functionality to our internal product teams, offers sector-specific co-pilots, input classification, document handling, response evaluation—all built with responsible AI practices and positions us to eventually extend these tools to the broader NGO ecosystem in a scalable and efficient manner.
+Dalgo has already been successfully migrated
+to the AI Platform, and Glific will be migrated in the next couple of months.
+Example – Leveraging AI at Tech4Dev
+Kunji
+is an AI-enabled chatbot designed to strengthen governance by making information accessible, inclusive, and actionable for government officials. It addresses key challenges like inefficient information retrieval, language barriers, and lack of real-time support. Kunji offers instant, contextual answers, supports voice-to-text, and allows users to access or upload documents. With role-based access and a dashboard for insights, it helps identify training needs and builds capacity across the system. Co-created and rigorously tested within the government ecosystem, Kunji has served over 1,200 users and answered 4,000+ queries, establishing itself as a powerful tool.
+Kunji bot – features and demo user screen(middle screen)
+Cohorts – A Catalyst for Ecosystem Building
+We believe that open-source, community-driven development is the most effective way to build technology for the social sector. By designing digital public goods (DPGs) in collaboration with NGOs, we’ve created platforms like Glific, Avni, and Dalgo that are adaptable, reusable, and shaped by real-world needs. Cohort-based programs foster trust, shared learning, and collaboration, moving the sector away from siloed solutions toward open, collective impact. In line with this approach, we have focused on creating spaces and nurturing an ecosystem that fosters collaboration, including the AI4GD cohort with the Agency Fund, and our upcoming AI Cohort Program launching in July.
+Cohort programs – AI4GD & India cohort
+The Agency Fund, in collaboration with OpenAI and the Center for Global Development, launched the
+AI for Global Development Accelerator
+to support responsible, high-impact AI solutions for underserved communities in sectors like health, education, and agriculture. Eight organizations have been selected to receive funding, technical mentorship, credits, and implementation support. Through tailored sprints, collaborative convenings, and in-person events, the accelerator showcases how generative AI can unlock transformative impact in development with ethical and scalable design.
+We are leading an
+AI India cohort
+, focused on strengthening capacity for NGOs. The cohort provides hands-on support for 7 organizations to design and deploy AI solutions aligned with their program goals along with intensive mentoring support.
+Financials:
+If you would like to see our complete financials, email us at
+info@projecttech4dev.org
+Tech4Dev 2.0 – Summary of the Inflow & outflow
+(USD’000)
+RECEIPTS
+“Actual
+(YTD)”
+Q1 Act.
+Jun ‘25
+Q2 Act
+Sep ‘25
+Q3 Act.
+Dec ‘25
+Q4 Act.
+Mar ‘26
+B/f Donor bal
+$5,961
+$5,961
+–
+–
+–
+Grant
+$348
+$348
+–
+–
+–
+Revenue
+$160
+$160
+–
+–
+–
+Total
+$6,469
+$6,469
+$0
+$0
+$0
+EXPENDITURE
+“Actual
+(YTD)”
+Q1 Act.
+Jun ‘25
+Q2 Act
+Sep ‘25
+Q3 Act.
+Dec ‘25
+Q4 Act.
+Mar ‘26
+Salaries
+$415
+$415
+–
+–
+–
+Program Cost
+$105
+$105
+–
+–
+–
+Total
+$520
+$520
+$0
+$0
+$0
+C/f Donor bal
+$5,950
+$5,950
+$0
+$0
+$0
+(in INR Crore)
+B/f Donor bal
+50.07
+50.07
+–
+–
+–
+Grant
+2.92
+2.92
+–
+–
+–
+Revenue
+1.35
+1.35
+–
+–
+–
+Total
+54.34
+54.34
+0
+0
+0
+EXPENDITURE
+“Actual
+(YTD)”
+Q1 Act.
+Jun ‘25
+Q2 Act
+Sep ‘25
+Q3 Act.
+Dec ‘25
+Q4 Act.
+Mar ‘26
+Salaries
+3.49
+3.49
+–
+–
+–
+Program Cost
+0.88
+0.88
+–
+–
+–
+Total
+4.37
+4.37
+0
+0
+0
+C/f Donor bal
+49.98
+49.98
+0
+0
+0
+For More Details:
+Highlighting some of the blog posts written by team members from last quarter:
+AI Use Cases in NGOs: FIR Data Extraction
+Scaling Learning with Data: How Youth Impact Uses Glific to Power TaRL at Scale
+Field Notes from Haryana – Lessons from Kunji Bot Users
+Maximising Impact: Ummeed & Dalgo’s Approach to Data-Driven, Trans-Disciplinary Clinical Care
+Khopoli Sprint: Team Activities, and Wins
+Kenya, India June ’25 – Sprints, NGOs and Funders Jul 2025
+Top takeaways from AI for Global Development Sprint in Nairobi
+Additional  quick links:
+Tech4Dev 3.0 strategy
+Tech4Dev Global
+AI for Human Development Fund
+Building Tech with Grassroots NGOs
+We’d love to hear from you, whether it’s feedback, ideas, or questions. Drop us a line via
+email
+, and we will get back to you
+If you want to know more about our work, visit our
+website
+If you want to stay in the loop, follow us on
+LinkedIn
+and/or join our
+WhatsApp channel
+for regular updates

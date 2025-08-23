@@ -1,0 +1,53 @@
+Title: Spandan
+Author: Kurund Jalmi
+Date: March 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/spandan/
+==================================================
+
+MB Baravalia Foundation?s
+Spandan
+holistic mother and child care hospital is one of the
+organisations selected in the current cohort
+of Tech4Dev projects.
+In their application Spandan identified following projects where currently data is collected manually and IT systems are required to help record, track, retrieve, analyse and evaluate data.
+Spandan holistic mother and child care hospital
+Spandan outreach projects
+Tech4Dev identified Samanvay to work with Spandan. At Samanvay, we decided to visit their place of work in Mumbai to understand the requirements in detail.
+We visited Spandan 15th to 18th of February for the visit. The dates were suggested by Spandan such that we could also see a mental health checkup camp by Spandan on 18th.
+We covered the following as per pre decided agenda
+15th (Friday) – Understanding Hospital operations, IT system requirements and solution discussion
+16th (Saturday) – Understanding outreach projects work, IT system requirements
+17th (Sunday) – Attending medical camp, cover whatever is pending and discuss on plan on way forward
+Hospital
+On 15th we first had walkthrough of the
+hospital
+in Govandi. The hospital currently runs a homeopathy OPD and has maternity ward. The OPD sees on an average 50-70 patients and the team their expects it to rise to 120-150 by year end. The OPD has a typical workflow of registration, doctors consultation, diagnostics if required, doctors second consultation with prescription and drug dispensing from pharmacy, in this order.
+The hospital has a maternity ward and also has operation theatres where currently only minor procedures are performed, however they are soon set to start with complex ones like neurosurgery. After having a walkthrough of hospital, we then had a look at different registers being maintained and checklists used for screening. There are about 10 – 15 checklists, many of them requiring the doctor to manually calculate scores. Apart from ease of data maintenance and retrieval, automatic calculation of scores was one clear benefit identified from digitising these checklists.
+We then demonstrated
+Bahmni
+to Dr Praful Barvalia, the founder, trustee and Chairman of the Barvalia foundation, and his team showcasing mainly registration, clinical, lab, billing and pharmacy parts. The team liked the software. During the demo, the drug prescription brought up a discussion of how homeopathy drug prescription format is different from modern medicine. We have to look at how the homeopathy drug prescription can be modeled in openmrs / Bahmni data model, which has so far been mainly used for modern medicine (Allopathy).
+Spandan Outreach projects
+On 16th we visited Dr Barvalia?s private clinic in Ghatkopar where he walked us through various initiatives they do part of the
+outreach projects
+. As part of the outreach project, Spandan primarily works in the nearby slums conducting health camps, screening, deaddiction drives periodically. The outreach project has evolved and seen various phases. Currently the initiatives are conducted on project basis but plan are there to make it more structured with regular activities implementing via a pyramid model of health workers comprising of volunteers, supervisors, doctors and specialists. Dr Barvalia mentioned that they have plans to make this operational by this year end.
+We demonstrated
+OpenCHS
+app which could be used by field workers as a job aid application utilising features like dynamic forms and decision support. Dr Barvalia liked the app and felt that it could be used in both outreach projects as well as hospital.
+Medical camp
+On 17th we attended a
+free child care camp for children with disability and mental health problems
+organised at the hospital by Barvalia foundation. About 100 children and their parents attended the camp. The camp comprised of screening by homeopathy doctors, triaging and then consultations with specialists like speech therapist, psychotherapist, psychiatrist, neurologist, opthalmic surgeon, paediatrician, paediatric surgeon, paediatric orthopaedic surgeon, plastic surgeon, special educators, dietician and more.
+After the camp, Dr Barvalia walked us through different formats of data being maintained in physical registers and an access based system, which he himself developed by reading up books and taking voluntary help. We discussed around the needs based on our observation and prioritisation. Following priority order was agreed based on urgency of need and how structured the operations
+Hospital (now)
+Outreach projects (when the program becomes more structured)
+Medical camp (for sometime later.)
+Mapping the Requirements and existing Open-source products
+Bahmni comes very close to meeting the requirements for the hospital. Dr Praful Barvalia felt OpenCHS and its decision support system and counselling features can also be used in the hospital settings. OpenCHS can also meet the need of the Outreach projects but that has to be evaluated when the program becomes more structured and needs more clear.
+Dr Praful Barvalia also expressed a need and wish for an app for the Medical camp. We felt that OpenCHS or any existing product would not be able help for the camp which has a heavy workload, untrained users (volunteers), informal workflow and chaotic settings. It?s very difficult for a app based solution, especially using a generic product, to be practicable in settings like this. We discussed that this would require detailed articulation of need, an app tailored for the settings and use-cases. As this is not high priority, so this can be approached subsequently when IT needs in hospital and outreach areas have been catered to. This was agreeable to him.
+Next Steps
+We shared documentation on Bahmni and OpenCHS with Spandan.
+Dr Barvalia and Spandan team to compile and provide us detailed requirements so that we finalise the scope and timelines in next couple of weeks and start the work.
+On a personal note from the visit, the sight of so many children with mental health issues that too in Mumbai was very depressing and stayed back with me. But on the other hand, it was uplifting to see Spandan team and especially Dr Praful Barvalia?s work powered by their compassion and hardwork.
+We with Dr. Praful Barvalia
+Looking forward to help them with their IT needs.

@@ -1,0 +1,31 @@
+Title: Harnessing Technology for Social Good: Insights from JP Morgan Chase Impact Socials Event
+Author: ericamiglani
+Date: May 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/harnessing-technology-for-social-good-insights-from-jp-morgan-chases-impact-socials-event/
+==================================================
+
+Earlier this month I had the opportunity to be part of the first edition of Impact Socials event organised by JP Morgan Chase. The gathering had a good mix of nonprofits(Sensing Local,i-Saksham, LAHI,Netri,Sattva, Nudge to name a few), and technology partners(LinkedIn, Microsoft, Atlassian,Salesforce, Zoho, Scratch) the sessions were thoughtfully curated for valuable exchanges to happen. The day started with a closed door session bringing together nonprofit partners and technology providers. The objective of this session was to bring forth challenges faced by social good organizations and how technology can help them to achieve their full potential.
+Summarising below
+6
+key reflections from the discussions that happened during this session coupled with some actionable insights. I believe these also represent broader trends of the sector:
+1. Embracing Technology – A Balanced Perspective
+:
+It was encouraging to see many non-profits recognising the potential of technology to scale their programs, help them make data-driven decisions, and enable automation. On the one hand, the conviction and trust I heard in the voices of the nonprofit leaders regarding technologys ability to solve their problems was exciting, however it is important to remember that technology is not a panacea. Tech is a powerful tool, but its success depends on the organisation having the right processes in place. We must understand the specific purpose of each tech tool to ensure it meets our needs without expecting it to solve all problems.
+2. Navigating the AI Buzz
+:
+AI is the latest trend and its potential to transform our work is immense. While its important not to get swept away in the hype or fear of missing out, it’s equally crucial to invest time in understanding AI’s capabilities and how it can enhance our program outcomes. AI is a powerful tool. It can analyze vast amounts of data, uncover patterns, and provide insights that were previously unattainable. Therefore, it’s worth the effort to explore AI thoroughly and consider its adoption. Ensure that its use aligns with your organization’s goals and that you have a good understanding of its potential impact.
+3. Enhancing Discoverability:
+One challenge that was heard in the room was on discoverability both for nonprofits seeking tech solutions and for tech providers trying to reach nonprofits. I have now come to realise that building awareness is a gradual process. Events like Impact Socials are crucial for fostering partnerships and growth. Networks are incredibly valuable and can significantly amplify your reach. Seeing others championing your work, especially to new audiences, is immensely fulfilling. A special shoutout to Laxman P Joshi@Ekyam and Prashant Mekaraj@JPMC for being champions of Project Tech4Dev at this event
+4. Prioritizing Interoperability:
+We should acknowledge that many tech challenges faced by nonprofits have already been addressed hence its beneficial for nonprofits to explore adopting existing off-the-shelf solutions than developing custom solutions. Reach out to people in the tech community who are equipped with the needed knowledge and skills, for guidance – you could reach out to us at Project Tech4Dev, Tech4Good, Dhwani RIS to name a few who were present at the event. Interoperability is key; new platforms should integrate seamlessly with existing systems that nonprofits are using to ensure ease of adoption. The focus when designing tech platforms should be on simple, intuitive designs that minimize the need for extensive retraining.
+5. Shifting from Sales Pitches to Genuine Understanding
+:
+Some nonprofit partners expressed concern that tech providers are more focused on selling their products than understanding the nonprofits’ unique needs and contexts. It’s important to approach these interactions with trust and openness. Tech providers dedicated to the social sector often have deep insights into its challenges and constraints. The feeling should not be that one needs the other more but actually thinking that both need each other equally. Nonprofits should focus on articulating their needs clearly and engage in thoughtful discussions with the tech partner to determine if a tool truly meets their requirements. Both parties should see the relationship as a mutual partnership rather than a one-sided transaction.
+6. Ensuring Quality at Scale
+:
+Another significant discussion point in the room was maintaining quality while scaling programs. Achieving scale is a major win in the development sector, but it’s important not to lose sight of quality. Start with small pilots to test feasibility and impact, iterate based on learnings, and develop detailed standard operating procedures (SOPs) to ensure consistency. Implementing quality checks, building staff capacity, and regularly collecting feedback from beneficiaries and partners are essential steps to maintaining high standards of quality
+The session was overall able to trigger the right notes for further discussions and collaborations.
+A Day of Inspiration and Collaboration
+The rest of the day included lightning talks from tech partners serving the social sector, sharing their journeys, offerings, and insights on common pitfalls for nonprofits embarking on tech initiatives. Two panel discussions one on the power of data and another on measuring impact rounded out the day, highlighting the critical role of data in driving effective social change.
+Overall, it was a day well spent among nonprofit leaders and changemakers. The event sparked new ideas, initiated promising collaborations, and reinforced some existing views.

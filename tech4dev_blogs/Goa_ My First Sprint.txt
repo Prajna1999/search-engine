@@ -1,0 +1,15 @@
+Title: Goa: My First Sprint
+Author: Sanjeev Dharap
+Date: January 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/goa-my-first-sprint/
+==================================================
+
+I almost didnt make it to this sprint, but more on that later. I did make it to Goa and Goa didnt disappoint. The sprint location was wonderful, the weather was gorgeous and beach shacks were close by for local food and drinks. The cool, crisp mornings and stunning sunsets book-ended the day nicely.
+Photo by Sneha Trivedi
+We arrived on Sunday afternoon and went straight to the Avni presentations; this was the first day of the Avni sprint and NGOs were presenting their use-cases. It was the first time that the Avni team and their NGOs were meeting face-to-face and each had a lot to learn from the other. The NGOs provided candid feedback about the product and the team was open about their shortcomings and improvement plans. Avni has a good group of customer NGOs and they all like working with the Avni team and appreciate the hard work they put in. I liked the open exchange of thoughts during these presentations; that openness will, no doubt, contribute to a better product and ecstatic users.
+My main task at the sprint was to work with the Dev Data Platform (DDP) team to finish some deliverables and to explain DDP to funders and NGOs. DDP is the newest offering from Openbrackets Foundation; it allows NGOs to combine their data from multiple disparate sources into one single unified repository and get analytics and visualizations out of it. Three early adopter NGOs are helping us with the platform requirements to define a well-rounded product offering that directly addresses NGO needs. The Openbrackets team is working on the rollout roadmap and strategy and we plan to roll out the first version of the platform as a SaaS offering soon. With the DDP engineers and our integration partner, we were able to make short work of our deliverables. We also presented DDP to the funders that visited the sprint.
+My personal goal for this sprint was to get to know the Openbrackets team whom I had not met in person, and meet and chat with all the NGO representatives. We had some very heartfelt and insightful conversations about work, life and everything in between. Every conversation gave me new learnings and an interesting glimpse into the person and their work. Some of those same learnings will inform how we proceed with the Openbrackets program mentoring women in tech.
+Photo by Simran Dengre
+So back to why I almost missed this sprint: I was supposed to fly to Pune with enough time to get over jet lag before I went to Goa. My flight got canceled on two consecutive days; first they had mechanical trouble and on the second day they had no crew (you cant make this up!). Finally, on the third day, the stars aligned and they found a crew to fly the plane. I reached Pune 3 days later than I was supposed to with just a day to spare before my Goa flight.
+The sprint was a resounding success thanks to the meticulous planning and tireless work by the Openbrackets Sprint Planning team; Im looking forward to attending the next one.

@@ -1,0 +1,41 @@
+Title: AI Cohort Program: Building solutions with responsible AI
+Author: Ashana
+Date: June 2025
+Category: AI
+URL: https://projecttech4dev.org/building-with-responsible-ai-for-the-social-sector-introducing-the-ai-cohort-program/
+==================================================
+
+In today’s rapidly evolving digital landscape, artificial intelligence (AI) holds immense potential to transform the development sector. Yet, many nonprofit organizations face a critical gap—while there’s growing conversation about what AI is, there’s far less clarity on how to practically apply it to solve real-world challenges.
+To bridge this gap, we at Project Tech4Dev, along with The Agency Fund, are excited to launch the pilot edition of the AI Cohort Program. This program aims at building capacity and providing hands-on support designed to help NGOs design, build, and scale responsible AI solutions. Tech4Dev is interested in incorporating many of these patterns into our open source AI platform that is being developed.
+Why an AI Cohort?
+AI is no longer a distant future, whether it’s automating data-heavy processes or enhancing frontline service delivery, AI can dramatically improve efficiency. Leveraging AI responsibly, with the needed guardrails can unlock a lot of bandwidth and potential for non profits.
+This program is designed on our learning from running the AI for Global Development Cohort. Additionally, we have also collated insights from partners like the Digital Futures Lab and Digital Green. We have experienced the need for structured support that blends hands-on mentoring with an ethical AI framework.
+What the Program Offers
+The AI Cohort Program is designed to equip NGOs with:
+A working AI solution aligned to a real-world program need
+Dedicated mentoring for use-case validation and prototyping
+Training on responsible AI practices and safety protocols
+A roadmap to integrate the solution into ongoing operations
+Peer learning and in-person workshops to strengthen cross-sector collaboration
+From student assessments and personalized learning to chatbots for frontline workers—illustrative use cases already point to the transformative potential of AI in the nonprofit space.
+Who Should Apply?
+We are selecting 7 NGOs through an application process. The ideal candidates will:
+Dedicate resources who are comfortable exploring and experimenting with technology, data, and AI tools
+Be committed to co-developing and piloting an AI use case
+Be ready to align leadership and allocate internal resources for experimentation and learning
+Willingness to contribute your problem and solution under an open source license.
+No advanced AI expertise is needed—just a clear use case, openness to learning, and commitment to innovation.
+The Learning Journey
+The program will be kicked off in the first week of July and will follow a blended learning model:
+A virtual orientation and foundational sessions on AI for impact
+Regular one-on-one mentoring over 3 months
+A 2-day in-person meeting in Bangalore and 2-day conclusion and demo day at the end of the cohort
+The program is expected to start in mid August with a few virtual sessions and conclude by December with the final in-person meeting and demo day.
+Program Support
+Participation in the program is free of cost. The tuition, stay, and meals for the in-person meet will be covered for the participants. Travel expenses are to be covered by the participating organizations.
+If you feel this might be valuable for you
+📅
+Apply by June 22, 2025
+🔗
+Application Link
+For questions or to learn more, reach out to us at ashana@projecttech4dev.org

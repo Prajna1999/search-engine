@@ -1,0 +1,19 @@
+Title: Karjat Sprint: Day 1
+Author: Ishan Koradia
+Date: April 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/karjat-sprint-day-1/
+==================================================
+
+The location of the April 2023 sprint is Karjat, a small humble town in the middle of Pune & Mumbai. Our team is staying at the
+Radisson Blu Resort
+situated in a valley surrounded by a picturesque view of the hills.
+Before coming to the sprint, the Dev Data Platform team had set goals which broadly fell into these 3 categories – architectural discussions of the platform, engineering/development of important features and boilerplate of a working UI with the onboarding flow.
+We started day 1 with a talk/session by Rohit, Head of Engineering at
+Tech4dev
+leading the DDP project. The agenda behind the session was to spread awareness about the platform in different verticals of Tech4dev namely Glific and fractional CxO. Rohit discussed the problems DDP is solving for NGOs and how we plan to leverage the open source tools in our platform. In a nutshell, DDP will help NGOs to ingest, clean and transform their data from multiple sources to a single warehouse for better analytics & visualization. If we think from a software engineering point of view, the product is more of an integration platform stitching all the open source tools with a nice looking UI that the organizations will use to build their pipelines.
+I also got an opportunity to interact with Robert from
+Agency Fund
+. His focus is on Evidence based philanthropy using RCT (Randomized Controlled Trials). We had interesting conversations on some of the advantages/disadvantages of running RCTs, how we ended up in the NGO sector, our similar penchant for math & statistics and our tolerance towards spicy food. Robert has some good insights on the POCs we are doing with the current NGOs. He argued against the use of Dbt for transforming the data. R studio would be more apt for doing exploratory data analysis & to quickly see some statistics on the data like frequency count, averages, etc. These are crucial steps in the initial stages of data exploration.
+After a lavish lunch, with an array of food items available, we started our development work to tackle the issues we had planned to solve. I took up the initiative of cleaning, refactoring and standardizing our code in terms of database fields, function names, api responses and payloads. It was a productive day not only in terms of development work but also in catching up with other team members.
+The sprints have this very toxic rejuvenating energy that brings our team together as one and is also an important reminder of the impact we are/trying to create by doing what we do. I called it a night after dinner to have a fresh start on Day 2.

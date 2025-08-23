@@ -1,0 +1,63 @@
+Title: Formik as Gold Standard to create Forms in React
+Author: Kurund Jalmi
+Date: November 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/formik-as-gold-standard-to-create-forms-in-react/
+==================================================
+
+React
+is one of the most popular frontend frameworks that powers millions of websites. It has a great open source community and numerous packages that make frontend development extremely easy. In this blog, I’ll cover a peculiar aspect of React that is still difficult for developers. It is building
+forms
+. . The most challenging part about it is managing the state, validation, showing error messages
+There are many
+React Form libraries
+which make coding
+forms
+easy. Some of the widely used ones are
+formik, react-hook-form, redux-form
+and
+react-final-form
+. The most popular among them is
+Formik
+, in fact, it is recommended by the React Community.
+On FundImpact platform, we have deployed
+Formik
+to create Forms and ensured we spend less time in reinventing the wheel. The great thing about
+Formik
+is that it is very easy to use. The motto of
+Formik
+is “React forms without the tears!” and I think it has done a great job in achieving that.
+Formiks
+clean API lets us use it without worrying about a lot of state management.
+Regarding Validations, we can use any 3rd party library. I would recommend
+Yup
+for object schema validation.
+Yup
+is one the best validation libraries and
+Formik
+gives us out of the box support for
+Yup
+validations which makes it more programmer friendly.
+Formik gives us various kinds of props and we can pass these props to our form elements to manage validation and submissions.
+We can pass initial values of the input elements, validation function, onSubmit function to Formik.
+How to Install
+In order to install formik we can use the following commands
+npm install formik –save
+or
+yarn add formik
+Import formik to your project
+In order to import formik do this
+import { Formik } from “formik”;
+We pass initial values to F
+ormik
+and it will modify the values automatically with the help of the
+onChange
+function. We also pass validation function as props. The validation function will receive the values of the form as parameter and it will return an error object which will help us to show error messages.
+The validation function looks like the following:-
+Formik component will look like this
+On every keystroke validation function would be called and errors object will contain all validation errors at any given moment.In our component, we are just checking if an error exists and then immediately showing it to the user. Most of the time, we only want to show a field’s error message after our user is done typing in that field.Like values and errors formik keep track of the fields that have been visited and it does that with the help of touched object. We can use the touched object to solve this problem.
+Final thoughts
+Formik provides very optimized state management which reduces performance issues, its very easy to build dynamic forms with Formik. Stay tuned for more updates on this blog for tips and tricks on using Formik libary.
+Authored by
+Shubham
+, Frontend Developer at FundImpact

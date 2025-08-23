@@ -1,0 +1,28 @@
+Title: Hasiru Dala – Requirement Analysis and OpenCHS Missing Features
+Author: Kurund Jalmi
+Date: April 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/hasiru-dala-requirement-analysis-and-openchs-missing-features/
+==================================================
+
+Previous post in this series
+We decided to use
+OpenCHS
+for social security services provided by social workers because it fits most of the use cases, even though we initially created OpenCHS for field health workers. OpenCHS really seems to fit many fieldwork use cases,
+Dam Desilting Mission
+being the other one.
+But since these are initial use cases outside health we were small expecting feature gaps. Also, contributing to the gaps is the fact that some of these are also requirements in the health domain we hadn’t thought of it. Let’s look at what all we found from analysing Hasiru Dala’s requirements.
+Beneficiary’s Picture
+While the social security services are provided by social workers in a small catchment and they generally know the beneficiaries. But the social worker could change or initially social worker may not remember all faces. Identification using IDs, phone numbers could be difficult because many do not have them – exactly the reason social security services are being provided to them. A picture of the waste picker in the app could help in making the identification oneself or by asking around in the community.
+Since in OpenCHS we already have the ability to capture photos and save them, this was kind of no brainer for us to include.
+Document upload
+Waste pickers have a very precarious existence with very few facilities available to them. Ability to securely keep their IDs, Bank account, scheme papers etc is quite challenging. They often lose them, which of course sets them back. (From the initial workshop, I remember the story explained to us – of a basti (small slum) catching fire and the waste pickers who lived there lost most of their papers.
+Ability to securely store the documents is an important part of the service being provided. This will also potentially save, the social workers trip to the beneficiaries home just to get the documents.
+Again this feature is closely linked to image and video upload in OpenCHS.
+Printing beneficiary’s profile
+BBMP, the municipal government of Bangalore, wants to create a paper-based recording system for the waste pickers. Hasiru Dala is the main organisation that works for the informal waste pickers in Karnataka. It works closely with the municipal governments. Hence this system will end up becoming a key database of waste pickers.
+In terms of OpenCHS what this requires a 1-2 page profile of each waste picker which can be printed out. Since we already have started the web version of OpenCHS application, this printing could be done from it. Ordinarily, this could be done easily in any application but since OpenCHS is a generic platform, unaware of implementation (HD) specific needs, this requires a bit of pluggability facility in the platform.
+(Since we have done something similar in Bahmni where each hospital required a different discharge summary, referral letter, this is a familiar territory :-)).
+Working around the lack of family feature
+The social workers register the waste pickers as well as their family members as beneficiaries in the system. In most cases, the address of all family members is the same. Ideally, this should be modelled as Family and Individuals and address should be captured against the family. But currently, this feature is not present in OpenCHS (although present in this year’s roadmap). Given everything else OpenCHS product team has to make, we didn’t have space for it. Hence we came up with a workaround.
+The workaround is really to use the rules to pre-populate the address of each beneficiary from another existing beneficiary. This could be done because OpenCHS does have a relationship feature.

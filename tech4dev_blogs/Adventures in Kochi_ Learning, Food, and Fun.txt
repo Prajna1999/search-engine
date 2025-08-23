@@ -1,0 +1,26 @@
+Title: Adventures in Kochi: Learning, Food, and Fun
+Author: Amisha Bisht
+Date: October 2023
+Category: Glific
+URL: https://projecttech4dev.org/10112-2/
+==================================================
+
+Our Kochi journey, an exciting quest,
+To learn and explore, we gave our best.
+As our hearts danced with pure delight,
+Ready for adventures, under day and night.
+Our journey to Kochi for another sprint was filled with excitement and anticipation as we looked forward to learning something new and creating memorable experiences
+During this trip, we mainly focused on two new things: the Data Catalyst Program (DCP) and Open LLm. These programs had the potential to teach us new things and broaden our horizons.
+What made our trip even more special was the chance to meet and chat with new people. We had some great conversations and learned different perspectives from them. Our time in Kochi was about learning and connecting with new folks(also have some fun).
+The mix of exploring, gaining knowledge, and meeting interesting people made this trip a truly enjoyable and memorable experience.
+Data catalyst Program(DCP)
+A cohort based approach to help NGOs use, manage, process and analyze data. We also did not know enough about the subject matter to run this cohort by ourselves. So, we invited some of our ecosystem partners: Dasra, GoalKeep and Agency Fund to help us design and run this cohort. Our current model of the program is:
+Spend the first month learning more about the NGOs data systems via the Data Culture Quiz, some deep dive pre-work, followed by a 60-90 min deep dive call. We will then allocate 2 team members to each NGO to help them over the next 3 months in their data management.
+Open LLM
+We began with a project called Jugalbandi, which was a good way for NGOs to start using ChatGPT and explore generative AI from their perspective. It allowed them to try it out on a small scale, see if they like it, and understand if it suits their needs.
+As we made more progress and talked to other NGOs, we discovered some really cool features of GPT. These include making the AI do certain tasks and remembering what was said earlier in the conversation to provide better answers. These are precisely the things many NGOs were looking for. So, we decided to create our own project called LLM, and Agency Fund has been a big support in this journey.
+This project is all about making Glific interactions even better. We want to use OpenAI’s Language Model to help Glific chatbots give really smart and accurate answers. To do this, we’ll create a separate place within the Glific system where all this special knowledge will be stored. It won’t be mixed up with everything else. We’ll connect it to Glific using a special link called a webhook, so the chatbot can provide even smarter responses based on the specific situation.
+In the first two days, we focused on the Data Catalyst Program (DCP) . The session with the Dasra folks was incredibly enjoyable and enriching(we also learned some new dancing moves). For the rest of the time, we delved into the Open LLM and Glific. This time, not all Glific users were present, only those who were interested in Open LLM and wanted to use it in their projects.
+Aside from the work, we also got to enjoy some delicious Kerala food and traditional dishes.
+While we were there, we took morning walks and got to enjoy the stunning beauty of Kerala. The greenery and peaceful atmosphere made these walks special. We also tried some Japanese snacks there.
+It’s always enjoyable to spend time with the team, have fun, learn new things together, and grow together as a team.

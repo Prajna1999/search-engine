@@ -1,0 +1,19 @@
+Title: Glific Frontend Update
+Author: Kurund Jalmi
+Date: July 2020
+Category: Glific
+URL: https://projecttech4dev.org/glific-frontend-update/
+==================================================
+
+Well, it’s not even a week since v0.1 release, however, we have made good progress on the frontend and added quite a few improvements. Here are some of the updates:
+New UI for Tags Listing
+Keyword support for tags
+along with UI refresh
+Better confirmation dialogs
+Visual Indicator for Unread messages
+We are super excited about v0.2 and a lot of exciting stuff planned for the same. Our focus for the next week or so will be on the following:
+Finishing login/registration/authentication
+Staff management
+Managing HSM templates
+Message sending interface to support basic formatting
+Improving test and code coverage

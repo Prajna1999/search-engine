@@ -1,0 +1,44 @@
+Title: Glific – What is GraphQL & Why we choose it for our project
+Author: Kurund Jalmi
+Date: June 2020
+Category: Glific
+URL: https://projecttech4dev.org/glific-what-is-graphql-why-we-choose-it-for-our-project/
+==================================================
+
+We as a team are into the second month of project Glific (also popularly known as Two Way Communications) & it has been very eventful. The initial month was all about learning, listening to NGOs & exploring different technologies to use for the project in the long run whereas now I would say we are in a phase of working our plan. Among a lot of things we are learning every day & using GraphQL is one thing which I liked the most & I will be elaborating more on it here.
+For those coming from REST background, stick towards the end of the blog to know how GraphQL might make it even better a choice for your applications.
+What is GraphQL?
+GraphQL is a query language for APIs. In web application context, it’s all mostly getting data from the server & showing it client side. GraphQL makes this process much more efficient & light.
+Why should one choose GraphQL?
+Removes limitations that REST has – When we start thinking about REST APIs one can imagine creating as many API endpoints as the application UI expects. In case the UI changes, the API might not be completely relevant & would need an immediate change to it.
+Fetch what you need – GraphQL is powerful in terms of fetching what is needed thereby increasing performance of the application
+It makes it easy for both frontend and backend team to work independently
+We can update APIs without following versioning, quicker adaptability.
+Core Concepts
+GraphQL has three main building blocks:
+Schema
+,
+Queries
+,
+Resolvers
+.
+Schema
+A GraphQL schema is at the core of any GraphQL server implementation. It describes the functionality available to the client applications that connect to it. GraphQL can be used with any backend framework or programming language. We are using
+Absinthe
+(GraphQL implementation for Elixir) In schema, we define the query & mutator structure for the type.
+Queries
+Compared to REST, when working with GraphQL there is only one endpoint exposed & the structure of the data returned is not defined. Query in GraphQL is the information that the client needs to specify on what structure of data is expected in return.
+In the above example, the query is the operation type, GetMessageByID is the operation name & $id is variable definition saying, what is expected.
+Resolvers
+A resolver tells GraphQL how and where to fetch the data corresponding to a given field. Resolvers can be used for mutation (altering/ creating records) in the database. Another important concept in resolver is ‘context’ which is the one which provides access to the database.
+One can write logic inside the resolver to make the most of it.
+How we are using GraphQL in Glific Project
+At the backend, we use
+Absinthe
+to implement GraphQL .
+At the frontend,
+Apollo Client
+writes GraphQL queries.
+My Experience in learning & using GraphQL
+Coming from a background of using REST APIs extensively in building robust web applications, I was curious to learn how GraphQL can make an impact. At the start, it felt like, why are we writing a lot to achieve the response we need, but the more & more I am reading & implementing it I see the advantages it brings in.  I have been a great fan of it.
+The fact of exposing one API endpoint & leaving the flexibility of the structure of data expectation at the hand of developers who use it makes it so better of choice.

@@ -1,0 +1,41 @@
+Title: Second education sprint: Learnings from NGOs
+Author: Kurund Jalmi
+Date: September 2022
+Category: Glific
+URL: https://projecttech4dev.org/second-education-sprint-learnings-from-ngos/
+==================================================
+
+The second education sprint again made me realize the importance of collaboration of various NGOs in the same domain.
+Glific NGOs discussing their challenges and what we can do better
+Learnings I am taking with me:
+Glific is an enabler to many NGOs in their respective programs. There are still many things that Glific can improve, which can be resolved over time. Thanks to Vandana for creating the
+pad
+to map our thoughts.
+Engagement is one crucial factor that people dont take into account while building a chatbot. It sometimes needs personalized content, nudges and various other forms of engagement with the beneficiaries to get them to adapt a bot.
+Reports and dashboards are a fundamental requirement in measuring the bots efficiency, reach and the overall program results. Thanks to various NGOs talking about it in the sprint we are planning to get the next version of the Glific template report in the coming weeks.
+Support and documentation is one crucial factor if you want to build a chatbot with Glific. While we try our utmost to help NGOs in their issues ,there is sometimes a gap which is an incremental process of learning and which will help to support NGOs better.
+Learnings I was able to give:
+Hopefully I was able to help people thinking in terms of how NLP can be used seeing the
+TAP
+and
+DanaVidya
+use cases.
+To explain what Glific does in its entirety and the tech components it uses to multiple people in the sprint. (which as I am thinking now could have been a collaborative session)
+Interesting conversation that got me hooked:
+The conversation where Arun shared how he used punch cards and had to write the programs which had a maximum three tries of compilation. It was really interesting to talk to someone who has seen the tech industry in India from its start and see it developed over time to a place it has reached today.
+While I was sharing how I got hooked into programming with Gayatri and Arun, It made a lot of sense to show other people tech in the same light and get them interested.
+The thought process of coming up with the values of an organization was an interesting one shared by Arjav. In my organization ColoredCow we were also trying to come up with values of the organization and it was interesting to see all the thoughts that came out especially the lived values vs aspirational values.
+Swapnil shared about his experience of doing a 2-month rural immersion program at NIRMA and how that got him towards the social sector. Similarly I got to listen to stories of Tejas and Vandana as to how they started within their respective organizations by starting with some volunteer work at first.
+The story of how Tech4dev started with the collaboration and thought process of people working towards the same goal.
+Fun and food.
+For food I have just one word-
+Awesome.
+Kurund would back me up on that since whenever I met him in the sprint I always had some food in my hand which became a joke till the end of the sprint.
+Robbers Cave:
+Struggling against the water to reach at the end and people losing their slippers and I lost the key to the locker that holds most of our phones and belongings.
+Lost walk from Sal Woods:
+It was a simple walk from the resort in the evening where me and Ankit were the lead and thanks to mine and Vandanas great sense of direction we lost the way. It was really fascinating to see how people react in different ways in these situations. Some super calm, some afraid, some absolutely neutral.
+Bus ride to Mussoorie:
+I got to listen to so many old and good songs while playing Antakshari from some of the best singers there Kurund, Abhideep. Sanchita and Ankit.
+Exploding kitten and happy hours:
+The card master Akhilesh showed us how to play for fun and win the game. Really enjoyed the late night game sessions with the folks.

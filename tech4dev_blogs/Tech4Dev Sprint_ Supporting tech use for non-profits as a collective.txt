@@ -1,0 +1,52 @@
+Title: Tech4Dev Sprint: Supporting tech use for non-profits as a collective
+Author: Kurund Jalmi
+Date: October 2022
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/tech4dev-sprint-supporting-tech-use-for-non-profits-as-a-collective/
+==================================================
+
+This blog is written by Sebastian Leidig, from
+Aam Digital
+This September,
+Tech4Dev
+has invited us,
+Aam Digital
+, a few NGOs, and other members of the collective to Dehradun for another one-week “sprint.”
+There are already a lot of enthusiastic reports and reflections
+on the blog
+. I will try to highlight the biggest insights I took away here – and more so the ideas for building upon our collaboration and relationships.
+Tech4Dev
+is a collective. We are stronger together by being exceptionally open and collaborative as a community. This culture shared among everyone here at
+Tech4Dev
+is really special.
+I am taking two main insights from the many sessions and conversations over this sprint:
+Building open source platforms, not custom solutions
+:
+Pooling resources to develop great software that can be used by many NGOs are at the core of Tech4Dev. And it is the direction where NGOs as well as tech partners here saw the future.
+Collaborating as a community of practice
+:
+Sharing learnings and ideas to achieve our joint vision – technology empowering the social sector – is as important as the products for Tech4Dev. There are invaluable insights for us from this exchange to make tech more useful. And sharing knowledge with other organizations in the social sector about what tech can do (and how to adopt it) is often a missing piece. We could contribute to this.
+Platforms instead of custom solutions
+Almost all the software systems of our group at
+Tech4Dev
+–
+Avni
+,
+Glific
+,
+Dhwani RIS
+solutions, and also our own case management platform,
+Aam Digital
+– apparently started out as rather custom-built systems for specific projects. But everyone here is talking about moving more and more to a product approach. Software that can be configured but doesnt have to be developed from scratch for every NGO. Apart from the cost and maintenance issues, there are also just too many projects in need of digital solutions in the social sector.
+But a part of these Tech4Dev platforms also can – and should – be the community to share learnings and help each other beyond the technology.
+Helping social organizations understand tech
+Swapnil shared Dhwanis approach of how they explain to NGOs what different types of software are available and which areas to think about first. At Aam Digital we have done similar webinars as well. And most of our conversations with NGOs are not about selecting the best software among a few competitors but rather about how to adopt a digital tool in their project for the first time in general.
+On the other hand, some NGOs also have a lot of experience in comparing tools and making tech decisions (Vandana from Bhumi really impressed me with their systematic approach).
+Tech4Dev has a unique mix of members – software platforms, NGOs, fractional CTOs and other experts (
+Gayathri from Women in Tech did a great job highlighting some
+). I would love to use this knowledge more to build a deeper understanding for the social sector about what tech can (and cannot) do.
+Overall, it was inspiring to hear more about the
+origins of Tech4Dev 1.0
+and the leaps Tech4Dev 2.0 is making while keeping this amazing culture of openness (also read
+Nidhis reflections
+). And the discussions during this sprint set some closer collaboration in motion. We are looking forward to becoming a more active member of Tech4Dev with Aam Digital.

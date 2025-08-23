@@ -1,0 +1,49 @@
+Title: Project Intro :  Yenepoya HDSS
+Author: Kurund Jalmi
+Date: June 2020
+Category: Avni
+URL: https://projecttech4dev.org/project-intro-yenepoya-hdss-using-avni/
+==================================================
+
+This project is for Community Medicine Department of
+Yenepoya (Deemed to be University)
+. Yenepoya is located in the vibrant, multi-cultural and coastal city of
+Mangalore
+, Karnataka.
+Department of community medicine engages in the following activities
+Assess the health needs of the community and plan and implement appropriate need-based health interventions.
+To provide quality community-oriented medical education to the undergraduate and postgraduate medical students
+To create social physicians capable of providing comprehensive care
+To conduct socially relevant field-based research
+To facilitate the implementation of National Health Programmes in coordination with district health and family welfare departments.
+This project is to develop an IT system for their
+Health and Demographic Surveillance program or “Kutumba Aarogya Sarvekshana Hagu Rakhsana Yojane”
+. The platform is to enable them with the following:
+Change from paper-based data capture to paper-less (Electronic format)
+Community-based efficient, quality data capture, analysis and reporting.
+The transition from survey to surveillance.
+Geospatial mapping of health problems and diseases with respect to time, place and person distribution.
+Understanding of the disease trends by collecting longitudinal data
+Addition of new projects and variables in the established IT platform.
+Monitoring and supportive supervision of field staff.
+Capture data from special groups on a periodic basis like
+Pregnant mothers, lactating mothers, children less than 5 years, adolescents, individuals with Diabetes, Individuals with Hypertension, NCD (Non communicable Disease) risk factors (18-60 years), Geriatric population and fever survey (last 15 years)
+.
+Surveillance studies it is empirical to have real-time, continuous data monitoring and relational data capture through IT platform for assessing health needs and planning health services
+The project is to cater to the need of a population of 1 lakh in the first year. The IT system is to be used by a team 60 users comprising of field workers, supervisors, a program coordinator, a program manager and a statistician.
+The project started in the month of Dec 2019. Requirements, scope and solution were identified through a series of online discussions as well as 1 one-day face-to-face workshop in their department.
+The project will be done by
+Samanvay Foundation
+as an implementation of open-source fieldwork platform
+Avni
+.
+Most of the requirements will be met by existing features present in Avni. Following features were identified as gaps and decided to be added to the platform through this project
+Household Support
+A need was also identified to add a feature to send SMS to the beneficiaries. However, this was deprioritised after discussion with them.
+Scope was finalised and development started in the month of April 2020.
+On a lighter note, in my visit to Mangalore for the face-to-face, Dr Abhay, head of department of community medicine and our PoC took me around the city. And it was a delight to visit one of these grand ice-cream parlours which I thought are something quite unique to the city. They have some amazing varieties. While ‘
+Gadbad
+‘ is most popular I liked their ‘
+iPizza’
+more! Do try it out when you happen to be in the city 🙂
+iPizza at Pabba’s in Mangalore

@@ -1,0 +1,35 @@
+Title: Janaagraha Fractional CTO Blog
+Author: Ashwin Srinivasan
+Date: July 2023
+Category: Fractional CxO
+URL: https://projecttech4dev.org/janaagraha-fractional-cto-blog/
+==================================================
+
+After a career in the commercial tech sector, I joined Tech4Dev in February 2023 as a fractional CTO.
+From February, I started working with
+Janaagraha
+, an established and reputed organisation with the goal of transforming the quality of lives in Indian cities.
+My broad brief was to:
+Help with the running and operations of significant projects like
+Swacchata – a product built by Janaagraha to support the governments Swacch Bharat (clean India) mission
+cityfinance.in
+– a platform looking to drive transparency in the financial data across municipalities in India
+Advise and help implement a product and technical strategy
+Capacity building for their key technical projects and tech teams
+Impressions of Janaagraha
+I was fortunate to join just as Janaagraha were having a company wide offsite in February. At this offsite, I was able to meet most of the 90+ Jana family and understand a bit about each of the programs and functional areas.
+In addition to the enthusiasm, ambition and idealism you would expect in an NGO, I was tremendously impressed by the way Janaagraha has set itself up to sustain its culture as it grows, as well as the quality and diversity of people it has attracted.
+I met committed Janaagraha team members who came from a variety of professional backgrounds including accounting, finance and investment banking, biotechnology researchers, aeronautical engineers, public policy experts, social scientists and community field workers. Collectively they have built up a tremendous level of domain expertise.
+Janaagraha also thinks very broadly and for the long-term, applying system thinking to all its activities which range from public policy advocacy, urban planning, municipal finance reform, civic education and civic participation. They have many extremely committed team members who have a long tenure at the organisation.
+Often, the team needs to operate in a very ambiguous socio-political environment and are heavily resource and capacity constrained. A lot of patience and resilience is required to work through these type of circumstances. In fact urgent patience is one of their culture codes reflecting the understanding that systemic change can take a lot of time, but there are moments when you need to seize your window of opportunity.
+Technical Landscape
+Janaagraha has a good internal tech team of approximately 8 members, many who have been with them for many years. The team has delivered and run a lot of significant nation-wide projects/products like Swacchata and I Change My City, as well as other projects for specific states like Odisha.
+One of the primary strategic challenge arises from the tension between being a catalyst for system change as the organisation desires to be, and building and running systems effectively. Invariably, once one of your systems starts getting traction with the government and usage becomes broadbased such as was the case with Swacchata, you end up being swamped with feature requests and operational challenges. In Swacchatas case, it was handed over to be run by the Ministry of Housing and Urban Affairs in April 2023, but the endgame for other projects is often not clear.
+Another significant challenge is the project based mindset of a lot of the work which arises due to funding pressures and the ambiguity of government support. It is natural to focus on the immediate brief and pursue the directly visible program objective or opportunity, but this often leads to people being spread very thin, sub-optimal systems, and no ongoing leverage of the work you have done (for instance, similar grievance redressal has been built into 3 different systems). One of the key changes that we are working through is the shift from a project to a product mindset. This is particularly relevant to the cityfinance project which emerged scrappily but is now demonstrating potential to be a hugely impactful system. For cityfinance, we are having to very carefully navigate short-term operational challenges, urgent program deadlines, while at the same time working towards a sustainable product and architectural vision.
+From a capacity building perspective, the key challenge is the sourcing of the appropriate skills when senior level expertise is required. Like most NGOs, Janaagraha doesnt have the funding or appetite to build a large in-house technical team. So we need to carefully think about the balance between building core capabilities and system / domain expertise in-house and relying on external vendors to bolster capacity for specific projects and systems.
+My Personal Reflections
+From a personal perspective, this has been and continues to be an extremely rewarding engagement for me. I have learned and been exposed to many things that I wouldnt have been exposed to in the commercial tech sector.
+Even from a tech perspective, I have a significantly broader scope of concerns relating to product, tech, organisation and ecosystem than I had earlier. It has been both interesting and challenging to be spread across so many things. Furthermore, due to the significantly reduced resourcing and capacity in comparison to a commercial set up, Ive been forced to embrace constraints more explicitly and creatively but judiciously work around them. On a few occasions, basic assumptions and opinions I had have been challenged and upended within the space of weeks and months. This has been both humbling and eye-opening.
+Overall, having worked in the commercial tech sector for many years, it has been great to get out of the tech company bubble and see a different environment. Above all, the energy of the team, the values of the
+Janaagraha
+organisation, the guidance and support of the Tech4Dev community, and the potential scope and nature of impact provides a daily inspiration.

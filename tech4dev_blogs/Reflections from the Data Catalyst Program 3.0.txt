@@ -1,0 +1,34 @@
+Title: Reflections from the Data Catalyst Program 3.0
+Author: Ashana
+Date: July 2025
+Category: Data Catalyst Program
+URL: https://projecttech4dev.org/reflections-from-the-data-catalyst-program-3-0/
+==================================================
+
+Over the three day workshop in Mumbai, the third edition of the Data Catalyst Program (DCP 3.0) brought together a group of NGOs and mentors. The workshop focused on enabling the participating organizations to leverage data more effectively and support data backed decision-making.
+Group photo with the entire cohort of DCP 3.0
+Day 1: Networking and getting to know each other
+We began with an icebreaker, asking participants to reflect on questions like
+“Who or what shaped your view on impact?”
+—which led to engaging conversations amongst the participants.
+The day moved into the NGO Mela, where each organization hosted a stall to showcase their work. This interactive setup allowed everyone to connect with each other, find overlaps and build connections.
+Tech on wheels demonstrated by team Masoom during NGO Mela
+The day culminated in mentor-led sessions focused on refining each NGO’s problem statement and formalizing the scope of their work for the DCP journey ahead.
+Day 2: Identifying metrics and creating user centric visualizations
+We began with a snapshot of the cohort—which made us realize the richness of experience and diverse backgrounds that everyone in the room came with.
+Tanushree Patel from Saturday Art Class, a DCP alumna, shared her journey and how one critical question—
+“Why am I collecting this data?”
+—helped reframe her organization’s entire approach to measurement.
+We followed with Data Dialogues, a peer-exchange activity, facilitated by Manije Kelkar, where NGOs reviewed each other’s problem statements. This opened up opportunities to learn from similar struggles and share resources. Next was a session on “Metrics That Matter,” facilitated by Sharon Weir which emphasized Theory of Change and Outcome Mapping, pushing participants to focus on the metrics that should be tracked and why they are important.
+Metrics that matter session led by Sharon Weir
+Next was a session on data visualization, led by Jishnu Sarkar, which focused on how to design effective, user-centric dashboards.
+Day 3: Reframing Mindsets and Exploring AI
+On the final day, Kavneet Kaur led a session on everyday data leadership—asking participants how they currently lead with data and where they want to grow. Participants shared reflections about balancing intuition with evidence, and the confidence gaps they’re working through.
+This was followed by a rich panel discussion featuring Ramesh Padmanabhan, Karthik Menon, and Antaraa Vasudev, who spoke candidly about their data journeys. A standout quote—
+“Don’t give me dashboards”
+—underscored the need for actionable insights, not just tools.
+In the final learning session, Antony Vivek Justin introduced no-code tools for data analysis and demoed an AI-powered WhatsApp bot that could help NGOs extract insights from data in simple, conversational ways. This peek into AI’s potential sparked excitement and new questions about how emerging technologies can support social impact.
+Session on AI led by Antony Vivek Justin
+We closed with heartfelt reflections—mentors and participants alike shared how much they had gained from the 3-day immersion. After lunch, teams buckled down with their mentors to finalize their scope of work, marking the start of their hands-on journey over the next 3 months.
+Looking Ahead
+DCP 3.0 was not just a workshop—it was a catalyst for stronger data thinking, community learning, and leadership growth. We can’t wait to see what this cohort builds next.

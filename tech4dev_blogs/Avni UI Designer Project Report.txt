@@ -1,0 +1,19 @@
+Title: Avni UI Designer Project Report
+Author: Kurund Jalmi
+Date: February 2020
+Category: Avni
+URL: https://projecttech4dev.org/avni-ui-designer-project-report/
+==================================================
+
+Recap
+In our
+previous blog post
+, we mentioned why
+Avni
+requires a UI Designer. We also mentioned that we will be implementing an MVP UI that allows users to be able to design programs and forms.
+What is the current status?
+By the end of December, we have released all these features and App Designer has started being used internally. Right now it is possible to create main domain entities of Avni like subject types, programs, encounter types, etc via UI. It is possible to build forms using UI.  It is possible to write JavaScript based rules for various things like skip logic, scheduling, decision support, etc directly from the UI Designer. We have received feedback from internal implementers that this is definitely a major improvement compared to the command line and JSON based system that we had earlier.
+Where we go from here
+The current version is more of an MVP product so it lacks refinement. E.g. while it is easy to build a form but it is not easy to attach it in the right place. So we are going to work on a feature that fixes this by building a workflow.
+We think that the current rule system that requires writing JavaScript code is very powerful but we want to make it possible for non-programmers to write rules. So we are going to work on declarative rules that can be specified using UI and without having to write any code.
+Overall the theme for the next project is to make the app intuitive to use. We will be publishing the project scope and plan soon.

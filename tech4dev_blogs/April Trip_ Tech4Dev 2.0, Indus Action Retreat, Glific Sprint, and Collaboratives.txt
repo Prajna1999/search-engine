@@ -1,0 +1,51 @@
+Title: April Trip: Tech4Dev 2.0, Indus Action Retreat, Glific Sprint, and Collaboratives
+Author: Kurund Jalmi
+Date: April 2022
+Category: Glific
+URL: https://projecttech4dev.org/april-trip-tech4dev-2-0-indus-action-retreat-glific-sprint-and-collaboratives/
+==================================================
+
+Started and finished this blog post on the long flight back home to San Francisco. As with all of my other trips, I leave the team and country feeling super-energized as well as quite excited about the path ahead. We did speak about our work to a few funders in the ecosystem and realized that we have accomplished a fair bit in Tech4Dev 1.0 and are in a position to think and execute big with Tech4Dev 2.0
+The first part of the trip started with meeting Sujata and Sandeep at
+17000ft.org
+, Sneha and the team from
+Dost Education
+, and Vikrant B from
+Veddis Foundation
+. This was followed by the
+Indus Action
+(IA) annual retreat. IA has been using these retreats to bring together NGOs from their extended community to learn and grow from each other. They also use
+CoLab-X
+to facilitate some of their sessions. I think these gatherings are important and it’s great to leave these events with some deep interactions.
+Indus Action Annual Retreat Event
+I enjoyed and learned a lot from my conversation with Prakhar from
+Indian School of Democracy
+, Bharat, and Shruti
+Fields of View
+. We also used the opportunity to do a technical deep dive into the PoWER project with the Indus Action, IDInsight, and
+Colored Cow
+team. There was also an interesting discussion amongst some of the board members on the open sourcing of knowledge + practice at an earlier stage vs doing it at a later stage. A few members felt that protecting the IP and the ideas at an early stage of the project is important. The discussions are ongoing, but followers of Tech4Dev are aware of our take on this aspect, i.e: we believe that being open, transparent, and publishing things earlier rather than later is beneficial to everyone involved. Yes, there were/are/will-be a few not-so-good players in the space, but in general, are core belief is that this set is a minority and being open is beneficial.
+It was also great to meet and see Erica get off the ground in her role as head of Tech4Dev India. Erica, Gayathri, and I had a day of meetings in Delhi with Vikas from
+Gramhal
+and two different funders. It was inspiring and insightful to hear Vikass story behind the evolution of Gramhal (12 attempts at doing something before they arrived at their current approach). Their current approach of using WhatsApp to share crop prices amongst the farmers and crowd-source information from the local level seems quite good and scalable. We hope to help them out via Tech4Dev on their tech platform, architecture, and scalability. Our funder meetings were great and not-so-good. While we had a great conversation with one foundation who could see the value and what we are doing is potentially a good thing, we did not manage the same with the other foundation team. While I do not expect everyone to fund us, we still need to do a better job of convincing folks of the importance of the broader problem.
+I ended the week in Delhi at the ColoredCow offices and joined the team in a design and development sprint with
+Reap Benefit,
+Alohmohra Education Foundation
+, and
+STiR Education
+. We also invited Bharti from
+HAQ CRC
+, Apar from
+Internet Freedom Foundation
+, and Chris Turillo from
+Medha
+to talk to the team about the work they have been doing over the past few decades.
+In my mind, these interactions are super important for us to understand the realities (sometimes quite harsh) on the ground, and the why/how/what they are doing, It helps us when we are supporting them on discord and hopefully makes us a bit more understanding and empathic. We also had a good interchange as a team on the highs, the lows, and how we can do better as a team and as a community. Writing this report, I realized that we forgot to celebrate our two recent grants from
+Agency Fund
+and
+Cisco
+. Well need to celebrate on my next trip and hopefully add a few more foundations backing us by then.
+For the final leg, I headed to Mumbai to hang out with my family, the
+Sharanam Center
+women & girls, and wrap up the trip with a couple more funder meetings. I did have a super long conversation with Shilpa where we spoke about both the big picture and the small details. The discussion allowed me to take a broader look at what we are doing, and freely admit to a few things that we could significantly do better, and also encourage our NGO partners to understand and improve on. Both Avni and Glific are a bit overdue for NGO partners who are using the system at scale, and hence can stress test our technology platforms as well as demonstrate how digital public goods can enable NGOs effectively.
+Onwards and Upwards

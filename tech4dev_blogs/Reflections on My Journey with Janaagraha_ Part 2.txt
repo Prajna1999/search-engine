@@ -1,0 +1,84 @@
+Title: Reflections on My Journey with Janaagraha: Part 2
+Author: Mohd Shamoon
+Date: January 2025
+Category: Fractional CxO
+URL: https://projecttech4dev.org/reflections-on-my-journey-with-janaagraha-part-2/
+==================================================
+
+This blog is the second part of my reflections on my journey with Janaagraha. My association with this organization began in August last year, and I shared my initial impressions at that time. You can read those
+here
+Now, as I look back, I want to detail the milestones we’ve achieved and the lessons learned along the way.
+Open Source Initiatives
+One of my first tasks was to ensure that our repositories were secure and ready to go public. Using GitGuardian, we scanned the repositories for exposed keys or credentials and rotated them as necessary. Once the repositories were secure, we made them
+public
+.
+Initially, this task faced delays due to higher-priority issues. It also took time for the team to adjust to my working style and timelines. With contributions from Jeeva and Kushal, we systematically resolved all key-related issues.
+After this, we focused on improving the basic hygiene of the project. These included:
+•
+Linting
+: To ensure consistent code formatting.
+• Unit test cases
+: To validate individual components.
+• Code coverage
+: To track how much of the code was being tested.
+• Code quality checks
+: To identify and fix potential bugs early.
+I was fortunate to join Janaagraha when they had a great initiative—a weekly demo call where team members could showcase interesting technical work. I used this opportunity to present the benefits of these practices. The response from the team was overwhelmingly positive.
+To further support the open-source transition, I documented everything a project needs to become a good open-source application. This included guidelines on licensing, documentation, testing, and contribution best practices. You can access the detailed document
+here
+.
+Focus on Testing
+Another key focus area was improving testing practices. The team was heavily reliant on manual testing, which consumed significant time and effort while still missing critical issues. Automated testing became a priority.
+We introduced Cypress, a powerful tool for end-to-end testing. Abhishek, who joined Janaagraha at the same time as I did, quickly adapted to Cypress despite being new to it. I shared my knowledge of the tool with him, and his fast progress in writing test cases was a pleasant surprise.
+We integrated Cypress Cloud, allowing us to track test results and collaborate more effectively. Our next step is to apply for an open-source plan with Cypress to leverage its advanced features at no cost. You can explore our Cypress project
+here
+.
+To ensure sustainable growth, I created a best-practices
+document
+based on the official Cypress documentation. This document serves as a guide for writing maintainable and efficient test cases. While significant progress has been made, we are still expanding our test coverage to include more complex forms and workflows.
+Angular Version Update
+One of the recurring challenges with in-house software development is maintaining outdated applications. This is particularly common in nonprofits, where vendors often deliver software without clear documentation or a maintenance roadmap.
+At Janaagraha, the Angular version was 11 when I joined. We have since upgraded to version 14, although the latest version is 18. Each major version introduces breaking changes, so we’ve adopted a phased approach. Our current focus is on increasing automated test coverage to ensure stability during future upgrades.
+The key takeaway here is to prioritize regular updates and thorough documentation for any software project. Neglecting this can lead to technical debt, requiring significant resources to resolve later.
+Dalgo Proof of Concept (POC)
+We conducted a 40-hour POC on Dalgo, focusing on integrating data from Excel sheets and a MongoDB database. The process began with defining requirements and calculations and ended with building dashboards using Superset.
+Sudhakar, a key contributor, handled much of the setup work, including configuring sources, destinations, and syncing tables. Since the team was unfamiliar with DBT, I wrote models based on the table structure and shared them with Sudhakar, enabling him to build dashboards.
+There were some challenges with data accuracy, but these were resolved through close collaboration and improved understanding. We also encountered limitations with Superset’s map charts, which we documented for future reference.
+Finally, we integrated the dashboards into the CityFinance app as an iframe. The feedback was positive, and the project is currently in the approval process, with finalization expected by the end of January.
+Server Architecture Changes
+Another significant initiative was reworking the server architecture. Previously, the application and database were hosted on a single machine. We conducted a proof of concept to separate these components, resulting in a more scalable and efficient setup.
+Key Steps:
+1. Autoscaling Group:
+We created an autoscaling group with two nodes and a load balancer.
+2. Deployment Methods:
+• Method 1:
+Use CodeDeploy to pull the code from GitHub, build it on the server, and deploy. While functional, this approach was time-consuming and resource-intensive.
+• Method 2:
+Pre-build files were stored in an S3 bucket, and CodeDeploy was used to copy the files to the server. This method significantly reduced deployment time and server load.
+Additionally, we used AWS Secrets Manager for securely storing and managing credentials.
+During testing, we identified a bottleneck in the database server, which limited simultaneous users to 10. Upon inspection, we found that the server spec was really  low. Also MongoDB version (v4) was outdated and configured as a standalone instance. MongoDB now recommends a replica set configuration for better scalability and reliability.
+We upgraded to MongoDB v7 and connected it to the test environment. While the setup performed well, I had reservations about managing a three-server replica set. A managed service like MongoDB Atlas would simplify this process significantly. I created a cost comparison
+sheet
+between EC2 and Atlas and recommended moving to Atlas, pending budget approval. Talks with the Atlas team are underway, and we’re hopeful about securing six months of free credits.
+Writing and Sharing
+I firmly believe in the power of sharing knowledge and experiences. It helps individuals grow and fosters collaboration.
+I encouraged the team to write about their work and share it publicly. It was incredibly rewarding to see Kushal and Sudhakar write blogs about their contributions. You can read their blogs(
+Kushal’s blog
+,
+Sushakar’s blog
+). Promoting a culture of writing and knowledge-sharing is something I will continue to champion in any organization I work with.
+Documenting Key Processes and Knowledge Management
+We are working on documenting processes and creating a centralized knowledge repository. This includes:
+• Guidelines for starting new projects.
+• Basic health checks for applications.
+• Shared resources on a centralized drive.
+Currently, documents are fragmented, but the goal is to consolidate them for easy access and reference.
+Learnings and Takeaways
+This was my first engagement as part of the Fractional CXO team, and it will always hold a special place in my heart. Working with a dedicated team taught me invaluable lessons:
+1. Proactive Communication:
+Don’t hesitate to follow up or escalate issues if things aren’t moving.
+2. Building Trust:
+Spending time with the organization helps build personal connections, which are critical for aligning goals and driving progress. For future engagements, I plan to spend at least a month on-site.
+3. Focus on Sustainability:
+It’s impossible to fix everything. Set realistic, focused goals that can be sustained after your involvement ends. Always connect with the right people and ensure a shared vision for long-term success.
+I’m grateful for the opportunities and learnings from this engagement and look forward to seeing how these initiatives evolve.

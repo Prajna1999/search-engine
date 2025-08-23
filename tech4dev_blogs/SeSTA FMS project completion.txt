@@ -1,0 +1,32 @@
+Title: SeSTA FMS project completion
+Author: Kurund Jalmi
+Date: October 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/sesta-fms-project-completion/
+==================================================
+
+We have completed the work on the
+SeSTA FMS
+platform which enables the FPO to manage their shareholders, loan management and also allows tracking of the activities carried out by the Community Service Providers (CSP).
+The project has been tested and deployed on SeSTAs production server.
+Key features implemented in the application:
+Role-based Access Control
+User-specific dashboards (Users can track their monthly activities here.)
+Manage Members (Members can apply for the loan if the required criteria satisfy.)
+Manage Users (Users with different roles can be created here)
+Manage Loans (Loan Application list, Loan Approval, Update EMI and Tasks, Print Loan Application)
+Manage Activities (Livelihood activities performed by CSP user)
+Manage Master Data
+FPO
+Village Organization
+SHG
+Loan Purposes
+Activity Types
+States
+Villages
+Few screenshots:
+We have also migrated the existing shareholder data to this new platform.
+We have completed the handover process and all the necessary documents have been provided to the SeSTA team.
+Lastly, I would like to thank Manash, Birkhang, Jayprakash, and the entire SeSTA Team for their cooperation during the project.
+Here is the previous update on the project:
+SeSTA FMS Project Status

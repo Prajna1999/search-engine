@@ -1,0 +1,39 @@
+Title: My inaugural Tech4Dev sprint
+Author: Kurund Jalmi
+Date: September 2022
+Category: Glific
+URL: https://projecttech4dev.org/my-inaugural-tech4dev-sprint/
+==================================================
+
+This blog is written by Nidhi Goyal, from
+Tech4Dev
+Of all the places I had imagined work would take me to, Dehradun was not one of them! But thanks to the terrific team at
+Tech4Dev
+I spent a couple of days last week soaking in the greenery in Dun while also being inspired by the group of founders, problem solvers, and technology enthusiasts
+With the covid induced workstyles over the past 2 years, I had almost forgotten the power of a group of people coming together in person. But these couple of days in Dehradun last week, when I finally got a chance to meet the extended Tech4Dev team, were a helpful reminder.
+I must admit that on video calls my interactions had been easy, yet I wasnt sure what it would be like to actually meet all of the extended team. The ease with which the introductions (and the jokes) flowed when we came together for our first cup of chai on 11
+th
+eve, set the tone for the next 2 days.
+Introduction session
+In so many ways the elements of culture that we spoke about the next day were all visible in the first meeting itself.
+Transparency and openness are clearly the cornerstones for
+Tech4Dev
+. The collaboration among what would otherwise be considered competing entities was driven by their sincere commitment to the purpose above all else. Arjavs session on culture only helped us explicitly call out these elements (and a few more) that the team had already been living.
+Arjav’s session on Culture
+For me personally, it was an opportunity to learn more not just about
+Glific
+, WIT, Fractional CTO, and the Data platform but also about our collaborators from
+Avni
+,
+Dhwani
+,
+Aam Digital
+,
+Hyperverge Academy
+,
+Colored Cow
+, and
+Dasra
+.
+While corporations around the world draw out multi-year digital transformation roadmaps and tech talent gets more expensive by the day, it was heartening to see this group of change agents working to make technology accessible for the social sector and providing them the means to be more impactful in their work. The fact that the NGO user base has been doubling year on year without any marketing investments is a testimony to the value our tech tools are able to add to their work. The team of course has taken note of additional feature requests and I am keen to see how the product evolves over the next few months.
+Looking forward to our next sprint in Pondicherry where we expect to have better weather, even better food (for the body and the soul), and exceptionally good coffee!

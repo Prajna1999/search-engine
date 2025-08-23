@@ -1,0 +1,34 @@
+Title: Yenepoya HDSS ready to Go Live
+Author: Kurund Jalmi
+Date: October 2020
+Category: Avni
+URL: https://projecttech4dev.org/yenepoya-hdss-ready-to-go-live/
+==================================================
+
+As part of the Yenepoya HDSS project, we are developing Health and Demographics Surveillance System for Yenepoya Medical College. The project is done by configuring
+Avni
+. You can
+read more details about the project here
+.
+Project status
+Development and UAT for all the modules are complete and the app is ready to go live from next week.
+Yeneopya Project Tracker
+The development has been a very collaborative process between Samanvay and Yenepoya teams, with weekly demos, feedback and status checks. Yenepoya team has been very diligent in testing every part of the system and providing feedback. The app is also translated in Kannada and was also tested by field supervisors and field workers.
+Discussing project progress in Yenepoya weekly call
+Covid Impact
+The project had brief pauses in between when the Yenepoya team got busy with emergencies due to COVID. Even the ‘Go live’ got delayed because of this. There are stigma and fear in the communities related to COVID. In our last weekly catchup, when discussing going live someone raised if communities will misinterpret this work as related to COVID and whether they will cooperate. But as the Yenepoya workers share a good rapport with the community, the team feels confident to move forward.
+Sharing about the Work
+In the month of July, we jointly conducted a webinar to share about the work done and encourage others to embark on this journey. The target audience were faculty from medical colleges and epidemiologists. It was well received and attended by more than 200 participants.
+Faculty members from a college attending our webinar
+The talk covered the following topics
+What is health demographic surveillance system?
+How EDC tools and IT platform boost/amplify the benefits of HDSS?
+How to establish EDC tools and IT platform for developing HDSS? (Experience sharing (Yenepoya)
+From Technology-based HDSS to clinical trials and longitudinal studies
+Demo
+Reviewing from IT Operations Lens – Security, Confidentiality, Scalability and more.
+Q & A
+You can watch the recording here:
+https://www.youtube.com/watch?v=XVeZoXLU__w
+Next Steps
+We are now looking forward to the system going live and getting used by workers for actual work. There are always new and interesting learnings that come when the app goes to actual use. We will be keenly listening to any feedback coming from there both from project and platform perspectives and taking appropriate action.

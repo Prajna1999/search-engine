@@ -1,0 +1,58 @@
+Title: Lakeer – Tech4Dev Update
+Author: Kurund Jalmi
+Date: February 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/lakeer-tech4dev-update/
+==================================================
+
+In November 2018,
+Lakeer Foundation
+was
+selected
+as one of the winners of technology development support from Project
+Tech4dev
+, an initiative of Chintu Gudiya Foundation. We are part of a group of 8 Indian NGOs selected out of 81 applicants by the Tech4dev project which works with Indian NGOs to enhance the implementation of their programs through strong data collection, analysis, and visualizations tools. It is led by tech entrepreneur and philanthropist Donald Lobo and software solution providers
+Web Access
+,
+Samanvay Foundation
+, and
+Soft Corner
+.
+As one of India?s fastest growing technology non-profits, we see technology as a strong amplifier of good governance. We are focused on improving the quality of life in urban India through building open-source decision support systems for administrators. We work with multiple city administrators including city leaders in the municipality, waterworks & sanitation department, public transport authorities, and others. We help them understand what quality of life challenges citizens are facing and help them think through ways in which their limited budgets can be prioritized to solve these.
+This is made possible by our open source geospatial data platform CitySight which allows city administrators to:
+IDENTIFY priority action areas across 42+ quality of life and governance indicators
+ANALYSE the current state of each indicator in the city in comparison to global benchmarks, and discover root causes of challenges
+PRIORITIZE indicators to act upon on basis of urgency, feasibility, visible impact and long-term impact
+SOLVE by increasing intra-department collaboration and working off global benchmark solutions and best cases
+REPORT verified success stories using data & maps in accordance with central government schemes and benchmarks
+We applied to Tech4Dev last year with the intention of building an open-source storytelling tool that will allow us to share the insights from our data & GIS analytics more widely with government leaders, civil society, and media. Here?s what we described our target product as in our application –
+?We need help incorporating an open source map-based storytelling tool into our platform CitySight. While administrators have access to CitySight?s Identify and Analyse features we have not built out the ?Report? tool yet. As a result, our work on problem identification and the government?s response by finding solutions remains cut-off from broader citizen participation. To overcome this challenge, we want to explore building web-based reports combining text, video, images, charts, and embedded maps that can be archived on the platform and be accessible to all users (and to citizens) on every challenge reported and actions taken.?
+Tech4Dev has assigned Soft Corner to work with us for a period of 6 months in helping us build this reporting tool so that we can share our work with the government and public in a powerful way. We?re really excited because the Soft Corner team has done some great GIS work with
+Shelter Associates
+, which is a sanitation-focused NGO in Pune, and we have the opportunity to learn from their experiences.
+Through December we had two detailed calls with the Soft Corner team during which we explained our work and our major technical challenges. On 25th January, we had the first formal partnership meeting with Tech4Dev team at Lakeer?s Office in Hyderabad. It was a very productive meeting where we exchanged notes about each other?s work and outlined what we wanted to build together. In the spirit of the open source movement, we decided to share everything that was discussed at this meeting with the broader community and also get ideas/feedback from others!
+Based on this conversation, Soft Corner is going to look into scoping out 2 pieces of technology support for us –
+Build a mechanism for us to push outputs from QGIS desktop analytics directly to our open-source GIS visualization tool CitySight:
+Amar is looking into options such as the QGIS cloud (which is a bit expensive) as well as a custom QGIS plug-in (which would be cheaper)
+This technology would be helpful for other NGOs such as Shelter Associates, DataMeet etc. who rely on the free QGIS desktop software for analytics.
+At this point, we are unsure if there is sufficient budget in the tech4dev grant to support this work so we will have to wait to hear and will update everyone through a blog post
+Build a reporting tool that would allow us to publish data-driven and map-based stories explaining urban issues and involve citizens more closely in governance.
+Pradnya built a great early prototype to get our thoughts on what this reporting tool might look like.
+When we initially shared our ideas with Soft Corner team we were thinking of building individual reports for every issue, however, the team is now encouraging us to instead think of having a microsite for every city we work in???and publish stories on issues from the microsite.
+This is a really interesting idea, and this week the Lakeer team will brainstorm further on this along with some of our champion users from the government and take a decision. If
+you have ideas please share them in comments
+The basic functionalities we discussed for the reporting tool are: (i) Segmenting a one-page microsite into multiple vertical panels, (ii) Ability to add titles, subtitles, pictures, and videos to each panel, (iii) Ability to pull a map from a database and embed it with custom styling in the report. This way the map can be continually updated based on changes pushed to the server either automatically or manually, (iv) Visualisation of time-series data to report changes happening in a city over a period of time, (v) While the reporting would be a vertical story, provisions for horizontal scrolls would be provided to show time-series data, graphs etc, (vi) Comments section (which would be moderated) at the end with an option to share the report, (vii) Making the reporting tool mobile compatible, and (viii) Build in flexibility for the tool to be multilingual though we will not build this feature right now
+.
+As suggested by Arun, Lakeer and Tech4Dev will put in place the following project management practices –
+We will be have weekly calls and monthly in-person meetings. Next meeting is planned in February at the Soft Corner office.
+We will build the target tools in monthly sprints with work distributed as follows:
+2 weeks of development
+1 week of testing and quality control (QC)
+1 week to move from staging to the production server and test with real users
+We wanted to use free project management tools to keep costs low and decided on Slack & Trello
+On the whole, the meeting gave a sense of direction on how we would grow together. The next step is to freeze on the scope of work and get started. Stay tuned for further updates.
+Finally, a big big thank you to Tech4dev for selecting us! We?re grateful that you saw merit in our application???early validation of this sort in year 1 of our journey means so much to us. We can imagine how much work has gone into setting-up and managing this entire process. Thank you for your energy, thoughtfulness, and vision to do this. We hope more philanthropic supporters will be inspired to work with tech non-profits as a result of Tech4Dev!
+By
+Sai Krishna Dammalapati
+,
+Lakeer

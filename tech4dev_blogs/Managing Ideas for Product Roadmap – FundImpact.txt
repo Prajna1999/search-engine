@@ -1,0 +1,62 @@
+Title: Managing Ideas for Product Roadmap – FundImpact
+Author: Kurund Jalmi
+Date: June 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/managing-ideas-for-product-roadmap-fundimpact/
+==================================================
+
+We started seeding product ideas of FundImpact with some broad assumptions and within few days the list grew into feature deck of an ERP solution. On top of this, our participants in the user study had poured even more ideas that they find are extremely important.
+Everything under the sun, is perhaps, not a good starting point for developing a product roadmap. We quickly realized that we need to refine our ideas and prioritize features for a more feasible roadmap in the coming weeks.
+In this blog, I’ll share how at FundImpact we are evolving our Product roadmap. We have organically developed this process to better manage the ideas and build a common understanding of what we are envisioning.
+Beginning with a Concept Note
+Our initial ideas and discussions about FundImpact converged into a
+concept note
+and we were confident that it was good enough starting point to give a solid ground to the Product Roadmap. However, as dive deep into User Research Programme our assumptions on certain features were not validated by actual stakeholders.
+Our participants are very ambitious about the product vision and are sharing lot of useful insights on how we should develop the product. Our
+very first interaction
+challenged us to revamp the entire technical concept of FundImpact.
+Tools used
+: We have used Google Docs for drafting our ideas, LucidChart for creating the flow diagrams and Balsamiq / Adobe XD for creating wireframes.
+Revisiting Sticky Notes for consolidation of Ideas
+After our initial interactions, we decided to go back to Sticky notes and converge ideas from our initial concept note and learning from user research programme to create more generalized feature set that can cater to large base of user groups.
+FundImpact Product Ideas consolidated using Sticky notes
+We had to create several versions of these whiteboards to maintain a clear distinction of original source of ideas. We had a whiteboard for
+client
+,
+internal team
+and then a
+final consolidated
+version. This practice ensured that we are not diluting anybody’s idea and can always revisit the design process.
+Tool Used
+: We are using Google Jamboard for creating these Ideaboards.
+From Sticky Note to the Feature List
+A fruitful thing that emerged from this exercise was
+feature category
+. We were able to club our ideas into more logical grouping and think through about their technological implementation. These groupings would eventually form the pillar of FundImpact and define the technical architecture.
+Now, we wanted to formalize our findings into a more workable format. Sticky notes are convenient for visualizing and summarizing, but we wanted to go back to our concept note to create a more detailed version of these refined ideas.
+A working feature list to refine the Product Roadmap
+We created
+our working list
+of features/ideas from the whiteboard and added a few more parameters for selection of final set of features for the product roadmap. These parameters are like – how important is the feature?; the product category; source of idea, would you vote for it be in the product roadmap, etc.? Some of these parameters are mentioned below:
+Feature Name:
+Its very critical to evolve a product nomenclature and build a common understanding of what each feature means and what is its scope.
+Importance:
+We take a polling from stakeholders on how important the feature is for the product roadmap.
+Feature or Concept
+: A lot of ideas were still in nascent stage i.e. we still didn’t know how they would be technically implemented. Therefore, we decided to label them as
+Concept
+. This distinction greatly helped us in sorting and clarifying what we should be putting the roadmap.
+Feature Category:
+The logical grouping of features.
+Tool Used
+: We are using Coda.io for managing this feature list
+Re-Thinking about Solutions
+The next step in our approach is to think about ways of technically implementing these different features/ideas. A cursory look at the list gives us confidence on designing reusable components.
+A major reconsideration on the product architecture was doing away with the
+Deliverable cards
+. We earlier thought, a project would have several deliverable cards, where each card would have funding details and the activities which are time bound and tied to that fund . However, in our user research programme, we discovered that it is not a practical solution on ground (no matter how sound it may look from management point of view). It is a very rigid feature.
+We are now contemplating on creating a much more flexible feature than a fixed parameters in a Deliverable Card. A
+list feature
+which will enable users to create their own custom list items, custom columns, etc. These lists can be defined by user to track Funding Details, Project Activity Details, Impact details, etc.
+I hope process and tools mentioned in this blog would give you ideas on how to better manage a product roadmap. If you have any suggestions and ideas, please drop in your comments, we’ll be happy to learn from your experience.
+Stay tuned for next update on this blog. We’ll be posting the concept v2 of FundImpact.

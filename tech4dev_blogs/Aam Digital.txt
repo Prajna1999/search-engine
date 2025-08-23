@@ -1,0 +1,16 @@
+Title: Aam Digital
+Author: Kurund Jalmi
+Date: December 2022
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/aam-digital/
+==================================================
+
+Aam Digital
+is an easy-to-use case management software for the social sector that empowers field workers in their in-person interactions with participants. Having simple, reliable documentation helps improve the effectiveness and transparency of projects.
+For example, Aam Digital helps social workers and teachers of an education support programme to easily manage all information about students development, attendance and health. That way staff can spend time working with people rather than doing paperwork, while the tool helps them collaborate and keep an overview of progress and critical cases. This data also helps them evaluate the impact of their activities and show achievements to their donors. [
+also see case study
+]
+Aam Digitals open-source platform can be adapted to different use cases and is currently used by NGOs across four continents. Its designed for projects that
+Regularly interact with participants over time and track various data and notes
+Have to work offline and still share information across the team
+Analyse individuals and programs progress beyond a simple spreadsheet (e.g. avoiding double counting or inter-relating various data)

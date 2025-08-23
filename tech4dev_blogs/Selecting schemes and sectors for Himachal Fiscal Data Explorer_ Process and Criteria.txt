@@ -1,0 +1,49 @@
+Title: Selecting schemes and sectors for Himachal Fiscal Data Explorer: Process and Criteria
+Author: Kurund Jalmi
+Date: March 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/selecting-schemes-and-sectors-for-himachal-fiscal-data-explorer-process-and-criteria/
+==================================================
+
+The background research for developing the schemes and sectors wise data for the
+Fiscal Data Explorer
+involves a number of steps. While deciding on the different components for the dashboard, a lot of stress was put on the users? demands for consuming fiscal data pertaining to different sectors and on various government schemes and programmes. Correspondingly, our journey began of selecting and tracking relevant sectors and prominent schemes in Himachal Pradesh.
+Channels of Fund Flow to a District
+Source:
+http://www.cbgaindia.org/wp-content/uploads/2020/02/Budget-and-Expenditure-Information-at-District-Level-Policy-Brief.pdf
+Tracking the money flow in such schemes becomes increasingly difficult as we move from the level of the Union Government to states and subsequently to the districts due to the complexity in the structure of fund flow and the multiplicity in the fund flow channels. Moreover, only a handful of states actually do bring out this information in the public domain. Even for this latter subset of states, district spending data is associated with complicated coding structures making it difficult to comprehend for the uninitiated user. Needless to say, such hurdles at the state and district level, crucially restrict public engagement with fiscal data and in turn constrain public participation with fiscal issues. In this regard, the present dashboard, in addition, to budget data for the state, will also take into consideration the data available on schemes from the district treasuries of Himachal and present them in a simple to use format.
+Curating Sectoral Data
+Creating a sectoral database with fiscal data (budget and spending data) is a complicated process. Often, the relevant budget heads pertaining to a sector, like education or nutrition, are not found in a single source but lie scattered in the detailed budget books of several government departments.
+Collating relevant budget heads of education requires going through the detailed budget books of more than 40 departments which contribute towards the total financial resources of the education sector in a financial year.
+For example, the annual publication by the Ministry of Human Resource Development (MHRD):
+Analysis of Budgeted Expenditure on Education
+, lists 42 different ministries/departments in addition to MHRD that are relevant for capturing the budgeted expenditure on education and training at the Centre. It is thus necessary to curl out such information from these multiple sources and present it in standardised and consumable formats. Moreover, such an approach, of mapping any sectoral data leaves open the possibility of subjectivity in the definitions used. Careful qualification of the data mapping (detailed concordance tables) for respective sectors thus becomes crucial.
+For the purpose of developing the dashboard, we have tried to attain greater horizontal coverage by mapping department-wise data for all departments in Himachal. In addition to this, we will also be deep-diving into one particular sector, namely, children.  Thus, we have taken a two-pronged approach for capturing detailed budget and spending data for different sectors or segments of the population. Such an approach is more straightforward and can be verified easily with the published source of information.
+The decision for narrowing down on children, as the sector of choice, comes against the backdrop of 2019 being the 30th year of the
+United Nations Convention on the Rights of the Child
+(UNCRC). India being a signatory to the UNCRC, is committed to fulfilling the rights of the children in the country. However, India records high
+child mortality rates
+and several recent cases of child deaths in
+Gorakhpur
+,
+Kota
+and elsewhere have brought to the forefront the urgent need for safeguarding the welfare of children. To achieve this, adequate public resources and proper implementation of the government schemes and programmes are imperative. In the sectors sub-section of the dashboard, we would be exploring the sectoral commitments made by the state government of Himachal Pradesh in the last budget cycle and tracking a set of select schemes on child health, nutrition, education and development. It is important to be mentioned here that, this is
+not an exhaustive set of government programmes on children
+in the state but is restricted to the ones which can be tracked through the treasury.
+For bringing together sectoral data on children, we have depended heavily on the framework of analysis established and followed by organisations like HAQ, CBGA and others who have been working in this domain for the last few years. We aim to put forward detailed budget and spending data on child-related schemes through this dashboard which can be consumed by a wide range of users including researchers, journalists, policymakers and CSOs in their analysis.
+Schemes selection in Fiscal Data Explorer
+For the purpose of developing the schemes section of the dashboard, we have curated a list of 21 carefully selected schemes, both from the domain of
+Centrally Sponsored Schemes
+(CSS) and State Schemes. The dashboard tracks a number of CSS like Mid Day Meal, Integrated Child Care Services, National Food Security Mission, etc. from state to districts. In addition to the central schemes, the Fiscal Data Explorer will also be reporting the budgeted allocations and expenditure on several state schemes like Children Home, Beti Hai Anmol, Mukhya Mantri Awas Yojana, etc.
+The logic behind the selection of the schemes has been two-fold:
+Firstly, we have focused on the gamut of schemes from crucial social and economic sectors like education, health, nutrition, agriculture, etc.
+Secondly, we have narrowed down on the schemes which flow through the treasury and hence, can be tracked through the same
+The Schemes Tracker of Himachal Pradesh can be filtered in steps to obtain the month-wise trend of Gross and Net Payments for a particular scheme. The screenshot below captures the filtered search of a crucial Centrally Sponsored Scheme, namely, Integrated Child Care Services, on the tracker. The filters on the left panel will guide the users on selecting the particular scheme, the type of scheme, the district of interest and the corresponding treasury and Drawing and Disbursing Officer and so on.
+Source:
+https://superset.civicdatalab.in/superset/dashboard/hp-schemes-tracker/
+The dashboard will also represent a month-wise distribution of net payments for select schemes for exploration by a wide range of users. The snapshot below shows how the trend of net payments for select state schemes in Himachal has been. An interesting observation is that the agriculture sector scheme, Rajya Krishi Yantrikaran Programme, has observed spending very late into the year, i.e,.only starting from the last month of the second quarter.
+Source:
+https://superset.civicdatalab.in/superset/dashboard/hp-schemes-tracker/
+We hope the explorer will be able to put forward many more such interesting observations and insights from the budget and spending data of Himachal Pradesh. The development of the Fiscal Data Explorer will be a step-wise process with several additions and refinements incorporated into it subsequently.
+About the Author
+The author is a public finance researcher with Centre for Budget and Governance Accountability (CBGA). Simonti has been involved integrally with the development of the data platform, Open Budgets India.

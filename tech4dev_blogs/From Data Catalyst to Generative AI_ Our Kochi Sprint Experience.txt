@@ -1,0 +1,56 @@
+Title: From Data Catalyst to Generative AI: Our Kochi Sprint Experience
+Author: Akhilesh Negi
+Date: October 2023
+Category: Glific
+URL: https://projecttech4dev.org/from-data-catalyst-to-generative-ai-our-kochi-sprint-experience/
+==================================================
+
+The Tech4dev Sprints hit the road again, this time landing in Kochi This time we were staying at
+Courtyard by Marriott, Kochi
+conveniently next to the airport  perfect for the squad coming in from all over the world. This sprint was split in two: first, exploring our experimental initiative, Data Catalyst, and then, a deep dive with our Glific NGO partners on generative AI.
+To give a  bit of background about Data Catalyst,
+Our platforms:
+Glific
+,
+Avni
+and
+Dalgo
+have a focus on on-boarding as many NGOs as possible at relatively low cost. Hence our close interaction with most of these NGOs (beyond the onboarding and initial setup) is fairly limited. On the flip side, our
+Fractional CxO
+program is a highly intensive (half time typically) 6-9 month engagement with medium-large NGOs. We had enough data points from both these interactions, to realize the need for a program around data in general and
+responsible technology + data
+in specific. Read in detail here in  Abhishek Nairs
+blog
+With Data Catalyst, we  wanted to give NGOs the tools to work with data like pros. But, were also humble enough to admit we didnt have all the answers. So, we teamed up with
+Dasra
+,
+GoalKeep
+and
+Agency Fund
+.
+Most of us arrived in Kochi on sunday as we prepare for next 4 days of work, socializing, understanding NGOs program, brainstorming solution and a lot more.  I was quite excited for the both part of the sprint as for Data catalyst I was with Lobo and Radhika where we were SPOC for two NGOs namely SeSta and OBLF
+A bit about them:
+SesTA
+empowers North East India’s rural communities, especially women, through socio-economic support in over 2200 villages. They provide skill development, link women to social security schemes, and promote sustainable agriculture. Through an 8-year model, SeSTA steers communities towards self-reliance and tech enhancement.
+Sudha and Faiza sharing about OBLF
+OBLF
+aims to uplift underprivileged communities in Anekal Taluk through education, women empowerment, and healthcare. Despite India’s urban growth, places like Anekal struggle with 30% illiteracy. OBLF’s approach includes English teaching programs, women’s training, and primary healthcare. They’re now amping things up with their digital platform, Invigorate, to reach and teach even more folks.
+Radhika and I teamed up to work with SesTA, while Lobo dove into things with OBLF. Our days were split between morning presentation and discussions and evening work sessions. At one point, Swapneel shared how each NGO could choose one or two focus areas for growth in next three months. SesTA went for data collection and visualization. It was great working with Ritika from SesTA as she explains the ins and outs of their work, how they gather data, and the challenges they’re looking to overcome. Excited to see where they’ll be in three months. We’re catching up again in January for round two of Data Catalyst!
+Another thing I was really looking forward to was meeting Edmund from Agency Fund. We’ve been collaborating on this OpenLLM repo for the past few weeks. Basically it is a generative AI to generate answers from a custom knowledgebase which will then be integrated into Glific via APIs.
+Read progress with GPT and generative AI in Glific so far here:
+ChatGPT comes to Glific
+ChatGPT Unleashed: Journey to Production and preparing for launch on Glific
+We kicked things off with Jugalbandi, a decent starting point for ChatGPT and generative AI exploration from NGO point of view. It gave them a chance to run a small pilot, see how it felt, and figure out if it’s their cup of tea. But as we start making more progress in this and talked with a few other NGOs, we come across few other amazing capabilities of GPT like function calling, and retaining conversation memory for better context aware answers  exactly what many NGOs are after. So we chose to work on our own LLM project because these aspects match what many NGOs require, and Agency Fund has been a big help
+So far in the past few weeks we were able to setup base version of the LLM capability where user ask question and answer is generated from custom knowledgebase.
+In first few days we were able to knock off few issues which are significant steps forward in our LLM repo. Huge shoutout to Edmund for all the work which he had done that helped greatly in getting things done quickly. Once development was completed, we deployed the latest version of it, Thanks to Rohit Chatterjee
+In just a few weeks, we got the basic LLM feature up and running, where users can ask questions and get answers straight from our custom knowledge base. Early on, we knock off few issues that pushed our LLM project forward big time. In addition to helping us in development, Edmund also held a session where he explained the basics of ChatGPT and LLM and how powerful it is and can be used by NGOs
+Once we done with the development, Rohit Chatterjee helped in deploying the laterst version, bringing more of the new magic of generative ai.We even had a sneak peek demo showcasing how it works with Glific and shared what’s our plan for  upcoming weeks will be.
+Stay tuned, because we’re gearing up to weave openLLM even tighter into Glific for a seamless integration.
+Key highlights from the sprint are
+Morning walks started gaining more and more traction with new sprints, this time a majority of people joined morning 6:30 walks led by lobo
+Finally a sprint with great filter coffee to begin our day and get charged for the day, we used to have two cups atleast to begin our day which worked like double battery to run all day
+The Data Catalyst sessions were on point: started and wrapped up as planned. On the other hand, Glific LLM sessions were more flexible, letting NGOs and experts dive deep into the wonders of GPT and collaborate more
+Nothing beats working in person and having long coding sessions. Really enjoyed working with Edmund from Agency Fund
+As we’re teaming up with NGOs for a solid three months, it gives us a good chunk of time to really dive deep and assist them. It’s not just about the tech side of things. We get to understand their challenges more intimately. In shorter projects, there’s a tendency to quickly jump to solutions without fully grasping their issues and seeing where they’re coming from.
+Sessions held by Edmund and Aman really helped in educating NGOs with nuances of GPT and pushes them to start implementing and building on top of knowledge the acquired in these insightful sessions
+Undoubtedly one of the most intense sprints with long hours of work. But the best part was we all achieved a lot in such short duration and a day off at the end. A perfect chance for us to hang out, chill, and really get to know each other outside of work.

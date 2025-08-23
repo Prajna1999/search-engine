@@ -1,0 +1,44 @@
+Title: Tracking Flow of Public Funds through Open Data
+Author: Kurund Jalmi
+Date: April 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tracking-flow-of-public-funds-through-open-data/
+==================================================
+
+CivicDataLab
+is the recent entrant to Tech4Dev collaborative, working with the goal of connecting Data, Tech, Design and Social Science to strengthen the course of civic-engagement in the country. And one of the key aspects of our work is to help citizens better understand how public funds flow in the country and how they can work with their elected representatives to have better fiscal oversight in their geography. Here we walk you through our journey so far with the Open Budgets India initiative, in collaboration with the
+Centre for Budget and Governance Accountability(CBGA)
+. And then explain what we are planning to build in the next couple of months.
+Background
+Government Budgets determine government?s take on their promises and past decisions, prioritizations across sectors and explain the allocations for different critical sectors of an economy. Budgets are also leveraged as a tool for enabling trust in the government?s financial activities by providing transparency on public funds and can act to support impactful and equitable public policies. But to make government budgets as effective as it sounds, there is a need for Government to publish their complete budgets in a timely and easily usable format, along with disclosing a complete picture of the financial commitments
+in public domain and create appropriate channels for facilitating sustained public participation in budgetary processes.
+This aspect is an essential pre-requisite for the citizens at large to participate in budgetary processes for ensuring transparency, it enables increased public scrutiny on the government?s financial activities and easier reporting of misappropriating public funds. Despite these clear benefits, we still have very few open budget data initiatives across the globe and those that exist are yet in their nascent phases
+The Problem
+In India, public access to budget data diminishes significantly as we go deeper from the Union(Central) Government to local governments, particularly at the district and sub-district levels. This gap has constrained public engagement with locally relevant budget information and processes. Union Government has started publishing the majority of its budget documents in XLS(Microsoft Excel file format) format from the year 2011-12 onwards. But at the level of States, budget data is still not available in an easily accessible manner as some of the State Governments still do not publish the complete sets of their budget documents online and those who do, publish the budgets only for recent years, all in PDFs(Portable Document Format). As we move further to Municipal Corporations, the availability of budget documents online significantly reduces and the variation in data representation drastically increases.
+Our Approach
+We partnered with Centre for Budget and Governance Accountability CBGA in collaboration with a number of other research organizations and individuals to co-create
+Open Budgets India (OBI)
+– a comprehensive and user-friendly open data platform that can facilitate free, easy and timely access to relevant data on government budgets in India. The platform provides budget information of different tiers of government in India (Union Budget, State Budgets, Budgets of several Municipal Corporations and Expenditure data from District Treasuries across the country) inaccessible and open (non-proprietary) format.  We have 160K+ active users across the globe accessing and using 10.6K+ open datasets and numerous data visualizations on the platform.
+Key Data Products
+We collaborated with
+DataKind?s Bangalore
+, engaging in a long-term DataCorps collaboration to build
+Story Generator
+– an open-source tool enabling comparison of key fiscal indicators across the states and financial years. The data for this tool comprises of various receipts and expenditure indicators across twelve key development sectors for 26 states (including Delhi).
+Source:
+https://cbgaindia.github.io/story-generator?
+We also developed Budget Dashboards for exploring Union, State and District level fiscal data. These dashboards help you navigate through data, visualizations and insights from various tiers of government to make Government Budget more usable and easy to comprehend, which in-turn increases  public participation and government accountability
+Source:
+https://union2019.openbudgetsindia.org ?
+Source:
+https://dash.openbudgetsindia.org/superset/dashboard/odisha_balasore_treasury_dashboard/?standalone=true
+Working with Governments
+As a  part of a Memorandum of Understanding(MoU) with Assam Finance Department to work towards strategizing and promoting fiscal transparency initiatives including publishing of timely machine-readable budget data, increasing citizen engagement in budgetary processes, etc. For the same, we conducted a capacity building workshop with representatives from various departments led by the Department of Finance on open source technology and open data policy space in India for presenting financial data, for data-driven and outcome-focused budgeting processes. Along with workshops we also developed a public dashboard
+Assam Budget Board
+for analyzing Assam’s budget. It allows the users to explore various aspects of the state?s budget for 2019-20 including money flow, expenditure, receipts, schemes and more.
+Source:
+https://assam2019.openbudgetsindia.org ?
+Road Ahead
+With the support of  Tech4Dev, we aim to build two key open-source data products – Open Fiscal Data Explorer for Himachal Pradesh covering their budgets and spending information, and a Child Budget Tracker covering few states in India. State-level Fiscal Data Explorer help citizens to understand state expenditure, receipts, key schemes as well as other parts of the budget like outcome budgets, sectoral budgets, etc. Along with this, citizens will be able to track monthly spending in major districts leading to increased fiscal transparency and hence eventually more public participation in the budgetary process. Lastly with the Child Budget Tracker, we aim to anchor more data-driven discourse on how public funds are being prioritized for child well-being (focusing on key areas like Child Education, Health, Nutrition) and protection in the country. These FOSS products will be pivotal reusable data solutions that can be scaled to multiple geographies in public finance and beyond.
+About the Author
+Shreya Agrawal is a data fanatic at CivicDataLab, who loves to scrutinize data as well as answering unanswered questions using visualizations. She will be leading the efforts of co-creating ?Fiscal Data Explorer and Child Budget Tracker. When she is not busy wrestling with data, she enjoys good movies, food, travel, guitar and CrossFit.

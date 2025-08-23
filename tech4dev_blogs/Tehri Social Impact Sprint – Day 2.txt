@@ -1,0 +1,25 @@
+Title: Tehri Social Impact Sprint – Day 2
+Author: Kurund Jalmi
+Date: November 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tehri-social-impact-sprint-day-2/
+==================================================
+
+This blog post is written by Simon(Aam Digital) and Prateek(Dost Education).
+The second day of the Social Impact Sprint started for some people with a nice 90 minute walk from the huts to the university. Its a very pretty area with some beautiful views of the landscape, especially from the university which is located on a hill.
+Tech Talks
+After a delicious breakfast we gathered for the daily tech session where two organizations are presenting their projects. Today it was
+Dost Education
+and
+Aam Digitals
+turn.
+Prateek and Satendra presented Dost Educations. Dost works with parents of young kids to teach them about the importance of Early Childhood Development and how they can improve it. Parents join the Dost program and get daily short automated voice calls to learn about a new topic every week. We saw how their tech works and they use analytics to drive various decisions.
+Aam Digital is a web application targeted to the needs of smaller NGOs that have difficulties managing their daily information. The users can easily register new beneficiaries, add notes about program activities or record attendance. At the same time Aam Digital displays the data in a user friendly way which allows project managers to get a quick overview of their program activities and plan their activities data driven. The data collected on the daily bases can then also be exported to donors to give a broader overview on the impact of the project.
+Daily Routines
+For the rest of the day the participants are free to work on whatever they want. There are always a lot of people having video calls, some are in an intense coding session and there is always a small group chatting in the coffee corner. However, the best thing about the sprint is meeting up with people from other organizations, understanding how they are working, what their current challenges and learnings are and to find out how we can profit from each other and create a greater impact.
+During lunch a nice conversation about Open Source took place where we discussed the challenges and opportunities of software developers making their source code publicly available. It was interesting to hear about the different reasons why organizations decided to go open source and how they are engaging others to contribute.
+In the afternoon a smaller group went for another walk to visit some of the beautiful viewpoints around the university.
+Deep Dive
+After presenting their project the day before, some developers of the Gliffic team gave a deep dive session on their own software architecture and how they are using and integrating with Googles Big Query and Data Studio. It was very interesting to hear how they are cooperating with the NGOs to build data dashboards and their partners are used to working with Data Studio.
+Tearing Down
+As the day was setting, the chilling began. Some people learnt how to make coffee, some had a nice game of dart, some went for short rides on skateboards and scooters. The day ended with another delicious dinner, some nice sweets and a relaxed birthday celebration for Sebastian, one of the participants.

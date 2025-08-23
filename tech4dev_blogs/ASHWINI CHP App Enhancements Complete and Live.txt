@@ -1,0 +1,30 @@
+Title: ASHWINI CHP App Enhancements Complete and Live
+Author: Kurund Jalmi
+Date: November 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/ashwini-chp-app-enhancements-complete-and-live/
+==================================================
+
+We have completed the work of
+enhancing the Community Health Programme (CHP) Application
+built using
+Avni
+.
+ASHWINI was already using Avni for their maternal and child health programmes. Following new modules were added to the existing deployment
+Chronic Sickness
+Sickle Cell
+Mental health
+Family Planning
+TB
+Death
+Screenshot from ASHWINI Avni Admin App showing different programs setup
+Highlight of the Project : Self Serviceability
+A key highlight of this project for us was that we involved the IT team from ASHWINI to do the development. They developed forms using the then
+newly released App designer of Avni
+. As part of the form creation, they were able to add the skip logic rules, validation checks and visit scheduling rules with the help of some examples provided by us. They also developed reports by writing SQL queries. The work was tested by us thoroughly before making it available on production.
+This was the first time an IT person from an NGO was using the App designer. This worked as a pilot and test for self-serviceability for such a use-case. It turned out to be a successful one and we gained good insights and feedback from it too.
+Go Live
+A couple of weeks back the co-ordinators team of ASHWINI provided training to health animators on using the expanded version of the app. The health animators have now started to use the app on the field.
+Thanks to Kannan, Jiji, Roshina, Dhanya and complete ASHWINI team for this collaborative effort and an opportunity to work on this.
+What next?
+Now that ASHWINI has 2 full-fledged systems running – one in the hospital using Bahmni and another in the community using Avni, their vision is to be able to see the data from two systems as complete records as well as at aggregate levels. This will facilitate better service delivery and research. As part of a separate project, we would soon be starting the development of an integration middleware between the two systems.

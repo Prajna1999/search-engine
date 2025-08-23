@@ -1,0 +1,33 @@
+Title: Avni UI Designer Cohort 2 Project Scope
+Author: Kurund Jalmi
+Date: March 2020
+Category: Avni
+URL: https://projecttech4dev.org/avni-ui-designer-cohort-2-project-scope/
+==================================================
+
+Scope of the Cohort 2 project of Avni UI Designer
+Samanvay and Soft corner have been working to build App Designer for Avni so that all the implementation work can be done via a web interface. This enables the scaling of Avni implementations by making the following possible:
+Easy onboarding of new implementers
+Allow self-servicing for simple use cases by NGO IT person
+A basic web interface was developed under the previous cohort of tech4dev. The web interface is in beta and has been shared as a pilot to new implementers and NGOs part of this cohort. This project aims to complete the identified backlog from the previous project and also incorporate feedback from the pilots. Following are focus areas/themes identified for this project to prioritise features:
+All the features available as of now in the product become configurable via UI interface (Avni product keeps adding newer features and configuration, so new features will not be covered under this as that becomes a moving target).
+Improving ease of use
+Test Cases
+A tech implementer would be able to do end to end implementation of any complexity on own using community resources and without needing Samanvay?s support
+A semi tech person like a Program coordinator will be able to make minor modifications to an existing app or design a simple app with simple rules like SkipLogic and validations.
+Features
+Workflow
+Make it possible to attach forms to entities like subject type, program, and encounter type from the screen of the entity itself. Currently, it requires the user to go to form screen and specify multiple things which makes it complex for new users to map forms correctly.
+Declarative Rules
+Make it possible to specify skip logic using UI(without having to write code).
+Inline concept creation
+Ability to create a backing concept inline when adding a new form element for the form. Right now it requires one to keep the concept screen open in another tab and create concepts.
+Kickstarter modules
+Allow users to choose from pre-existing modules(child, mother, adolescent, etc) as a base when starting a new implementation.
+Incorporate feedback
+Fix things that come from the feedback when users use the UI Designer.
+Features NOT Implemented
+Make App serviceable by a non IT person at NGO someone like a Founder or project manager with zero experience of using tools like these.
+Organisation groups and group admins
+Automatic billing, renewal, subscription, etc
+Report related items

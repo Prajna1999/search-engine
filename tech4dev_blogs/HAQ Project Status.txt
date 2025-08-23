@@ -1,0 +1,24 @@
+Title: HAQ Project Status
+Author: Kurund Jalmi
+Date: December 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/haq-project-status/
+==================================================
+
+We have implemented the Case Management System for HAQ, using an Open Source software platform PRIMERO and the project has been completed and handed over to the HAQ team.
+HAQ: Centre for Child Rights works towards the recognition, promotion, and protection of rights of all children. HAQ undertakes not only research and documentation but also is actively engaged in public education and advocacy on children?s rights. It also seeks to serve as a resource and support base for individuals and groups dealing with children at every level.
+Here are the key features that were implemented as a part of this project.
+User creation
+Managing roles for users
+Role-specific forms
+Case management
+Case assignment & referral
+Uploaded document handling
+Report generation
+Audit log
+Mobile Application
+Here is list of the project updates posted during the implementation:
+https://chintugudiya.org/haq-tech4dev-update/
+https://chintugudiya.org/haq-project-update-primero-review/
+https://chintugudiya.org/haq-primero-issues-and-the-workarounds/
+https://chintugudiya.org/haq-tiss-extending-primero-to-generate-complex-report/

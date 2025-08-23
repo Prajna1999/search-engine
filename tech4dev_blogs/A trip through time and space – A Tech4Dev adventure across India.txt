@@ -1,0 +1,52 @@
+Title: A trip through time and space – A Tech4Dev adventure across India
+Author: Donald Lobo
+Date: March 2025
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/a-trip-through-time-and-space-a-tech4dev-adventure-across-india/
+==================================================
+
+Another few weeks, and I’m back in India. Temina tells me I should be worried about radiation from so much flying, will need to research it. But I do feel I’m living life to its fullest and enjoying spending time with our ecosystem partners, our team in India, our funders and our close friends and partners like Dasra and The Agency Fund. I feel that every trip is amazing, and it cannot get better, but the next trip is always better, I meet more folks who inspire me and I see the ecosystem grow and prosper, and visit a few new places in India.
+This trip followed the same pattern as my recent trips. Too much travel, a lot of in depth conversations with multiple folks, and multiple Dasra events for the 26th edition of Dasra Philanthropy Week, then followed it with the AI For Global Development (AI4GD) Sprint hosted by Tech4Dev and Agency Fund.
+So, without further ado, here are a few highlights and lowlights from the trip and the ecosystem in general
+Highlights
+We decided to invite a few funders and ecosystem partners to the AI4GD sprint to showcase the amazing work our NGOs are doing and to give them a sense of where we see things are going. To our delight, we had an amazing response and had approx 35 folks join us for a day of conversations, insights and explorations in what we can do with AI and LLMs. The good thing about this gathering was our initial set of speakers were quite moderate in what they thought AI could potentially accomplish for the sector and gave a really balanced viewpoint. The biggest takeaway for many of the folks: There are a lot of real things that we could do with AI/LLMs today that can scale and are potentially quite impactful (more rigorous studies need to be done here)
+We wound up the funder day with a closed door session with the funders and some partners. Our combined call to action were:
+We need to educate the broader funder ecosystem who were not in the room. We’ll organize an event in April/May and invite a lot more folks.
+Funders need to invest in the infrastructure that can get initiatives like AI4GD to move at a faster pace. This includes funding strong technical teams, open source collaboration, additional in-person gatherings and more.
+The other two days of the sprint were a whirlwind of talks from multiple NGOs, a lot of working sessions and more. However the most important aspect of this and similar events is the relationships that we build and the knowledge that is shared. From a Tech4Dev perspective, we seem to find some of the common problems that we can solve for the sector and incorporate it into our upcoming platforms.
+DPW started off with an event in Bangalore with some focus on Data and AI. My main talking points at most of these sessions are always anchored by
+We need to listen carefully and understand what the NGOs want to solve. Good to ask questions and understand the problem first before offering solutions.
+While open source is important, for most / all NGOs it is a don’t care. It is more important that their problem is solved in a reliable and relatively affordable manner rather than insisting on everything being open source. From my perspective, it is important that if we fund software development using philanthropic/public money, the output should be open source to allow everyone else to learn from it.
+Collaboration seems to be the buzzword for the past few years, but we first need to publish and share our learnings so others can benefit. It also means we need to learn from what others have shared. To me, thats an important step before collaboration
+As with other similar events, the main purpose of these events is the networking and meeting folks that we might not have crossed paths with. DPW in Bangalore and Mumbai proved quite valuable in that aspect
+Erica
+and
+Vinod
+will have their own blogs that talks about their perspective on the AF sprint and the DPW events which are linked here 🙂
+Takeaways – AI4GD Funder Day
+From my collaborator and partner-in-crime for funder day, Sasha Tanghe, some key takeaways and actions items from the discussions on that day are:
+AI must be measured by outcomes, not just capabilities
+—the focus should be on real impact (e.g., improving literacy, nutrition), not just technical performance.
+AI is most effective when applied to specific mechanisms
+— It’s an enabler to proven interventions. For example, can supercharge interventions by automating personal tutoring, entrepreneurship coaching, or digital extension services.
+Investment in public goods and ecosystem-building is critical
+—beyond isolated pilots, we need shared infrastructure, open-source models, and long-term collaboration.
+Funders are eager for
+more experimentation and flexible funding
+—AI demands a “safe-to-fail” mindset.
+Misses
+From a tech perspective, Tech4Dev is a pure platform play. As such all our platforms build basic infrastructure that can be used by 100’s of NGOs across the world, to build their programs on. We continue to struggle with grant proposals even from organizations who know and recommend their NGOs to use our work. At the same time, we see a lot of wasted money and effort on NGOs rebuilding similar things to meet the grants objectives. This scenario is being repeated as we see more AI grant proposals and is a bit disheartening
+We need to convince funders that if we rely on ecosystem players to stitch things together, we need to fund the ecosystem players also. The AI4GD funder gathering was our pitch to showcase this point. If we want collaboration to happen and public goods  to be developed and used, lets fund the groups that make it happen
+While we’ll always have a few bumps along the way, I’m more convinced than ever that we are headed in the right direction with the right group of people on the team. Exciting times ahead
+After a long and tiring week in India, Mari and I packed our bags and hiking shoes and headed to Bhutan. Spending a bit more than 10 days there and writing this blog from a nice homestay in Bumthang, Bhutan @ 9000 ft. It’s been a great trip so far with 15km+ hikes on most days. Managed to meet an NGO leader in Bhutan and learned that Bhutan as 54 NGOs across the country. Its population is also less than a million to put things in perspective.
+Other posts on AI4GD
+Subhashish Bhadra on LinkedIn
+Hans from Center for Global Development
+Pratiksha Rao from Tech4Dev
+Peter B from Bloom Well Being Fund
+Codie Roelf from Same Same Collective
+Jayesh I from Lend a Hand India
+Akhilesh Negi’s trip across sprints and NGOs in India
+Ecosystem thinking from Erica Arya (CEO Tech4Dev)
+Leading with Language from Manohar (CTO Sattva)
+Bridging Evidence and AI from Anand G (The Apprentice Project)

@@ -1,0 +1,39 @@
+Title: Glific v0.1 has arrived
+Author: Kurund Jalmi
+Date: July 2020
+Category: Glific
+URL: https://projecttech4dev.org/glific-v0-1-has-arrived/
+==================================================
+
+After 3 weeks of training on new technologies:
+Elixir, React, and GraphQL
+followed by an intense month of development in June, we are proud to announce the arrival of Glific v0.1, the first in our monthly series of targeted point releases. For the uninitiated,
+Glific
+is our open-source, two-way communication platform that allows organizations to communicate with their beneficiaries at scale (100+) in an intuitive manner.
+Highlights and features in this release, can be seen in this video
+[googleapps domain=”drive” dir=”file/d/1T8nBKMt1oFndfIHEVlQ38K8lGqjajYaZ/preview” query=”” width=”640″ height=”480″ /]
+Briefly, some of the features we accomplished in v0.1
+Facilitating both automated and human conversations in a seamless manner
+Ability to tag messages manually and automatically (via pattern matching)
+Search across all your messages, contact name and phone, and tag labels.
+Auto-respond to specific messages, ability to set conversation language, seek help,  display menus, and optout.
+From a development perspective, a few more details
+The
+frontend release
+and
+backend release
+are available as tags on GitHub. Both repositories have detailed README.md files to get you up and running relatively quickly.
+The front-end and back-end communicate via the GraphQL API and Subscriptions which allow real-time updates.
+We are using Continous Integration (CI) to manage PR integration with the master branch.
+Complete
+GraphQL documentation
+and
+code documentation
+is available for the backend. We’ll have code documentation for the frontend available from v0.2
+I’m super proud of the team and our accomplishments in the first couple of months of the project and we are just starting to hit our stride. Our expectations and goals for future releases are even higher :). Thanks also to the support team at
+gupshup.io
+who are super responsive and answered our questions promptly.
+If you are curious, you can take a peek at our
+v0.2 and beyond requirements document
+. We are also looking for NGOs who are interested in working with us to build the platform. If you have a good use case, please do get in touch with us at
+tech4dev@chintugudiya.org

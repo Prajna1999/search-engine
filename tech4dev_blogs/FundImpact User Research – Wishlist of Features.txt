@@ -1,0 +1,71 @@
+Title: FundImpact User Research – Wishlist of Features
+Author: Kurund Jalmi
+Date: July 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/fundimpact-user-research-wishlist-of-features/
+==================================================
+
+The User Research Program is opening up new dimensions for FundImpact. With each discussion, we are gaining useful and practical insights on features that will help organizations in efficiently managing their funds. We do understand that the participants in the user study represent a wide spectrum of audience working in different sectors and at varying operational scale, and therefore the scope of platform is getting wider. We are trying to find a balance on how
+flexible
+a feature should be so that organization can adapt its workflows without compromising on any data point or investing management overheads in maintenance. At the same time we are trying to keep the features
+generic
+, so that a large section of the target audience can adopt good practices available via off the shelf features.
+Image Credits:
+Freepik
+The platform holds a lot of potential in serving the most pressing needs of the organizations. Currently, NGOs struggle with different systems serving their own specific purposes of accounting or project tracking. These systems have their own user management, data structure, reporting formats, technology stacks, etc. that makes it even harder for the teams to track projects across different business aspects (finance, operations, compliance,etc.).
+Data Interoperability and Integration with existing systems is crucial for successful implementation of FundImpact in any organization. The platform with its own unique feature will end up working in silos and create additional processes in maintaining data flow across business verticals and systems. In our experience of having developed solutions for hundreds of organizations, we have realized that a custom solution that is handcrafted to serve a specific purpose and has tailor made workflows, would eventually fail to reach its intended objectives due to integration issues. The organizations are rapidly evolving and need systems (no matter how tailor made they were) to adapt with changing needs.
+In this blog, we capture our thoughts on the future of FundImpact and possible pathways for the Product Roadmap. We explore various aspects that can help ease the adoption of FundImpact and organically evolve the technical features with the changing organizational needs.
+Building Blocks vs Integration
+There are two approaches to expand the feature of the FundImpact. The first approach is to offer building blocks which help NGOs perform their operations related to Fund, Project Tracking and Impact Reporting. These building blocks are pre-requisites for an organization to perform these three core processes.
+For example, an NGO would need to maintain its donor database before it could use FundImpact, or they have a requirement to manage the proposal or grant pipeline before they could manage projects on FundImpact. Even utilities like bulk importing of data from legacy systems is a critical building block.
+The building blocks serve minimal viable features and are not intended to reinvent the wheel. They are useful for organizations that do not have systems in place and can rely on these blocks/modules to have a seamless experience in managing their projects.
+The second approach is of Integration. We want to repurpose existing systems and digital workflows as much as we can. This approach shall make FundImpact a versatile solution that leverages existing IT infrastructure of the organization and ensures data interoperability and integrations.
+The system will have Data APIs to push and pull data from other systems. We are also thinking of creating integration modules with some of the most popular Apps and Systems being used by NGOs such as survey tools, accounting tools, donor CRM, etc.
+Wishlist of Features from User Study
+In our User Research program we interacted with stakeholders from six social purpose organizations working for different causes and at different scale of operations. Out of these, one organization had a very particular mode of operation and purpose, hence we kept its requirements as edge case and didn’t include in this study.
+The final result of our user study program is the Comparative Analysis of various requirements suggested by the participants of the study. This list will help in prioritizing the backlog of features to be developed. You can access the result
+here
+.
+Comparative Analysis of Feature Requests from User Study Participants. (
+view here
+)
+In the following sections, we briefly describe functionality of various features and what issue they address of the stakeholders.
+Donor CRM :
+Managing Donor database along with the Donor Contact Details. The feature should allow managing communication history with the donor and record next action/request from the donor. The feature should also allow prospecting Donors and manage the new donor leads.
+Proposal Management:
+Managing project proposals via a sales pipeline like feature. It allows teams to manage proposals across multiple stages. A donor may have multiple projects with the organization or multiple donors may be supporting a particular project.
+Contracts Management:
+Managing various project contracts being undertaken by the organization for easy retrieval during project closure, audit and compliance activities. The feature would allow organizations to track updates in contract as addendum, modifications, etc.
+Budget Negotiation Tracker:
+Some of the organizations have mentioned that the negotiation on budget approval is an integral part of their project proposal. The organization would like to have a workflow for managing budget negotiations. Although we don�t seek much adoption of this feature among larger audience.
+Compliance Management:
+This module allows setting up business rules that presents either a checklist which users can manually verify or system rules to verify compliances on documents, procedures, reporting timelines, etc. The module will ensure that organization is adhering to a set of pre-defined compliance rules while uploading the data and following a particular schedule of reporting, fund disbursal, statutory reporting, etc.
+Smart System Alerts:
+Complimentary to Compliance management is the Smart Alerts which send reminders to the team manager to conclude a task as stipulated in the project MoU, activity schedule, or request from donors or statutory authorities. It can also help teams set business rules to keep track of project related achievements such as alert on not completing a project activity at defined schedule, offshoot in project budget, tapping on budget variances, etc.
+Planner (Activity and Budget):
+This feature is important for organizations who would like to forecast their budget expenditure based on targets set during annual planning. The module allows you to set the Targets for the year and forecast budgetary requirements. It can also be used for tracking the target vs actual and report deviation/course correction measure.
+Project Tracker / MIS / Survey Tool:
+Different projects have different data capturing requirements and therefore one tool can�t cover all aspects of data collection for Project Tracking. The purpose of this module is to give a bare minimum feature set for online web based data collection (something similar to Google Forms).
+Team Task Tracker:
+It is a PM or Todo List feature that would allow team members to keep track of the tasks assigned to them, and ensure the activities that they are performing are tied to project deliverables, responsibilities are well distributed and communicated to all, members are aware of the deadlines, etc.
+Team Management (Organization Organogram):
+This feature can be considered as an extension of the HR tool. Some of the organizations have requested that they would like to assign the members of the organization to certain projects and track their activities/performance/compensation accordingly. The system should provide feature to build up organizational organogram and assign team members to various features/modules/projects on the platform. For example,  Creating user hierarchy based on team structure,  Program structure, Geography, etc.  (District Coordinator/State Coordinator, State wise team, national team, education team, training team)
+Project Expense Tracker:
+Feature to allow ground team members to report project related expenses, upload receipts and tag them under appropriate budget heads. It facilitates the team members and finance managers in tracking project expenses at ease (and don�t have to be worried about lost receipts, scanning of receipts, etc.)
+Theory of Change Designer:
+Some of the organization have proposed using a log frame to design their project deliverables and track them in this particular format. A log frame allows the organization to set targets for Input and output activities and measure its result as outcome or impact. A log frame is a widely used approach in social sector for managing projects that deliver concrete results.
+Document/Knowledge Management:
+This feature facilitates organizing of various documents, receipts, contracts, project reports, statutory documents, etc. to be categorically organized for easy retrieval and ensure adherence to compliance. This feature will ensure appropriate access control in the organization and ensure privacy and confidentiality measures are taken on sensitive information. The feature can also archive and remove access control to team members on certain data items (such as donor list, beneficiary list, project expense reports).
+Managing Sub-Granting:
+Some of the organization collaborate with 3rd party agencies and local partner organizations to implement a project. This feature would allow subletting of certain activities or project deliverables and allow the parent organization in managing these aspects. The partner agencies can also get access to certain features on the platform to report back their assigned tasks, budgetary expenditure, etc.
+Donor Dashboards (reporting):
+This feature would allow Donors to get access to a dashboard to track in real time the progress of the projects they are supporting.
+Donor Related Features:
+The feature would give a donor counterpart of the FundImpact platform. They�ll have donor specific workflows in adding new organizations, managing projects, tracking budget expenditure, reporting across sectors, geography, organizations, etc.
+Accounting Tool:
+This feature would be a bit ambitious. We can think of giving basic double entry system to capture journal entries, create chart of accounts and produce Balance Sheet and Cashflow reports. The idea is not to cover any advance accounting feature or taxation features on this feature/utility
+Integration with Survey Tools:
+Providing ETL layer to some of the popular survey tool such as Dhwani�s MFORM, Survey CTO, Collect platform to fetch and tag survey data to appropriate project trackers and dashboards.
+Integration with Accounting tools like Tally:
+Tally is one of the most popular accounting tool in India. The feature would allow integration with tally to fetch aggregated data and tag them to various project budgets. The idea is to avoid any duplication of efforts in data entry and maintain a single source of truth.
+Stay tuned for more updates on the FundImpact User Research Program. In the next blog, we’ll write about the process and detailed notes of this program.

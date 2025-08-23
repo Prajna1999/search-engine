@@ -1,0 +1,40 @@
+Title: Dalgo bangalore team meetup
+Author: Mohd Shamoon
+Date: May 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/dalgo-bangalore-team-meetup/
+==================================================
+
+I recently joined the Dalgo team, and this was my first team meetup in Bangalore. Previously, I worked on Glific.
+For context,
+Glific
+and
+Dalgo
+are both products under the Tech4dev umbrella. Transitioning from one team to another takes time to adjust, and comparisons are inevitable, but more on that later.
+Since most of the Dalgo team members are in Bangalore, we chose to host the sprint there. Only Abhishek Nair and I were from outside Bangalore, flying in from different places and arriving on Monday for the sprint. I came a little earlier as I had some other commitments.
+It was a four-day sprint from 7th-10th May. We had specific objectives, and there were discussions about whether an in-person sprint would be worth it since everything can be done remotely. After spending four days together, almost all of us felt it was indeed worth it.
+We missed you Ishan 🙂
+The Sessions that took place
+DBT test packages
+used in consulting work by siddhant
+Siddhant showed us various libraries used to validate data before the transformation step. These were quite easy to configure and provided a good base for adding simple validations like:
+expect_column_to_exist
+expect_table_column_count_to_equal_other_table
+These validations seemed quite useful for his consulting work. The team also gained a good understanding of these libraries and began considering data validation features in Dalgo.
+Rohit�s session on development overview and challenges
+Rohit explained how the entire platform is set up and how we use Airbyte to ingest data from multiple connectors. Since the NGOs we work with use different input data sources like Survey CTO, CommCare, and Avni, we had to build unique connectors for them. Airbyte has some default connectors, but it didn’t include the ones we needed. We contributed these connectors to the Airbyte codebase; some have been accepted, while others are still pending, which we use as custom connectors.
+For each organization in Dalgo, we create a separate workspace in Airbyte and add all the connectors for that workspace, including custom ones. We can update connectors separately in each workspace without having to do it globally for all clients.
+We also discussed why we use multiple secret managers (Amazon and Google), how DBT blocks are created, what information is stored in them, and how they are used.
+Consulting learnings from siddhant and abhishek
+One key point highlighted was that consulting had helped improve one of our product’s (Avni) API performance. Other discussions revolved around defining a good scope of work and better estimating timelines and deliverables.
+Overall, these sessions gave me a lot of insight into Dalgo as a platform and how it is used by organizations.
+NGO visits and meetup
+We visited Arghyam on the first day, a non-profit organization based in Bangalore that supports sustainable water and sanitation solutions, and worked from their office. Visiting them helped us in moving forward our discussions faster with them on the work we need do.
+The next day, we visited Noora Health’s office. The office was amazing, and the people working there seemed very happy with their work. I loved the food and the canteen they had.
+I feel we did not make most of it by visiting the NGOs office as most of the time we were working in isolation with the NGO people in a separate room
+For the remaining two days, we visited two coworking spaces: BHive and WeWork, both excellent places. It was nice to work with the team in person. You can discuss and ask questions easily since you’re in the same room; otherwise, you have to schedule a call and wait unnecessarily for messages.
+On the engineering side, we discussed the schema change detection requirements.
+Lunch and Outings
+Every day, we went to lunch as a team. I loved Rameshwaram Cafe, especially the Ghee Pudi Idli they had. I still miss it. South Indian food is the best.
+I spent some good time with the other team members: Siddhant, Abhishek, and Abhishek N daily after work, we visited multiple cafes and places in Bangalore.
+As a team, I feel these kinds of sprints, especially when working remotely, help bring the team closer and make us more productive, allowing us to learn from each other and share experiences.

@@ -1,0 +1,34 @@
+Title: Announcing Tech4Good Software Partnerships
+Author: Kurund Jalmi
+Date: October 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/announcing-tech4good-software-partnerships/
+==================================================
+
+Over the past year, we?ve had the pleasure of interacting with some phenomenal grassroots Nonprofits and equally driven individuals from Tech-companies, committed to bringing about social change.
+Tech4good is acting as a go between, curating tech solutions based on the results garnered from our Organizational Tech Maturity Model Survey, that 150+ partner nonprofits were encouraged to take & have completed. The solutions are designed to benefit organizations at different stages of tech competency & can be refined further to fit their purpose.
+Keeping this in mind, we?ve forged the following partnerships:
+Dhwani Rural Information Systems
+: MIS Partners
+Through seamless integration of customized technology tools, they help organizations increase efficiency, scale-up operations and manage programs effortlessly. From the minutest details to large data sets- one can track, monitor and manage all the data on a
+single interactive dashboard.
+Their solutions are
+multi-lingual
+and
+sector-agnostic.
+From baseline surveys to automated reports, data visualization to data analytics, whatever the need, they?ve got it covered.
+Danamojo
+: Online Payment Solutions Partners
+They are India?s first Online Payment Solutions Platform
+designed specifically for NGOs
+.They provide multiple modes of donating online –
+credit card, debit card, netbanking, mobile wallets, UPI, Bharat QR Code & EMI based payments.
+They also send a
+customized ?Thank You? mail & 80G receipt
+on the organization?s behalf to the donor ( immediately on confirmation of the donation). Additionally, they integrate payment gateways to existing websites without any additional cost.
+GreytHR
+: Payroll & HR Software Partners
+An advanced solution that integrates human resource management (HRM) with information technology. Through this flexible combination it helps reduce time, effort and cost of various operational activities. It automates key areas of HR, payroll management, leave and attendance tracking.
+All Tech4Good partner NGOs will avail special discounted prices and benefits on softwares that will help amplify their impact. We are building a strong community of software partnerships, with partners who are willing to go the distance to meet nonprofit needs. They are employing a dynamic approach to providing solutions, where apart from offering the nonprofit-friendly tools that are affordable & easy to use, they also provide last mile support for implementation & training.
+Additionally, this gives an opportunity to our software partners to experiment with their tools and refine them further, keeping the needs of the organization in mind.
+If you know of any nonprofits or tech companies who?d be interested in exploring synergies, you could reach out to us at hello@tech4goodfellows.org

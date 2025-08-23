@@ -1,0 +1,152 @@
+Title: FundImpact – Product Roadmap FAQs
+Author: Kurund Jalmi
+Date: March 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/fundimpact-product-roadmap-faqs/
+==================================================
+
+Vision
+of the Platform
+What is the larger purpose of the Platform?
+The larger purpose
+of the FundImpact is to empower organizations in addressing the transparency
+and accountability with regards to Statuary compliances, Donor Awareness and
+Internal Audits. It enables organizations to take data driven decision making
+and measure the impact it is delivering.
+FundImpact provides
+off-the shelf features that are easy to implement and serves the basic needs of
+the NGOs (i.e. tracking funding from Donors/Funders and tagging very high level
+activities (milestones) against it.
+How will the platform be positioned as compared to
+bespoke platforms offering similar functionality with freemium models?
+The core philosophy
+of the platform is to provide free and opensource solution that is highly
+modular and extensible. The organizations can use the base platform and extend
+the functionality tailor made to their requirements and workflow.
+The vision is not
+force fit a particular workflow or data structure of the freemium solutions in
+the market but to facilitate organization with core set of tools that can be
+further extended to a project management tool, leads management, survey tool,
+impact assessment, etc.
+Will it be a complete package of ERP for NPOs?
+The platform has a
+very specific purpose to help organizations keep track of funding from donors
+and measure activities against a set of impact indicators. The platform will be
+extensible enough to plug into other solutions or applications through APIs to
+perform workflow driven data entry operations or reporting. (For, example,
+integration with Project Management tool to keep track of Project Activities,
+Integration with Billing Apps to keep tracks of accounting)
+Accounting
+How do we address different accounting practices to
+track funds?
+FundImpact will be
+shipped with Minimal Viable Features with regards to management of Funds. We
+are tracking funding support at an aggregate level and not at granular level
+for each bill or expense. It will give a snapshot for three main indicators –
+Funds Committed by donors, Funds received by organization and Funds Utilized by
+the organization for each project/portfolio.
+For accounting
+purposes, it is best that the organization sticks to its accounting packages
+and use its APIs to integrate the FundImpact and fetch relevant data points.
+Is it going to be an accounting software?
+No, FundImpact is
+not intended to be an Accounting package. It is helping organizations
+(specially project managers and fund managers) keep track of the current status
+of the projects undertaken by the organization by reporting Fund and Activity
+status.
+Will it integrate with accounting packages like Tally?
+Yes, the platform
+will be designed to fetch relevant data points from 3rd party applications. As
+of now, we haven’t thought of providing off the shelf support to any of these
+accounting packages.
+How will it help the accounts department? They already
+have a financial tools in place and extensively use Excel or Tally for their
+work.
+The platform is
+intended to facilitate better communication between accounts/finance department
+and rest of the team in the organization. The accounts personnel can upload
+audited/approved numbers of funds to the platform. The same can be
+accessed/tracked by the other team members through project dashboards.
+The platform is not
+designed to provide features for accounting workflows (like double entry system
+or approvals/audits of payments/funds or budgeting). These operations can be
+continued on the existing tools (like Excel, Tally)
+Project
+Management
+How will the platform serve the difference management
+practices and approaches in the organization?
+FundImpact is not
+designed to be used a project management tool. The product will be shipped with
+Minimal Viable Features to track project deliverables as committed in the MoU
+or against funds allocated.
+The project managers
+can use any of the 3rd party applications outside the FundImpact to assign
+tasks to team members and time track their deliverables.
+Is it a project management Tool?
+FundImpact captures
+and tracks the project deliverables and not individual members tasks. It is
+therefore not designed to be used as a Project Management Tool for managers to
+oversee implementation of a plan or deliverables of the individual team members.
+It is more like tracker for high level project deliverables (like activities
+committed under the MoU)
+The platform will
+give a high level dashboard of various projects categorized under different
+portfolios (Workspaces) for the managers and team members to review/track where
+the projects are heading. They can get a high level view of target vs actual on
+Funding and Committed Activities.
+Will it be a reporting tool?
+In a very broad
+sense, the FundImpact platform can be used a reporting tool to display high
+level indicators for the project (e.g. No of centres established, No of
+training camps organized, Funds received till date, Funds utilized till date,
+etc)
+The dashboards will
+generate relevant reports at four Levels – Deliverable Card (group of time
+bound activities), Project, Workspaces (Portfolio) and at organization level.
+Can this be used as a survey tool? Who will enter
+project data on the tool?
+The FundImpact is
+not designed to capture survey data or enter granual details for a project
+activities. It is intended for the project managers to enter the aggregated
+details of the project activities (the target deliverables of the project, like
+no. of health camps organized).
+Will this act like a document repository for the
+projects?
+The FundImpact
+captures the high level indicators of a project for tracking purpose. It is not
+intended to be used as document repository for various projects in the
+organization. Although we can upload attachments as reference documents.
+Will this tool serve like a contracts management for
+the organization? (Managing and monitoring contracts/MoU)?
+Contracts management
+is workflow driven application which requires custom logic and approach to
+manage various leads and prospect projects. The FundImpact is not intended to
+be used for prospecting projects or donors.
+Impact
+Measurement
+How will we measure impact?
+The high level
+indicators captured through activities (deliverables) gives us primary data to
+evaluate impact of a particular project or activity. The organization can tag
+multiple indicators to such activities as probable outcomes/impact. For,
+example a project activity of “Organizing 
+WASH campaigns” can be tagged with the impact indicator of health,
+school education.
+This way
+organization is able to keep track of various impact areas it is able to work
+on and are measured through (target values of activities and allocation of
+funds.) For example, Dashboard will give an overall figure to the organization
+like “Investments influencing child health”, “No. of villages
+where SDG4 was addressed”.
+In our approach,
+Impact Measurement should be taken as portfolio management across most common
+indicators of various projects.
+What impact framework will we be using? Can the
+organization create their own?
+The FundImpact
+doesn’t propose any impact framework. Rather it supports capturing of primary
+data and categorizing the data into relevant form before the organization can
+process it using any of the impact frameworks. The FundImpact facilitates the
+aggregation and structuring of the data as per organization’s strategy and
+requirements by allowing them to categorize/tag project activities into
+attributable impact indicator.

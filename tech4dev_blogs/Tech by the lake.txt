@@ -1,0 +1,60 @@
+Title: Tech by the lake
+Author: Kurund Jalmi
+Date: November 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech-by-the-lake/
+==================================================
+
+Written by Akshay Kanthi from RainMatter Foundation. Originally published
+here
+.
+It’s such a relief to start writing a blog post when the person nudging you towards writing it has asked you not to spend more than an hour and has assured that no-one is going to read it. Thanks
+Lobo
+for that assurance. Phew! ????
+Social Impact Sprint is an initiative lead by the
+Tech4Dev consortium
+. The objective was to get people who work on the tech side of the social impact space together (Yes, there’s that side) and get them to talk to each other before they start building another
+form builder
+.
+For an excellent summary of what happened please check out Aman’s (from Plio)
+post
+.
+Here are some of my own learnings and reflections on the week that was!
+Do it in the Mountains
+No, this isn’t from Unsplash. I took this one.
+I’ve got to admit, when I received the email from Lobo inviting me, I decided I wanted to go  because it was happening in Tehri. You mean I get to stay in Uttarakhand for a week doing something remotely connected to tech? One for me please. I’m so glad that we could do this from the Mountains. They’ve still got the charm where a lady will stop a hiking group, walk up to her Gauva tree and pluck 30 guavas to keep us company for the hike. Thank you Tehri!
+Eat strategy for Breakfast
+The team at
+ColoredCow
+are the most gracious and giving hosts. I perhaps learnt the most observing how they function. Their biggest achievement is that they’ve got a happy, enthusiastic team that gives it all. It was great to witness people genuinely excited about their role. They’ve managed to build young leaders so much you’d not know who their founder/CEO is despite being in the same room. Congratulations team! You’re an inspiration. Their initiative of
+weekly story sharing
+was a major highlight. I hope this becomes a norm at all organisations. A safe space for expression, being vulnerable and connecting with each other. They’ve managed to do all this while sporting suits, getting paid to do open source and brewing coffee with beakers that can put a COVID testing lab to shame. Wow.
+Tushar – Brewing in his lab
+Empty space for connections
+Thanks to my time at
+GeekSkool
+I’ve done a bit of volunteering at
+tech conferences
+. While the idea behind conferences is for people to connect there’s hardly any space-time for that. With only one
+tech-talk
+in the morning and a
+deep-dive
+for the evening there was plenty of time to connect and also continue to work. The hikes and having all meals together helped. Not to forget the Coloredcow team diligently hosting drinks every single night. So less talks and more empty space for connections worked wonders. During these times I loved ranting about all things related to grant making and measuring impact with Lobo or learning about what difference documentation can make in everyday product development from
+Shen
+.
+Govt run enterprises are weird
+We were given the very best spots for stay in all of Tehri.
+The Eco-huts
+and the THDC guest house. Interestingly both these spaces are managed by govt enterprises. Despite having access to some of the best infrastructure there’s an eery coldness on how the whole thing is managed and run. The whole experience was a very clear indicator for why government should stay out of running a business. The incentives and the motivation just don’t match up.
+Top engineering talent looking at Social Impact
+Inspiring to see engineers from some of the top engineering colleges in India actively looking for work in the social impact space. Met grads from BITS Pilani and IIT Guwahati. They have been carefully looking at what type of roles they would like to choose and what kind of impact it leads to. Fantastic. ????
+Pragmatic open-source
+The Tech4Dev team which is behind the
+Glific
+platform has a relentless focus on being useful for the real-world. Glific is a fantastic example of pragmatic software where the product combines the idealism of grant supported open-source, social impact with practicality of WhatsApp, Google Big Query and Data Studio. Idealistic realism concoction.
+Wishlist for the next sprint
+Thank you once again Lobo and the Coloredcow team for making this happen. Here’s my small wish-list for the next sprint.
+We should also bring board games
+Hackathon nights to build and demo something
+All offices should have at least one neon logo
+ColoredCow

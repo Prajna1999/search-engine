@@ -1,0 +1,47 @@
+Title: Community Visit in Bhachau, Kachchh: Education at the last mile
+Author: Abhishek Nair
+Date: March 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/community-visit-in-bhachau-kachchh-education-at-the-last-mile/
+==================================================
+
+On the 14th of March, 2023 Akhilesh Negi and I from the
+Project Tech4Dev
+team joined the
+Dasra Catalytic Philanthropy
+team on a field visit to Kachchh where we learned first-hand about the amazing work that NGOs
+Jan Vikas
+and
+Unnati
+have been doing in some of the most under-resourced and remote parts of the District.
+While Akhilesh set off to visit the Jan Vikas team in Nakhatrana, I accompanied Shrutika and Sankalp to meet the Unnati team in a small village named Jangi, which is about 36 km east of the nearest city, Bhachau. Unnati has been working with communities in Kutch for over 25 years across
+3 areas of focus
+, disaster risk reduction, social inclusion and empowerment, and governance and social accountability. Unnatis overarching model of operation is that of nurturing and empowering citizen leadership. We visited
+Jangi
+to learn about their more recent programs in education.
+At the local Aanganwadi we met with the womens group, adolescent girls, Anganwadi Karyakars and ASHA workers. We learned how the Aanganwadi is leveraged to connect with parents and assist them with Aadhar and
+Mamta
+registration. These are crucial first steps towards empowering the families in the area towards availing government services for themselves and their families. In this context a key challenge expressed was convincing the villagers of the benefits of the various Yojnas that the government has launched, the community is reluctant to pursue the due process for these yojnas until the value in it becomes very clear to them. Why?
+The most vulnerable communities within this village make a living through daily wage labour, with the male in the family often migrating seasonally to locations where work is available. They are faced with the tough choice between continuing to make a living or losing a days wages to travel to the local government office with the hope that their applications will be processed. More often than not, multiple visits need to be made. Hence, as they should, they need to be convinced that the yojna/registration process is one worth pursuing.
+Unnati collaborates with the villagers, the Aanganwadi Karyakars and ASHA workers to ensure that all documents are prepared properly with the help of useful checklists and filing systems. They also collaborate with the local government to ensure that due consideration is given to vulnerable groups when reviewing their applications.It was surprising to hear from the girls and mothers at the Aanganwadi that they all have access to mobile phones with an internet connection. Many of them even have personal phones, the Aanganwadi workers communicate with mothers and their children through WhatsApp groups. I wondered how useful a well designed
+chatbot
+might be in helping communicate the features and benefits of different Yojnas and to track their uptake.
+Interaction with the womens group, adolescent girls, Anganwadi Karyakars and ASHA workers at the Aanganwadi in Jangi
+Next, we took a 30 minute ride to Kantha Vistar. A village of only 10 households, located near the sea inlets from the Gulf of Kutch, the primary occupation of the villagers is fishing. On three sides the village is surrounded by bare land as far as the eye can see, with salt pans on the other side. The salt pans make access to the seas fishing grounds more difficult for the villagers, while the general remoteness of the area makes everything else difficult for them.
+Through 6 months of engagement, Unnati was able to put up a temporary school in this village and arrange for teachers to come here and teach. The people in this village have never received an education, as the nearest school is in Jangi. Making the journey on foot everyday is not feasible, nor is there any mode of public or private transportation that could take all the children to school.
+Kantha Vistar. Informal school structure to the far left and ‘mobile school’ bus to the far right.
+The temporary school is a shed made of something like bamboo sticks, with a corrugated roof. It serves as a multi-grade classroom for the 30 or so children in the village. Of these, the older students, of 12 years and older, tend to spend more time out fishing with their parents. Over the past month or so, the students have started learning the alphabet and counting. The teacher here uses content created and shared by the Unnati team to facilitate learning. We were given a very warm welcome by the people of the village, who all came to the school and participated in discussion with us. It is heartening that the Unnati team has managed to build such strong collaborative relationships with this village in a matter of months.
+Most interesting to me was the
+mobile school
+, which is a modified bus parked in the village that is supposed to serve as a classroom, full with solar panels, fans, and an internet connection. The government provides these buses in remote areas and hires a contract teacher to come and teach in the village. Unfortunately the village is too far away for a contract teacher to afford the daily commute and have anything left over for himself/herself. As a result, this bus has been in the village for the past 3 years, unaccessed. Unnati is bridging this gap by collaborating with the government to gain access to this bus and provide human resources from their own teacher cohort. This will double the facilities available to the students.
+(See images of the inside of the bus and the informal school below)
+We then travelled back to the beautifully designed Unnati head office in Bhachau for lunch and a meeting with the Unnati team. It was a pleasure to meet
+Mr. Binoy Acharya
+, founder director, who described Unnatis work in detail and told us about the organisation’s development over time.
+Over lunch we discussed Unnatis current use, challenges and goals with regard to tech. Unnati currently uses a paper based system for data collection and information distribution, this is followed by data entry at the Unnati Head office.
+Following lunch we gathered in a hall and had conversations around the Unnati model and the teams challenges. The team also took us through their MIS. It was inspiring to learn as Mr. Acharya discussed the Unnati model of Citizen Leadership and its development over time, starting with the time of emergency where civil liberties were denied to the people, through to liberalisation and globalisation of the 1990s and the Gujarat earthquakes impact and their innovation of of
+owner driven reconstruction
+. He went on to describe the large budgets allocated to various schemes like NREGA and the importance of ensuring their utilisation through citizen leadership.
+Discussion with the Unnati team on their model and challenges at their head office in Bhachau
+.
+As always, I am grateful to the Project Tech4Dev and Catalytic Philanthropy teams for the opportunity. It has broadened my view on systems for social impact and deepened my understanding of some the realities on ground. Looking forward to learning more about powerful initiatives like this one.

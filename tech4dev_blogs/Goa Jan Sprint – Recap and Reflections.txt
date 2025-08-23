@@ -1,0 +1,32 @@
+Title: Goa Jan Sprint – Recap and Reflections
+Author: Donald Lobo
+Date: January 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/goa-jan-sprint-recap/
+==================================================
+
+Have been in Goa for 8 days now, first for the BMW Responsible Leaders Conference in North Goa, and then for the Tech4Dev sprint  in South Goa. I’m hoping that other folks from the OpenBrackets,
+Development Data Platform
+and
+Glific
+teams will soon post their version of the sprint events. The
+Avni Project
+has already published a
+fabulous set of blogs
+. Start with with
+Maha’s amazing recap.
+Hosting an event in Goa is not cheap, but then I’m always reminded of the conversation that I had with Markus @ BMW Foundation at their last Global gathering in Merida: If we can afford to be generous to our NGO and ecosystem partners, we should. Many of the participants from our ecosystem had not been to Goa, so it was indeed a treat to interact with them in a beautiful place, where we could walk on the beach for hours and hours.
+Seems like I’ve made it a habit to fall sick just before/during the sprint, and I lived up to it. Managed to lose my voice on Day 3, so I was mostly a silent participant, and could not be involved with most conversations, which are the best part of the event. In addition to the 20+ NGOs that we had across the course of the event, we also had 3 foundations (4 people) visit us over the course of the week. Overall it is super exciting to see funders interested to learn more about our work and approach. Here are some of my key takeaways
+Our approach has always been to get foundation folks to talk to as many people from the ecosystem across all levels of experience. I think it is important and good exposure for everyone involved..  So we had the Fractional CxO’s, Glific Team, DDP Team, Avni/Glific NGOs and ecosystem partners interact with the funders.
+In general, I do not sit in those conversations, since we want to allow a free exchange of information. We do tell folks to be honest and transparent. We also introduce them to NGOs or partners who’ve not had a great experience (yes, I know, we do mess up also!) This is basically in line with our transparent and open policies.
+It’s also so cool to see the breadth and depth of the conversations that the funders had with folks across the ecosystem. I’m super glad that all of them came and interacted with the folks here, and spent more than 10+ hours across a couple of days.  Gives us confidence that we must be doing something right.
+Our current opinion is that most foundations and NGOs without experienced tech and/or open source folks should avoid making significant technology decisions. I’ve spoken to five groups recently (3 NGOs, 2 foundations) that did not realize and understand that the
+Platform Commons License
+is NOT an open source license. Do not want to get into a flame-war here, but we prefer
+OSI approved licenses
+for everything.
+We like to emphasize that technology by itself is not the solution. Our approach is to talk to multiple NGOs. In the process, we discover the major problems that NGOs encounter and ensure it is applicable across the ecosystem. This ensures we build and own the solution with the ecosystem. We start all our projects with discovery, user interviews, product design before we even think about what technology to use.
+Our board member, Arun Kadekodi remarked as he was leaving:
+It’s so cool to see the ecosystem grow over time.
+Its super cool to see different parts of the ecosystem bloom independently: Avni with Arjun and Vinay, Data Platform with Vinod, Siddanth and Sanjeev, Fractional CxO’s as their own independent tribe (they kicked me out of their meeting!), Glific with Sneha, Vivek, Abhishek(s), Mohit and Erica juggling them all. That without a doubt is the highlight for me at this sprint.
+Deep gratitude to all our existing funders, who’ve given us such broad leverage and powers to do what we think is the best thing. Giving us that freedom is very empowering and enables us to aim high.

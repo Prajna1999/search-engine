@@ -1,0 +1,52 @@
+Title: Launching Dalgo
+Author: Abhishek Nair
+Date: October 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/launching-dalgo/
+==================================================
+
+In September 2023 we launched v.1.0 of
+Dalgo
+(formerly DDP), our open-source data platform for social impact.
+Vinod had floated the idea for Dalgo through his early experiences in our Fractional CxO engagements and the idea took off with help and advice from our community.
+Nonprofits face significant challenges with their data pipelines, the most common of which were that data was collected and stored in silos (Survey CTO, Kobo, Google Sheets, MYSQL) and that NGOs spent significant and repeated manual time and effort trying to consolidate this data for external and internal M&E. They also faced data pipeline breakages and were unable to find an affordable and contextually relevant solution that would help them solve this.
+Read one of our first blogs from way back in August 2022, when the idea was conceptualised,
+here
+. Catch the entire Dalgo journey (via blogs)
+here
+.
+Fast forwarding through the year, we validated the use of the platform and learned from proof of concept projects with Dost Education, SNEHA, STiR education, SHRI, and Antarang . Its during this time (around June, 2023) that I joined as the product manager for Dalgo (then referred to as DDP). It was super exciting to get to work on this new product just as it was getting ready to launch, there was a lot to catch up on and a lot that needed to be done. Bringing a product manager into what was a team of engineers for the longest time meant significant change. Super thankful to all the help from the
+Dalgo team
+in bringing me up to speed and helping move things along.
+A key milestone that enabled progress was the
+Sprint in Udaipur
+where we spent a lot of time planning and setting internal processes to ensure we advance into a smooth launch. We also saw some minor confusion around v0.1. vs v1.0. culminate into clarity. Glad we got that cleared up.
+We also spent time in Udaipur fielding names for the platform with the Tech4Dev team. Our platform would’ve likely been named Kaapi (only because we love our coffee) had it made it through trademark checks. Dalgo was our second contender. Dalgo meaning Data from Alpha to Omega, or Data and Algorithm, or short for Dalgona coffee, or a tribute to Star Wars, take your pick!
+The facetime and conversations during the sprint helped a ton. Between mid-July and September we started to knock things off super efficiently every week. Learning (and relearning) the simple but valuable lesson of prioritisation and execution. We set up a
+website
+(thanks to
+Think201
+and
+Prod
+), built out the
+platform for users
+, began to close out our proof of concept projects and started onboarding them onto the platform while simultaneously picking up a few new projects. We also started telling people about Dalgo.
+Edzolas Social Impact Circle
+events and the
+OASIS summit
+were great platforms for us to share our work.
+We had our
+webinar
+introducing Dalgo
+to the social impact community on September 21st 2023. It was a great turnout with a good mix of folks across nonprofits, tech partners, and funders. Were looking forward to doing more webinars like this in the coming months where youll learn about how Dalgo has helped some of our early adopters and where we’ll show you some cool new features were coming up which will really round out the product to address other popular challenges of visualisation, data quality, governance, AI/ML, and  data exploration.
+We couldnt have gotten here without support from the entire
+Tech4Dev team
+,
+Agency Fund
+,
+Goalkeep
+,
+Aviraj
+via
+C4GT
+and all our ecosystem partners. Were working hard to make your data more and more accessible to you and your stakeholders so that you can leverage it for decision making with ease. Let us know what you think and what you need!

@@ -1,0 +1,16 @@
+Title: Navigating the Bangalore Sprint: Coffee, Collaboration, and Learning with Dalgo
+Author: Nishika Yadav
+Date: September 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/navigating-the-bangalore-sprint-coffee-collaboration-and-learning-with-dalgo/
+==================================================
+
+Leading up to the Bangalore sprint, before I even knew I would be visiting the city, I had an intense craving for filter coffee. Little did I know that the week ahead would be filled with plenty of it, both in and outside the office.
+As someone new to the organization, I was a bit anxious about meeting everyone, but connecting with the team in person early on helped ease those nerves. One of the highlights was learning about Dalgo, the ETL platform I’d soon be working on.
+The first day kicked off with introductions to Rohit, Ishan, Ashwini, Himanshu, Abhishek, and Siddhant at the stunning Omidyar office, with its beautiful views of the city and the clouds.
+As the day unfolded, Siddhant introduced me to Dalgo and dbt (Data Build Tool), which is essential for data transformation within the platform. By the end of the day, I was building dbt SQL models. Whether it was due to my learning ability or Siddhant’s teaching skill is still up for debate. Also, it was pretty fun witnessing a very heated 30-minute discussion between Ishan and Rohit about where to get lunch from.
+Day two had a rocky start when I underestimated Bangalore’s infamous traffic, arriving late to the all-hands Tech4Dev meeting. This led to me giving my introduction while catching my breath at the fire exit, which hopefully added some flair to my first impression. On the work front, Rohit walked me through mGramSeva, a platform that tracks water connections across towns and villages.
+By day three, I was comfortable enough with the data to begin building SQL models for mGramSeva’s data transformations and analysis. Day four involved digging deeper into the complexities of the data, raising questions that only those involved in the data collection proces
+s could answer—data, as insightful as it is, has its layers of intricacy.
+The sprint wrapped up on day five, and though I was sad to see it end, the team successfully completed many of their goals that they had decided before the sprint. I left with a clear understanding of the organization, the people, and the work ahead. I felt fully equipped to contribute once I returned to working remotely.
+Overall, I’m grateful for the chance to meet my teammates in person and excited to dive further into Project Tech4Dev and Dalgo with such a supportive, knowledgeable and very fun group.

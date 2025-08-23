@@ -1,0 +1,42 @@
+Title: Reflecting on Dasra Philanthropy Week: From Finance Frameworks to Gamified Tech Journeys
+Author: Vinod Rajasekaran
+Date: March 2025
+Category: Fractional CxO
+URL: https://projecttech4dev.org/reflecting-on-dasra-philanthropy-week-from-finance-frameworks-to-gamified-tech-journeys/
+==================================================
+
+Philanthropy Week this year was nothing short of a 2-day whirlwind with an action-packed first day and a bit more relaxing second — packed with insightful conversations, thought-provoking debates, and a whole lot of energy. I had the pleasure of participating in two very different but equally engaging sessions, each leaving me with fresh perspectives and renewed enthusiasm.
+CFO Workshop: Talking Finance with Antony
+First up was the CFO workshop, where I joined
+Antony
+from Tech4Dev on a panel that dove deep into the nuances of finance and tech. Let’s be honest, an afternoon session right after lunch isn’t usually an engaging one . But thanks to Antony’s well-prepped
+slides
+, sharp insights and the collaborative energy in the room, it was anything but boring.
+He brought a couple of unconventional tools to the table—the infamous 3×3 Matrix and the Three-Layer Cake. Think of it as a finance framework dessert that’s as layered and complex as your NGO’s financial management needs. The matrix helped unpack strategic decision-making, aligning finance goals with organizational priorities. It posed the big questions: Are our financial systems aligned with our impact goals? Are they efficient? Are they scalable? Is the org aligned ?
+And the cake? Well, it was a delicious metaphor for balancing visibility, capability, and functionality in finance systems. Each layer brought a different perspective, from operational transparency to effective data management. NGOs often struggle with fragmented financial systems, so breaking it down into layers made it far easier to visualize actionable improvements.
+What stood out was the appetite in the room for peer learning. The finance leads, representing organizations of various sizes and missions, had an immense wealth of experience. Conversations shifted from theory to real-world application quickly. From navigating compliance complexities to managing funds and where technology could help enable, the room was buzzing with energy and practical insights.
+A big thanks to Antony for all the prep work that went into making this session impactful. His thoughtful framing ensured we tackled the challenges head-on. It’s rare to see finance sessions receive this much praise, and I’m glad we jumped in when
+Ninad
+@Dasra and
+Viji
+@Educate Girls asked us.
+Charting Your NGO’s Tech Journey: Gamification Galore
+Next up, we swapped the panelist chairs for a gamified session host hat in a session titled
+“Charting Your NGO’s Tech Journey: A Hands-On Gamified Session.”
+This was no ordinary workshop—it was an immersive experience that had participants navigating real-world tech dilemmas through a gamified lens. When I started out thinking about the session, all I had clarity was that we didn’t want to do another “
+gyaan
+” panel session – the session was an experiment to get people talking in the room and help enable those interactions.
+With Erica, Lobo and Abhishek from Tech4Dev joining me and Antony, we played out a simulated environment
+(Try it our here!)
+where NGO leaders faced tough decisions around in-house tech builds, platform integrations, and vendor management. Participants had to weigh the risks and benefits of each choice, considering budget constraints, compliance requirements, and the ever-elusive alignment with mission goals.
+The gamified format turned these typically dry conversations into a dynamic problem-solving exercise. One moment, participants were grappling with a fictional tech partner gone missing, and the next, they were negotiating trade-offs between custom development and off-the-shelf platforms. It was fascinating to watch how different teams approached the same scenarios—similar scenarios but different approaches and directions – no right answers but albeit just understanding the compromises we all have to make in making these decisions and what they imply for the future.
+Some of the most animated discussions revolved around tech capacity building. Do you upskill your internal teams or rely on external partners? Can you balance flexibility with the security of proven platforms? It was clear that these were not just hypothetical questions; they mirrored the real challenges these leaders face every day.
+A huge shout-out to Anto and
+Abhishek
+for the hours spent ideating and strategizing the session. From the
+case design
+to the rapid-fire challenges, their creativity was the driving force behind making this work. Running a gamified session was a gamble, but seeing participants leave with not answers but better questions was incredibly rewarding.
+Looking Ahead
+Reflecting on both sessions, one thing is clear—whether it’s finance or technology, the power of shared experiences is undeniable. These conversations didn’t just offer solutions; they sparked new questions, built connections, and strengthened the collective resolve of the social impact sector.
+It’s easy to get caught up in the day-to-day operational grind. But events like Philanthropy Week remind us of the importance of pausing, learning from peers, and challenging our assumptions. Whether it’s questioning traditional structures/processes or experimenting with playful learning methods, there’s a lot to gain from stepping outside our comfort zones.
+Here’s to more experiments, more discussions, and more community collaboration!

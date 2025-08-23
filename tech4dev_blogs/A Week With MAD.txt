@@ -1,0 +1,70 @@
+Title: A Week With MAD
+Author: Siddhant Singh
+Date: August 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/a-week-with-mad/
+==================================================
+
+There’s a scene in my fav movie
+Dil Chahta hai
+where
+Aamir Khan
+mentions “
+You know what? Hume har saal kam se kam ek hafte goa aana chaiye
+” and this is my 4th trip in last 3 years and I was very happy about it. Here’s a beach photo I took as soon as I reached
+I didn’t expect MAD’s office to be in Goa. When I walked in, my first question to Akshay was, “
+Why Goa
+?” He laughed and said, “
+People here work really hard here. We wanted to be close to nature. It keeps us grounded—and it’s sustainable.
+” Fair answer. The place already felt good.
+The standup I wish more teams did
+I sat in on their standup, and it wasn’t the usual checklist of tasks. Everyone shared how they were feeling—about work, about last week, about life. A few people spoke about being tired, someone was excited, someone else joked about getting a bit drunk over the weekend. They also shared gratitude—who helped them, who showed up. It was simple, open, and human. I liked that.
+How we got here
+I’ve been working with MAD for about 8–10 months now. I started talking to Akshay around November (can’t remember if it was last year or this year). Getting time with him was tough. He wears a lot of hats—tech choices, experiments, data work, vendor management, people, leadership updates… if it’s important, he’s probably involved.
+We agreed to a small consulting block—50 hours—to get the basics in place. Pretty quickly it became clear that they didn’t just want a data warehouse for dashboards; they wanted the warehouse to be the backbone for other apps too, so systems could talk to each other cleanly. That changed the plan. Before any analytics, we needed to make the plumbing sound.
+So we set a goal: one week in person. Clear list. Clear outcomes.
+Days 1–3: Fix the foundation
+Akshay and I created a list of all the tasks to be completed during the week and remained focused on accomplishing them throughout.
+The first three days were all about the base layers.
+Reviewed their architecture
+and trimmed AWS costs where it made sense.
+Separated the data warehouse
+from the internal application database. It’s a boring sentence, but it matters. Cleaner boundaries mean fewer surprises later.
+Rebuilt the data pipeline
+, end to end.
+While we were at it, I sat with their developer and showed them how to build a connector in Dalgo. With the new UI, we got one up in about half an hour. That moment landed. “Wait, that’s it?” Surprise—followed by relief.
+We still need to figure out access to the staging Airbyte so the team can run this themselves. We also walked through dbt—how to structure models, name things, and keep the project maintainable. The goal wasn’t to impress them; it was to hand them the keys.
+The part I was quietly excited about
+I came in with a small agenda: show them how AI can boost their internal capacity—not as a shiny demo, but as a daily tool.
+We tried two things.
+1) Writing analytics without getting stuck on “how”
+A lot of NGOs rely on us to write dbt models for them. The MAD team knows some SQL, but like many teams, they can get stuck translating a question into models and joins.
+So we opened Cursor. We talked through what they wanted to see, which tables mattered, and the logic behind it. Then we let the tool do the scaffolding. Akshay and Chetan started riffing:
+“If we do this, then we should also track that. Wait, that means we’re missing this other field.” It was great—less time on building code, more time on thinking.
+By the end, they weren’t just looking at a working model; they had a clearer view of their data structure, including gaps they wanted to fix. That alone was worth it. They went ahead and bought Cursor licenses and put it in their monthly budget the same day.
+Not just that—Akshay and Chetan also built a few models in dbt and created some charts in just two hours. Now they’re working on the dashboard, and they reach out to me whenever they need a hand.
+2) A quick, scrappy demo for charts and dashboards using Claude
+I also showed them a semi-working demo I’d built in Dalgo using Claude—a small charting feature put together in about 6–8 hours. Nothing fancy, just enough to prove what’s possible quickly.
+Akshay immediately started thinking about what he can build to experiment. Gaurav, a developer who joined six months ago, was eager to learn and experiment. He and Chetan wrote a short spec for a feature they wanted, and we had AI draft both backend and frontend code. Was it production-ready? Not yet. But the confidence shift was real: “We can build this. We don’t have to wait.”
+Apparently they love coding now 🙂
+I loved the energy everyone brought during this time. On some days, we’d sit together from 10 a.m. to 9 p.m., diving into different activities. I really enjoyed how curious everyone was and how they matched my enthusiasm to get things done. Whenever I found a moment, I’d chat with Gaurav (Developer) and Chetan (PM) about how they got into MAD.
+What changed for the team
+Lower costs, clearer architecture.
+Less waste, fewer tangles.
+Faster data plumbing.
+New connectors in minutes, not days.
+Ownership of analytics.
+With Cursor and a dbt structure they understand, they can start and iterate on their own.
+Momentum on internal tools.
+The quick charting demo wasn’t about charts—it was about pace. The team saw how quickly a rough idea can turn into a working thing.
+What I learned from MAD
+Culture matters more than most of us admit. A standup where people can say “I’m excited” and “I’m tired” out loud is a place where honest work can happen.
+The right questions beat the right tools. Tools only help if the team is asking better questions.
+Speed creates energy. Show something in a day, and people want to try. Ship something in a week, and people believe.
+A note on Akshay and the team
+It’s hard to do this kind of work while juggling a dozen other responsibilities. Akshay makes space for it. Chetan and Gaurav jumped in, learned fast, and pushed things forward. That mix—curious leadership plus hands-on builders—is why this week worked.
+Why this week felt worth it
+We didn’t just
+make
+something; we built capabilities the team can carry forward on their own. That’s what matters. If an NGO can engage with AI more effectively and draw deeper insights from its own data, it will keep growing stronger with every month.
+Also, the office is in Goa. That helps.

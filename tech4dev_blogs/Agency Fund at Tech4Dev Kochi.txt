@@ -1,0 +1,30 @@
+Title: Agency Fund at Tech4Dev Kochi
+Author: Siddhant Singh
+Date: October 2023
+Category: Glific
+URL: https://projecttech4dev.org/agency-fund-at-tech4dev-kochi/
+==================================================
+
+By Edmund Korley
+DALLE 3 Prompt: Photo of an Airport: A bustling scene at the Kochi International Airport in Kerala, India. Sunlight filters through the large glass windows, casting a warm hue over the floor. Travelers of diverse descent and gender are seen with luggage, some looking at the flight information displays, while others are seated, waiting for their flights. Palm trees are visible outside, hinting at the tropical location.
+The Tech4Dev sprint and the Data Catalyst and LLM convening marked several first-time experiences for me. It was my first international trip in my role at the
+Agency Fund
+, an evidence-driven philanthropy. This was also my initial interaction with the
+Tech4Dev
+sprint, coupled with my first ever visit to Asia, specifically India. Following a long journey over multiple continents that lasted more than 24 hours from Atlanta, USA, via JFK and Abu Dhabi, I finally touched down at the Kochi International Airport in Kerala, India. A mishap led me to the wrong Marriott hotel during a sojourn of over an hour before I finally made it to the correct one, surviving on mere airplane sleep but eagerly anticipating the conference and the opportunity to meet everyone.
+On my day of arrival, I immediately dived into some pair programming time with Akhilesh from the Glific team on
+glific/Open-LLM
+. Tech4Dev has an existing integration with ChatGPT via
+Jugalbandi
+. With Open-LLM we are aiming to build upon the existing Jugalbandi integration by having more control of the ChatGPT API. It supports existing Jugalbandi features such as adding custom knowledge bases (pdfs, txt, markdown text files in English) backed by
+pgvector
+for tailored answers and content generation. It additionally supports incorporating personalized system prompts for effective experimentations and safe boundaries, enabling the use of different GPT models as accessible through Open AI APIs, maintaining a conversation history per session for more contextual responses, supporting voice note queries and generating answers, and an option for automatic/manual rating of the response quality and accuracy. We are in the developer era of generative AI and it’s very exciting. Shoutout to Ishan from the Dalgo team who contributed some
+key improvements
+for the long-term maintainability of the repo. Look out for a separate announcement on this integration soon.
+Day one of the Data Catalyst agenda focused on data storytelling and building a data mindset. The session included presentations from each NGO on their data stories, followed by discussions and interactions among peers. The agenda also covered topics such as crafting a data vision, developing an action plan, and understanding data quality, security, and access. Day two focused on various aspects of data use and leadership. I would present
+my LLM talk
+on responsible applications of LLMs. The talk focused on the use cases and guidelines for exploratory data analysis using ChatGPT’s Advanced Data Analysis feature. It included a live demo where we used LLM agents to catalog, summarize, and visualize a demo dataset of Indian foods. We also created a predictive model in ChatGPT to estimate the flavor profile of an Indian dish based on a list of ingredients. The talk emphasized the ability to explore complex data questions without requiring technical expertise, which was very relevant to this Data Catalyst NGO audience.
+After Data Catalyst wrapped up, the 2-day CISCO sponsored LLM meetup started right after. The gathering was an offline event aimed at bridging NGOs interested in LLM/AI technologies together. The intent was to deepen their understanding of the technology by offering expert speeches and displays of related work. Over the two days, from the night of the 18th to the evening of the 20th, there was a mix of sharing visions, experiments, lessons learnt, and identifying future needs via NGO presentations. The first day centered around NGOs like TAP, Myna Mahila, Bandhu, Udhyam, and Quest Alliance presenting themselves and their LLM use-case. The second day was kicked off with
+a great talk
+by Aman Dalmia at HyperVerge Academy followed-up with collaborative work sessions for drafting prototypes and plotting out NGO strategies around LLMs.
+My trip to India for the Tech4Dev sprint was an eye-opener. It was my first time in Asia, and it was filled with new experiences, from travel mix-ups to exciting tech and data sessions with NGOs doing amazing work. I had a blast working with some smart and passionate people, and we shared ideas on how to use these new tech tools for good causes. As I return home, I’m excited about what the future holds and look forward to more such trips. Here’s to learning, growing, and working together for a better world!

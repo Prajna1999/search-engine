@@ -1,0 +1,76 @@
+Title: JAN 2025 – Dalgo Sprint In Mahabalipuram
+Author: Siddhant Singh
+Date: January 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/jan-2025-dalgo-sprint-in-mahabalipuram/
+==================================================
+
+We just wrapped up another sprint for Dalgo, and this one was special. The location was incredible—right by the beach with perfect weather. This time, we invited NGOs that work with Dalgo, and we were thrilled that some could join us. Having them there added a new layer to our discussions and gave us valuable insights.
+This sprint felt different in the best way. We had plenty of time to dive deep into both internal and external conversations, and we made the most of it. One big highlight? Ashwin joined us as the new Dalgo Lead. His presence has already shifted the team dynamic in a positive way—everyone seems more motivated, and there’s a stronger sense of trust across the board.
+During our time together, we focused on two main areas:
+1. The Dalgo Roadmap
+We spent time looking at where Dalgo is headed and where we want to go next. One big takeaway was that we need to think beyond just our current tech stack. While it’s served us well, it’s also limited our ability to tackle some use cases. It felt great to see the team align on this idea—we’re ready to expand our approach.
+A big part of our future involves making Dalgo more accessible and useful to a wider range of people and organizations. To do that, we need to collaborate with NGOs and help them understand how better data usage can drive their work forward.
+After chatting with some of the NGOs, we identified a few key areas where we can focus:
+User-Friendly Data Transformation Tools
+Integrated Chat Features
+Tools for Better Presentations and Storytelling
+Operational Reviews with Qualitative Insights
+The feedback from NGOs reassured us that we’re on the right track, but it also reminded us to stay focused. We’ve already partnered with a few NGOs who are excited to work with us on these ideas, and we’re eager to get started.
+2. Better Ways to Work Together
+Ashwin shared an important observation: our engineers should spend more time working directly with clients, while the consulting team could focus more on improving the product. This would give engineers a better understanding of client needs and give the consulting team breathing room to refine the product.
+After discussing this as a team, we came up with two key changes:
+Innovation Time
+We’ll set aside one week in every sprint for innovation. This will give everyone time to explore new ideas or work on something that improves the product.
+Client Engagement for Engineers
+Engineers will be tagged to help with specific data issues for clients. This way, they can have direct conversations with clients and gain a deeper understanding of their challenges.
+NGOs focused sessions and workshops
+In this sprint, we brought together NGOs and partners to explore how AI and data can drive impact in the social sector. Our goal was to create a space where attendees could dive deep into tools and concepts like Dalgo, AI, and data, leaving with actionable insights to inspire new directions in their work.
+Day 1:
+Setting the Stage
+We began with an engaging ice-breaking session led by Pratiksha, setting a welcoming tone and fostering connections among participants. Rohit followed with an insightful presentation on Dalgo, covering its key features and how it addresses challenges in data management for NGOs. The day concluded with hands-on sessions where we collaborated with NGOs to tackle specific problems related to data pipelines, analytics, and foundational concepts in Dalgo.
+Day 2:
+Workshop on AI
+The second day was dedicated to an AI workshop tailored for non-profits. The session aimed to:
+Help NGOs understand the transformative potential of AI for their operations.
+Showcase tools like ChatGPT, DALL·E, and others that can address real-world challenges.
+Offer hands-on practice through practical exercises and use case exploration.
+We began by introducing AI concepts and real-world examples of its application in the non-profit sector. NGOs shared their challenges, which led to deeper discussions on potential AI-driven solutions. A key highlight was the “Chat with Data” demo, where participants explored how AI could analyze their data and provide actionable insights.
+Practical Challenges with Data
+Aditya led a thought-provoking session on challenges related to data, showcasing GoalKeep’s unqiue approach of presenting ideas in a way that encourages deeper thinking. It was a powerful reminder of how innovative perspectives can reshape our understanding of complex issues.
+Later, Sanjeev and I had an engaging conversation with representatives from the Bhumi Foundation. They shared the difficulties they face in collecting data at the grassroots level, particularly in convincing their beneficiaries to provide the required information. As we delved deeper into the issue, it became clear that the challenge wasn’t just about gathering data—it was about effectively communicating the purpose and value of data collection. They acknowledged the need for better messaging to explain why the data matters and how it ultimately benefits their community, fostering trust and participation in the process.
+Work Time with NGOs
+I spent some time with various NGOs, having some great conversations:
+Aditya from ATECF
+: We talked about his work with us on Dalgo and their use of Superset. He mentioned they need maps to show their data better, which is something we can improve.
+Antarang
+: We discussed their database setup and ways to improve data quality.
+Dhwani
+: They shared some issues they’re facing with Survey CTO, and we explored possible solutions.
+Sneha
+: We talked about what they need in their dashboards and how storytelling features could make their reports more engaging.
+Social Bytes
+: I showed them how easy it is to manage their data pipeline and use dbt, which they found helpful.
+Arghyam:
+On their needs for better visualization which is why they want to try power BI and need some help connecting the warehouse.
+That’s it. I think we had a great sprint and every ngo learned a lot from these sessions and conversations.
+Few Take Aways From the Sprint
+One great moment during the sprint was meeting
+Om
+, a new hire, who shared a really inspiring story. He told me that last year, while I was working with
+Aviraj from C4GT
+, I encouraged Aviraj to take part in a hackathon. Aviraj later encouraged Om to do the same, and Om ended up winning the same hackathon focused on Airbyte. After that, Aviraj introduced him to the
+AVNI team
+, where he got hired, and now he’s working with them.
+For me, this was a perfect example of why building a
+supportive ecosystem
+is so important. Seeing how one small action led to opportunities for others was a great reminder of the impact
+collaboration
+can have.
+I had a discussion with Ashwin, Vinod, and Pratiksha about improving how we approach consulting. Instead of charging NGOs based on the number of charts or dashboards we deliver, we explored focusing on the value we provide. This approach emphasizes meaningful impact rather than simply delivering outputs.
+My experience with
+ATECF
+highlighted how important it is to spend time truly understanding what NGOs do, the problems they aim to solve, and the programs they run. When you show genuine interest and effort in understanding their work, it builds trust. This approach worked well with ATECF, and it’s something we should adopt more broadly with other NGOs.
+We also talked about the importance of guiding NGOs when they’re unclear about their data needs. This includes spending more time helping them understand their data and educating them on how to use it effectively to achieve better outcomes.
+We agreed that this approach could add significant value, but we need to think through how best to implement it. This includes figuring out the specific support we can provide and assessing the effort required from our side to make it work.
+This sprint was a big step forward for Dalgo and its goal to support NGOs with better tools and insights. Having NGOs join the sprint made our discussions richer and gave us new ideas on how to improve. From finding ways to make Dalgo easier to use to focusing on meaningful support, every conversation helped us better understand and address the needs of the NGOs we work with.

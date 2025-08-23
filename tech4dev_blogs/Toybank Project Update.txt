@@ -1,0 +1,51 @@
+Title: Toybank Project Update
+Author: Kurund Jalmi
+Date: April 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/toybank-project-update-2/
+==================================================
+
+We have completed the work on the Inventory Management System for Toybank. It has been deployed and the project handover process has been completed.
+Here is a summary of the project.
+Toybank, an initiative under The Opentree Foundation is an organization in India that promotes the Right to Play for all children. It provides a platform for all individuals from all ages to participate in this movement of propagating the Right to Childhood.
+We have implemented the Inventory Management System for Toybank, using an Open Source CMS Drupal.
+Here are the key features:
+User Management
+This module enables admins (Super Admins and Data Entry Admins) to control user access and onboard and offboard Inventory Teams, Program Officers and Welfare Managers.
+Play Center Management
+This module lists the Play Centers and it allows you to manage the play center by its classification. The list also shows the no of kids at the Play Center, play center status and the type of the center along with its partner details. The list of Play Centers can be downloaded as a CSV file.
+Game Management
+This module allows the Inventory Team to check/review the verified games at the Warehouse. The Games are verified by the Welfare Managers.
+These games are classified into Strategy, Puzzle, Block, Alphabetical and General category, which is commonly known as SPBANG.
+Inventory Workflows
+Inventory Workflow module keeps track of the number/quantity of games being added or sent to Playcenter.
+Request Generation
+This is the most complex and critical part of the system and the entire system is dependent on this flow. Here the Program Officers and Welfare Managers generate a Game request on behalf of the Play Center.
+The Game request is dependent on the shortfall inventory at the Play Center and divided into the SPBANG category.
+Stock Auditing
+This module enables the inventory auditing ability on the available games at two places, one is for the Inventory Team at the Inventory Warehouse and the second is for the Program Officers at the Play Centers. Welfare managers have access to both places. The auditing could be done on-demand or monthly, quarterly and yearly as per the need.
+Report Generation
+Reports in this system give you the ability to view the available inventory at Warehouse or Play centers from month to month or on-demand. Report data can be viewed online or downloaded as a CSV file.
+Available Reports
+Full Stock Report – How much stock is available based on types in the Warehouse Inventory
+Classification of games based on the categories, age groups, condition of the games at the Warehouse and Play Center Inventory
+List of Play Centers based on game categories
+Monthly or on-demand games stock report at the Play Center
+Game request sheet report of the Play Center
+The game audit report for Warehouse and Play Center Inventory
+Play sessions activity report on-demand, monthly/yearly for a specific program officer
+Record Activities
+This module allows Program Officers to record activities conducted during the play sessions at the Play Center.
+Further, these Paly sessions are also accessible to Welfare managers and they can monitor the same.
+Some Screens
+User Management
+Inventory Management
+Play Center Management
+Request Generation
+Request Detail
+Inventory Audit
+Here is a list of the previous project updates posted during the implementation:
+https://chintugudiya.org/toybank-development-through-play/
+https://chintugudiya.org/toybank-project-update/
+https://chintugudiya.org/development-updates-of-toybank/
+https://chintugudiya.org/toybank-project-status/

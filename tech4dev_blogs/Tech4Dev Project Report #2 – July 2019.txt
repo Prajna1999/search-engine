@@ -1,0 +1,87 @@
+Title: Tech4Dev Project Report #2 – July 2019
+Author: Kurund Jalmi
+Date: July 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-2-july-2019/
+==================================================
+
+Summary
+Q2 2019 was focused on operations: Getting a few projects off the ground, Completing a couple of smaller projects and Making significant progress on the remainder. We tightened our operational processes of assigning evaluators to projects and doing a formal review of projects before design and implementation. We expanded our software partners group by adding two new partners to the collaborative.
+Highlights
+Completed 3 projects, will complete most of the first cohort projects by the end of Q3, 2019
+Added two new software partners:
+Tech4Good
+and
+AnnieCannons
+. Tech4Good is helping NGOs down the technology road in the early stages. AnnieCannons complements our work in the survivor space very nicely.
+We
+released the application
+for the second cohort. We will choose the second cohort by the end of Q3
+We streamlined our bi-monthly meetings. At each meeting, we have one main presentation, which is a deep dive into an existing project. This expands the knowledge base of the group and gets folks to think about reuse and commonality with existing projects.
+We instituted project review meetings with the software partners for all new projects. This allows us to get a better idea of the problem that is being addressed and how realistic the proposed solution is. We also plan to do check-in calls with NGOs after the project review for their project is completed.
+The
+first version of the contract
+between Dasra and the partners for financial payments has been completed. We have started work on the second version to make it more open source friendly
+Lumen consulting has been hard at work on a fundraising slide deck to showcase our work to investors in India during the first week of August.
+Our next face to face meeting has been scheduled for November 10 – 12.
+We are starting to do pro-bono consult with larger orgs: STiR education, Indus Action, Educate Girls with regard to some of their technology problems. This might be an area that we could get into in future years.
+OpenCHS
+and
+Primero
+are both gaining traction internally as open source solutions to base our work on.
+We have started conversations with like minded organizations doing similar work, specifically
+Team4Tech
+and
+MightyAlly
+We have started surveying our NGO partners and our software partners approximately twice a quarter using
+Funder Feedback
+. We?ll have a detailed analysis of the feedback recd in the next report.
+Misses
+We need to improve our internal processes and the tools we use to manage them. In the ideal scenario, we should be able to tell the status of all the projects from a dashboard.
+Our social media presence, especially on LinkedIn is lacking. We need to rectify this before the end of the year. This should help us gain visibility for both the project as a whole, but also allow us to highlight some of the work we are doing.
+Our software partner recruiting process has slowed down. We still need to recruit two to four software partners before the end of the year.
+Financials and Stats
+We have spent more money than mentioned in
+Expenditure
+below. The invoices have not hit our books as yet, hence the smaller than expected number in that column
+Goal
+Current
+Remainder
+Funds to Raise
+$3,000,000
+$2,250,000
+$750,000
+?21CR
+?15.7CR
+?5.3CR
+Expenditure (for the year)
+$750,000
+$125,000
+$625,000
+?5.3CR
+?0.8CR
+?4.5CR
+# of NGO projects
+20
+15
+5
+# of Software Partners
+6
+8
+0
+Participation in open source projects
+5
+4
+1
+Blog Posts and Project Details
+All our blog posts can be found on
+the project website
+. All project documentation can be found on our
+shared google drive folder
+. Each project blogs on a monthly basis, so we have quite a bit of detail and history as the project evolves. Highlighting a couple of blog posts
+Tech4Dev Project Report #1 – Apr 2019
+Resource Centre for Interventions on Violence Against Women ? TISS
+ToyBank
+Lakeer Project Update
+Tech4Good ? How a good collection, aggregation and analysis?.
+Hasiru Dala ? Software architecture and tech stack

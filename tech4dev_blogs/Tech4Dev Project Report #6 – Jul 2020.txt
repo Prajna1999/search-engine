@@ -1,0 +1,183 @@
+Title: Tech4Dev Project Report #6 – Jul 2020
+Author: Kurund Jalmi
+Date: August 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-6-jul-2020/
+==================================================
+
+Tech4Dev Mission
+Building the Open-Source Technology Ecosystem for the Social Sector.
+Detailed information can be found on the
+Tech4Dev 2 Pager
+, and
+Tech4Dev Info Deck
+Summary
+Q2 2020
+was a very different quarter for everyone. We are getting used to the current normal, and speculating what and when the new normal will be. Most of our Indian NGOs either switched to COVID-19 relief and/or shut down their field operations. This resulted in the slowing of project implementation across most projects. We also decided to postpone the fourth cohort of NGOs to a future time when things hopefully will get better.
+The slowdown gave us the opportunity to take a step back and focus on our open-source platforms which we believe will help us scale the program and deploy it across multiple NGOs in a more effective, and cost-efficient manner. We brought forward work that we had initially thought would happen in late-2020 and early-2021. As such, Q2 2020 was super productive for us in this regard and we made solid progress on multiple projects.
+This report is different from previous reports. We will focus on our open-source projects, our learning, and some changes going forward.
+Glific – An Open Source Two Way Communication Platform
+In early July, we released v0.1 of Glific. Glific is our two-way communication platform built specifically for the social sector. We learned a lot from our experience with the third cohort with
+turn.io
+and realized that this was a pressing need. There currently is no affordable solution for NGOs in the developing world, and Glific will address that need. You can read the
+full blog post on our website.
+You can watch a
+video of the demo here
+. We plan on monthly releases to showcase our progress and onboard adventurous NGOs in the next two months.
+Medha – Linking Government, Employers and Students
+In Q1 2020, we entered into a partnership with
+Medha
+to develop an open-source job training, placement, and tracking system for use by Medha, the UP Government, college students,  polytechnic college staff, and local employers. This was our first interaction with an organization delivering systems to be used by the Government. Medha also contributed financially to the system and will take ownership of the project going forward.
+FundImpact – Simplifying Donor Reporting
+Dhwani
+, one of Tech4Dev’s partners, has begun the development of
+FundImpact
+, a platform for managing donors, deliverables, and impact reports. We are modeling their development cycles and cadence based on our experience with Glific so far. The FundImpact platform is just getting out of the gate; the FundImpact team gathered the initial set of product requirements through discussions with NGOs over the past few weeks. Just like all of our other projects, the FundImpact platform will have predictable releases and regularly posted blogs about their progress and learnings.
+Avni – Field Work and Data Collection Platform
+In our last cohort, we had a total of five projects that were based on the Avni platform — all implementations for NGOs to collect healthcare-related data and case-management. All five projects are still active, despite some hiccups due to COVID-19. We expect to complete work on these projects by Sept 2020.
+On the platform front, Avni had an exciting quarter. We released a new version of the
+Field App and App Designer
+and announced the
+Avni Cloud
+. Avni folks have also been doing webinars about the Avni platform that have been well attended. Our partnership with Persistent Systems on building core functionality for Avni remains strong and healthy.
+Other thoughts and musings
+We signed out MoU with
+Social Alpha
+this quarter. We are now officially under their umbrella in India. We hope to leverage their expertise in specific areas this year to strengthen our work and community: i.e. technology platforms, financial reporting, compliance, etc.
+Github released a report on
+Open Source in the Social Sector
+which is an informative read and puts our work in a bigger context. It was gratifying to see
+CiviCRM
+getting high marks and praise in this report.
+We’ve been personally involved with the design and development of Glific. This has given us a better understanding of multiple things including:
+Structuring the design and development of future projects
+Involving the NGO community at a very early stage for User Research, Validation and just great advice. Both FundImpact and Glific have active NGO Advisory Groups.
+Weekly demos, Monthly releases, Monthly advisory meetings and more
+Continuous Integration / Continuous Deployment, documentation, testing and code quality tools from project inception.
+Focus on getting paid “customers” early on, and on-boarding them within the first six months. This means development of a SaaS platform to host NGOs at an early stage.
+We are using the data collected by our internal systems to drive a large part of the report and pages on the website. Our project and partner listings are below:
+List of Tech4Dev Projects
+List of Tech4Dev Partners
+Financials
+Income
+Grants – Contributions
+Funders
+2019 (USD)
+2020 till date (USD)
+2020 till date (INR)
+Carry-Over from the previous column
+–
+₹0
+International Funders
+$785,000
+$810,000
+₹60,750,000
+Turn.io Contribution from Cohort Organisations
+–
+$14,300
+₹1,072,500
+Indian Funders
+$24,286
+$62,857
+₹0
+Total Grants Received
+$809,286
+$887,157
+₹61,822,500
+Expenditure
+Support for NGOs – Expenses
+Sector
+2019 (USD)
+2020 till date (USD)
+2020 till date (INR)
+Rights and Advocacy
+$133,841
+$48,550
+₹3,641,250
+Education and Life Skills
+$177,534
+$103,265
+₹7,744,875
+Governance & Public Finance
+$55,570
+$51,222
+₹3,841,650
+Health
+$15,857
+$72,363
+₹5,427,225
+Technology
+$25,000
+$50,000
+₹3,750,000
+Rural Development
+$31,380
+₹0
+Research
+$88,885
+$140,702
+₹10,552,650
+Support for NGOs – Total Costs
+$528,067
+$466,102
+₹34,957,650
+Other Costs – Expenses
+Area
+Description
+2019 (USD)
+2020 (USD)
+2020 (INR)
+Grant Management + Events, Travel
+Attendance at funder events + Cohort 1 partners’ meet
+$17,900
+$2,000
+₹150,000
+Other Costs – Strategy, Legal, Fundraising
+All fees paid to Lumen Consulting directly from the Chintu Gudiya Foundation
+$18,500
+$35,105
+₹2,632,875
+Other Costs – Total Costs
+$36,400
+$37,105
+₹2,782,875
+Total Expenditure
+$564,467
+$503,207
+₹37,740,525
+Surplus for the year
+$244,819
+$383,950
+₹28,796,250
+Surplus to date
+$628,769
+₹47,157,675
+Details on individual projects can be accessed
+here
+.
+Want More Details?
+All our blog posts can be found on
+the project website
+. All project documentation can be found on our
+shared google drive folder
+. Each project blogs every month, so we have quite a bit of detail and history as the project evolves.
+Glific Blog Posts
+Video of Glific Demo
+MEDHA STPC: Project Update
+Medha STPC Project Update – student import, feedback flow, CRM platform integration
+CRM Platform Project Update
+Release announcement – App Designer, Household, and more…
+Announcing Avni Cloud
+Tech4Dev Project Report #5 – Apr 2020
+Tech4Dev Project Report #4 – Jan 2020
+Tech4Dev Project Report #3 – Oct 2019
+Tech4Dev Project Report #2 – Jul 2019
+Tech4Dev Project Report #1 – Apr 2019
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Tech4Dev Project Tracker Using AirTable
+Reach out to us via
+email
+or find more information on our
+website

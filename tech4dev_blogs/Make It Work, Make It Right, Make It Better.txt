@@ -1,0 +1,29 @@
+Title: Make It Work, Make It Right, Make It Better
+Author: Kurund Jalmi
+Date: July 2020
+Category: Glific
+URL: https://projecttech4dev.org/make-it-work-make-it-right-make-it-better/
+==================================================
+
+The title is a slightly modified version of KentBack’s original statement “make it work, make it right, make it fast”.
+This is a popular statement in the software world, which simply means to finish a complex problem break it down into three phases. I’ll try explaining this with a recent software problem I worked on in Glific.
+After the
+backend team was done
+researching on RapidPro Floweditor and finalizing that it’s the right tool for us to go with, my task was to integrate it within Glific and create a seamless user experience. That means I had to integrate a separate working React app into our React app.
+Make It Work
+TLDR; it wasn’t easy but eventually we made it work.
+To get started, this wasn’t a regular npm/yarn package. It’s a separate application to be integrated into Glific with no guidelines or documentation. On paper, it was only the concept of how to integrate an external app into React. The risk of spending effort and then finding this is not the “the” tool was somewhat lesser but still high. Well, there weren’t many options either.
+At first, things didn’t work as expected. Deleting everything and reinstalling at least 10 times, just to get the right version of the Floweditor may give you an idea of what could’ve happened next. Thanks to the in-depth research and collaboration with the backend team, the pace increased and we had a working piece in just 2 days.
+Make It Right
+Now we had a working functionality in place, we needed to undo the shortcuts we had taken. This phase means to clean the software code and make it meaningful.
+For me, it primarily included:
+Removing the hard-coded files and redundant packages
+Clean up duplicate code
+Putting a better file structure in place
+Make It Better
+Most software developers see this as an optional phase and skip this. There could be various reasons like time constraints, work overload, small-scale software not to be worked on further, etc. While skipping this is a right step or not is subjective, it certainly wasn’t right in this case. Being an open-source project, it’s important to make it easy for fellow developers to work on the project.
+Things I did to make the overall feature better:
+Avoiding manual steps
+Easy setup commands
+Updating README with simple and easy to understand instructions
+Glific Floweditor

@@ -1,0 +1,249 @@
+Title: Text to SQL exploration continues – WrenAI
+Author: Ishan Koradia
+Date: August 2024
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/text-to-sql-exploration-continues-wrenai__trashed/
+==================================================
+
+This write up talks about
+WrenAI
+and then compares it to a popular tool
+Vanna.ai
+(Source of all pictures in this blog is WrenAI’s website).
+Motivation
+In the past few months, we have explored a few text to sql OSS tools out there in the hopes to leverage one in
+Dalgo
+and make it available to our NGOs. We reckon this will help the MnE (Monitoring & Evaluation) folks or the analysts in the NGOs, to focus more on the metrics of their program and eliminate time spent in figuring out sql transformations, statements, complex joins etc.
+These are some of the write ups we did on this topic of text to sql
+Exploring Vanna ai
+Vanna ai vs Askametric
+If you are interested in an understanding Tech4dev’s overall AI strategy – you can check out this
+Project Tech4Dev’s AI Strategy
+WrenAI Architecture
+Using RAG (Retrieval Augmented Generation) with LLMs to query databases is a very common practice now, however this method still has its problems/limitations in terms of understanding the context or the business logic around the data. WrenAI tries to tackle these problems
+The picture below shows the architecture of WrenAI.
+Source –
+WrenAI
+There are 3 components of WrenAI
+UI – interface to ask questions to your data source
+AI service – retrieving the context from vector db and prompting the LLM happens here
+Engine – responsible for connecting to datasource, making sure the SQL executed is in the correct dialect as of the data source, and working out the semantics/metadata of the source.
+Setting up WrenAI
+They have an installation script that you can easily run and get started (check
+here
+). However if you want to have more control over parameters and maybe play around & poke into their open source code you can do the following
+Clone their
+repo
+Inside the docker directory, create the .env.local file from .env.example
+Add your open ai key in the .env.local. If you want to run a custom llm you will need to copy .env.ai.example to a new .env.ai and add the respective keys there.
+Run this docker-compose –env-file .env.local up -d to start all the Wren services. By default it starts at
+http://localhost:3000
+1 . As soon as you open the UI it asks you to set up a data source.
+2. It will ask you to select the table(s) that you want to process and query/ask questions on.
+3. In the last step, it will ask you to set up relationships between your database tables. It takes the first shot at this automatically by looking at the database’s metadata/schema (primary/foreign keys). You can further add description, business logic to not only the tables but also the relationships. This makes the llm more context aware.
+Vanna.ai vs WrenAI
+Text to sql comparison
+Vanna.ai
+WrenAI
+Inner workings
+Uses a RAG model
+Uses a RAG model + semantic data modelling
+LLMs
+Multiple llms integration out of the box and can be extended to other llms
+Multiple llms integration out of the box and can be extended to other llms
+Databases
+Supports all standard sql dbs and can be extended to others not present
+Supports all standard sql dbs
+Github stars
+10.6k
+1.6k
+Feedback loop
+Present based on human input
+Coming soon
+Does it check accuracy of sql query against the db
+No, more chances of query being incorrect
+Yes, less chances of query being incorrect
+OSS apis
+Yes
+No official documentation yet. It’s coming soon
+Threads, can ask follow up questions
+No
+Yes
+Results
+For the experiment I am trying to see if I can get accurate results for Dalgo’s operations report that has around 10-15 metrics which we compute weekly. Wren AI claims & guarantees that it only sends metadata and not actual data so there is no risk of PII information being fed to LLMs. For each question, i compare the output from WrenAI and Vanna.ai
+Q1. Can you tell how many flow runs failed in the week from 8/17/2024 to 8/24/2024
+WrenAI
+It gives you the possible interpretation of your question by the system and you can select anyone from it. I selected the third option and it gave me this answer which was very correct and accurate.
+Answer
+WITH
+  failed_flow_runs_data AS
+  -- Selects flow_run_ids from the _prefectflowrun table where the state is 'Failed' and the expected start time is within the specified date range.
+  (
+    SELECT
+      "flow_run_id"
+    FROM
+      "public_ddpui_prefectflowrun" AS "_prefectflowrun"
+    WHERE
+      "state_name" = 'Failed'
+      AND "expected_start_time" >= '2024-08-17'
+      AND "expected_start_time" < '2024-08-25'
+  )
+  -- Counts the number of flow_run_ids from the filtered data to determine the total number of failed flow runs.
+SELECT
+  COUNT("flow_run_id") AS "failed_flow_runs"
+FROM
+  "failed_flow_runs_data"
+You can ask follow up questions to it and it also has the concept of threads.
+WrenAI takes an extra step to improve accuracy of the sql generated.
+It validates the sql being generated by the llm by running it. If there is any error, it again sends it back to the llm for modifications. This is done in a continuous loop until it gets to an accurate sql that runs correctly in the source’s database/dialect.
+Vanna.ai
+Answer
+SELECT COUNT(*) 
+FROM ddpui_prefectflowrun 
+WHERE state_name = 'failed' 
+AND start_time >= '2024-08-17' 
+AND start_time < '2024-08-25';
+If you notice, it got the state_name wrong. It should have been Failed instead of failed. Wren AI was successfully able to do that.
+I gave the correct query by changing failed to Failed so it has more context for the next question. Vanna ai takes this and generates a new embedding
+Q1.1 (Follow up) How many dataflows or pipelines or deployment failed during the week from 8/17/2024 to 8/24/2024  A pipeline is considered to have failed during the week if there is at least one failed flow run during that time period.
+WrenAI
+Answer
+WITH
+  failed_deployments_data AS
+  -- Selects deployment IDs from the _prefectflowrun table where the state is 'Failed' and the expected start time is within the specified range.
+  (
+    SELECT
+      "deployment_id"
+    FROM
+      "public_ddpui_prefectflowrun" AS "_prefectflowrun"
+    WHERE
+      "state_name" = 'Failed'
+      AND "expected_start_time" >= '2024-08-17'
+      AND "expected_start_time" < '2024-08-25'
+  )
+  -- Counts the distinct deployment IDs from the filtered data to determine the number of failed deployments.
+SELECT
+  COUNT(DISTINCT "deployment_id") AS "failed_deployments"
+FROM
+  "failed_deployments_data"
+This answer is a bit off, it’s supposed to join with another pipelines table before counting the failures. I did not update the description in the relationship so I guess it didn’t understand the full context.
+I updated the metadata (super easy step from the UI itself) description for the ddpui_prefectflowrun table and also re-phrased the question to see if it could get the join this time.
+Vanna.ai
+Answer
+SELECT COUNT(DISTINCT deployment_id) 
+FROM ddpui_prefectflowrun 
+WHERE state_name = 'Failed' 
+AND start_time >= '2024-08-17' 
+AND start_time < '2024-08-25';
+This is again a bit off but it gave the same answer as WrenAI. An additional join with the dataflows/pipelines table is missing.
+I re-trained vanna.ai with some context about the relation between flow run tables and data flow/pipeline tables. This is what i added to its db_description
+The field deployment_id ddpui_prefectflowrun can used to map flow runs to pipelines/dataflows in ddpui_orgdataflowv1
+This is the exact same description i added in WrenAI’s model for the deployment_id
+Q1.2 (Follow up) Can you give me the name of the dataflow and the count of failed flow runs during the week mentioned above
+WrenAI
+Answer
+-- Counts distinct failed flow runs for each dataflow, ensuring no duplicates are counted.
+SELECT
+  "_orgdataflow"."name" AS "dataflow_name",
+  COUNT(DISTINCT "_prefectflowrun"."flow_run_id") AS "failed_flow_runs"
+FROM
+  "public_ddpui_prefectflowrun" AS "_prefectflowrun"
+  JOIN "public_ddpui_orgdataflowv1" AS "_orgdataflow" ON "_prefectflowrun"."deployment_id" = "_orgdataflow"."deployment_id"
+WHERE
+  "_prefectflowrun"."state_name" = 'Failed'
+  AND "_prefectflowrun"."expected_start_time" >= '2024-08-17'
+  AND "_prefectflowrun"."expected_start_time" < '2024-08-25'
+GROUP BY
+  "_orgdataflow"."name"
+It got the query right this time.
+Vanna.ai
+Answer
+SELECT 
+    deployment_id AS pipeline_name, 
+    COUNT(*) AS failed_flow_run_count
+FROM 
+    ddpui_prefectflowrun
+WHERE 
+    state_name = 'Failed' 
+    AND start_time >= '2024-08-17' 
+    AND start_time < '2024-08-26'
+GROUP BY 
+    deployment_id;
+Doesn’t look right, it’s almost the same answer as the previous one. Maybe vanna.ai needs more context but WrenAI does a great due to its Semantic modeling layer in between
+Q2. For all connections in the “Dalgo Demo” org, can you tell the average sync duration over the last two months for each one
+WrenAI
+Answer
+WITH
+  filtered_org AS
+  -- Selects the organization ID and name from the public_ddpui_org table where the organization name matches 'Dalgo Demo'.
+  (
+    SELECT
+      "org"."id" AS "org_id",
+      "org"."name" AS "org_name"
+    FROM
+      "public_ddpui_org" AS "org"
+    WHERE
+      LOWER("org"."name") = LOWER('Dalgo Demo')
+  ),
+  filtered_sync_data AS
+  -- Joins the filtered organization data with the synchronization statistics to get connection IDs and their corresponding sync durations for the last 60 days.
+  (
+    SELECT
+      "dds"."connection_id" AS "connection_id",
+      "dds"."sync_duration_s" AS "sync_duration_s"
+    FROM
+      "public_ddpui_syncstats" AS "dds"
+      JOIN "filtered_org" AS "org" ON "dds"."org_id" = "org"."org_id"
+    WHERE
+      "dds"."sync_time" >= CURRENT_DATE - INTERVAL '60' DAY
+  )
+  -- Calculates the average synchronization duration for each connection ID from the filtered synchronization data.
+SELECT
+  "connection_id",
+  AVG("sync_duration_s") AS "average_sync_duration"
+FROM
+  "filtered_sync_data"
+GROUP BY
+  "connection_id"
+This was correct. If you see it has broken down the question into steps and uses CTE to build the query.
+Vanna.ai
+Answer
+SELECT connection_id, AVG(sync_duration_s) AS average_sync_duration
+FROM ddpui_syncstats
+WHERE org_id = (SELECT id FROM auth_user WHERE username = 'Dalgo Demo') 
+  AND sync_time >= NOW() - INTERVAL '2 months'
+GROUP BY connection_id;
+Vanna couldn’t figure out the join between the ddpui_syncstats and ddpui_org tables.
+Q3. Can you give me a pivot table of org names against the roles Each cell represents the count of org users in that role for that particular org
+WrenAI
+Answer
+-- Count of verified org users by role.
+SELECT
+  "o"."name" AS "org_name",
+  "r"."name" AS "role_name",
+  COUNT("ou"."id") AS "user_count"
+FROM
+  "public_ddpui_org" AS "o"
+  JOIN "public_ddpui_orguser" AS "ou" ON "o"."id" = "ou"."org_id"
+  JOIN "public_ddpui_role" AS "r" ON "ou"."new_role_id" = "r"."id"
+WHERE
+  "ou"."email_verified" = TRUE
+GROUP BY
+  "o"."name",
+  "r"."name"
+ORDER BY
+  "o"."name",
+  "r"."name"
+This is the correct answer. It’s able to multiple joins very easily.
+Vanna.ai
+Answer
+SELECT org_id,
+       role,
+       COUNT(*) AS user_count
+FROM ddpui_orguser
+GROUP BY org_id, role
+ORDER BY org_id, role;
+This is nowhere close to the correct answer. It looks like training Vanna on just an information schema is not enough, it needs a lot more context to output the correct sql. The context can be in the question or in the training documentation.
+Conclusion
+I think overall WrenAI has performed better but this is just based on a preliminary analysis. We may be able to increase Vanna’s accuracy by coming up with a better training plan.
+WrenAI’s semantic modeling layer is a very novel idea and seems to be working nicely. I really like that the UI gives you the entity relationship diagram of your tables where you can easily go & update the business logic or description or context on any table and relation.

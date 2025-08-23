@@ -1,0 +1,16 @@
+Title: Dam Desilting Mission – project wrap up
+Author: Kurund Jalmi
+Date: August 2019
+Category: Avni
+URL: https://projecttech4dev.org/dam-desilting-mission-project-wrap-up/
+==================================================
+
+For the previous blog check:
+https://chintugudiya.org/dam-desilting-mission-app-goes-live/
+The Galmukt Dharan Galyukt Shivar aka Dam Desilting Mission project was completed a part of the last tech4dev cohort. We had a Program Review and Strategy Workshop with Soil and Water Conservation Department, Government for all the stakeholders of this program. This included Government officials, NGO partners, Funders of the project and technology partners.
+Here are some of the stats:
+Overall
+OpenCHS
+mobile app was widely used by all the NGO partners to collect the desilting data. We were able to get the realtime data about desilting and other stats. The mobile app worked nicely without any major glitches.
+This meeting was a nice experience. It was my first interaction dealing directly with the Government officials and it was super impressive. I was amazed by the level of clarity they had about the program and their willingness to learn and move forward.
+We will be meeting with KPMG team to get the feedback on the app and evaluate how it can be used for 2020 implementation.

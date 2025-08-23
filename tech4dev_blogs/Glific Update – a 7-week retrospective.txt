@@ -1,0 +1,25 @@
+Title: Glific Update – a 7-week retrospective
+Author: Kurund Jalmi
+Date: June 2020
+Category: Glific
+URL: https://projecttech4dev.org/glific-update-a-7-week-retrospective/
+==================================================
+
+Hard to believe, but it has been 7 weeks since we kick-started the
+Glific
+project. The past 7 weeks have been amazing, a lot of intense work, way too many meetings, and lots of learning all around. For me, personally, it has been a great experience to dive in and build another open source project from scratch, but at a very different pace, and more importantly, with a strong focus on the developing world.
+I’m struck by how much the technology and open source world has changed in the past decade. The number of tools and platforms that we are building on to make Glific a reality did not exist a decade or more ago when we started
+CiviCRM
+. The speed at which we are moving and developing features and infrastructure is super impressive. Coming in, I assumed it would take us 3 months to get a better idea of what we wanted to do and how we’d approach it. And here we are, in week 7 and we have a pretty awesome work-in-progress which handles a lot of things which were in our dreams and potential post 1.0 candidates. Overall, we are super pleased and stoked at our velocity and we will continue pushing hard and fast.
+A couple of screenshots to display where we are today:
+A couple of highlights and salient features of our process. I’ve incorporated both technical and non-technical aspects in the below list, since I do think that a synthesis of the two is essential to create great products.
+The backend and frontend teams are marching at their own pace, with limited communication. However, the API allows the frontend to interface with all the cool stuff the backend is building, without significant in-person communication. This is super-important since this is the same API that we will expose to out NGOs (actually their software partners). So for the backend group, the frontend team is a client, just like any other third-party client.
+UTF-8, multi-lingual, switching languages on the fly are super essential and core to what we are building. We recognize and realize the importance of this especially in the context of a country like India, where this is so important.
+Talking to multiple NGOs on a weekly basis really influences what we are building and why. Being able to switch languages and send messages to a user based on their chosen language came from our conversations with
+Slam Out Loud
+. The ability to create user profiles and personas came from multiple conversations with organizations like IDInsight, Digital Green, Leap For Word, Dost Education, and others.
+Emphasizing process early on in the lifecycle (yes, 20 years ago, I would scoff at this very idea) has really helped us. Shooting for a goal of 90%+ test coverage, good documentation generated early, and often, re-writing the same code base 3 times in different ways in the span of 2 weeks (yes, this did happen!) is frustrating, but at the same time helps us create a better product. Something that we are proud of 🙂
+I’ve specifically stayed away from describing some of the v0.1 features (since Abhishek will be talking about it in a future blog post), but we do have conversations, automatic tagging, global keyword automation, menu-driven automation and more working in a prototype version with a fairly solid architecture behind it (along with great test coverage)
+To all our NGO partners out there, who have been so gracious with their time and inputs, thank you :). We’ll be showcasing v0.1 to our NGO advisory group and the tech4dev partner group in the second week of July.
+We are stoked and proud of what we have build in v0.1, we will definitely raise the bar and aim higher for v0.2 and go live with at least one NGO!
+Onwards and upwards!

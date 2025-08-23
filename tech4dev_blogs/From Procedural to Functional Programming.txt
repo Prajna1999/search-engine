@@ -1,0 +1,40 @@
+Title: From Procedural to Functional Programming
+Author: Kurund Jalmi
+Date: June 2020
+Category: Glific
+URL: https://projecttech4dev.org/from-procedural-to-functional-programming/
+==================================================
+
+It?s been almost a month I?m working on the open-source project with Tech4Dev. Prior to this, I had been a part of many enterprise applications in several domains including the social sector. With a deep desire to explore more areas, I found one of the interesting aspects of this project to be functional programming. We?ve taken our time for exploration and strategize how we will mold it to fit our use case.
+Why functional programming?
+As the core of the project is to maintain two-way communication and capture data exchanged between nonprofits and beneficiaries, we knew from the beginning that our tech-stack should support the following requirements:
+Message sending and receiving capabilities in real-time.
+High performance and low response time.
+Capacity to store a huge user base where each user may have hundreds of thousands of chat messages and media files.
+Searching through these vast amounts of information should be fast.
+Concurrent processing and the ability to send multiple requests/seconds.
+All these to be supported easily by average hardware and easy installation.
+It?s clear that we need a solid framework with a robust underlying foundation that handles these needs out-of-the-box. After thorough research, we found our match with Elixir.
+Elixir uses the Erlang VM, which is known for its lightweight nature and it?s pretty common to have millions of processes running concurrently in the same machine. Telecommunications markets use it to maintain high-speed data flow.
+This article
+elaborates more on why Elixir is better suited for these concepts.
+All of this started my journey into functional programming.
+Transitioning to Functional Programming
+I?ve been a big fan of Javascript, especially due to its flexibility. That?s where I first get acquainted with functional programming concepts. Like any new language, I started from the
+Elixir documentation
+and the articles from the community experts.
+Coming from Object-Oriented programming, this was a paradigm shift for me. As I dug deeper into the concepts, I was curious to know what more it can do.
+Once I got a good grasp on the basics from the documentation, I moved to
+Exercism
+and started solving the exercises there. I also posted some of my exercises
+solutions on GitHub
+.
+If you are also starting your journey into Elixir/functional programming, here are some recommended tips which have always worked for me:
+Start with the official documentation. Don?t take any shortcuts.
+If possible, get someone to mentor. He/she will give you a lot of insights that you?ll not be able to find online.
+Focus on exercises that are more in-line with your use case.
+Try sticking to a small prototype for your project.
+Once I finished a small prototype of the use case, I could clearly see where and how Elixir is helping to overcome challenges using its concise modules and functional workflows.
+Conclusion
+When you start a new technology, the possibilities it opens up to build ideas are just infinite. Lobo has been a great partner in pair-programming sessions and helping to see through abstractions in the early phase of our exploration.
+It?s a long journey and I along with my team are taking one step at a time. There are many things I discover every day and I?ll keep sharing them on this channel.

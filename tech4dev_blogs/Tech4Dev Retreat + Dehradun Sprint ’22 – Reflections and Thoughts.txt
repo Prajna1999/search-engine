@@ -1,0 +1,32 @@
+Title: Tech4Dev Retreat + Dehradun Sprint ’22 – Reflections and Thoughts
+Author: Kurund Jalmi
+Date: September 2022
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/tech4dev-retreat-dehradun-sprint-22-reflections-and-thoughts/
+==================================================
+
+Writing this blog post with Kurund Jalmi next to me while flying back to Mumbai after a week spent in nature with friends and community. My original plan was to write this blog post on the way to the sprint, but that did not happen. So Kurund and I will summarize some of the things and people we spoke with over the past week.
+Tejas leading the last session on reflections and recapping the event
+We do need to acknowledge our amazing group of funders who have been so generous with their support that allows us to build and nurture the ecosystem. We do realize we have been super lucky in this regard and are immensely grateful to the current group and the new funders coming into support us. Speaking of funders, this was our first sprint where we had a potential funder representative spend 3 days with us. It was an interesting experience, since we are showing both the good and the bad of such events. But, I do think it is important for us (and other NGOs) to have funders interact with everyone in the organization and also from the community over an extended period of time. In this case, the funder did understand what we mean in our mission statement of building the ecosystem and working collabaratively with like minded partners and NGOs. The funder also did a really good job of interacting with the group and participating in many conversations over the multiple meals we had together.
+After a long time, we had the original team from Tech4Dev 1.0, 2019 – 2022: Arun Kadekodi, Arjav Chakravarty, Kurund Jalmi, Donald Lobo, Arjun Khandelwal attending an event. We gave the Tech4Dev community a history lesson of our origins and our past work. Kurund and I then rewound time even further and spoke about the origins and history of CiviCRM which we founded and were active from 2005-2015. It felt good to see and hear from Arjun on the growth and challenges of Avni, from their early origins to handling the Water Rejuvenation Project with ATE Chandra Foundation and NITI Aayog. The scale and immensity of the project helps show the true power of collaboration and open source.
+For the last 3 days, we had two parallel sprints happening. The Glific team ran the Education Cohort Sprint and Vinod kicked off the Development Data Platform at this event. Getting a group of people to collaborate on an idea is always a challenge. This was made a bit harder with intermittent wifi, power outages and some rain. After a rocky start, the team re-grouped and came up with a smaller set of goals that they achieved over the next two days.
+Its always cool to hang out with the Glific NGOs and see what they ve been upto and some of their learnings. We got a good set of new ideas and feature requests to work on for the next 3 months. It was also cool to hear from Rishi @ Quest Alliance in their approach to designing and deploying chatbots. The amount of time and effort spent on designing a good user experience is super important, and all of us came out of that with a good idea of some of the things we could do to improve interaction and engagement. Abhideep of Gramvaani showed the group the power of audio coupled with AI/ML. Building an audio-first chatbot is the path many NGOs are starting to follow, and we hope to work on this with Gramvaani going forward.
+I also checked with a few folks on the GarudMaachi Sprint experience vs the Dehradun Sprint. Most people felt that the food was better in Dehradun, The weather was a lot better this time around, though it did rain a couple of times. Both locations were quite scenic and nestled in nature, but personally I do miss access to trails and paths that let us explore the surrondings.
+Our next sprint is tentatively planned from Dec 11th – Dec 16th in Pondicherry. Plan on joining us there 🙂
+And if you want even more, lots of other folks
+have written about their experience at Dehradun
+, highlighting a few of them here:
+My Inaugural Tech4Dev Sprint
+– Nidhi Goyal, from our newly formed Advisory Board
+When 1+1 is 11 !
+– Ankit Saxena, one of our Fractional CxO’s
+Tech4Dev Internal Meet and DDP Sprint – Recollections and reflections
+– Vinod Rajasekaran, another of our Fractional CxOs and lead of our Data Development Platform
+Short and Learning-Packed Sprint at Dehradun
+– Gayathri Meka, lead of our Women-in-Tech Initiative
+Sprints are Back: Second Education Cohort Day 1 Welcome to Dehradun
+– Tejas from Reap Benefit and facilitator extraordinaire
+Education cohort??sprint2
+– Abhishek Sharma, Report on the glific portion of the sprint
+Second education sprint: Learnings from NGOs
+– Mohd Shamoon, Insights from a developer. I love how Shamoon splits things into various sections, though I’m doubtful of his taste in good food!

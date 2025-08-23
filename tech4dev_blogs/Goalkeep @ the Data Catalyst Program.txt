@@ -1,0 +1,32 @@
+Title: Goalkeep @ the Data Catalyst Program
+Author: Abhishek Nair
+Date: October 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/goalkeep-the-data-catalyst-program/
+==================================================
+
+This blog is written by Aditya and Jishnu from Goalkeep
+In the social sector it is commonplace to hear of capacity building initiatives for non-profits that are run by well-meaning funders and experts. So we were particularly excited to be invited to plan one that was truly unique and hands-on in its approach. The idea, anchored by Project Tech4Dev in partnership with Dasra, was to bring together leaders and senior management from some of Indias well recognised NGOs for a three-month long cohort-based program focused on building sustainable and scalable data solutions. Several months of planning culminated in bringing together a group of remarkable people to work on enabling NGOs to maximize the potential of data. The program kicked-off last week in the beautiful city of Kochi with 12 non-profits as a part of the Data Catalyst Program (DCP), covering topics from data culture to best practices in data governance to LLMs and AI. We felt much like the
+Avengers
+as the teams from Goalkeep, Dasra, Tech4Dev & The Agency Fund assembled to conduct the opening action packed two-day workshop.
+At Goalkeep, we have been working for the past year to define and explore the concept of building data culture within organizations and the Program acted as the perfect opportunity to share this with the first cohort. Prior to Kochi, we administered the Data Culture Rubric, a self-reflective tool, to 6-12 representatives from each organization, to assess where they stand currently in their data journey as well as their strengths and areas of development (AoDs) across various domains of data culture. (Click here (
+https://goalkeep.net/data-culture-quiz/
+to explore our lite version).
+To have people across different functions and levels within each organization participate in this exercise, engage with their reports, and review their strengths and AoDs added much depth to the discussions and geared us all up for the in-person sessions that were coming up in Kochi in a couple of weeks.
+Data Culture Rubric Conversations with Uninhibited
+We were super excited to start the Program with a session on How does data fit into your org vision?, where we first conducted a simulation to get participants to explore different strategies that can be utilized to solve data challenges. Participants were divided into teams and were given a case study involving a data-related problem statement. While the competitive spirit was evident, we witnessed some rigorous discussions and debates that really set us up for our next segment: taking learnings from the simulation and applying them to ones own organizational context.
+Each NGO defined one data challenge they wished to focus on over the next 3 months. They were also able to identify levers from the simulation to help solve this challenge and break them down into an action plan. To facilitate this process we had staff from Tech4Dev, The Agency Fund and Goalkeep support each organization in articulating their problem statement and plan. It was particularly rewarding to see most participants speaking a common data language: We are doing well in
+Data Literacy
+, but what can we do better in
+Data
+Utilization
+?, How can we improve
+Data Governance
+by improving our data privacy practices?
+This also acted as a base for the learning that was to come in subsequent sessions on Data Leadership & Data Processes. To conclude the day, NGOs spent time incorporating their learnings from these sessions into their action plans.
+Engaging with such diverse organizations, sharing our tools and knowledge with them, receiving feedback and hearing their reflections added great value to our experience.
+Some glimpses of How does data culture fit into your org vision?
+Two highlights for us as we left Kochi:
+The opportunity to collaborate with Dasra, Tech4Dev & The Agency Fund, each of whom bring immense experience and expertise: while there is always room to grow, it was great to see how we were able to come together and take responsibility for different pieces for the data puzzle while trying to ensure we add value to all participants.
+It was really inspiring to see the commitment that NGOs brought to the Program. We are certain that being away from their core roles for even two days would not have been easy. However, the intensity with which everyone engaged in each session, took ownership of their learning by sitting individually with various experts, and using lunch and tea breaks as opportunities to get to know other organizations was incredible.
+As we move into the next phase of this program, we look forward to supporting each organization as they work towards solving their identified data problems and in turn building a strong data culture!

@@ -1,0 +1,58 @@
+Title: Exploring Vanna.ai
+Author: Mohd Shamoon
+Date: May 2024
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/exploring-vaana-ai/
+==================================================
+
+Vanna.ai
+offers a straightforward yet powerful concept: it enables you to chat with your SQL database. Here’s a closer look at how it works, using my test database, Glific DB, as an example.
+https://videopress.com/v/VlznpFGj?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+Vanna.ai leverages a Retrieval-Augmented Generation (RAG) model to generate SQL queries. This model, trained on your dataset, works with most available vector stores and large language models (LLMs) to create and execute queries on the database, providing results instantly.
+Visual Representation of the Idea
+The core concept of Vanna.ai is beautifully illustrated in the diagrams they provide. Here’s a step-by-step guide to setting it up and testing it.
+Setting Up Vanna.ai
+For my experiment, I used the following components:
+ChromaDB
+as the vector store
+OpenAI
+as the LLM
+Postgres DB
+(specifically, my Glific test database)
+The setup process was quite straightforward. This time, I used the Jupyter Notebook extension with Visual Studio Code (VS Code), which worked seamlessly.
+Creating the Vanna Object
+First, I created a Vanna object to store the configurations for ChromaDB and OpenAI:
+class MyVanna(ChromaDB_VectorStore, OpenAI_Chat):
+    def __init__(self, config=None):
+        ChromaDB_VectorStore.__init__(self, config=config)
+        OpenAI_Chat.__init__(self, config=config)
+
+vn = MyVanna(config={'api_key': 'key', 'model': 'gpt-4o'})
+Connecting to Postgres
+Next, I established a connection to my Postgres database:
+vn.connect_to_postgres(
+    host='localhost',
+    dbname='glific_dev',
+    user='mdshamoon',
+    password='pass',
+    port='5432'
+)
+
+df_information_schema = vn.run_sql("SELECT * FROM INFORMATION_SCHEMA.COLUMNS")
+Training the Model
+I then created a training plan and trained the model:
+plan = vn.get_training_plan_generic(df_information_schema)
+vn.train(plan=plan)
+This process creates embeddings in our vector store for the information schema of the Postgres table.
+To view the training data, use:
+training_data = vn.get_training_data()
+training_data
+Running Queries with Vanna.ai
+The final step is to run the Flask app to start asking questions:
+from vanna.flask import VannaFlaskApp
+app = VannaFlaskApp(vn)
+app.run()
+Vanna.ai handles simple queries effectively. If a query is incorrect, you can modify it, and the feedback is incorporated for future improvements.
+Conclusion
+I can see Tejas really liking this as he no more needs to rely on us (so much time consuming) developers 🙂 . Vanna.ai also offers a Slack integration, and I’m considering a Discord integration if a relevant use case emerges.
+Overall, Vanna.ai simplifies database interactions, making it a valuable tool for various applications.

@@ -1,0 +1,208 @@
+Title: Tech4Dev Project Report #11 – Oct 2021
+Author: Kurund Jalmi
+Date: October 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-11-oct-2021/
+==================================================
+
+Tech4Dev
+Mission
+Building the Open-Source Technology Ecosystem for the Social Sector.
+More information:
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Summary
+Q3 2021
+seemed to be the first baby steps of the world getting back on track.  With the vaccine rollout happening at a fairly quick pace across both India and the US, things seemed to be coming back to normal. We ended the quarter with a trip back to India where I met the Glific and ColoredCow teams for the first time and caught up with some of our Tech4Dev partners.
+Glific
+continues to be our main focal point over the past quarter. While we missed our target with regard to the number of new NGOs on the system, we significantly overshot our consulting revenue targets working with some stellar NGOs including Digital Green & STiR Education. This enabled us to strengthen and extend the platform and give us lots of good feature ideas. From a revenue and sustainability perspective, Glific is exceeding its target, and our goal is to close 2021 with at least 30% sustainability for the year. We continue to have regular webinars with our software partners to attract new customers.
+FundImpact
+(FI), our platform that helps social organizations track project funds, deliverables, and impact on the ground has proven to be a bit more challenging from a sales and marketing perspective. The overlap between FI and Dhwanis Grant Management System is significant, and we are evaluating if it makes sense to merge the two products. In the meantime,
+Dhwani RIS
+has been working with NGOs like
+Pradan
+,
+Shelter Associates
+,
+Medha
+to extend FI to their needs and is in the process of releasing v2.0 of the platform.
+From a partner perspective, we have been working closely with the Avanti Fellows & Plio team: sharing knowledge and expertise with them based on our experiences with Glific. Weve started a series of bi-monthly tech talks where we dive deeply into one specific product or technology. In the past quarter weve had talks on Glific, Plio, Avni and Sunbird.
+Financially we are in a good position, thanks to reduced expenditures and our focus on building sustainable platforms. Our current financial balance and commitments is projected to carry us till the end of 2022. This cushion has enabled us to focus on product and sustainability and allowed us to take a break from fundraising.
+After two years, we will
+be meeting face-to-face at a weeklong open source social impact sprint
+in Nov in Uttarakhand with Tech4Dev software partners. The main goal is to build community and to give the product folks a time and place to gather together and share their learnings in-person.
+Highlights and Misses
+In the short span of 15 months, Glific has gone from being an idea to becoming a
+Global Digital Public Good.
+The Digital Public Goods Alliance is a multi-stakeholder initiative (endorsed by the UN and spearheaded by Norway & Unicef) with a mission to accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
+The past quarter, both Glific and FundImpact have worked with relatively large NGOs on significant projects deploying these platforms. Weve realized that working closely with an NGO partner(s) helps create a laser-like focus on functionality and deliverables, resulting in a better product.
+Our goal is to make our platforms sustainable in 3-5 years from inception. In this regard, Glific has made significant strides in both monthly subscription revenue and consulting revenues. Glific is at a 25% sustainability rate today, and our goal is to cross 30% by the end of the year. A summary view of our statistics dashboard is
+available here.
+Glific fell significantly short in its sales goals for Q3. Our biggest issue is with Facebook verification and we have 4 NGOs in the pipeline awaiting this. We have connected with the FB and Gupshup teams and hope to make this process smoother and easier going forward.
+Tech4Dev gave 2 talks with NGOs across India in online events. Lobo was part of a panel for
+Supercharging Philanthropy through technology
+and along with the Svarya team conducted a one day online course for 75+ NGO leader for the
+Resilience Strategies for NonProfits
+Course
+We continue our monthly series of technology articles with the folks at
+India Development Review
+. You can read the articles currently
+published here
+. Our latest article by Riah Forbes focussed on
+approaches to funding technology in the social sector.
+Plio Case Study – Avanti Fellows (AF)
+AFs goal is to provide children from low income backgrounds access to quality higher education via supplementary learning programs with additional teaching at a student level. In 2020, millions of students were forced to study online during the COVID-19 lockdown. AF was running an at-home learning program for the students of public schools in Haryana. They were teaching Math and Science using a combination of YouTube Videos and Google Forms for assessments and quizzes. But student engagement was a big problem with even the best videos seeing a sharp drop off after 1 minute. Additionally, YouTube only provides aggregate statistics with no way to gather data at an individual viewer level.
+To tackle this, the team developed Plio – an open source tool that allows any educator to convert a YouTube video into interactive lessons and gather rich data on user engagement. Soon, the YouTube & Google Form links being sent to students on WhatsApp was switched to Plio links. Students started watching plios and learning in an interactive manner. More than 40,000 students interacted with Plio with a 5x higher retention rate compared to YouTube. In May ’21, the team launched the productized version of the tool and opened it up for educators at large. Currently, Plio has more than 6000+ registered users with 2 other NGOs outside of AF actively using it.
+In August21 with schools reopening, AF launched their Blended Learning Program across public schools in Haryana to enable effective at-home learning for students. As a part of the program, the team developed a few additional tools to enable a seamless interactive video (called plios) consumption experience for students while also keeping in mind the role of teachers in the process.
+Teacher Interface for Lesson Plans: A simple web app that uses Google Sheets as backend to host the Avanti Plio library with an option to send Plio links directly on Whatsapp. This is used by teachers to send Plios as revisional homework to students.
+Authentication Layer: Given the programs target segment, a major roadblock is authentication.These students usually do not have email IDs and have multiple users using a single device. This makes the popular Google or Phone/OTP based authentication methods unfeasible. To tackle this, the team developed a modular authentication layer that can be used for identifying and validating users across different user points of contacts. Currently, all Plio links being sent to students are wrapped with the auth layer. On clicking the link, students are asked to enter their SRN number (unique student ID) and are redirected to the Plio player once validated. But, the auth-layer is designed in a way that can enable redirection of users to any platform like G-meet, Zoom etc.
+While the above tools helped with effective plio consumption by students, it was also imperative as a part of the program to arm teachers with student learning reports that helped close the feedback loop. For this, the team used Glific to create an automated flow which enabled sending of auto-generated, customized, teacher-specific messages with metrics gathered from the Plio platform (no. of viewers, average accuracy, average watchtime etc.) to teachers across Haryana.
+Financials
+Income
+Grants – Contributions
+Funders
+2019 (USD)
+2020 (USD)
+2021 (USD)
+2021 (INR)
+International Funders
+$785,000
+$838,150
+$874,630
+?65,597,250
+Contribution from NGOs
+$0
+$14,300
+$0
+?0
+Indian Funders
+$24,286
+$71,429
+$0
+?0
+Total Grants Received
+$809,286
+$923,879
+$874,630
+?65,597,250
+Expenditure
+Support for NGOs – Expenses
+Sector
+2019 (USD)
+2020 (USD)
+2021 (USD)
+2021(INR)
+Rights and Advocacy
+$133,841
+$72,733
+$0
+?0
+Education and Life Skills
+$177,534
+$96,959
+$0
+?0
+Governance & Public Finance
+$55,570
+$51,222
+$0
+?0
+Health
+$15,857
+$74,102
+$0
+?0
+Technology
+$25,000
+$50,000
+$0
+?0
+Rural Development
+$31,380
+$0
+$0
+?0
+Research
+$48,885
+$229,007
+$149,168
+?11,187,600
+Support for NGOs – Total Costs
+$488,067
+$574,023
+$149,168
+?11,187,600
+Other Costs – Expenses
+Area
+Description
+2019 (USD)
+2020 (USD)
+2021 (USD)
+2021 (INR)
+Events + Travel
+Attendance at funder & partner events
+$17,900
+$2,000
+$3,500
+?262,500
+Strategy + Legal
+Fees paid to Svarya directly from CGF
+$18,500
+$69,108
+$6,600
+?495,000
+Other Costs – Total Costs
+$36,400
+$71,108
+$10,100
+?757,500
+Total Expenditure
+$524,467
+$645,131
+$159,268
+?11,945,100
+Surplus for the year
+$284,819
+$278,748
+$715,362
+?53,652,150
+Surplus to date
+$284,819
+$563,567
+$1,278,929
+?95,919,675
+Details on individual projects can be accessed
+here
+.
+Want More
+Details?
+All our blog posts can be found on
+the project website
+and
+Glific blogs
+. All project documentation can be found on our
+shared google drive folder
+. Each project blogs every month, so we have quite a bit of
+detail and history as the project evolves
+Glific Website
+,
+Glific One Pager
+FundImpact Website
+,
+FundImpact One Pager
+Avni Website
+,
+Avni 2 Pager
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Tech4Dev Project Report #10 – Jul 2021
+Tech4Dev Project Report #9 – Apr 2021
+Tech4Dev Project Report #8 – Jan 2021
+Tech4Dev Project Reports for 2020 (#4 – #7)
+Tech4Dev Project Reports for 2019 (#1 – #3)
+Reach out to us via
+email
+or find more information on our
+website

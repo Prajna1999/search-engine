@@ -1,0 +1,19 @@
+Title: READ project  Tech4Dev Update
+Author: Kurund Jalmi
+Date: February 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/read-project-tech4dev-update/
+==================================================
+
+The changing environment of NGO sector where the partners are looking for easily accessible information, we have been struggling to cope with bringing about the necessary upgradation. Tech4dev seemed like the solution for us.
+In November 2018, Reading Class Project of the network READ was selected as one of the winners of technological development support of Project Tech4dev an initiative of Chintu Gudiya foundation.
+Our mission at READ is ?To encourage and promote reading habits among vulnerable children of age 6 to 14 years, through workshops, exhibitions and trainings with the participation of parents, schools, communities and NGOs so as to develop them as informed, sensitive and responsible members of society?.
+READ is currently a network of 5 NGO?s who work on the reading component of the education. Through these NGO?s we are reaching out to 328 schools covering more than 79,000 children from 1 st to 4 th std of Pune , Pimpri Chinchwad Corporation Schools , Zilla Parishad Schools and also few Private school.
+We are one of the 8 NGOs who were selected by the Chintu Gudiya foundation after they followed a transparent selection process. We were kept informed about the process at every stage. We applied to Tech4Dev with an intention to develop a tool where we could collect and collate various data related to children, books, schools etc. We wanted to generate reports for our partners wherein they could see the positive changes happening in schools with their support. We also wish to showcase the progress made by the children to the Education Department. It would also help us to show the needs that need to be addressed.
+We also have a collection of more than 4,29,000 story books which need to be categorized as per the level of the child who will be ultimately reading it. This software when developed would also act as a storehouse of some excellent training material developed by our member NGO?s over a period of 20 years and more.
+Tech4dev has assigned this work to Soft Corner to understand our technical needs. They will work with us for a period of 5 to 6 months in helping us build this reporting tool so that we can share our work with the Education board, civil society and media. This will help us strengthen the existing system with evidence based data. This can also be an open source available to NGOs and public to be used across the education sector.
+We began this journey with Soft Corner team by orienting them on the nature of the Reading Class Project. Their team also visited 2 schools, where they observed the actual sessions conducted, the records maintained by the field staff. To help them understand our current process we shared some reports. All of this was done through various meetings held in December and January, luckily for us Soft Corner is based in the same city as we, which definitely makes the process easier.
+The team is not only helping us by developing the tool but they are also suggesting various options regarding smooth data entry methods like providing tab to field staff, using QR code etc. Till now we have seen a small snapshot of the mobile app screens. As I understand, the development work has begun.
+We all are excited to use the end product and showcase the good work done by all the NGOs!!
+By Smita Joshi,
+Doorstep School

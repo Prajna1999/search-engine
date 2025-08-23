@@ -1,0 +1,19 @@
+Title: 5 Days of Learning, Collaboration, and Inspiration: Key highlights and takeaways [Karjat Sprint Apr �23]
+Author: Sneha Trivedi
+Date: April 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/5-days-of-learning-collaboration-and-inspiration-key-highlights-and-takeaways-karjat-sprint-apr-23/
+==================================================
+
+We concluded our second quarterly sprint of 2023 at Karjat, Maharashtra last week. This time we clubbed it with the Dasras annual retreat which made it even more collaborative and
+fun. 5 days soaked in planning for the quarter, building strategies to take our product to the next level and building an even bigger ecosystem of NGOs that are interested in integrating tech for their programs. We also engaged with the Dasra team to see where we fit into their programs.This blog focusses on the sessions we had and what plans we have for the next quarter.
+Morning talks
+– Everyday we started with a morning talk. During these 5 days we touched upon different topics ranging from giving overview of our initiatives, (Development Data Platform + Product roadmap) to exploring inquiry based approaches to understand the why behind our areas of work (led by Swapneel, Director at GoalKeep). During the session, we did an activity to put down areas of inquiry and understand how we can ask the right key questions relevant for our programs. Every team member listed key questions on their area of inquiry and reframed it in such a way that it is quantifiable. Deval Sanghavi (co-founder, Dasra) gave us an opportunity to ask any questions we have on Dasra and ways in which we can collaborate better. Robert On from Agency Fund, gave a session on how we can use evidence to drive programs decisions.
+Strategic planning for the quarter
+We spent a good amount of time brainstorming and discussing plans for the next two quarters. Glifics focus will be on enhancing product features and taking product to new use cases such as running ticketing systems through WhatsApp chatbot. As Glific is in the scale phase, our focus for business development is to leverage existing networks and work towards building a stronger ecosystem of NGOs that would benefit not only from Glific but also from other Project Tech4Devs initiatives. We will be active on ground holding events and meet ups with our NGOs to know the work theyre doing and how we can support them better. Even for our Fractional CXO and DDP programs, we will be onboarding more fractional CXOs and NGOs partners.
+Collaboration
+During the retreat, we attended sessions led by the Dasra team and were impressed by the remarkable work they are accomplishing in the non-profit sector. We were given the chance to present our work and explore possibilities for partnering with Dasra and their network of NGOs through our initiatives. There were spaces to cross learn and understand the challenges faced by the NGOs across multiple sectors. We also had a fireside chat with Lobo where he shared that technology can be of great advantage to an NGO if they already have a strong/well tested program on the ground. Technology cannot be looked at as a standalone solution to the challenges faced by NGOs.
+Key takeaways
+Ask questions! Having an inquiry based approach for setting goals helped in understanding the why behind our work and also led to setting stronger yet realistic goals.
+Collaboration unlocks new opportunities- Collaboration with Dasra, Agency Fund, added a lot of perspective to the work we do, and is also essential to address complex challenges, driving progress, and achieving sustainable growth.
+Importance of working in person with the team! Spending not only working sessions together but also fun times during the sprint created a stronger bond with the team.

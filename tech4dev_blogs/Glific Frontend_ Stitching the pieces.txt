@@ -1,0 +1,62 @@
+Title: Glific Frontend: Stitching the pieces
+Author: Kurund Jalmi
+Date: May 2020
+Category: Glific
+URL: https://projecttech4dev.org/glific-frontend-stitching-the-pieces/
+==================================================
+
+It is been three weeks since the project kick-off. It really feels great to be involved in bootstrapping another open source project along with Lobo. It definitely reminded me of good old
+CiviCRM
+days.
+I have been primarily focusing on the frontend aspect of the project along with my team. Based on our initial research we had decided to go with
+React
+for the frontend. The next task was to layout the coding practices, the toolsets and shortlisting of other libraries that would constitute the project.
+I feel we have made good progress and most of the technologies are finalized. Just to summarize, we will be using Typescript for the static type-checking, Redux for the state management along with redux-thunk, Jest /Enzyme for testing and the UI will be based on the
+Material Design
+concept.
+Here are the details:
+Libraries / Packages
+Yarn
+– Javascript/CSS package management
+Babel
+– JS es6 compiler
+Webpack
+/
+Webpacker
+– Module Bundler
+React
+– JS UI library
+Typescript
+– Type checking
+Redux
+– State management
+React Router
+– React router
+Material UI
+– React material design components
+Development
+github/airbnb/javascript
+– Javascript style guide
+github/airbnb/javascript/react
+– React style guide
+Prettier
+– JS code formatter
+ReactPatterns
+– React pattern guides
+React Conditional Rendering
+React rendering patterns
+Testing
+Jest
+Enzyme
+Tools
+We recommend using Visual Studio Code. You can find the configuration
+here
+Redux-devtools are enabled in development. Install the
+chrome extension
+for use
+UI Design
+In the first iteration, our goal is to develop a simplified user-centric interface which will be very much self-explanatory. Additionally, the user will have the ability to label the conversation, use predefined response messages and most importantly use it just like Whatsapp Web app along with an ability to send the rich text format and media.
+We like the clean interface of another open source project
+chatwoot
+Besides this, we have been working on a boilerplate for the project and have most of the core package functioning nicely.
+Looking forward for the exciting days ahead.

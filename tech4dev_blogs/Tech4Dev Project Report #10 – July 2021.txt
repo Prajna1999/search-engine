@@ -1,0 +1,200 @@
+Title: Tech4Dev Project Report #10 – July 2021
+Author: Kurund Jalmi
+Date: July 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-10-july-2021/
+==================================================
+
+Building the Open-Source Technology Ecosystem for the Social Sector.
+More information:
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Summary
+2021
+has been a roller coaster ride that does not seem to end in some parts of the world. While the US seems to have returned to regular life, Q2 2021 impacted both urban and rural India harshly. A significant percentage of personnel from both our NGO and software partner networks were directly or indirectly impacted by COVID. This led to our slowest quarter since our inception from an outreach and deployment perspective.
+We continue our focus on our open-source platforms.
+FundImpact
+(FI), our platform that helps social organizations track project funds, deliverables, and impact on the ground.
+Dhwani RIS
+has been working with NGOs like
+Pradan
+,
+Shelter Associates
+,
+Medha
+to extend FI to their needs.
+Glific
+has continued onboarding more NGOs onto the platform. We onboarded 4 NGOs this quarter, and we hope to onboard a few more as the pandemic in India recedes. As of June, we have
+24 NGOs
+on the platform. We work closely with our partner NGOs in extending the platform to meet their needs. The case study in this report shows how one of our partners served their community and network effectively via Glific.
+Highlights and Misses
+Our work with Internet Freedom Foundation and Civic Data Lab in open data
+helped in the Supreme Court decision
+that issued notice & directed the Union of India to investigate why IT Act Sec 66A cases are still being registered and file a counter-affidavit within 2 weeks.
+Glific
+v1.8 was released in early July. A new version of the
+Glific Product Video
+along with other videos is available on
+our youtube channel
+.
+Glifics consulting practice started in Q2 2021. We are working with multiple NGOs to meet their specific requirements, like
+Digital Green to build an audio chatbot
+.
+Our financials are in a good state due to reduced expenses in the past 15 months. This will enable our current funding to support us for an additional year.
+Tech4Devs fifth cohort was held during Q2, 2021 at the height of the pandemic. Some of the NGOs selected during this cohort had to withdraw due to pandemic issues.
+Our three open-source platforms: Avni, FundImpact, and Glific had a slow quarter in onboarding new NGOs. We also refrained from actively marketing to NGOs in Q2 2021, due to the impact of the pandemic on their staff and other higher priorities.
+We welcome Ravi Dronamraju into our funding circle.
+Glific Case Study – Reap Benefit
+Reap Benefit is one of the leading NGOs that have really used the WhatsApp chatbot system to great advantage. We have been interacting and learning from them as much as we can so as to provide leverage to other NGOs from the good things they have been able to do. In the past 6 months, they have reached out to 40,000+ beneficiaries, exchanging 1m+ messages. Along with a good testament to the Glific platform, its a bigger testament to the program delivery problem we had set out to solve for the social sector.
+Glific has provided a really simple, customizable tool to meet most of our use cases, said Gauthamraj, chatbot program lead at Reap Benefit. This is a big achievement for us. Were planning to onboard 50K more citizens” he said, sharing their near future plans. The Reap Benefit team has been able to make 2X improvements in their programs with Glific as compared to other competitive solutions used in the past. The biggest benefit to them has been the ability to customize the platform such as when they built Google Sheets integration with Glific to serve COVID-affected families. These implementations further validate features that we should make available to a larger set of NGOs, making Glific a go-to choice.
+It’s been a bit more than a year since the pandemic, and our decision to devote most of our energy and resources to our open-source platforms, Glific and FundImpact. In retrospect, this was the right decision, and well spend some time reflecting on what worked and what did not. So a random, semi-structured walk of our journey in the past year.
+Financials
+Income
+Grants – Contributions
+Funders
+2019 (USD)
+2020 (USD)
+2021 (USD)
+2021 (INR)
+International Funders
+$785,000
+$838,150
+$849,630
+?63,722,250
+Contribution from NGOs
+$0
+$14,300
+$0
+?0
+Indian Funders
+$24,286
+$71,429
+$0
+?0
+Total Grants Received
+$809,286
+$923,879
+$849,630
+?63,722,250
+Expenditure
+Support for NGOs – Expenses
+Sector
+2019 (USD)
+2020 (USD)
+2021 (USD)
+2021(INR)
+Rights and Advocacy
+$133,841
+$72,733
+$0
+?0
+Education and Life Skills
+$177,534
+$96,959
+$0
+?0
+Governance & Public Finance
+$55,570
+$51,222
+$0
+?0
+Health
+$15,857
+$74,102
+$0
+?0
+Technology
+$25,000
+$50,000
+$0
+?0
+Rural Development
+$31,380
+$0
+$0
+?0
+Research
+$48,885
+$229,007
+$70,492
+?5,286,900
+Support for NGOs – Total Costs
+$488,067
+$574,023
+$70,492
+?5,286,900
+Other Costs – Expenses
+Area
+Description
+2019 (USD)
+2020 (USD)
+2021 (USD)
+2021 (INR)
+Events + Travel
+Attendance at funder & partner events
+$17,900
+$2,000
+$0
+?0
+Strategy + Legal
+Fees paid to Svarya directly from CGF
+$18,500
+$69,108
+$6,600
+?495,000
+Other Costs – Total Costs
+$36,400
+$71,108
+$6,600
+?495,000
+Total Expenditure
+$524,467
+$645,131
+$77,092
+?5,781,900
+Surplus for the year
+$284,819
+$278,748
+$772,538
+?57,940,350
+Surplus to date
+$284,819
+$563,567
+$1,336,105
+?100,207,875
+Details on individual projects can be accessed
+here
+.
+Want More
+Details?
+All our blog posts can be found on
+the project website
+. All project documentation can be found on our
+shared google drive folder
+. Each project blogs every month, so we have quite a bit of
+detail and history as the project evolves
+Omidyar Network Indias post on funding Glific
+Digital Greens voice-based chatbot for Chilli crop farmers
+Overcoming gender & mental health issues among 14-18yr olds with a two-way chat program
+Making Sense of Data behind data
+Glific Website
+,
+Glific One Pager
+FundImpact Website
+,
+FundImpact One Pager
+Avni Website
+,
+Avni 2 Pager
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Tech4Dev Project Report #9 – Apr 2021
+Tech4Dev Project Report #8 – Jan 2021
+Tech4Dev Project Reports for 2020 (#4 – #7)
+Tech4Dev Project Reports for 2019 (#1 – #3)
+Reach out to us via
+email
+or find more information on our
+website

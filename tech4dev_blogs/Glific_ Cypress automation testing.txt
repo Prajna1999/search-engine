@@ -1,0 +1,41 @@
+Title: Glific: Cypress automation testing
+Author: Kurund Jalmi
+Date: February 2021
+Category: Glific
+URL: https://projecttech4dev.org/glific-cypress-automation-testing/
+==================================================
+
+Testing is an important part of creating any application. It gives you the confidence that your application works the way it is meant to. At
+Glific
+, we use a react testing library and cypress for manual and end to end testing, to ensure that we create the highest quality code and minimize issues. Today, I will be talking about an end to end testing using
+Cypress
+.
+What is Cypress?
+Cypress is the future web-based front-end testing platform. It aims to solve the obstacles that developers face when testing React and AngularJS-based web applications. It’s a fast, effortless, and reliable tool to test any application running on a browser.
+You can read more about Cypress on their website
+here
+.
+For Glific, we have created a separate repository to manage all test cases and run it using GitHub CI
+here
+.
+To Set Up:
+git clone git@github.com:glific/cypress-testing.git
+cd cypress-testing
+yarn install
+Configuration
+:
+Copy the contents from cypress.json.example to cypress.json
+Update the cypress.json file with your glific installed settings
+Note
+:
+If you are running it on localhost make sure both backend and frontend server are running.
+Run
+:
+Interactive (With browser)
+yarn run cypress open
+Batch (without opening a browser (headless mode))
+yarn cy:run
+Screenshot
+:
+Running example
+:

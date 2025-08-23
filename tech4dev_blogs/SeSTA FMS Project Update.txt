@@ -1,0 +1,78 @@
+Title: SeSTA FMS Project Update
+Author: Kurund Jalmi
+Date: March 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/sesta-fms-project-update/
+==================================================
+
+Sesta FMS project
+has been progressing quite nicely. The project plan is finalized along with the UI mockups. Here are the details of the project.
+Project Timeline
+Project development and implementation are carried out as per the below milestones below:
+Milestone
+Deliverables
+Date
+1
+DB schema, Field Mapping for forms
+Feb 7, 2020
+2
+Repo setup and project bootstrap
+Feb 12, 2020
+3
+UI mockups
+Mar 4, 2020
+4
+User Login, Forgot & Reset Password
+My Account / Change Password
+Manage Users, Roles & Permissions
+Mar 16, 2020
+5
+Manage FPO
+Manage VO
+Manage SHG
+Manage Village
+Manage PG
+Mar 30, 2020
+6
+Manage Individuals
+Manage loan models & loan tasks
+Manage activities for CSP
+Manage site configurations
+April 13, 2020
+7
+Manage loan applications
+Print loan applications
+Apr 27, 2020
+8
+Loan Approval
+MIS Reports
+SMS reminders
+May 11, 2020
+9
+Dashboards for different roles
+Data Migration: Import Shareholders
+May 25, 2020
+Final UAT
+1 week
+Go live
+1 week
+Documentation and Manual
+May 25, 2020
+Project Handover
+1 month after go-live
+UI mockups
+We have discussed various functionality and UI with SeSTA team. Here is the final UI mockup that will be used by the dev team.
+https://drive.google.com/drive/folders/1df9Q6klqZr2iMcRNLzhtn2RaIHXQhMCi
+Technology Stack
+We are using the following technologies:
+Frontend
+HTML / CSS / React
+Backend
+Nodejs
+Strapi.io
+PostgreSQL
+Versioning
+Github:
+https://github.com/webaccess/SESTA-FMS
+So far we are on track as per the proposed timeline. However, depending on the COVID-19 pandemic situation there might be few delays. We have communicated the same to SeSTA team.
+Any feedback or suggestions are welcome.

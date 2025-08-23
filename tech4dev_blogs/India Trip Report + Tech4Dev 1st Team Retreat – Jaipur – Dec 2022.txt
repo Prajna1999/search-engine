@@ -1,0 +1,41 @@
+Title: India Trip Report + Tech4Dev 1st Team Retreat – Jaipur – Dec 2022
+Author: Donald Lobo
+Date: December 2022
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/india-trip-report-tech4dev-1st-team-retreat-jaipur-dec-2022/
+==================================================
+
+Another India trip, another bout of inspiration, validation, energy and excitement. Trying to condense my thoughts and feelings as I get ready to head back home to spend time with the kids – Maya and PJ, as they come back from college. I just look back at amazement over the past year and see how far we’ve come along and how much we’ve grown. Such an awesome feeling!
+Sachin
+and
+Supriya
+were kind enough to invite me for the
+Agami
+Summit
+which coincided with the start of my India trip. Since I knew absolutely nothing about the legal and justice space, I figure this could be a good way to immerse myself and learn a wee bit. The event was amazing and super well organized and curated. Over 250+ people were present at the amazing
+Asia Plateau center of Initiatives of Change
+(sight of a future Tech4Dev sprint for sure!). I learned a lot about
+Online Dispute Resolution
+in my drive up to Panchgani with
+Vinay from CORD
+. Also spent a fair bit of the conference learning from multiple participants in the
+OpenNyAI
+sessions. The team from
+Ooloi labs
+(Akshay and Yashna) did a great job facilitating the multiple day session and
+Smita Gupta
+spent a fair bit of time giving me an overview of the space. So a super awesome learning experience for me. Agami has done an amazing job of integrating the commercial sector in their work, and giving them a good presence at the event. We definitely can learn from that in our next conference. From a technology perspective, I did not get a great sense of who the consumer or participant is of the solution. I suspect this is more due to my limited understanding of the space. It was great to see two of Tech4Dev’s NGO partners:
+Indus Action
+and
+Mobile Vaani
+be recipients of the Agami Prize. I also spent some time with a few NGO colleagues and funders, many of whom, I had only seen on Zoom calls. The conversations solidified that we are on the right path especially with our platform and Fractional CxO initiatives.
+I then headed to Pune to meet a few folks from Team Tech4Dev who would not be at the Jaipur retreat: Arun, Ankit and a new product person who will be joining us in mid January. Always great to meet folks in person, and give them the background and history behind the work we’ve done at Tech4Dev. It was then off to Jaipur to meet the team and kickoff an in-person week of work and meetings.
+A year ago, we did not have any employees in India working with NGOs. Our model was quite good at building the ecosystem, but seems like something was holding us back. My meeting with Shilpa from ON approx. 9 months ago, was a good nudge towards building a team in India. This has allowed us to do things faster and deeper. Today, I’m blown away to see and interact with the team of 10+ folks, led by Erica Arya. The quality and experience of the people we’ve been able to hire are super impressive (except for engineering talent), and we have a steady stream of excellent resumes coming in. We are also figuring out the areas where we can improve, specifically in the area of sales and marketing, and better financial models.
+Another interesting event at the sprint was the validation of our open source model. We had
+Gramhal
+be part of the sprint, since we wanted to ensure that we could deploy an instance of Glific on their infrastructure. We are using this partnership to ensure that Glific can operate at scale, i.e. ability to deliver 2L+ messages/hour for a single organization. Using an open-source platform like Glific, allows Gramhal to operate the service at infrastructure costs only. This will result in a cost saving of 3x at least, i.e. from a monthly bill of 3L to an expected bill of under 1L. This has implications on our revenue model, but since our primary focus is to benefit the ecosystem, the tradeoff is well worth it. Things that benefit the larger ecosystem, strengthen us all.
+A few random thoughts after a few sprints in some amazing locations. In the past year, in addition to the big cities. I’ve spent time in Tehri, GarudMaachi, Panchgani, and Jaipur. All wonderful and places in their own right. The locations ensure that the community be “in the present”, focus on relationships, and do a lot of knowledge sharing. However, we do travel a fair distance, but do not really get to immerse ourselves in the surroundings for more than a few hours (at best). Seems like we need to revisit sprint locations, and also figure out if we can invite a few local NGOs for broader exposure. Personally, I do need to figure out how I can take advantage of these locations and spend more time there either before / after the event.
+Managed to have a long conversation with Deval from Dasra, a long time friend and my mentor in the NGO world in India. As we work with more NGOs across India, it’s important for us to build on Dasra’s experience and expertise and collaborate with them in a tighter manner. It also helps our employees to see the larger picture, learn from what has worked (or not worked in the past) and interact with folks who have been engaged in the ecosystem for some time.
+To end the trip, in great timing, Neelam, an amazing young woman from
+Sharanam Center
+got married on Saturday. It’s such a joy to see these young women grow and thrive. Seems like we have come full circle with these women as they embark into their next phase of their life and careers. It’s also great to see how Sharda and Karen keep upping the game by helping and supporting the next group to aspire even higher. Its a constantly learning and evolving journey.

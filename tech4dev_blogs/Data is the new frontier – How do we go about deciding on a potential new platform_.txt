@@ -1,0 +1,41 @@
+Title: Data is the new frontier – How do we go about deciding on a potential new platform?
+Author: Kurund Jalmi
+Date: August 2022
+Category: Dalgo
+URL: https://projecttech4dev.org/data-is-the-new-frontier-how-do-we-go-about-deciding-on-a-potential-new-platform/
+==================================================
+
+Before we get to the gist of this blog post, some background is needed. So we’ll go back in time when we started Glific. We knew that analysis and visualization were an important element, and we wanted to provide it from the very beginning. However, we also were aware that we did not have the time or money to build this internally, and would need to reuse something out there. The open source world did not have too many option (still does not!) for user friendly visualization platforms. We decided to integrate with Google BigQuery and DataStudio and give NGOs an ability to visualize some common metrics and potentially extend it to their own specific needs.
+A few months, maybe a a year goes by. Our stats indicated that only a third of our NGOs had actually enabled the visualization feature. This was a shocker (which I’m still recovering from), and also something we do need to address within Glific to make it even easier. So while we knew data and visualization is super important, we were getting requests for everything else but that.
+Around the same time, we applied (and successfully received) a grant from
+The Agency Fund
+. They had some of their team in San Francisco, and from a thought partnership perspective it was a really good thing for me. It kinda gets lonely at times, working alone from home. They challenged us on a few things, but they kept pushing us to think more about data and A/B testing etc. In the back of my head I’m thinking: I can’t get our NGOs to look at their graphs out of the box, how will I even talk to them about A/B testing and similar things. This was probably the first step that got us thinking a wee bit more seriously about data.
+Fast forward to March of this year, where we launched our Fractional CTO pilot with
+Sneha Mumbai
+and an amazing volunteer
+Vinod Rajasekaran
+(soon to be our newest Tech4Dev team member, yippee!). This pilot was
+super useful to all of us
+and I consider it a major success. In one of our monthly catchups, Vinod mentioned the “data pipeline” problems that we would need to solve for Sneha. Around the same time Swapneel and Manije from
+GoalKeep
+were educating us on
+Building Data Culture within Non-Profits
+. So to a large extent a lot of our worlds were colliding around the same time.
+The above and other conversation, gave birth to the idea of:
+Should we consider building a data platform that is easy for NGOs to use and onboard.
+Vinod knew a wee bit about data tools and open source, I could throw out some jargon if needed, but since we knew folks in our network who knew a lot more about this and we strongly believe in collaboration, I decided to reach out to the vast Tech4Dev network to get an education in data engineering, data science and all things data. Luckily for us, Robert On from Agency Fund, and Eric and Ben from
+IDInsight
+were generous enough with their time and helped validate some of our thinking.
+And this is the story of our latest experiment on:
+Let’s give this a shot and see where we end up, maybe we can build a SaaS platform for NGOs.
+As with all things we do, we need to do a few things before we actually go down the gnarly twisted road of platform building:
+Doing a deep dive and crash course on data engineering and seeing what our options are
+Recruiting a few stellar NGOs from our network who are facing this problem who could be our ideal pilot candidates.
+Getting a software partner on board to help us from a resource and business perspective
+Building a collaborative with other like minded partners and funders who also are interested in solving this issue. We’ve got a good start here with our friends from The Agency Fund, IDInsight and Goalkeep who are all super keen and interested.
+So at this stage, you must be wondering on what exactly are we planning to do. Well, this blog post has gone a bit too long for me to give into it, but I’ll leave you with our
+directory of documents
+that you can peruse, and also an image of our thinking, courtesy of Robert.
+Visual View of the data flows for a NGO
+Robert went ahead and wrote a pretty detailed post on the way we are thinking of approaching the problem, especially with our pilot programs. You can read all the gory details in his blog post:
+Data Engineering for Good – Initial thoughts on the data platform

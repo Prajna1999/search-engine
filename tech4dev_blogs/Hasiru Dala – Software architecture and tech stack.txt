@@ -1,0 +1,18 @@
+Title: Hasiru Dala – Software architecture and tech stack
+Author: Kurund Jalmi
+Date: June 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/hasiru-dala-software-architecture-and-tech-stack/
+==================================================
+
+As described in
+a previous post
+Hasiru Dala provides multiple services to the waste pickers. These services are independent of each other to a great extent as far as developing a software system for it goes. I also described our choice for using OpenCHS for part of the system – social security and community activities. In this post, I fill up some details around tech stack and integration.
+We have decided that we will be developing a custom web application for dry water collection centre’s (DWCC) data management. Regarding library we might still use an open source product, we are still evaluating this. Before we get into integration let’s quickly get into the tech stack for DWCC.
+At Samanvay we have standardised on a tech stack for such systems. We have standardised because the tech stack we have chosen has been based on discussion, research, spikes/trials etc. Over a period of time, we keep evaluating the components of the tech stack and add/remove from it. But when we start a new project of the similar type we just go with tech stack we have standardised on. At Samanvay we need to work on multiple projects, hence a standard tech stack allows for seamlessly switching across projects. While it reduces variety but it does allow us to get deeper and deeper in the tech components and get the most out of them. The tech stack for DWCC is Postgres, Spring, Java, React, embedded React Admin, and Metabase (unless we switch to Superset based on our evaluation).
+Integration across three subsystems
+The need for integration across these subsystems arises because they are serving the same beneficiary. Though apart from some basic beneficiary information not much needs to be shared. The beneficiary information would be first be created in the system by the social workers using OpenCHS.
+To achieve this integration these non-OpenCHS subsystems will pull this information from OpenCHS using the API. These subsystems also need to store this information in their own database so that they can present this information in the reports/extracts to its users (since the reports cannot easily and performantly access the API).
+Lastly for library we are evaluating
+Koha
+. If this works out, we will need to pull data from OpenCHS and populate the children data into its database.

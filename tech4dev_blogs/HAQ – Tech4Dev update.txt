@@ -1,0 +1,40 @@
+Title: HAQ – Tech4Dev update
+Author: Kurund Jalmi
+Date: January 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/haq-tech4dev-update/
+==================================================
+
+As a part of tech4dev initiative, we are working on a project for
+HAQ: Centre for Child Rights
+.
+About HAQ
+?In spirit, HAQ dedicates itself to the recognition, promotion, and protection of the rights of all children. In approach, HAQ focuses on children in a holistic way – as Actors in society, as Citizens of today, and as Adults of tomorrow.
+In practice, HAQ strives to propel child rights into all mainstream development efforts, governmental and non-governmental, and place it on the centre stage of national debate.”
+Project Details
+We are working to automate their case-work management so every case is tracked from day one up to the last follow-up in order to provide timely and quality service and data generated from case-work are managed well to generate critical analysis and research outcomes.
+HAQ provides legal cum psychosocial and rehabilitative support to children who are victims of crimes. The team consists of social workers, counselors, lawyers, researchers, and their supervisors. Currently, they are dealing with more than 500 cases of children who have been victims of sexual abuse. Each case goes through various stages and thus, each stage needs to be documented and digitized.
+Here are primary activities that need to be done:
+* Efficient casework management
+* Tracking the developments and interventions in each case through all stages for providing timely and quality service
+* Establishing an easy and efficient reporting system
+* Generating time-bound alerts
+* Enhancing team coordination and efficiency in general
+* Quick data analytics
+* Generating data analysis that feeds into or can be used for systematic research
+The main users of the system include:
+* Assistant Social Worker
+* Social Worker
+* Director of Restoration Care
+* Director of Legal Intervention
+* Counselor
+* Lawyer
+After various interactions, we have developed the complete workflow for the case-work management.
+Please check:
+https://docs.google.com/document/d/1D7UzQBQJL-g79RIpvuB5IEZ_6zpO9Vrga8HpgEclyuU/edit?usp=sharing
+After analyzing the requirement we are currently evaluating
+https://www.primero.org
+. ??We think
+https://www.cpims.org/
+which is a implementation of primero might be a good fit for this project.
+Any suggestions and feedback are most welcomed.

@@ -1,0 +1,46 @@
+Title: Glific Thanksgiving Report
+Author: Kurund Jalmi
+Date: December 2020
+Category: Glific
+URL: https://projecttech4dev.org/glific-thanksgiving-report/
+==================================================
+
+It seems like forever, but it has just been a bit more than 5 months since we made the
+first commit to Glific
+. But what an amazing time it has been. From thinking of the product five months ago to having a great group of 10 NGO paying customers by the end of this month, it has truly been a great way to spend all the extra time we had during the pandemic!
+Since we just wrapped up Thanksgiving and are heading into the holiday season, it is a good time to acknowledge and thank the various groups that make things like Glific a reality
+The core Glific team composing of Abhishek Sharma, Anshul Gupta, Vaibhav Rathore, Pankaj Agrawal, Dignesh Gujarathi, and Kurund Jalmi.
+The larger open source ecosystem that is making the product a reality. In specific thanks to the team behind
+Elixir
+,
+Ecto
+,
+Phoenix
+,
+Absinthe
+,
+Oban
+,
+PoW
+,
+React
+,
+Apollo
+, and
+AppSignal
+.
+Our NGO Pilot Program participants, specifically
+Slam Out Loud
+and
+India Literacy project
+and our WhatsApp Business Service Provider,
+Gupshup
+. All of them answered all our queries and persistent questioning with so much grace and patience.
+And finally, the Tech4Dev Funders, a group of old and new friends, who have put their faith, trust, and money behind everything we do. Thank you for making this possible
+Kurund, Michael (his new boss) and the CiviCRM doc team
+To be honest there were two events that happened this week that triggered this post. My good friend and colleague, Kurund Jalmi, moved to the UK today and hence moved on from Glific and Tech4Dev. We’ll convince him and twist his arm to give us a fair bit of time over the next few months as we try to fill in his super big shoes. I’ve known and worked closely with Kurund for 15+ years, and I’m both sad that he has left, but super happy for him to try new things in a new country. The above is a photo of Kurund (in his younger days) on his first US trip for the
+CiviCRM
+documentation sprint @ Lake Tahoe
+We also managed to hit our first major operational snafu this week, which kept Pankaj and I awake for the past 3 nights. This was expected, and we will have a few more of them over the next couple of months and years. The more important point is it gets the team to learn how to analyze and debug operational issues in a calm and composed manner, putting in the extra hours as needed, but always approaching it from a logical and reasoned position. For the techies amongst you, as with everything, it was a combination of multiple things including bad database queries, too many API requests coming from the frontend, and some magic that we are still understanding in the underlying framework.
+This started off as a 5 month retrospective, but midway thru the post took a detour and we ended up with a thanksgiving thank you. I’ll be back with our 6 month retrospective by the end of this month
+Onwards and Upwards

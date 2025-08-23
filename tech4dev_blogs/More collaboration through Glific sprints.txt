@@ -1,0 +1,82 @@
+Title: More collaboration through Glific sprints
+Author: Kurund Jalmi
+Date: September 2022
+Category: Avni
+URL: https://projecttech4dev.org/more-collaboration-through-glific-sprints/
+==================================================
+
+Early morning on Sunday, September 11, I and Shamoon left Tehri for the three-hour bike trip to Dehradun for another
+Tech4Dev
+sprint. This sprint was in the foothills of the mighty Himalayas in Dehradun from
+The Sal Woods Forest Retreat & Spa
+which is amidst serene natural greenery
+On reaching Dehradun, we met Vivek and Mohit and took a cab to the
+Sal Wood Resort
+, where we waited for the rest of the party to join.
+This sprint was divided into two parts: the first two days were focused on the
+Tech4Dev
+community consisting of partners like
+HyperVerge Academy
+,
+Aam Digital
+,
+Dasra
+,
+Dhwani RIS
+,
+Avni
+,
+Soft Corner
+, and
+IDInsight
+; the next three days were focused on
+Glific
+NGO partners and the developing the new Data platform.
+As NGO partners (
+Indus Action
+,
+Reap Benefit
+,
+STiR Education
+,
+The Apprentice Project
+,
+VOPA
+,
+Key Education Foundation
+,
+Quest Alliance
+,
+Suno Sunao
+,
+Gram Vaani
+, and
+Bhumi
+) joined us on the evening of 13 September, we had a quick introductory session and celebrated the wins that have been enabled by the use of technology and
+Glific
+platform.
+Read more about the introductory session and what each NGO shared in Tejass
+blog
+On the next two mornings, we had a roundtable discussion with them where they shared their learning so far and the challenges they are facing and trying to overcome while implementing the technology.
+These sessions were really helpful in understanding the work different NGOs do and how they use Glific in their solutions which brings a new paradigm of perspective for us developers of how each feature is looked upon from the eyes of NGOs and how it solves their use case. This certainly gives us a few pointers for the Glific features roadmap, the features we need to build, and the areas we can improve on to extend existing functionalities in a way it is more flexible to use for greater impact.
+Some of the areas of collaboration that came up through the roundtable with the NGOs and things we are looking forward to were
+Vandana from
+Bhumi
+shared how they needed an effective way to manage collections in
+Glific
+using Google Sheets so that a list of contacts may be added to a collection using Sheets rather than manually adding each contact one at a time. To automate this functionality, we are currently considering Apps Script.
+On the day 2 session, Sheetal from
+Key Education Foundation
+shared how they are using
+Glific
+to interact with parents. Where weekly activities for parents are shared in the form of worksheets from a chatbot, in addition to Chatbot, parents, and mentors can communicate more directly in a private WhatsApp group. She also added how they are currently looking for ways for more engagement in the bot as parents are more comfortable with chatting in WhatsApp groups than with Chatbot and how nudges and more personalized messages could be possible ways to engage parents more with the bot. We are eager to start on these two fronts in the upcoming weeks.
+We recently wrapped up POC work in the R mapping dashboard with
+Reap Benefit
+. Check out more about our work in this
+blog
+. In this sprint along with Tejas and Gautam from
+Reap Benefit
+, we met Ankit who is currently working with
+Reap Benefit
+as part of the fractional CXO initiative of Tech4Dev. We all sat together and discussed the work done so far, how we can improve in the future, planned next milestones, and how this feature can be generalized for other NGOs.
+These sprints help in understanding the problems each organization is trying to solve and help in deepening partnerships across organizations. It’s wonderful to see so many like-minded individuals get together to exchange ideas, looking forward to the next sprint which is planned for the week of Dec 11th – Dec 16th in Pondicherry. See you all there

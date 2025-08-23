@@ -1,0 +1,27 @@
+Title: Setco – 18th Feb 2020
+Author: Kurund Jalmi
+Date: February 2020
+Category: Avni
+URL: https://projecttech4dev.org/setco-18th-feb-2020/
+==================================================
+
+Setco foundation was chosen as one of the tech beneficiaries for Cohort – 2 of the Tech4Dev program.
+The foundation works with marginalized communities on the issue of maternal and child health (with the aim to eradicate child malnutrition) through its project named KHUSHI in the tribal block of Kalol from Panchamahal district of Gujarat.
+They have community health workers in 18 community areas who are primarily responsible for providing and facilitating prenatal and post-natal services, delivery services, newborn care, under 6 years child care and pre-school education of 3 to 6 years children.
+Here?s a quick list of programs that Setco plans to implement through Tech4Dev?s second cohort –
+Maternal and Child health,
+Child Nutrition,
+Adolescent health and
+Pre-school education
+To discuss these programs in detail, we (Soft Corner team) visited Setco?s Kalol office in the first week of February. The visit was both insightful and productive. During the visit, Dr Ambadas Adhav, the point of contact person from Setco, toured us to Kalol village, where the health workers work. We had a good chat with the supervisors who explained us
+That they have divided the village into 18 areas and identify each area by a block number.
+There are health workers alloted to each block who are responsible for data collection and enrollments of villagers into different programs
+To start with, in the month of April, Setco health workers do an annual census of the village, during which they make a note of all the additions / deletions in the village.
+Then later on the 2nd day of every month, the field worker goes to every household and interacts with them. This is where they get Adolescent girls enrolled in their ?Adolescent health? program, or pregnant women enrolled in the ?Maternal and Child health?  and so on.
+The data collected by health workers is noted down manually into registers.
+The supervisors have an overview of the data and then pass it on to data entry people to digitize the data into excel
+Digitized data is later on analyzed and programs are designed / modified based on the analyzed data.
+They also shared with us different forms available for different programs.
+Overall the visit helped us understand their processes and data entry forms which in turn will aid us in further implementation using
+Avni
+.

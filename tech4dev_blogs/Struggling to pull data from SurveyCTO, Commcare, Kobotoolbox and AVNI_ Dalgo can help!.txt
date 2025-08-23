@@ -1,0 +1,66 @@
+Title: Struggling to pull data from SurveyCTO, Commcare, Kobotoolbox and AVNI? Dalgo can help!
+Author: Siddhant Singh
+Date: March 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/struggling-to-pull-data-from-surveycto-commcare-kobotoolbox-and-avni-dalgo-can-help/
+==================================================
+
+For the last 12 months we’ve worked with more than ten clients and what we’ve learned from them is that everyone is collecting data from multiple sources and they’re not able to consolidate their data to get a holistic view of their programs. From the initial POC’s which we did we’ve identified the most common data collection tool which Non Profit uses and we’ve built a pipeline so that they can pull their data easily from these sources.
+Dalgo offers 300+ connectors like google sheet, salesforce and file(CSV’s) on top of it from our learnings from different orgs
+we’ve built
+SurveyCTO
+,
+Commcare
+, KoboToolbox,
+AVNI
+, PaperSurvey and Glific
+. We’ve been using Airbyte under the hood and we’ve contributed back to the platform to help and grow the ecosystem.
+AVNI PR Is merged on Airbyte Platform
+We always try to contribute to opensource platforms and so far 3 out of 6 is merged on airbyte platform. This year our plan is to merge existing connector to airbyte as part of our c4gt collaboration.
+What does Dalgo Platform offer compared to other tools?
+300+ sources
+and custom connector development
+No cap on
+no. of users
+using the platform. You can onboard as many.
+DBT integration
+to handle the transformation and building models. Integrated with Github so you can track who’s changing the models.
+Orchestration tool
+which lets you schedule your pipelines according to your needs.
+No cap on number of
+connections and sources
+. So you make as many you want
+Access to any new feature release and we’re targeting quite a few things on our
+Roadmap
+Five hours of Support for the platform and we’ve a Discord channel where you can ask any questions.
+Superset Intergration with DALGO
+We’ve integrated superset mainly because its opensource and when its opensource we can control or build new functionality. This is what we offer if you choose superset as your visualization tool
+Again no cap there on the number of users using the superset.
+We’re also offering superset usage dashboard which gives you
+List of user on the platform
+Active users
+List of dashboards
+No. of user accessing the dashboard
+No. of visits per user
+The next big feature releases
+UI for Transformations
+We started facing lot of challenges with our NGO’s clients where they didn’t have enough technology people or skill in their team and some of the common challenges we’ve been seeing was
+DBT installation and working with sql.
+Modeling of the data on scale.
+Not able to add new source to dbt or pipeline and not able to do transformation easily.
+We’ve integrated DBT in our platform which doesn’t do much for a NGO user.
+After this, we decided to work on UI for transformation which is very common in lot of data tools and as a team we worked on the plan to build this and the approach we took was the learning from our previous experience with lot of DBT models we’ve written for SHRI, STIR, SNEHA and LAHI. Collectively we might have written over 250+ models and we picked most common features from this which you can read about
+here
+.
+This is how it looks like how you can design models now and I’m expecting my team to write a more detailed blog on this 🙂
+2
+. We’ve been focusing on
+Data insights and Data quality
+features for a NGO user so they can get minimal information from their data at the start and they can start thinking about how to make a model in a better way.
+3.
+Another feature we’re working on is
+RBAC(role based access control)
+for a NGO user which you can read about
+here
+. This has come up with a few NGOs we’ve worked with to give limited access to certain users which we thought was a great feature to have and a very common feature in any ETL tool.
+We’re very motivated to take this platform to the next level so please reach out to us if we you think Dalgo can help and solve your Data integration and pipeline problems.

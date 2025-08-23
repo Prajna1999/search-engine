@@ -1,0 +1,93 @@
+Title: Flushing Out Inefficiencies: SHRI & Dalgo’s Data-Driven Approach to Deliver High Quality Sanitation Services
+Author: Siddhant Singh
+Date: March 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/flushing-out-inefficiencies-shri-dalgos-data-driven-approach-to-better-quality-sanitation/
+==================================================
+
+Access to clean and safe sanitation remains a pressing challenge for marginalized communities in India where private toilets are infeasible due to space constraints and lack of piped sewer networks often engendering open defecation. To combat this, India’s government has provisioned over 600,000 shared sanitation facilities since 2014, but the general lack of guidelines on their maintenance and regular cleaning often renders facilities unusable. Sanitation and Health Rights in India (SHRI) addresses this issue and furthers India’s Swachh Bharat Abhiyan (Clean India Mission), by installing and operating professionalized and community led operating and maintenance (O&M) systems at these government-built facilities. This approach ensures high facility quality, a crucial factor in maintaining consistent usage, benefiting over 7,000 daily users across 20 facilities in four districts in Bihar and Jharkhand, India.
+However, tracking facility performance, cleanliness, and maintenance at scale was a significant challenge. Dalgo’s integration transformed SHRI’s ability to collect, analyze, and act on real-time data, leading to improved service delivery, accountability, and scalability.
+SHRI’s Data Needs
+SHRI required a robust system to track sanitation facility usage and generate actionable insights for timely intervention. To achieve this, they developed standard operating procedures, integrated technology, and trained local staff members to manage and utilize this system effectively.
+Data is used to:
+Track and resolve issues occurring at facilities
+Get real-time information on staff attendance to ensure accountability and high-quality service delivery
+Track sanitation usage patterns to optimize resource allocation
+Generate reports for government, academic, and funding partners to drive policy change
+Challenges in Data Use
+Despite having robust sanitation infrastructure, SHRI faced significant data-related inefficiencies:
+Manual Data Processing
+: The manual data cleaning, transformation, and upload/sharing process took up 20-25 hours per week of a dedicated full-time resource, and was prone to a high risk of errors.
+Versioning & Documentation Gaps
+: Lack of structured documentation and version control made it difficult to understand and roll back changes, collaborate with others, and retain knowledge through changes in staffing.
+Slow Dashboard Performance
+: Google Data Studio dashboards were pulling data directly from Google Sheets instead of a structured database. They faced long loading times,
+Scalability Concerns
+: The manual nature of data management made it dependent on human resources and limited SHRI’s ability to expand operations seamlessly.
+These challenges led to reduced operational efficiency, delays in decision-making, and difficulties in tracking sanitation usage trends at scale.
+Dalgo’s Intervention
+SHRI partnered with Dalgo to automate data processing and visualization, revolutionizing how data was managed and utilized and enabling them to scale with ease. Within three months, Dalgo implemented a system that:
+Automated Data Processing
+: Eliminated manual intervention by creating a seamless flow from Kobo forms to analysis dashboards.
+Enhanced Data Accessibility
+: Provided real-time insights to all stakeholders; field teams, monitoring units, and leadership.
+Optimized Dashboard Performance
+: Improved data storage and retrieval, bringing dashboard response time down to a second.
+Established Scalability & Documentation
+: Implemented structured version control, ensuring future updates and expansion could be managed efficiently.
+Impact on SHRI’s Operations
+The adoption of Dalgo significantly improved operations, access, insights and transparency across different levels of the organisation:
+Field Team
+Simplified reporting and reduced manual errors, improving efficiency.
+Real-time insights enabled proactive maintenance and better facility management.
+“SHRI’s digital tracking systems have made my work productive and error-free compared to manual registers.”
+–
+SHRI Field Worker
+Data Team
+Eliminated time-consuming manual aggregation and now focus on review and insights.
+Improved the ability to track trends and measure impact efficiently.
+Enabled SHRI to sustain operations with a lean data/tech team.
+Facility staff review the reports everyday and reach out to the Dalgo team when support is needed.
+Leadership & Funders
+Enabled data-backed decision-making to optimize resource allocation.
+Increased trust and accountability through transparent, real-time impact reporting.
+“Dalgo transformed our ability to track and improve sanitation services.
+With real-time insights, we’ve enhanced facility maintenance, user experience, and data-driven advocacy for better sanitation policies.”
+– SHRI Leadership
+Program Outcomes
+99% Facility Uptime
+: Ensured continuous access to clean sanitation.
+Sustainable Operations
+: SHRI maintains facility operations at less than ₹3.06 ($0.04) per use.
+Data-Driven Advocacy
+: Strengthened engagement with government and CSR funders by demonstrating measurable impact.
+Increased Efficiency
+: Freed up resources by eliminating manual data handling, allowing teams to focus on higher-value tasks.
+SHRI’s dashboards
+for external stakeholders (left)
+and
+internal review (right)
+.
+Way Forward
+By leveraging Dalgo’s expertise in data automation, SHRI has transformed its operational efficiency, improved decision-making, and scaled its impact. This case study exemplifies how technology-driven solutions can empower sanitation organizations to create lasting social change.
+In the coming years, SHRI plans to:
+Expand deployment to ~15 more facilities in Jharkhand in 2025
+Expand SHRI’s current community sanitation facility (CSF) model in 400+ government schools in 2025/26.
+Integrate predictive analytics for proactive maintenance.
+Advocate for
+government-wide adoption
+of data-driven sanitation monitoring.
+Get in Touch
+For organizations interested in similar automation and data-driven decision-making solutions, contact us at
+support@dalgo.org
+or explore our work on
+GitHub
+and
+YouTube
+.
+Read more about SHRIs work here
+Website
+Annual Report 2024
+Strategic Plan 2025-2028
+Insight Report 2023
+https://projecttech4dev.org/improving-sanitation-in-india-shris-tech-driven-approach-with-dalgo/

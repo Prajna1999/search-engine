@@ -1,0 +1,87 @@
+Title: Transforming Education: A Collaborative Data ecosystem to Empower Young People to Thrive
+Author: Rohit
+Date: December 2024
+Category: Uncategorized
+URL: https://projecttech4dev.org/transforming-education-a-collaborative-data-ecosystem-to-empower-young-people-to-thrive/
+==================================================
+
+By
+Sreehari Ravindranath
+,
+Joseph Thomas Rijo
+,
+Vineeth Lakra,
+and
+Amit V Kumar
+Introduction
+Education is the foundation upon which young people’s future is built. However, the purpose of education has long been a topic of debate. Is education merely about acquiring knowledge, or is it about fostering well-rounded, thriving individuals who are prepared for the challenges of tomorrow? Today, there is growing recognition that the purpose of education must evolve to prioritize the well-being, social and emotional development and enable young people to thrive.
+Data plays a pivotal role in this transformation. By expanding our focus to include broader metrics—such as social-emotional well-being, holistic development, and mindset shifts—data provides valuable insights that can guide the evolution of education systems. Through research, evidence, and analysis, data can inform how educational priorities need to shift. This shift requires an ecosystem that prioritizes inclusive, accessible, and open-source data, enabling evidence-based decision-making that can drive holistic change. A collaborative data ecosystem that includes all stakeholders—teachers, policymakers, students, researchers, and NGOs—is critical to empowering young people and ensuring they can thrive in an increasingly complex world. This blog explores how such a data-driven ecosystem can drive transformative educational changes, creating a more effective and equitable future for all learners.
+Beyond the Basics: Building a Comprehensive Data Ecosystem for Indian Education
+India’s
+UDISED+
+(Unified District Information System for Education) database provides extensive data on school enrolment, infrastructure, and teacher statistics. However, it fails to capture vital aspects such as learning outcomes, social-emotional well-being, future readiness, and equity. Reports like the
+Annual Status of Education Report (ASER)
+show that learning outcomes often focus primarily on academic competencies, neglecting the broader educational experience.
+The
+2020 World Bank report
+further underscores that while enrolment data is well-documented, there is a significant gap in data on learning quality and skills development, particularly in rural and underprivileged areas. The lack of data on non-academic aspects, such as mental health, life skills, and social-emotional learning, exacerbates this gap. The OECD report (2021) highlights that India has the least data availability on non-academic aspects of education, like well-being and future-readiness skills. Furthermore, the
+Global Education Monitoring (GEM) Report by UNESCO
+and a
+2023 study by ICSSR
+stress that while infrastructure data has improved, the absence of data on emotional, social, and behavioural development undermines the effectiveness of education systems.
+The Critical Data Gaps in Education
+Despite advances in collecting primary educational data, critical gaps remain in understanding and tracking more nuanced aspects of student development, such as social-emotional skills, mental health, well-being, and mindset shifts. These aspects are vital to understanding how well an education system equips young people to thrive. However, the absence of comprehensive data leaves a significant void in the ability to assess and improve educational outcomes meaningfully.
+At
+Dream a Dream
+, we recognize that data alone is not enough. It is not just about collecting data but about creating a culture that allows stakeholders—policymakers, educators, researchers, and NGOs—to engage with and use data effectively. There is a strong need for more data on how educational interventions influence students’ attitudes, behaviors, and future aspirations in India. Focusing on holistic development through data collection can empower policymakers to make decisions beyond traditional academic performance.
+Dream a Dream’s Data Ecosystem
+Dream a Dream has created a collaborative model integrating research, policy, and practice to bridge these data gaps. This Research-Practice-Policy Collaborative brings together key stakeholders—teachers, policymakers, young people, NGOs, researchers, and academics—united to enable every young person to thrive.
+Dream a Dream has been at the forefront of educational research for over two decades, including large-scale data collection, longitudinal studies, and partnerships with global organizations like Brookings Institution and OECD. These efforts have provided valuable insights into young people’s educational journeys in India, emphasizing the need to rethink educational priorities and move toward a more holistic model.
+Dream a Dream’s Theory of Change for a Collaborative Data Ecosystem
+At Dream a Dream, we believe transforming education requires a fundamental shift in defining success. Traditional measures such as exam scores and graduation rates do not fully capture what it means for a young person to thrive. Education should foster holistic growth—social, emotional, cognitive, and ethical development—empowering young people to succeed in an ever-changing world.
+To achieve this vision, we aim to build an inclusive, accessible, reliable data system supporting evidence-based decision-making and policy development. We believe in a comprehensive data ecosystem that captures academic progress and the broader aspects of student well-being and success.
+Inclusive, Accessible, Reliable, Open-Source Data
+Data must encompass many factors that affect student development, from academic performance to social-emotional skills, mental health, and holistic development. For data to be impactful, it must be reliable and accessible to all stakeholders. Open-source data, in particular, ensures that everyone—from policymakers to educators—has the information they need to make informed decisions. This openness breaks down barriers and fosters transparency in decision-making.
+The lack of disaggregated data on non-academic aspects of education, such as social-emotional well-being, has been a barrier to developing effective policies. Dream a Dream is committed to addressing this gap by championing open-source data practices that provide a more comprehensive understanding of what it means for students to thrive.
+Collaborative Data Ecosystem
+Education reform requires collaboration. The education system includes many stakeholders—teachers, researchers, media, policymakers, NGOs, and philanthropies—each with a unique role. For transformation to occur, these stakeholders must work together in a unified, collaborative data ecosystem. This ecosystem allows for the sharing of insights, the alignment of goals, and the creation of strategies that lead to long-term, sustainable change.
+Data is not static in this ecosystem; it is a dynamic tool that connects various actors in a shared mission. Policymakers use data to shape policies that support academic success and well-being. Teachers rely on data to tailor their teaching approaches to students’ diverse needs. Researchers use data to evaluate the effectiveness of interventions. NGOs and philanthropic organizations use data to assess program impact and optimize resource allocation. This feedback loop ensures that each stakeholder contributes to the continuous improvement of the education system.
+Redefining the Purpose of Education
+At the heart of Dream, a Dream’s Theory of Change is the belief that education must move beyond traditional academic measures. Rather than focusing solely on exam results and graduation rates, education systems should prioritize well-being, social-emotional learning, life skills, and holistic learning. Data should reflect these dimensions of student development, helping to create a more comprehensive view of what it means for a young person to thrive.
+This shift requires a reconceptualization of the purpose of education. Education should prepare students for academic or vocational success and equip them with the emotional intelligence, problem-solving abilities, and interpersonal skills necessary for navigating life. A thriving student is academically capable, resilient, empathetic, and prepared to face future challenges.
+Dream a Dream’s Journey with the Data Catalyst Program
+The Data Catalyst Program (DCP)—an initiative by
+Project Tech4Dev
+in partnership with
+Dasra
+and knowledge partner
+Goalkeep
+—has been a transformative force in shaping data-driven decision-making within the nonprofit sector. Through DCP, Dream a Dream has harnessed the potential of data to drive meaningful change in the educational ecosystem, fostering a culture of collaboration and innovation.
+With the DCP, Dream a Dream launched the Data for Good Initiative, bridging technology, data, and insights for impactful decision-making. This program has empowered the organization to decentralize and decolonize data access, making insights open-source and accessible to internal and external stakeholders. This democratization of data fosters inclusivity and allows stakeholders to co-create solutions, ensuring young people can thrive.
+The DCP program has enabled Dream a Dream to build a robust data culture and facilitated a reflective journey on the “where, how, and why” of the data ecosystem. By embedding data practices across the educational ecosystem, the program underscores the importance of leveraging insights to empower young people and enhance their capacity to thrive.
+This pioneering initiative is a testament to the transformative power of data when it is open, accessible, and actionable—unlocking pathways for systemic change in the education sector.
+Dream a Dream’s Intentions and Goals
+Looking ahead, Dream a Dream is focused on expanding and refining its data ecosystem:
+Enhancing the Data Platform
+: Adding new data sources and improving the platform’s accessibility for all stakeholders.
+Advocating for Data-Driven Policy Change
+: Using data to advocate for policies that prioritize youth well-being and redefine the purpose of education.
+Promoting Open-Source Data
+: Expanding the availability of open-source data to encourage collaboration and transparency across the education ecosystem.
+Strengthening Research-Practice-Policy Collaboration
+: Deepening partnerships with government bodies, NGOs, donors, and academics to ensure a coordinated approach to education reform.
+Larger Vision: Redefining the Purpose of Education
+Dream a Dream envisions a global education system where every young person has the tools and opportunities to thrive. Our goal is to build a collaborative network of diverse education actors, one that drives reform and influences educational ecosystems worldwide, particularly in the Global South. By empowering stakeholders with data and fostering collaboration, we aim to democratize education data and help create a future where every young person can reach their full potential.
+Acknowledgments
+We sincerely thank
+Ghulam Omar Qargha, PhD
+, and
+Rachel Dyl
+from the Center for Universal Education and the Brookings Institution for inspiring our approach to Research-Policy Collaboration through the
+SPARKS initiative
+. Their insights have been invaluable in shaping our work. We also express our gratitude to
+Suchetha Bhat
+, CEO of Dream a Dream, for her leadership and commitment to our shared vision of redefining the purpose of education.
+Additionally, we extend our heartfelt thanks to
+Rohit Chatterjee
+, Director of Engineering at Project Tech4Dev, for his mentorship and guidance throughout the Data Catalyst Program. His expertise and support have been instrumental in advancing our efforts.

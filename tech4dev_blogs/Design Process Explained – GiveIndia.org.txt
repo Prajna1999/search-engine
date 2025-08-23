@@ -1,0 +1,75 @@
+Title: Design Process Explained – GiveIndia.org
+Author: Kurund Jalmi
+Date: May 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/design-process-explained-giveindia-org/
+==================================================
+
+So far, we (Think201) have understood the problem statement that we are solving for GiveIndia.org to a greater extent through various discussions, brainstorming sessions with all the stakeholders.
+The understanding gained has been documented as Feature Requirement Specification (FRS) which can be found
+here
+. While FRS describes
+what
+has to be built as a product, its the design phase which defines
+how
+the product has to be built.
+Like we mentioned earlier in our blog (linked
+here
+) we take a design-driven approach in building a product for the following reasons.
+Forces to think about what end-user needs first through design & then develop the same.
+Brings much clarity to feature-set which was discussed and documented thereby weeding out any/all assumptions.
+Empowers to take feedback from stakeholders & end-users even before it is developed thereby saving a lot of time in case there needs a pivot.
+For the very same right reasons, we have now entered the design phase for the GiveIndia project which involves the following steps to achieve the best results.
+Step 1 – Thorough Understanding of Product
+Process Followed
+This phase is for understanding the product, its intent & the target users clearly. The majority of our focus would be in analyzing requirements, conducting brainstorming sessions with clients & getting clarity on doubts about the product to be designed. We would follow industry-standard user research methods to collect feedback & directions. In this phase, the Business Analyst & Design Team would work directly with clients and get requirements from them. This knowledge about the users and their environments helps in providing a clear direction to the design.
+Activities
+Meet, talk, observe and understand users in their environment
+Analyze requirements to understand and clarify them
+Define user personas and use-cases
+Outcome
+Clarity on the product that will be designed & the roles involved.
+Creation of User Personas
+Creating Flow Charts to understand the flow of data across roles
+Image
+–
+User Persona
+Step 2 – Research & Documentation
+Process Followed
+In this step, the design team does the research work to explore on domain-specific, design trends, doing analysis.
+Activities
+Study of applicable design approaches for the problem statement
+Analysis of latest UI/UX trends, design principles, and rules
+Outcome
+A clear understanding of, the design trend which would suit the product & idea captures. This step is mostly a design direction step & would be about gaining insights that would aid the deliverables in the next step.
+Step 3 – StyleScape Creation
+Process Followed
+Stylescape is a vital step in the design process. It?s a visual representation of the stylistic direction for the project. It allows both you and the design team to view a quicker, deeper understanding than words alone can bring. This organized collage of images, colors, fonts, and phrases saves time in explanation and allows for easy initial feedback on what does and doesn?t work.
+Stylescape brings about a meeting of the minds of clients, designers, and internal project collaborators. They are not about rendering something specific about the project, but about gathering consensus on direction.
+Image – StyleScape
+Step 4 – Prototyping
+Process Followed
+This stage involves the UI definition of the required feature. The design team drives this activity which is based on the last two stages of the process. Draw paper sketches, whiteboard flows, and wireframes to share your ideas with stakeholders. This stage itself is an iterative process.
+Activities
+Generate ideas and work on basic sketches
+Brainstorming sessions with stakeholders to get their feedback from the technical perspective
+Re-draw sketches and re-test them with stakeholders
+Design Prototypes for all the Flows decided in
+Step 1.
+You can see the snapshots of prototypes designed below, for a much clearer version you can see it
+here
+Image
+–
+Login Page Prototype
+Image – List of NGOs Prototype
+Image
+–
+Prototype
+showing NGO Single View Screen
+Image
+– Prototype showing Program details of NGO
+We are currently in
+Step 4
+of the design process which involves creating prototype designs for all screens which is a highly iterative & feedback oriented process.
+You may see the design prototyping work which is work in progress
+here

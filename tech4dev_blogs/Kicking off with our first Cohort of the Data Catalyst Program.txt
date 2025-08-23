@@ -1,0 +1,65 @@
+Title: Kicking off with our first Cohort of the Data Catalyst Program
+Author: Abhishek Nair
+Date: October 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/our-first-cohort-of-the-data-catalyst-program/
+==================================================
+
+Were in Kochi! And in just a days time well kick off the
+Data Catalyst Program
+(DCP) in-person with 30 data leaders across the 12 NGOs that comprise our first cohort.
+In case you missed Lobos blog introducing the program give it a read
+here
+.
+The collaboration with
+Dasra
+,
+Goalkeep
+,
+The Agency Fund
+and our NGOs leading up to this day has been an enriching experience and a great example of the kind of co-creation, open knowledge sharing, and cross learning that makes our ecosystem thrive.
+As we conceptualised the program and its structure we had a few long discussions with the Dasra team about the selection process and ideal profile for our first cohort. The broad aim for the program is to help NGOs see tangible progress across one or more domains of data spanning leadership, strategy, culture, technology, and process.
+While each NGOs aims would vary based on contextual challenges and their stage in their data journey, a simple prerequisite for this first cohort was for NGOs to already be on the path towards data driven decision making. The DCP teams expertise and cohort-learning opportunity could then serve as a catalyst towards their progress.
+Some of the key criteria during application reviews were as follows:
+Duration and extent of digital data collection.
+Team size dedicated to working on data and tech.
+Annual budget and percentage dedicated to data/related resources.
+Clarity around data challenges/goals that theyd like to focus on.
+Program participation from members relevant to the organisations focus areas.
+Investment (preferably participation) from org leadership in making positive changes towards data informed decision making.
+After internal review and a few follow up discussions with some of our applicants, we had our final cohort of 12 NGOs;
+India Literacy Project
+,
+Ummeed Child Development Center
+,
+Key Education Foundation
+,
+The Apprentice Project
+,
+Dost Education
+,
+Saajha
+,
+Quest Alliance
+,
+Educate Girls
+,
+Uninhibited
+,
+SNEHA
+,
+One Billion Literates Foundation
+,
+Seven Sisters Development Assistance
+.
+We then needed to fine-tune our plans to meet the needs of our cohort. We did this by adopting two approaches in parallel. On the one hand we dived deep into the organisations’ data culture with Goalkeeps Data Culture Rubric conversations, and on the other we engaged in Deep Dive conversations with each NGO to understand their challenges, goals, and current state from a technical perspective. Find summaries
+here
+and
+here
+.
+As a result of these pre-engagements we were able to fine tune our plans and assign relevant teams to our NGOs. These teams will drive progress in collaboration with their respective NGOs over the next 3 months.
+As a final step, the assigned teams had a
+prep call
+with their NGOs in the week leading up to Kochi so as to address questions of data security, privacy, access, dive a little deeper into their goals for the Data Catalyst Program, and ensure that were able to do our homework by getting a look at their data and related collateral before we meet them in person.
+Now youre all caught up! Look forward to more blogs and fresh perspectives from Dasra, Goalkeep, Agency Fund, and our NGO cohort in the weeks to come!
+Reach out to us at data.catalyst@projecttech4dev.org if this excites you and youd like to chat.

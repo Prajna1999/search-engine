@@ -1,0 +1,45 @@
+Title: Project Intro: CES Hausla Case Management Tool
+Author: Kurund Jalmi
+Date: June 2020
+Category: Avni
+URL: https://projecttech4dev.org/project-intro-ces-hausla-case-management-tool-using-avni/
+==================================================
+
+Centre for Equity Studies
+was founded in 2000. The organization works with a rights-based approach and is engaged in research and advocacy on issues of social justice. It seeks to inquire into nature and causes of social justice and collectively, through research and action projects find methods of moving towards an equitable world with a specific focus on urban deprivation.
+Our project concerns with The National Resource Team for the Urban Homeless (
+HAUSLA
+) at CES. Hausla works to address the vulnerabilities in health, livelihood, psychosocial traumas, and drug and alcohol addictions that
+homeless
+men, women and children face.
+Hausla?s aim is twofold: to build model interventions for the urban homeless in partnership with the government and to build a knowledge base on homelessness. The team currently runs interventions in Delhi, Patna, Jaipur and Hyderabad and comprises of two main health programs: Recovery Shelter and Street Medicine
+Recovery Shelter
+Recovery shelter programme began in 2011. The shelters were designed to house homeless patients who require frequent and long-term care. The shelters provide medical care and counselling, as well as beds, food and livelihood programmes all free of charge. The shelters have nurses, medical social workers, counsellors and a doctor who checks in on the patients in the evenings. Patients at the shelters include those with HIV, TB, physical injuries, mentally ill patients and any other long-term conditions. The aim is not only to help patients recover from their health conditions but also, by helping patients access government schemes, open bank accounts, get identification, register to vote as well as providing job training opportunities and counselling; the ambition is to use the shelter as a catalyst to help break the cycle of homelessness.
+Recovery Shelter
+Street Medicine
+Street medicine programme is aimed at providing Spot Diagnosis, First Aid and Free Medication. In addition to these, a range of services is provided under this program such as nursing care, referral and rescue services, and street counselling. The aim is to deal with disease and illness before it got a critical state and to be able to manage chronic illness.
+There are multiple Street Medicine teams, each consisting of a nurse, social worker, driver-cum-social worker and a doctor (on-call). The teams go out in the evenings (between 7-11 pm), following a weekly route. The areas visited have been identified as the areas of greatest need. The teams also have slots reserved for ‘follow-ups’ to revisit patients who require further care. The teams see a range of different cases, ranging from minor ailments like coughs, cuts and colds to more severe cases like infected wounds, burns, heart problems, respiratory problems, physical injuries and patients with chronic conditions like TB, HIV, diabetes, mental illness and more.
+Street Medicine
+Need for Digital System
+The team keeps patient records such as demographics, treatment information and history, daily notes, referral/appointment dates, medical reports, photos of patients, photos of wounds and all other patient info on physical registers and individual devices. They are then shared using WhatsApp and uploaded to google drive manually. This method has following disavantages
+Labour intensive
+Inefficient
+Consolidated patient information is not available and not easily accessible to the team while in the field.
+no systematic way to keep track of or prioritize appointments, follow-ups or cases.
+Hence a need is identified for a digital system that helps the team overcome these challenges and achieve the following key benefits
+Record completeness
+Regularity of treatment
+Saving time and labour for coordination
+This will enable better Individual care and Advocacy.
+The digital system will be used by approximately 65 users across the 4 cities both in the recovery shelter and street medicine.
+Solution
+The project started in the month of Dec 2019. Requirements, scope and solution were identified through a series of online discussions.
+The project will be done by
+Samanvay Foundation
+as an implementation of open-source fieldwork platform
+Avni
+.
+TB and MCH are identified as priority areas. However, the programme structure for MCH on field is not completely finalised. And so it was decided to just go ahead with TB for digitalisation for the time being.
+Most of the requirements will be met by existing features present in Avni. Following small feature was identified as a gap and decided to be added to the platform through this project
+Selecting Location hierarchy in forms
+Scope was finalised in April and actual development started in the month of May 2020.

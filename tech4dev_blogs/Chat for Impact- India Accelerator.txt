@@ -1,0 +1,28 @@
+Title: Chat for Impact- India Accelerator
+Author: Kurund Jalmi
+Date: December 2019
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/chat-for-impact-india-accelerator/
+==================================================
+
+Over the past 6 weeks, we’ve been having talks with?
+turn.io
+?which works on 2 way messaging platforms (i.e. WhatsApp, and soon RCS). In collaboration with them, we would like to get 10 NGOs together as a cohort to help run a few pilot projects.
+Lots of details and specific documents on our
+google drive folder
+. In specific do read the Turn documents to get a better sense of what we are talking about. A few things are different from the previous cohorts
+Project Tech4Dec will fund approx 66% of the first six months. The NGO will be responsible for the remaining 33% and the costs after six months. The cost will depend on the size of the pilots. For the pilot, the cost will be approx 1L or so, post-pilot, it will be 3L – 5L for < 10K active users. More details and specifics on this soon.
+We are planning a week together for the cohort from Feb 17 – 21. Location to be determined. The group size will be 25 – 30 people. If you know of a good venue or know of organizations that could host us, please let us know.
+We expect each NGO to send two people preferably. At least one of them should be technically savvy. If you don’t have tech folks on your team, don’t worry, Project Tech4Dev will have software partners to pair with you. We will need to do a fair bit of work online before the meeting, so please ensure you have the energy and bandwidth for this if interested.
+The primary goal is to have NGOs who are already doing regular interactions with their users (at least 5 messages/month) and want to make the communication two way.
+The application form is
+here
+. Its a relatively simple easy application.
+The deadline is Dec 30th
+.
+Topics that will be covered in the week-long meeting are:
+Key topics that will be covered in the training are …
+How to connect with your audience using the WhatsApp Business API & Turn.io.
+How to engage efficiently at scale
+How to guide users towards key behaviors using Machine Learning (ML) & Natural Language Processing (NLU)
+How to set track individual impact journeys

@@ -1,0 +1,79 @@
+Title: Listening, Learning & Building Tech with Grassroots Organisations – Month 1
+Author: Vinod Rajasekaran
+Date: June 2025
+Category: Fractional CxO
+URL: https://projecttech4dev.org/listening-learning-building-tech-with-grassroots-organisations/
+==================================================
+
+By the
+People4Good
+Team (
+LinkedIn
+) – Implementation Partner, Cohort 2025
+“We’ve always wanted to use tech, but it never felt like it was built for us.”
+These were the words shared by one of the grassroots organisations during one of our early meetings in Chennai. A small statement, yet one that echoed across the cohort.
+Over the past two months, People4Good has been working closely with four passionate grassroots nonprofits,
+HRF
+,
+WEEDS
+,
+TNDWWT
+, and
+Thendral Movement
+, as part of the Tech4Dev-Dasra Rebuild India Fund Tech for Grassroots Cohort for Chennai. Each organization brings decades of community wisdom. But when it comes to digital tools, the terrain has often felt alien, rigid, or simply out of reach.
+From Conversations to Context
+We kicked off with what we believe in most – listening!
+Our journey began with onboarding calls and field visits, not to audit, but to understand. In the rural areas of Mangadu, we met the team of WEEDS, where we sat with the team discussing how years of donor data lived in disconnected spreadsheets. With HRF, the conversation turned to how their project team manages reports for 38 districts using just shared folders and WhatsApp groups.
+Each visit became a mirror, not just for the NGOs, but for us too. It reminded us that tech adoption is not just about tools. It’s about context, comfort, and care.
+What We Found
+Through our
+Tech Scans
+and
+Tech Maturity Assessments
+, we saw patterns emerge across organizations:
+Cloud Storage was Paid
+: Most teams weren’t enrolled in Google for Nonprofits and were paying out of pocket for limited space, unsure if tech was worth the investment.
+Design & Content Creation was Ad Hoc
+: Canva accounts were half-setup, unused, or forgotten. Yet every team wished they had better brochures and posts.
+Data Management was Fragmented
+: An org, for instance, was using 40 separate Google Forms for 40 field staff, a patchwork approach born out of necessity.
+MIS Tools Didn’t Fit
+: One org paid ₹18,000/year for a reporting system that couldn’t track projects separately. They had a system, but it wasn’t theirs.
+Vendor Lock-Ins:
+Outsourcing tech for internal operations left them hanging when the vendors were out of the picture.
+Building With, Not For
+Instead of proposing ready-made solutions, we co-created implementation plans. Here’s what that looked like:
+Free Cloud Storage Setup
+: From domain challenges to OTP loops, we navigated the chaos with the NGOs, not just for them.
+Designing & Content Creation
+: We introduced tools like Active Presenter and Canva based on needs for video content and designed storytelling sessions around their campaigns.
+Simple Trackers that Work
+: We built Excel-based MIS formats tailored to their projects and staff realities.
+Social Media Support
+: For some, it meant creating a basic content calendar. For others, just helping them with a domain purchase.
+Change didn’t happen overnight. But it began.
+What We’re Learning
+One thing is clear,
+technology is not the barrier
+. It’s
+trust
+,
+capacity
+, and
+ownership
+.
+We saw hesitation when Thendral Movement feared losing another domain. We saw momentum when WEEDS took ownership of their Google Workspace setup and started experimenting with Google Ads.
+What’s working best? Building
+personal rapport
+, respecting their
+time
+, and breaking tech into
+tiny, confident steps
+.
+What’s Next
+As we step into June, our goals are grounded and clear:
+Finalize domain setups & increase cloud storage
+Complete trainings on designing, video editing & content creation
+Help each org own their data through better yet simple MIS tools
+We’re not just building tools, we’re building confidence. And that, we believe, is the real transformation.
+📍 Chennai, May 2025

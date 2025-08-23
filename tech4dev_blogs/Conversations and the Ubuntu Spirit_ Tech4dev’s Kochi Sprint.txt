@@ -1,0 +1,16 @@
+Title: Conversations and the Ubuntu Spirit: Tech4dev’s Kochi Sprint
+Author: Siddhant Singh
+Date: October 2023
+Category: Dalgo
+URL: https://projecttech4dev.org/conversations-and-the-ubuntu-spirit-tech4devs-kochi-sprint/
+==================================================
+
+I am Anand, one of the co-founders of The Apprentice Project (TAP). Our non-profit uses a tech-enabled WhatsApp chatbot that uses co-curricular electives like Arts, Dance, Coding, and Science as a medium to develop 21st-century skills (creativity, self-confidence, and problem-solving) for middle and high school students from underserved communities. We currently impact 21,000+ students across India.
+We have been partnering with Tech4dev for the last few years and this was my first time engaging with Tech4dev Sprint, I personally was very excited to meet and interact with a diverse group of individuals.
+For me the heart of the Sprint was not just technology or data; it was the conversations.
+I found myself engaging in various dialogues with Rob, Vinod Rajasekaran, Ishaan, and Rohit.
+Together, we explored the potential of Machine Learning models to address the issue of student churn. Our shared goal was to reduce the dropout rates among our students, which made these conversations even more rigorous and meaningful.
+With Lobo, our mentor discussions on how to fundraise effectively and about his vision of the data catalyst program and LLM cohort. Working with Lobo has always been more than just knowledge-sharing; it was always about friendship and how we co-partner in solving various problems towards student learning.
+With Edmund, it was all about the power of LLMs and how we can use it to solve social problems. Jacob from Bandu inspired us with his insights on leveraging business models for social impact. Conversations with Toshal unveiled the challenges of the social sector, connecting us on a human level.
+These conversations were not merely intellectual exchanges; they were heartfelt discussions fueled by a collective passion for making a difference. Through these conversations & connections, I found the essence of Ubuntu . Ubuntu is not just a concept; it’s a way of being, a shared understanding that our success is bound to the upliftment of others.
+To the Tech4dev team, a huge thank you for fostering an environment where conversations transcend the ordinary. Your work not only transforms sectors but also hearts, embodying the true essence of Ubuntu.

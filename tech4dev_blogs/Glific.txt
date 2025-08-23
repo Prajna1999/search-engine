@@ -1,0 +1,34 @@
+Title: Glific
+Author: Kurund Jalmi
+Date: October 2022
+Category: Glific
+URL: https://projecttech4dev.org/glific/
+==================================================
+
+Glific
+Driving Sustainable Community Engagement
+Glific is an open-source, WhatsApp based, two-way communication platform to enable impactful programs reach communities. Non profits can use Glific to send high-quality, relevant and timely information to their communities at a low cost. Glific aims to empower social impact organisations to act decisively and quickly on grassroots information through a range of features ranging from automated responses to comprehensive analytics.
+Key Features & Benefits
+Get Started
+Reach Millions,
+Impact Every Region
+Harness the Power of AI-powered Chatbots
+Identify Your Use Case & Process
+It could be grievance redressal, counselling, health awareness, or
+              delivering education material
+Get access to WhatsApp business API
+You’ll need a phone no., Facebook business manager verified & a Gupshup account.
+Set up your conversation flows & launch
+Set up messages you’d like to send to your end-users and plan for a response from them.
+Testimonials
+Hear from our
+Partners
+Insights and Experiences from Our Valued Partners
+Chatbot significantly saved time by automating sending of messages to a large group of people. It has provided great support and helped us to offer career guidance to students, teachers, and parents in schools and areas where Antarang does not conduct programs.
+Cibel M
+Sr. Associate - Product Development, Antarang
+After attending the accelerator, we were attracted to the features of the chatbot. Even though our team isn't tech-savvy, we felt confident in our ability to use it. All our stakeholders saw the value, which encouraged us to fully commit to the chatbot.
+Udita Shome
+Associate, Rebuild India Fund
+As easy as chatting, as impactful as your programs
+Visit Glific

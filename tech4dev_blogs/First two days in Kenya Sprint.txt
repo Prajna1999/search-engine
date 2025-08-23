@@ -1,0 +1,37 @@
+Title: First two days in Kenya Sprint
+Author: Siddhant Singh
+Date: February 2024
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/first-two-days-in-kenya-sprint/
+==================================================
+
+We’re having our first sprint outside of India and we’ve come to one of the best sprint locations so far and really want to appreciate the everyone who’s involved for doing this. I was very excited about this sprint because I was getting a chance to meet more people outside of India and was a little worried about the long hours flights which I had to take but I made it and it was totally worth it.
+Day 1 Morning
+We reached around 5:30 am in the morning and after some time we left for Naivasha where our sprint location was. On the way, we stopped for a wonderful view from Rift Valley and we also did a little shopping from there then we went to some old church which was along the way.
+Then we reached around 10 am at the Sawela Lodges and after having breakfast we rested for 1 hour and we went to see local sightseeing which was just opposite to the resort. We saw some giraffes very closely which was a great experience and a local guide was needed for this one because of some 5k hippos in the lake so it was quite dangerous as well.
+After coming from there Me, KP and vinod sat together to discuss vinod’s early starting days experience in US and in India. We also discussed some stock market investments which we all do mainly because we found some common interests amongst us.
+Evening Get Together
+After this we had a small get together with everyone at the lodge and by this time people from Agency Fund, Noora Health and some other NGOs had joined us. I started talking to linus from agency fund about how I met him (bec of paper survey connector) and he started telling me that he’s using paper survey connector for Shamiri use case around mental health and then we started talking about what Shamiri do and how they have a problem on ground with collecting some of the data. We also talked about the roadmap for Dalgo and He was interested to know if AI is on the roadmap. I know it’s a buzz word amongst the ngo’s and we’re trying to find some good use cases to work one also if generalizing it would be nice. I also met some of the agency fund people who I know from previous sprint but it is always good to see them but we miss Rob. Hope to see him soon. That’s if from the day. After a tiring day we slept like really early also.
+Day 2
+We started early on the second day. Best highlight was lobo didn’t go for a morning walk. I was hoping to tease him throughout the day but then he surprised me with 6k steps in the afternoon only.
+So we started early on the second day and by 8:30 AM most of the people were already in the conference room. Agency people started with a little introductory session with everyone and right after that we had a small game where we needed to talk to any two or new people within a few minutes. So I got a chance to talk to Natacha Mugeni from V
+labs
+and they’re working with youth to design a healthier, more prosperous future for themselves. They’re working in around 18 countries and have worked with more than 12k children’s. This was wonderful to hear. The second time I had a chance to talk to Anubhav from Noora health. We had online communication when the agency fund connected with us last year. He wanted to know what we’re doing with Dalgo and I kind of explained to him what we did with our last few poc’s. I will be talking to him soon in detail.
+Then we had our first session right after that and Digital Green was presenting and we had one more lightning talk by Noora health after that. Then Agency Fund created this segment where people had to divide in the group and we needed to brainstorm together on the topic of
+Solution to give voice to program participants/two-way communication with program participants
+You can read what we’ve come up with
+here
+. I got a chance to sit with
+Pippa yeats
+from
+turn.io
+,
+Carlos
+from
+Reach Digital Health
+and
+Priscah Cheruiyot
+from
+Jacaranda Health
+. We got this awesome team which I think we all did really great in terms of discussion about the challenges and everyone was very open to share their opinion. This was a really great experience.
+After that we followed up with a few more lightning sessions by Educate, Jacaranda health, kabakoo. Pretty much day 2 was focused on more collaboration sessions and NGO’s talk.

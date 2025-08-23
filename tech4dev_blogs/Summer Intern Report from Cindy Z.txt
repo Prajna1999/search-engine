@@ -1,0 +1,23 @@
+Title: Summer Intern Report from Cindy Z
+Author: Kurund Jalmi
+Date: August 2020
+Category: Glific
+URL: https://projecttech4dev.org/summer-intern-report-from-cindy-z/
+==================================================
+
+Hi everyone! I’m Cindy, a rising junior at UC Berkeley studying Business and Data Science. This past summer, I was an intern on the frontend team, which was led by Kurund, and worked alongside Vaibhav and Calvin on 0.1 and 0.2 versions of Glific. I learned about Glific through an organization called Blueprint at UC Berkeley where we create software for nonprofits and was excited to see and work on a larger scale project that would impact nonprofits everywhere.
+Learning New Technologies!
+As soon as I joined, I had a lot of work to do. I had used React + HTML/CSS before but had very minimal experience with Typescript. In addition to that, I was lost in the codebase – the frontend team had made lots of progress from the month prior to my joining. However, with the help of my co-intern Calvin and Kurund’s guidance, I was onboarded in no time.
+Despite my initial frustrations with Typescript, I soon learned that there would be many more technologies to learn. I learned that we used GraphQL for querying and connecting with databases, but Axios for login and registration. I also used Jest and Enzyme for testing and Formik/Material UI for our aesthetic needs. Needless to say, decisions about which technologies would suit our needs best were being made every day, and I was able to learn about each one. The fast-paced environment of Glific really pushed me to grow as a frontend developer!
+My Work
+One of the largest projects that I worked on was the login and registration flow. This also included screens like ‘Forgot Password’, and ‘Confirm OTP’.
+To own the frontend of so many pages was challenging definitely but fulfilling in seeing it to its completion. When there were API changes I needed or suggestions on improving the design I had for these screens, the backend and design teams were very responsive and took my ideas seriously. This was one of the things I most enjoyed about working at Glific – that I was able to think about the product from various perspectives and learn about how the backend/design processes worked, but also that it truly felt like a team effort.
+Code Quality
+I was definitely learning a lot in terms of quantity – I was learning new languages, using new packages, and writing lots of code, but I also realized code
+quality
+was just as, if not even more important. I learned how to write tests using Jest & Enzyme and used CodeBeat for measuring our quality in the codebase.
+Before joining Glific, I knew it was important to write succinct and powerful code, but testing definitely took this to a new level. Even though things may work on a screen level, testing really ensured that I understood what was happening with each component I created. An important skill I learned was how to generalize components and reuse them throughout the codebase to reduce repeating code. This oftentimes meant editing components that other people wrote, and sometimes created merge conflicts but it definitely made our code easier to understand and quicker to build on top of for future developers.
+Conclusion
+Throughout the 1 AM standup calls to pushing changes right before a release, I can say that I definitely learned a lot and grew as a frontend developer. I am very grateful for all the support and guidance I received from Kurund, Vaibhav and Calvin, and the backend team as well as Abhishek for being understanding and patient whenever I had suggestions about API or Sketch changes. Although my internship has come to an end, I really think Glific has enormous potential to improve communication for NPOs and has a very, and I mean
+very
+dedicated team behind it to bring it to life, so if I have the chance, you can catch me developing open-source code for Glific!

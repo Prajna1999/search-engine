@@ -1,0 +1,23 @@
+Title: SeSTA: Field Visit
+Author: Kurund Jalmi
+Date: February 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/sesta-field-visit/
+==================================================
+
+Web Access
+will be working with
+SeSTA
+as a part of the second cohort to implement the FPO Management System (FMS) which will be deployed at various FPO’s supported by SeSTA.
+About SeSTA
+Seven Sisters Development Assistance (SeSTA) is a culmination of efforts to initiate development work to empower communities in remote rural areas of NE India. Registered in the year 2011, under Societies Registration Act (SRA), 1860, SeSTA was conceived to put systematic effort into the socio-economic development of NE by building capabilities of poor communities, promoting and strengthening their institutions to facilitate them out of poverty and meaningfully participate in the global economy.
+SeSTA collectivizes women to form Self Help Groups (SHGs), builds their capabilities and strengthens livelihood systems to alleviate mass poverty in far-flung villages of Northeast India. Scientific agriculture interventions in food crop and vegetable crops, Natural Resources Management and supporting the intensification and diversification of other livelihoods portfolio like goat rearing, piggery, fisheries, mushroom cultivation, access to clean energy, work on gender justice and governance has helped economically and socially empower communities in these villages.
+Problem Statement
+One challenge faced by SeSTA is tracking the activities carried out by the Community Service Providers. They are paid by depending on the activities done by hence, it?s very crucial.
+Another challenge faced by SeSTA is that as of now there is no system to track the loan repayment process and the intimation of the due date of repayment process to the loanee because of which there are few loan defaulters. It gets difficult to track the excel sheets as there are a large number of shareholders. Currently, around 500 shareholders have been given credit facilities from the FPO’s.
+We visited the SeSTA office in Guwahati and also did a field visit to FPO in order to understand the system on the ground.
+We were able to nail down various open items and clear out our understanding of the project. Based on our discussion we have finalized the project scope for this cohort.
+Project Scope
+The project scope document is available at
+https://docs.google.com/document/d/1rL0SFoXS4SUKqA6K4AWQUy0Kn7aGGzWjK7RFENS-M-Q/edit?usp=sharing
+The next task is to work on the Planning document and detail the implementation plan for the project. We also plan to start the work on the mockups for various screens.

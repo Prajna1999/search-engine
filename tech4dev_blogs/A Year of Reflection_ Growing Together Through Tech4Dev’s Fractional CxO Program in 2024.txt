@@ -1,0 +1,52 @@
+Title: A Year of Reflection: Growing Together Through Tech4Dev’s Fractional CxO Program in 2024
+Author: Mohd Shamoon
+Date: December 2024
+Category: Fractional CxO
+URL: https://projecttech4dev.org/a-year-of-reflection-growing-together-through-tech4devs-fractional-cxo-program-in-2024/
+==================================================
+
+2024 was a year of significant growth and transformation for Tech4Dev’s Fractional CxO (fCxO) Program, but beyond the numbers and milestones, it was a year full of stories, challenges, and learning. For the fCxOs, this journey is not just about technology or strategy—it’s about relationships, building trust, and the collective effort to make a difference for the NGOs we engage with.
+The program, which started as a pilot in 2022, has always been driven by a deep commitment to bridging the gap between NGOs and the technical expertise they need to thrive. Over the years, it has evolved into something far more meaningful—a partnership that goes beyond implementing tools or creating systems. It’s about empowering NGOs to embrace technology as a catalyst for change, not just an operational necessity.
+The Heart of 2024: Growth and Evolution
+This year, the Fractional CxO Program expanded its reach significantly, working with 14 NGOs across diverse sectors. Each partnership brought its own unique challenges and opportunities, and each one reinforced the program’s mission: to use technology to amplify the incredible work NGOs do every day.
+The team itself grew stronger, welcoming new members Antony, Devi, and Shamoon, whose fresh perspectives and energy added to the group’s collective expertise. The introduction of the Fractional Tech Team model—a pairing of senior fCxOs with developers, Technical Product/Project Managers—allowed for a deeper focus on both strategic guidance and hands-on implementation.
+But this growth wasn’t just about numbers or new models; it was about the relationships that were built along the way. The fCxOs worked closely with NGO leaders, navigating the complexities of organizational change, building trust, and helping them see the potential that technology could unlock.
+Stories of Impact
+Behind every engagement is a story of persistence, innovation, and transformation. The vignettes below illustrate the breadth and depth of the work in some of the engagements:
+At
+SHOFCO
+, we embarked not on a journey of complete digital transformation across the organisation but aiming towards technology adoption and enabling a trusting data culture to empower more efficient and effective day to day operations and in turn helping SHOFCO substantiate the impact of their work. We started small with the Gender Program and plan to build on the success of this into Education, Health and Sustainable Livelihoods in early 2025.
+CMHLP:
+At CMHLP, their flagship program, Atmiyata, has streamlined its forms for improved performance and ease of use, and is embarking on integrating Dalgo to enhance data processing and visualization. This upgrade supports the program’s expansion into new regions. Meanwhile, the ENGAGE program has transitioned to REDCap and the Outlive program simplified their app architecture, automated workflows, transitioning to better-suited vendors with clear processes, well-defined requirements for greater efficiency.
+Vasudha Foundation
+improved their data management processes and launched multiple projects with government partnerships. In alignment with program requirements, a tech upskilling plan for program teams to better plan and manage software projects was implemented. Finally, a full-time CTO was hired and onboarded towards the end of the year to continue implementing the technology roadmap laid out by the fCxO along with the Vasudha team.
+SEEDS
+made large strides in discovering and refining the requirements of the national loss platform they are building. Pilots testing disaster loss analysis via multi-modal self-reporting by communities impacted by climate change were run in multiple states. Ecosystem events were held to brainstorm, collaborate and align on key learnings and next steps stemming from the pilots and the early design of the national loss platform.
+SEARCH
+launched a mental health chatbot to make mental health services more accessible in underserved regions, breaking barriers to care for communities in need. This was a new experiment for us with a fCxO spending 40 hrs a week at the same organisation. Being full-time has helped us move things faster and maybe a possible model for us to experiment more on in 2025 of concentrated full time work for a shorter time at one organisation.
+Sarva Mangal Family Trust:
+Their flagship project: Project Chashma transitioned to a digital platform, reducing manual errors and streamlining operations to ensure better vision care for more patients.
+These are a few examples of our work from 2024, but they only tell part of the story. The true impact lies in the confidence these NGOs have gained—the confidence to think through technology decisions, to innovate, and to embrace technology as a key enabler of their mission.
+Our Experiments this Year
+Tech4Impact
+:
+We had our first Tech4Impact event in Bangalore in April with tech experts in the sector represented across funders, NGOs and technical software partners. This was our attempt towards filling the gap on peer networking for social sector tech leaders who occupy a very lonesome space in most of these organisations. We continued this with multiple webinars and have found partners such as Social Bytes to move this forward so we have organic participation and leadership of this space across the sector.  Though the initial in-person event was very successful, the online webinar presence in general has been underwhelming. We are hoping to kickstart this a bit in 2025 and really push this along with an in-person event again in April/May 2025 and then evaluate the viability of this experiment.
+Fractional Tech Team:
+An experiment this year from our learnings the previous year to expand beyond just a Fractional CxO but provide support in terms of developers, product/project managers, data engineers/scientists to help speed up proof of concepts, quick fixes, additional help on training and upskilling areas. With this in mind we have run a few projects including
+Janaagraha
+where we have been working significantly on improving the internal developer team’s experience, efficiency and upskilling the team on those aspects,
+SNEHA where we have been working as product managers to help in a chatbot strategy on Glific to enable and empower women in their 10000 days of motherhood journey,
+Dasra where we have been working as Technical Project Managers to bridge the gap on business requirements to technical requirements and ensuring that the Salesforce vendor and internal Dasra teams are in sync on a stakeholder management system implementation.
+The Challenges Along the Way
+2024 was no exception to having a few whiffs.
+On the NGO-facing  side we faced challenges such as resistance to change from some NGO leaders, delays in hiring critical roles, and the ever-present struggle of ensuring that solutions are sustainable in the long term. These challenges weren’t roadblocks; they were opportunities to learn and grow. The fCxOs discovered that early and consistent engagement with leadership was essential to overcoming resistance. They learned that sustainability isn’t just about handing over tools—it’s about building the capacity and confidence of the people who use them.
+On the internal side, we grapple as always with maintaining the balance between supply and demand of the service. Fluctuating demand from NGOs partly dictated by focus and priorities and also by budgets has been tough to estimate leading to difficulties in the hiring end and longer timelines to start of engagement. A consistent pipeline and managing the ebbs and flows of demand feels like will be quite a challenge even in 2025.
+Also as a self-reflection among fCxOs, we feel that we could be providing a better service and value for money to NGOs (even though NGOs on their ends have been happy and consistently have given as NPS scores of over 60). Better process, reviews, documentation, peer learning and cross leveraging of work across fCxOs  are some areas that we definitely want to focus on to improve in 2025.
+Looking Ahead to 2025
+A simple but a long list to look forward to:
+Continued engagement and managing quality with our engagements
+Helping leverage work better amongst our fCxOs to help newer engagements and also the ecosystem
+Structuring and increasing the scale of the Fractional Tech Team model and in turn empowering more non-profits with the fCxO team model.
+More Tech4Impact events – in person and online to maintain the community engagement
+Chai Pe Charcha (our new sprint standard of meeting with NGOs in the cities we have our quarterly meetups, listening to the challenges of the NGOs and fCxOs working as pro-bono advisors for the day in working more deeply with a few fo the NGOs on that day) events
+Another exciting experiment we will be kick-starting early next year will be in helping empower and enable grassroots orgs through technology (a segment typically we @Tech4Dev have not typically worked with). We are planning to have 5 orgs in and around  Chennai from Dasra’s Rebuild Fund cohort in our initial pilot experiment. Stay tuned for updates on this exciting new experiment in the next quarterly report.

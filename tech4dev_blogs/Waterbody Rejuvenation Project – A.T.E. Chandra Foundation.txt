@@ -1,0 +1,124 @@
+Title: Waterbody Rejuvenation Project – A.T.E. Chandra Foundation
+Author: Siddhant Singh
+Date: July 2024
+Category: Avni
+URL: https://projecttech4dev.org/waterbody-rejuvenation-project-a-t-e-chandra-foundation/
+==================================================
+
+Introduction
+Through collaborative efforts with state governments and various stakeholders, ATECF successfully rejuvenated over 5,000 water bodies, impacting 10 million people across 7000 villages by implementing an efficient rejuvenation process. Utilizing a coordinated technology strategy for the intervention using tools such as  Avni (operational data collection), Dalgo (Data ingestion and analysis), Superset (Data Visualization), Glific (Whatsapp chatbot for troubleshooting the AVNI-GRAMIN APP), Vowel LMS (to train farmers) enabled not just operational efficiency but also quantifying impact and enabling decision making among government officials,  donors, and  on the NGO sides as well.
+Project Overview
+In partnership with State Governments (like Maharashtra),NITI Aayog, non-profit organisations and other donors, ATE Chandra Foundation (ATECF) has helped implemented Rejuvenated Water Bodies(RWB) to tackle the issue of silt accumulation in water bodies across nine states: Rajasthan, Uttar Pradesh, Madhya Pradesh, Maharashtra, Jharkhand, Andhra Pradesh, Telangana, Odisha and Karnataka.
+The initiative was started in 2013 following a severe drought in Maharashtra, which underscored the urgent need to enhance water storage capacity in the existing, local water bodies. The fertile silt removed from the water bodies using earthmoving machinery is made available to farmers for free, who cart them to their farmlands at their own cost.
+The project is tech-enabled, cost-time-effective and community led. To monitor the progress of the project, ATECF uses a mobile  app called Avni-Gramin which captures all the information like Farmer details, water body (WB)details, how much silt is carted by each farmer, how many hours the machine has worked for, how many acres the silt is spread on, OTP verified contact number of the farmer, etc.
+Data Collection Method
+The
+Avni
+Gramin platform provides a way to easily model entities like Farmer, Waterbodies, Workorders and associate forms with them for longitudinal tracking. Its features, which include the ability to work without internet, phone number verification, approval workflow and role-based access have helped to build a robust data collection solution for the project.
+An on ground implementation partner is deployed to mobilize communities and monitor the ongoing work at a waterbody level. This partner deploys a Community Resource Person (CRP) at every waterbody to monitor the rejuvenation work and collect data. The NGO and CRPs are trained on using Avni Gramin via  physical and video training modules before the start of implementation. Once work starts, the CRP has to enter the following data on the App:
+Farmer Registration:
+Register basic information on the app, specifying their name, landholding category, verify their contact number using OTP
+Work Order Registration
+: CRPs
+also register work orders for specific locations where they are responsible for working on water bodies. Multiple work orders can be assigned to the same water body.
+Machine Registration:
+This form tracks the types of machines used for desilting the water bodies.
+Gram Panchayat Registration:
+This form registers the Gram Panchayats involved in the projects where the silt is infertile and carted by GPs for levelling of land, road development, etc. .
+Post-Registration Data Collection
+Daily recording of silt excavation is done through:
+Work Order Daily Recording – Machine
+:
+Tracks the time taken by machines and the   type of machine used on a daily basis .
+Work Order Daily Recording – Farmer
+: Records the amount of silt carted by farmers on a daily basis .
+Farmer Endline Form –
+This data is crucial for tracking the farmer benefit outcome from the RWB project. Upon completing their work, CRPs fill out this form detailing total silt carted, total land on which this silt has been applied and if they plan to shift  the cropping pattern as well. It also mandates uploading documents as needed by the Government regulations (Eg: Panchanama in Maharashtra).
+Gram Panchayat Endline
+–
+This form is filled by the CRP with details of silt carted by the GP and use of the same.
+Work Order Endline Form –
+If the work is completed on a particular waterbody, the CRP fills out this form that their work order is completed with details of all total silt excavated and government documentation recording official data on total silt excavated.
+Dalgo Adoption
+Our open-source data platform enables NGOs to harness the power of data by automating data consolidation, transformation, storage and visualization on a unified interface.
+This ensures that you spend no time on repetitive manual data crunching and can direct your efforts towards the use of data to monitor and evaluate your impact. Learning, iterating and communicating your impact internally and externally.
+Challenges Faced and Solution Implemented
+Challenges:
+Data Integration Complexity
+: Integrating diverse data sources across multiple states and programs posed to pull data from multiple sources and an impact dashboard across all these sources.
+Data Quality Assurance
+: Ensuring data accuracy and consistency across various reports and dashboards.
+Scalability
+: Developing a scalable solution to handle increasing data volumes and additional data sources over time.
+ATECF
+depended on
+JASPER
+reports, and the AVNI team helped develop these reports. However, there was no integration of data from AVNI, Glific, and Vowel LMS.
+Solution:
+Data Ingestion
+: Data is collected from various sources (Glific, Avni, Vowel LMS) and sent to Dalgo.
+Data Transformation
+: Dalgo processes and transforms the ingested data.
+Data Warehousing:
+The transformed data is stored in a PostgreSQL database.
+Visualization
+: The stored data is then visualized using Apache Superset for insights and analysis.
+Various Factors
+1. Unified Data Platform
+: Implemented Dalgo as a unified data integration platform to consolidate data from multiple instances and sources like Avni-Gramin, Glific and Vowel LMS
+2. Automated Pipelines
+: Developed automated data pipelines for timely and accurate data collection.
+3. Rigorous Testing
+: Conducted extensive data validation and testing using DBT to maintain data quality on a continuous basis. Added significant test cases to improve the data quality using the elementary feature.
+Why is data quality important?
+Data quality ensures accurate decision-making, reducing errors and improving operational efficiency. It enhances customer satisfaction through reliable insights and personalized services. High-quality data helps in day to day monitoring, enhancing the efficiency of public spending.
+Avni Dashboard Requirements
+ATE Chandra Foundation (ATECF) aimed to build a comprehensive set of dashboards to showcase the impact of their various projects to government officials, enabling them to make informed and timely decisions. The key requirements for the dashboards to demonstrate the overall impact across programs with various agencies like NITI Ayog, GDGS (Government of Maharashtra), and projects supported by philanthropies
+Overall Program Impact
+Overall Silt Excavated (Per Program)
+: Display the total amount of silt excavated, segmented by each program to provide a clear overview of progress.
+Silt Target vs. Silt Achieved (Percentage):
+Compare the silt excavation targets with the actual achievements, presented as percentages to highlight performance relative to goals.
+Poor Performance Districts (Silt Excavated):
+Identify and highlight states/districts that are underperforming in terms of silt excavation, enabling targeted interventions.
+Completed and Ongoing Waterbodies:
+Show the status of waterbody rejuvenation projects, categorizing them as either completed or ongoing to provide a clear project status overview. The Work Status Chart is showing how many water bodies are completed and on the left they can see clearly which state/district has excavated the most silt.
+Active Farmers (Per Program):
+Track and display the number of active farmers involved in each program to measure engagement and participation.
+Vulnerable Farmers Breakdown
+: Provide a detailed breakdown of vulnerable farmers, possibly segmented by criteria such as income level, landholding size, or other relevant factors.
+The above charts show that in  Uttar Pradesh many farmers have not verified their mobile numbers.
+Ensuring Farmers are verified and traceable through OTPs – and tracking how each state/district has done to ensure sanctity of this data
+In the pie chart it shows total farmers and how many are from vulnerable categories.
+On the right we have all the categories of farmers.
+Machine Efficiency Benchmarking:
+Provide a way to see if the machine is able to achieve the benchmarking which is set. JCB and Poclain have certain benchmarking and we?re trying to see which state/district has achieved the benchmarking. This also helps identify outliers where data is well above benchmarking highlighting errors in data entry.
+By implementing these dashboards, ATECF aims to offer a consolidated view of their projects’ impact, facilitating better decision-making for government officials and improving overall project management.
+Data Transparency and Accessibility
+In addition to the dashboards, Dalgo provided a transparent way for the team to view raw data at each step, including:
+Registered farmers, work orders, and machines.
+Daily recordings for farmers and machines.
+Aggregated data for the dashboard.
+This approach allows the team to track data flow at each stage, can search, and download CSV files, which is particularly useful for reporting and sharing purposes. The inclusion of farmer_id enables comparison with AVNI Mobile data, ensuring consistency and accuracy
+Glific Dashboard
+In the GDGS work ATECF is using Glific to resolve any problem while accessing the Avni app. So we?ve built dashboards which can help the team to identify the most asked questions and which questions/flows needed the maximum human intervention..
+In the pie chart below, we track which flows in Glific & therefore work streams in data entry on Avni where people are asking the most questions.
+Data Culture Building And Dashboard Usage Adoption
+Dalgo has a built-in feature to track usage of Superset dashboards
+so that the team can evaluate dashboards being used and also identify users not using the dashboards. Since ATECF works across multiple states and government bodies, this feature helps track usage across different state implementations and allows the team to push with users to encourage data driven decision-making. With this, the data culture can be nurtured and built among internal and external teams to ensure dashboards serve users and users are encouraged to better use data to run operations and make decisions.
+Accomplishments During the Engagement
+450+ hours spent over the entire development process with a focus on automation of processes, reliability, maintainability and scalability of the system to other states in the future.
+Integrated 6 diverse data sources for AVNI and developed over 10 data pipelines.
+Created 14+ comprehensive dashboards and over 100+ detailed charts, including those for Glific.
+Designed 101 data models and executed 500+ data test cases in DBT to ensure data quality.
+Enhanced the Avni connector by integrating two additional APIs with the support of the Avni team.
+Identified and prioritized
+multiple issues
+in Avni for prompt resolution.
+Developed custom dashboard filters to enable multidimensional data views.
+Collaborated closely with the Avni team to deepen understanding of their data.
+Resolved numerous issues in Jasper Reports during the data validation process.
+Overcome significant challenges in data validation, dedicating extensive time to resolving issues in both Jasper and Dalgo reports.
+Developed ingestion connector for Vowel LMS that can be reused by other Vowel LMS users
+Conclusion
+ATE Chandra Foundation’s Waterbody Rejuvenation Project exemplifies the power of collaborative efforts and advanced data management in addressing critical environmental challenges. By leveraging innovative technologies and fostering strong partnerships, ATECF has made a significant impact on water management and community development. The success of this project serves as a model for similar initiatives, demonstrating the importance of data-driven decision-making and sustainable practices.

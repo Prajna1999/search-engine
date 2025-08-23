@@ -1,0 +1,212 @@
+Title: Tech4Dev Project Report #9 – Apr 2021
+Author: Kurund Jalmi
+Date: April 2021
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/tech4dev-project-report-9-apr-2021/
+==================================================
+
+Tech4Dev
+Mission
+Building the Open-Source Technology Ecosystem for the Social Sector.
+More information:
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Summary
+2021
+began on a hopeful, upbeat note. Things had been looking up for a while with the general availability of vaccines in India and the US but that has been dampened by the recent waves of Covid-19 infections in many countries including parts of India. This will impact our plans for the second half of the year.
+In Q1 2021,
+we continued our focus on our open-source platforms.
+FundImpact
+(FI), our platform that helps Social Orgs track project funds, deliverables and impact on the ground, started
+three NGO pilots
+in Q1. They continue to do demos and webinars for prospective customers.
+Glific
+has
+continued onboarding more NGOs onto the platform. Our goal was to get 10 new NGOs using the platform by the end of the quarter, and we managed to exceed that goal. As of end-March, we have
+20 NGOs
+on the platform. We are learning a lot from our user base as we build/ extend features that apply to their use-cases.
+We announced our
+Fifth Cohort
+for NGOs focused on onboarding them to Glific. In this cohort, we will accept 10 NGOs who are using or planning to use WhatsApp and train them on the Glific platform and best practices in digital communication. We plan to announce the NGOs in this cohort by April 30.
+Q4 2020
+was in a similar vein to the previous 2 quarters, a continuation of our pandemic rituals. The US election, the election disputes following that, and the violence at the Capitol was a shock to all of us and the world at large, but it re-emphasizes why it is so important for all of us to be involved and be part of the social and justice movement in whatever way we see fit.
+Highlights
+Glific
+v1.3 was released in March. We will continue with bi-weekly and/or monthly releases. We also do monthly webinars on Glific as our primary sales and marketing channel. Glific onboarded a new software partner,
+Maverick Labs
+to help with product development.
+Glific was used to conduct a mini-RCT for
+Weunlearn
+. We also onboarded our first US NGO:
+Asylum Seeker Advocacy Project
+. Glific will be useful for NGOs in the US working with and for immigrants.
+Tech4Devs fifth cohort announced
+for Q2, 2021. The goal is to onboard 10 NGOs
+FundImpact continues to gain traction as a tracking and reporting tool.
+CiviCRM (our first project at the intersection of NGOs, technology and open source), won the FSF award for
+Projects of Social Benefit.
+We consider Tech4Dev an evolution of what we started at CiviCRM and we hope to make as big an impact with Tech4Dev.
+As NGOs continue to hunker down and rely more and more on digital platforms over field personnel, we will continue to look for gaps to fill in helping NGOs with technology and build platforms or contribute to existing open-source platforms to enrich the broader open-source technology offerings for social organizations.
+Learnings from our open source platforms
+It’s been a bit more than a year since the pandemic, and our decision to devote most of our energy and resources to our open source platforms, Glific and FundImpact. In retrospect, this was the right decision, and well spend some time reflecting on what worked and what did not. So a random, semi-structured walk of our journey in the past year.
+Glific was the right project at the right time for the sector. We were well served with our experience with the third cohort, and building on that gave us a solid foundation.
+Having a good advisory group of NGOs to give us feedback in the first three months of Glific was super helpful. Onboarding pilot NGOs in month four, and then a regular stream after that, helped focus the product and our offerings.
+FundImpact is also a targeted specific solution solving a need for many medium to large NGOs and companies in India. We should have focussed on getting our pilot group of users involved in the design and specification at a much earlier stage than we did.
+It did not help FundImpact, that the Indian Govt rolled out a new policy about re-granting half way through the implementation. This eliminated one of FIs major selling points, and required a mini-pivot
+Both Glific and FundImpact have not had a focussed sales and marketing effort. We have to rectify this in Q2 and Q3 2021
+Glifics model has been a collaboration with 3 of our software partners, FundImpact is driven by one software partner. So far, both models have seemed to work.
+Building communities in the social ecosystem is hard, Glifics attempt at having a live communication channel (via
+Discord
+) has been semi-successful as an effective support channel, and for collaboration within the Glific team. It has been less successful with NGOs sharing and seeking assistance from other NGOs.
+We have one prolific community contributor to Glific, in
+Madhav Malhotra
+who has contributed the Import API and is now spearheading the billing project.
+Financials
+Income
+Grants – Contributions
+Funders
+2019 (USD)
+2020 (USD)
+2021 (USD)
+2021 (INR)
+International Funders
+$785,000
+$838,150
+$328,000
+?24,600,000
+Contribution from NGOs
+$0
+$14,300
+$0
+?0
+Indian Funders
+$24,286
+$71,429
+$0
+?0
+Total Grants Received
+$809,286
+$923,879
+$328,000
+?24,600,000
+Expenditure
+Support for NGOs – Expenses
+Sector
+2019 (USD)
+2020 (USD)
+2021 (USD)
+2021(INR)
+Rights and Advocacy
+$133,841
+$72,733
+$0
+?0
+Education and Life Skills
+$177,534
+$96,959
+$0
+?0
+Governance & Public Finance
+$55,570
+$51,222
+$0
+?0
+Health
+$15,857
+$74,102
+$0
+?0
+Technology
+$25,000
+$50,000
+$0
+?0
+Rural Development
+$31,380
+$0
+$0
+?0
+Research
+$48,885
+$229,007
+$34,709
+?2,603,175
+Support for NGOs – Total Costs
+$488,067
+$574,023
+$34,709
+?2,603,175
+Other Costs – Expenses
+Area
+Description
+2019 (USD)
+2020 (USD)
+2021 (USD)
+2021 (INR)
+Events + Travel
+Attendance at funder & partner events
+$17,900
+$2,000
+$0
+?0
+Strategy + Legal
+Fees paid to Svarya directly from CGF
+$18,500
+$69,108
+$6,600
+?495,000
+Other Costs – Total Costs
+$36,400
+$71,108
+$6,600
+?495,000
+Total Expenditure
+$524,467
+$645,131
+$41,309
+?3,098,175
+Surplus for the year
+$284,819
+$278,748
+$286,691
+?21,501,825
+Surplus to date
+$284,819
+$563,567
+$850,258
+?63,769,350
+Details on individual projects can be accessed
+here
+.
+Want More
+Details?
+All our blog posts can be found on
+the project website
+. All project documentation can be found on our
+shared google drive folder
+. Each project blogs every month, so we have quite a bit of detail and history as the project evolves
+Team reflections on the release of Glific v1.0
+Tech4Dev announces the availability of Glific v1.0  an open-source, two-way communication platform
+7 habits that the social sector ecosystem can improve on
+Glific Website
+,
+Glific One Pager
+FundImpact Website
+,
+FundImpact One Pager
+Tech4Dev Project Report #8 – Jan 2021
+Tech4Dev Project Report #7 – Oct 2020
+Tech4Dev Project Report #6 – Jul 2020
+Tech4Dev Project Report #5 – Apr 2020
+Tech4Dev Project Report #4 – Jan 2020
+Tech4Dev Project Report #3 – Oct 2019
+Tech4Dev Project Report #2 – Jul 2019
+Tech4Dev Project Report #1 – Apr 2019
+Tech4Dev 2 Pager
+,
+Tech4Dev Info Deck
+Reach out to us via
+email
+or find more information on our
+website

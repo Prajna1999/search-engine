@@ -1,0 +1,90 @@
+Title: Adopting AI in the Social Sector: Highlights from collaborative Sprint
+Author: Akhilesh Negi
+Date: February 2025
+Category: AI
+URL: https://projecttech4dev.org/adopting-ai-in-the-social-sector-highlights-from-collaborative-sprint/
+==================================================
+
+As we step into the new year 2025, we are kicking things off with a bang by organizing a sprint at Chariot Beach Resorts, Mahabalipuram, Chennai. This was a great way to start the year by spending in-person time with many NGOs, understanding the impactful work they do, and supporting them along the way. It reaffirms our commitment to the social sector and sets a strong foundation for the year ahead. The sprint was divided into two parts: the first week focused on the
+AVNI
+,
+Dalgo
+, and
+FCXOs
+groups, while the second week was dedicated to the AI and
+Glific
+teams. This split was necessary as our team continues to grow, and inviting NGOs from all product groups at the same time would be overwhelming. By structuring it this way, we were able to ensure more meaningful interactions and deeper engagement with each group, making the sprint more productive and impactful.
+Read more about previous sprint here
+Dalgo Sprint In Mahabalipuram
+Exploring Dalgo with SocialBytes: A Conversation on Tech-Driven Impact
+Kickoff Sprint
+For the AI sprint, we arrived on January 27th and met most of the team—Lobo, Jerome, Akhilesh, and Nishika. The first few days were all about figuring out our priorities for the next few months and what it’ll take to get v1.0 out the door. We spent a lot of time piecing things together—talking through the modules we need to build, the high-level architecture, and the APIs required to migrate existing NGOs. The goal was simple: make the most of our in-person time to map everything out so that once we’re back, we can start knocking things off the list.
+We kicked off the NGO sessions in the second half of January 29th, inviting four NGOs—
+The Apprentice Project(TAP)
+,
+SEARCH
+,
+Digital Green
+, and
+Veddis
+. Each came from a different sector, bringing their own use cases and approaches they are taking to integrate AI into their programs. We started with an opening circle, setting the tone for the sprint— the idea was to understand the amazing work each of us is doing, learn from each other’s mistakes, and explore areas of collaboration. After that, we dove into our learning from Kunji Bot and
+SEARCH
+’s use case but more on this later.  We concluded the day with an
+insightful session
+by Jerome on the LLM work we’ve been doing at Tech4Dev.
+Digital Green use case
+During the sprint, Rajsekar from
+Digital Green
+introduced
+Farmer.Cha
+t, an AI-powered assistant designed to support Extension Agents (EAs) and small-scale farmers. This chatbot enables EAs to manage tasks, log feedback, and retrieve advisory content efficiently. Farmers and EAs can interact with the chatbot using text, images, or videos to ask questions. For instance, a farmer could upload a photo of a crop and inquire about the best fertilization methods. Currently, the bot serves farmers in India and Kenya.
+The chatbot is powered by OpenAI’s Retrieval-Augmented Generation (RAG) system for retrieving relevant responses. To further enhance accuracy, Digital Green uses their own fine-tuned LLaMA model to evaluate responses. The model was fine-tuned using
+LoRA (Low-Rank Adaptation)
+and is deployed via
+Hugging Face
+for efficient inference.
+To reduce cost and latency, Digital Green implemented query caching and similarity search within their chatbot system. Instead of processing each query independently, the system aggregates the user’s current query with their most recent queries, forming a contextualized input.
+This aggregated query is then sent to a
+vector database
+, which performs semantic similarity search to retrieve historically similar queries. The corresponding answers from these similar queries are extracted and incorporated into the response generation process. This approach reduces redundant computation and minimizes API calls to expensive LLMs.
+SEARCH
+Anto shared with us about
+SEARCH
+(Society for Education, Action, and Research in Community Health) which is an NGO founded in 1987, known for its pioneering work in public and neonatal health.
+Their project, Tobacco Face, explores whether AI-generated projections of a person’s face—showing the long-term effects of tobacco use—can help reduce consumption. The idea is simple: if people see how tobacco will age and damage their own faces, it might hit harder than just statistics or warnings.
+They’re testing this in Gadchiroli, where tobacco use starts young. By making the risks personal and visual, they hope to drive real change.
+TAP use case
+Himani and Nithun talked about how
+The Apprentice Project(TAP)
+, is combining AI with a CRM tool to streamline student assignment submissions. TAP works in education, helping underprivileged students build essential 21st-century skills. They’ve been using
+Glific
+for their chatbot program,
+TAP Buddy
+, to offer personalized learning and support across India.
+During the sprint, they showcased a use case where AI helps evaluate student assignments. It’s a two-step process: first, when a student submits an assignment, it gets logged in the LMS (Frappe), and related details—like student info and assignment data—are pulled. Then, the submission goes through a plagiarism check to see if the same image has been uploaded before. If it passes, AI analyzes the assignment, generates feedback, and assigns a grade. The feedback is sent to the student via WhatsApp, while other data is stored in the LMS for future reference and analysis.
+Here’s a high level workflow of their tool
+evalix.ai
+:
+Veddis use case
+For
+Veddis
+, we had already been working on their
+public policy bot, Kunji
+, which enables government officials to ask policy-related questions. We demonstrated the
+use case and solution
+we developed for Kunji and showcased our work to other NGOs. Additionally, we provided a hands-on experience, allowing participants to test the bot themselves. You can read more about our solution
+here
+.
+The chatbot provides human-like, multilingual responses in Hindi and English, along with voice-based interactions through speech-to-text and text-to-speech capabilities. It also offers direct access to policy documents. Future enhancements include Google Sheets integration for easy query analysis, AI-LLM integration for real-time policy-based responses, advanced analytics to track user engagement, and automated nudges for timely updates and reminders.
+Furthermore, we got to know about
+Sashakt
+, which is a digital assessment tool developed to help Community-Based Organizations (CBOs) under DAY-NRLM evaluate stakeholder expertise, identify knowledge gaps, and drive data-driven training interventions. Supported by
+Veddis Foundation
+, Sashakt accelerates the impact of
+HSRLM
+initiatives by enabling
+need-based training programs
+and improving grassroots decision-making.
+Closing notes
+The goal of this sprint was as simple as learning from each other as much as possible. The AI Cohort served as a collaborative knowledge-sharing space, bringing together organizations actively leveraging AI for social impact. Each participant showcased their use cases, implementation strategies, and success metrics, fostering a dynamic exchange of insights.
+It was a great chance to work together, see the bigger picture, and explore how these ideas could help other NGOs in the same space. Our team also gained valuable technical and strategic learning . In the closing circle, we went around the table, sharing experiences, expectations and what we want to focus on in the coming months. We’ll be meeting  again in March for The Agency Fund Sprint, where this group—along with many more NGOs—will come together to share learning and more vivid use cases.

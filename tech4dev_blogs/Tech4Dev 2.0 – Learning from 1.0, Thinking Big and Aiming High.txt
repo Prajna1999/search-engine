@@ -1,0 +1,55 @@
+Title: Tech4Dev 2.0 – Learning from 1.0, Thinking Big and Aiming High
+Author: Kurund Jalmi
+Date: May 2022
+Category: Glific
+URL: https://projecttech4dev.org/tech4dev-2-0-learning-from-1-0-thinking-big-and-aiming-high/
+==================================================
+
+As with all things within Tech4Dev we attempt to document and publish everything that we do, our process, our thinking and sometimes the nitty gritty technical details. In that sense, this blog is way overdue, since we started the process a few months back but did not document or publish our journey. I’ll try and make up for it by covering what we’ve been upto the past few months in some detail.
+Tech4Dev 1.0’s three year program and funding cycle officially completed on March 31, 2022. However due to decreased spending and focused activity during COVID, we still had some funding left over to help us continue the 1.0 work for another year. We felt we had good momentum, and we also wanted to involve other funders, specifically some of the larger foundations, and decided to kick off our 2.0 planning and fundraising in April. This was also good timing since we had
+Erica Arya
+start as India head, and we had
+Aishwarya Geete
+helping us with our communication material
+Briefly for Tech4Dev 2.0, our mission is on strengthening the open-source technology ecosystem in the social sector. With 2.0, we plan to expand globally via the following focus areas:
+Open source products and platforms: We’ll continue to invest in our existing platforms,
+Glific
+and
+Avni
+. We’ll also work on supporting existing platforms like
+Aam Digital
+and
+CiviCRM
+. This is a continuation of the work we started in Tech4Dev 1.0 and will be the primary focus on 2.0
+Women-in-Tech Pilot: We are partnering with
+Hyperverge Academy
+to run programs in Tehri and Satara to work with young women in engineering colleges to expand and enhance their skillset.
+Fractional CTO Pilot: We will work with a small group of NGOs and provide process and technology consulting using a shared services model.
+Have a focus on responsible tech, security and privacy as a cross cutting theme across all the above areas. This is an important aspect of the work we do, since we know that our platforms and our NGO partners need to do a lot better with these issues.
+For all the gory details, please do read the
+Tech4Dev 2.0 Concept Note here
+.
+Our fundraising targets are equally ambitious with a goal of increasing our budget by 3x over the previous funding cycle. For this round, we are working hard to get more support from the funding community in India. We also have approximately 20% of our budget coming from earned revenues from our platforms and fractional CTO programs.
+Our Journey so far
+We started circulating the fundraising note in late March to some of our advisors. By mid April, we were comfortable with sharing the note with our existing funders and a few new funders. In super auspicious timing, we got grants at the same time from
+The Agency Fund
+and
+Cisco
+, which served as a strong vote of confidence for the work we are doing. Our work in India also got a great mention in GitHub’s summary on
+open source in LMIC countries
+. So from a momentum perspective, we were off to a flying start.
+We got a really good response from our existing funders. Our ask from them was to double their 1.0 grant. Its great to see that we’ve had a majority of them commit to funding 2.0 at our requested amount. Makes things a lot easier when you have a group of folks who are willing to support you for extended periods of time. I mentioned to one of my friends that my 20+ year network is the best and most supportive ever. Truly grateful to our current set of funders and plan on bringing the new funders along on a long journey with us. My goal was to raise a majority of the funding for 2.0 in this quarter and we are on target to do so.
+I do realize that I’m in a different place and position than most NGOs or Funders. Given that, I figured I might as well throw out a few suggestions both to my fellow funders and my fellow NGOs. Things that worked for us, and things that we could have done better
+Thoughts for NGOs
+Be shameless, Ask repeatedly: I got the most replies to my second round of emails which I sent approximately one week after my original ask. In general I repeat the email thrice before giving up.
+Be persistent: One of our largest grants for this round was from a HNI who did not fund us in T4D 1.0. I kept them updated for the 13 reports (3 years) of the 1.0 cycle without a response. But I stuck with it. The long game worked for this funder and did not work with another funder (I’ll probably switch to sending this potential funder yearly reports now)
+Be understanding: Most people mean well. The program person on the foundation side is trying to do their best under their constraints and responsibilities. They also understand and get it, but might not be able to make change internally within their organization. We are all in it to do good, thinking of it from the other person’s perspective helps a lot. As a recent example, the program manager really helped us work our story on how we are making an impact in the education sector, which enabled his team to then fund us.
+Communicate often: For T4D 1.0, we sent out quarterly reports by the second week of the new quarter. Most of our funders did not read it, but we had in-depth conversations and discussions (and hence modifications) with the couple that did. More importantly, the reports helped us focus on things that went right, and things where we could have done better.
+Accept the No gracefully: A few funders told us no fairly quickly. I totally respect, understand and accept that. I do ask them if they are interested in staying updated. Most of them gave us some explanation which did help things. But I think it is important to stay in touch if possible (communication is cheap), you never know how things will change in the next few years.
+Finally, if you’ve met folks in person and if there are any things on your action item list for them or vice versa, a short email in 24 hours is totally worth it. It is good to keep the lines of communication open. Same goes for connections on Linked In. Follow up with folks when you say you will do it.
+Thoughts for Funders
+Be responsive: If there is one thing I could wave my magic wand, it would be on this. It’s ok to say no (with or without a reason). But spending a minute communicating in a timely manner makes it so much easier on all of us.
+Be as open as possible: If it is highly unlikely or you’ve decided not to fund an organization, say so sooner rather than later. The NGO can decide if they want to build a relationship or it might not be a good use of their time right now. Saves a good amount of time on both sides. If you can give feedback, that would be even better and gives the NGO things to think about and potentially improve. At Glific, some of our funders have helped us focus significantly with their specific feedback and criticism.
+Be generous: If you can help an NGO out by making an introduction, please do so. I’ve told folks in my network, I’ll let you know if you are making too many introductions, but I’ve never done it so far (and hopefully will never have to do it). This coupled with the above point, ensures that I’m spending my time wisely. Honestly, I learn a lot more from most NGO founders and get way more exposure to different aspects in these conversations.
+Do your homework: We all our busy. It always better to do a pre-read on the material that NGOs have sent than get them to go thru their deck. We find discussions and deeper questions about the work, a lot more insightful.
+Would love your feedback and comments. Feel free to reach out to us anytime

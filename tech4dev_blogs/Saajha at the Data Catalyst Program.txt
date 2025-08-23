@@ -1,0 +1,23 @@
+Title: Saajha at the Data Catalyst Program
+Author: Abhishek Nair
+Date: October 2023
+Category: Tech4Dev 2.0
+URL: https://projecttech4dev.org/saajha-at-the-data-catalyst-program/
+==================================================
+
+This blog is written by Prashast from Saajha
+The context – when we (almost) found the silver bullet
+Back in 2021, when we launched our own WhatsApp chatbot and calling solution, one of the biggest complaint from our team was that the parents were not picking up the call. We thought we were not calling at an appropriate time and plotted the pick up rate by hour of the day/week to create a heat-map of call pick-up rates. Evenings, in general between 6-8 p.m. and Saturday in particular showed some increase in call pick-up rates. We decided to integrate it operationally, by attempting most calls during the said hours. But there was hardly any significant increase in the call pick-up rates. It was months before we realized what we had missed. The first analysis to identify optimal slots was for first calls (essentially cold-calls) while the subsequent ones were to parents with whom we had spoken once. The experience pushed us to look systematically at data to make meaningful decisions and eventually setting up a separate data function.
+Slow and steady!
+Since then, we have been able to make slow and incremental changes to the way we look data, but the pace is far slower than both – how the sector has been evolving, and how our operational needs have evolved. Our participation in the Data Catalyst Program has, thus, came at the right juncture, helping us rework our approach to data management. In a short span of just a few weeks, here is what we have learned.
+Data function is more than analyzing data faster and accurately –
+Our efforts for building our data function were largely focused on ensuring that we are able to draw richer insights faster from what we collect. However, the data culture rubric, and the initial session helped us realize the several other domains that we would need to prioritize.
+It would take patience to get your data story right to any external stakeholder –
+The FAST train exercise started with questions which seemed very independent of each other; it was not until we reached the stage of articulation, that we were able to see how these elements were interconnected, and the rest of the story flowed.
+Experiments and innovations can be systemized –
+Our approach to experiments had been to look at excel sheets longer, hoping some creative insights would pop out. Experiments, however, can be approached in a very systematic manner – by defining metrics, finding counterfacutals, and using the right analysis.
+Metrics have to be closely aligned with the parent journey –
+Metrics that we used to track in the initial phase of journey were aligned to the external stakeholders and not the parents whom we are supporting. Funnel metrics, that is tracking percentage of parents who drop out at various stages and associating costs at each stage are much more helpful and relevant.
+A lot that we do can be done automatically –
+A large portion of our time is currently spent on merging data sets and doing basic analysis. Tools like Dalgo, and ChatGPT can be of significant help in ensuring that these analysis are faster and more efficient.
+Beyond the sessions, the exercise was also an opporunity to hear other fascinating stories, from other not-for-profits, and partner organizations. We hope that we are able to replicate a part of these stories in our journey, here at Saajha!

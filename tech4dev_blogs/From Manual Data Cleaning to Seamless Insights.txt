@@ -1,0 +1,32 @@
+Title: From Manual Data Cleaning to Seamless Insights
+Author: Deepak Nanda
+Date: July 2025
+Category: Dalgo
+URL: https://projecttech4dev.org/from-manual-data-cleaning-to-seamless-insights/
+==================================================
+
+“Before adopting Dalgo, we had to manually handle the automation and ingestion.”
+— Akshata Hawaldar, Assistant Manager – Product Development, Antarang Foundation
+At Antarang Foundation, the mission is clear: to equip youth from underserved communities with the guidance and skills they need to build meaningful careers. Working with students from government schools between grades 9 to 12, the team supports their career development journeys through structured guidance and skill-building. In this blog, we learn from Akshata who is an Assistant Manager (Product Development) at the foundation, on how the organisation used Dalgo to automate data insights.
+The Challenge: Too Many Tools, Too Much Manual Work
+Before Dalgo, Akshata and her team faced a mountain of data management hurdles:
+Student and program data came in from various sources like Salesforce, Kobo toolbox, Glific, and more.
+Data would be pulled from Salesforce to Google sheets, wherein if the sheet limits exceeded, the team would have to create another sheet.
+It became challenging for 1-2 people within the same organisation to handle large datasets.
+Every change required building connections between tools — a time-consuming and error-prone process.
+“We used to create reports in salesforce and pull that data into google sheets manually, and if the limit for google sheets exceeds, we would have to create another google sheet.” Akshata shared.
+Enter Dalgo: A Smart, Flexible Data Layer
+Seeing the possibilities Dalgo could provide, the team at Antarang quickly adopted it.
+With Dalgo, the following changed:
+✅ Automated Data Ingestion: Data flows seamlessly from Salesforce and other sources.
+✅ Customizable Pipelines: The team can now define their own data transformation rules to clean, join, and map fields as needed.
+✅ Orchestration Made Simple: Once configured, Dalgo takes care of running and updating these pipelines on schedule.
+✅ No More Manual Sheets Overload: The Google Sheets workaround is now a thing of the past.
+“We got to know there is a tool that automatically ingests data from any source and automatically orchestrates. And we happily adopted Dalgo. ” Akshata explained.
+The Result: More Time for Impact
+By removing the friction from data workflows, Dalgo has enabled Antarang team to manage and visualise their data efficiently. With better visibility, faster reporting, and far less manual work, data is now an enabler for teams.
+“Dalgo automatically ingested data from Salesforce, google sheets and Kobo toolbox and we could customise the same.” Akshata said.
+Looking Ahead
+Antarang Foundation’s journey with Dalgo is just beginning, but it’s already a powerful example of how the right tech can empower social impact teams to do more with less. Their story shows how complex, multi-source data can be streamlined, unlocking the path from raw data to reliable insights.
+Want to learn more about how Dalgo is helping NGOs like Antarang Foundation turn data chaos into clarity? 📩 Reach out at
+support@dalgo.org

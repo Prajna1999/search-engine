@@ -1,0 +1,49 @@
+Title: New Dalgo Features for June
+Author: Rohit
+Date: June 2024
+Category: Dalgo
+URL: https://projecttech4dev.org/new-dalgo-features-for-june/
+==================================================
+
+Team Dalgo has been hard at work and have a cornucopia of features to release this month. In addition to this post we’re going to have a webinar on June 28th introducing all of them.
+Data Statistics
+Point it at a table in your warehouse and get column-level statistics:
+Every row in the screenshot above corresponds to a column in the table “worldometer_data”. The column names are on the left i.e. “NewCases”, “Continent”, “NewDeaths” etc. Then we show the column’s data type followed by
+Number of distinct values in that column
+Number of records with a NULL value in that column
+A value distribution of the top 5
+And for numeric columns, the Minimum, Maximum, Mean, Median, and Mode
+This is being made available within the
+graphical workflow designer
+for transformations. It is meant to give you a quick view into the
+nature
+of a table; either a table which you want to start working from or a table which you have created and which you would now like to check.
+Data Quality Dashboards
+We have integrated
+Elementary
+into our dbt pipelines. Elementary tracks your dbt tests and generates a beautiful report for you:
+You can view tests by model:
+And when tests fail, Elementary helps you find out what went wrong:
+In this first release we’re providing only this reporting interface; the tests themselves still need to be
+written in dbt
+and checked into your GitHub repository.
+Source Schema Change Detection and Handling
+Suppose you have a data source which Dalgo syncs to your warehouse, and now suppose that source changes. Maybe a table was added, maybe a column was removed. Airbyte, which we run under the hood,
+has a way
+to detect this and let the user know. We are now exposing this feature of Airbyte to you through the Dalgo UI:
+When you see this notification, you would either
+accept these changes and thereby update your pipeline,
+or realize that the changes were wrong and go fix the source.
+Custom Tasks for dbt
+Finally, we’ve added the ability to create “custom dbt tasks”. The dbt tasks like “run” and “test” which are available by default will run your entire workflow. But dbt lets you run
+only one model
+if you want to, or a particular set of models. We’ve made this functionality available by allowing you to define a
+custom dbt task
+:
+You can then save these custom tasks and use them in your pipelines:
+In Summary
+We hope you find these new features useful, and as always we look forward to your feedback. Don’t miss Shamoon’s webinar on the 28th!
+(
+Correction: The webinar is on
+the 27th
+)

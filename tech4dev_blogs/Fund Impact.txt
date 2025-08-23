@@ -1,0 +1,81 @@
+Title: Fund Impact
+Author: Kurund Jalmi
+Date: January 2020
+Category: Tech4Dev project Updates
+URL: https://projecttech4dev.org/fund-impact/
+==================================================
+
+The
+Fund Impact
+project is an open-source tool to help social purpose organizations in managing their project funds, operations and reporting on various global standards. According to the reports, there are 10 million NGOs worldwide which received donations from 1.4 billion people. In the United States, all NGOs combined contribute 5.3% to the Gross Domestic Product (GDP). The sheer size and scale of operations of these organizations across the globe have a lasting impact on human societies. The technology for good has further amplified their positive contribution and opened new avenues to transform people’s life.
+The
+Fund Impact
+project envisions a single control center for organizations to manage their project operations, funding from various donors, and most important – tracking the impact of the project.  It’ll greatly increase the organization’s capacity in bringing transparency in its operation, speed up the reporting process, make the processes audit friendly, manage donor relations & compliances without additional overheads and at the same time measure the impact of the project.
+Problem Statement
+There are too many tools to do simple tasks and yet managing all of them is a complex affair. From To-Do Lists to Project Management applications, from Google sheets to Airtable,  from social media to fundraising platforms, the organizations are overwhelmed with the suite of applications available at their disposal to manage their daily operations.
+The
+Fund Impact
+Platform will support the employees by managing their most crucial operations of managing project funds, donor relations and tracking project’s operations and impact on a single platform. It aims to streamline workflows and help adopt a good practice, thereby saving save time, efforts and money.
+The Solution
+The
+Fund Impact
+Platform will introduce an industry good practice of managing the organizational objectives through projects. Staff can create projects which have set purpose, context and timebound deliverables. They can review the project performance against
+milestones
+. Deliverable card is the crux of the
+Fund Impact
+platform and will track project activities, fund status and most importantly the impact indicators throughout the lifecycle of a project.
+An opensource tool with minimal cost and effort for deployment
+: An open source web application and mobile application which can be self-hosted by users with minimal configuration.
+Achieve more with Projects:
+The
+Fund Impact
+platform is designed primarily for Grant Seeking organizations to manage their projects, its tracking of funds, activities and impact indicators. A project is a time bound collection of milestones with a specific goal/objective. The organizations would create project(s) to monitor the set targets or deliverables.
+Manage through Deliverables
+: A project consists of series deliverables (milestones) to be achieved throughout the duration of a project. A deliverable has Activities, Fund detail  and Impact Indicators. These are three main components which will help in tracking the project.
+Manage your Funds
+: The funding details for a deliverable gives the status of a) Funds allocated, b) Funds received, c) Funds utilized and d) Funds pending – for activities to be completed and impact indicators to be achieved.
+Track Project Activities
+: These are tasks or outputs of the projects. They help in reporting the operational progress of the project
+Track Impact indicators
+: These indicators help in tracking if the project has achieved the said objective or not. Indicators around learning outcomes, health outcomes, wellbeing, empowerment, etc. The platform will have a library of impact indicators to help project managers track and report the right set of indicators that serve the project deliverables.
+Leverage the Global Impact Indicator Library
+: A standardized set of indicators from various frameworks such as SDGs, etc. to help in tracking and reporting of project’s impact. This library will be community driven and develop a common framework across the globe to measure impact.
+Reporting
+: The project progresses by achieving the milestones by completing the activities, monitoring funds and reporting impact indicators. These three data points generate relevant reports for various stakeholders to see the vital status of the project(s).
+Teach Features
+Diagram representing structure of various entities.
+On boarding Workflow
+Register an account:
+Use your email-id to register a new account or use OAuth to login via your Google, Facebook account.
+Update Profile
+: The  user can add basic details in the profile like Screen Name, Display Pic, personal details such as Name, link to social media accounts, personal blog/website, etc.
+Create an Organization
+: The user can create an organization to manage various projects. A user can create multiple organizations, each having distinct users, access control, reporting, dashboards, etc. This will be the foundation for multi-tenant architecture where users can manage unrelated entities/organization through single setup.
+Create Organization’s Workspace
+: Workspaces are a collection of projects. The workspaces represent thematic areas, departments, program or portfolio to group the similar projects. As we create a new organization,  by default the system creates a workspace with the same name.
+Invite user to the organization
+: The user can invite her/his colleagues or teams on the platform. The User’s with appropriate access can invite other users on the platform to join her/his organization. The user can also be invited to join a specific workspace or project only.
+Create Donor Profiles
+: The user creates a donor profile to manage fund support. The donor profiles are globally available at organization level. Multiple donors can be assigned to the projects. As of version v1, donor profiles are not linked to any user account. The Donor profile can be an individual donor or an NGO.  It will have details like Donor Organization Name, Contact Details, Fund category and upload basic docs such MoU, ToR, etc.
+Create a project
+: The user creates a project within a workspace. The user can invite her/his colleague to join the project. The project will have its own access control subject to master access control at workspace or Organization level.
+Managing Projects
+Add Project details:
+Add project details such as title, description, project banner, logo, thematic areas, funding category, project timelines, etc.
+Add Deliverable Card
+: The Deliverable Card helps us keep track of a) funding support for a project, b) set of activities committed for the fund, and c) impact indicators that can be tagged to the activities.
+Add Funding details:
+The funding details comprise of information on how grant is received from donor and utilized by organization throughout the lifecycle of the project. It displays that for a specific time period what was the funding amount committed, funding amount received, funding amount pending, funding amount utilized, funding amount carried from previous period.
+Add Activity Details
+: A set of activities which are measured through user-defined key-value pairs. It explains how the fund is utilized through a set of activities for a specified duration.
+Add Impact Indicators
+: Each activity can be tagged with impact indicators to map out the larger outcomes of the project. These indicators can be standardized to help the organization report their impact in line with SDGs, GIR standards, etc.
+Add tags:
+Generic tag field for categorization of the deliverable card.
+Join us
+We are excited to enroll people to our cause! Please write to us himanshu.thakur@dhwaniris.com for further details.
+Do keep checking this blog for more updates!
+Update – 3rd March, 2020
+: Thanks for your valuable feedback and suggestions for the platform, we have collated a response on the Product Roadmap
+here
+.

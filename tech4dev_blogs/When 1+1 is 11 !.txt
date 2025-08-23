@@ -1,0 +1,75 @@
+Title: When 1+1 is 11 !
+Author: Kurund Jalmi
+Date: September 2022
+Category: Fractional CxO
+URL: https://projecttech4dev.org/when-11-is-11/
+==================================================
+
+This blog is written by Ankit Saxena,
+Fractional CxO at
+Reap Benefit
+and
+Indus Action
+through Tech4Dev
+I recently joined the
+Tech4Dev
+group and got an opportunity to participate in the 5 days long sprint at Dehradun. This was my first opportunity to interact with the rest of the tribe and NGOs. The initial 2 days were dedicated to discussions around knowing the different platforms that have been built for NGOs and how different partners such as
+HyperVerge Academy
+,
+Aam Digital
+,
+Dasra
+,
+Dhwani RIS
+, Samanvay Foundation,
+Soft Corner
+and
+IDInsight
+are running different (but focused with a common objective) programs in the social development space. I got a much better understanding of the different use cases which
+Glific
+and
+Avni
+are supporting, different NGOs that are using these platforms, and the kind of impact the NGOs have been able to create by leveraging these platforms. I was amazed by the passion and enthusiasm with which everyone shared their experiences and work.
+The next 3 days were dedicated to discussions around the work different NGOs were doing, the challenges being faced, and how they have used technology so far to enable and deepen their work. Each NGO presented its work and also shared its future plans and strategies. These discussions were deep and gave an excellent opportunity to other participating NGOs to learn from each other. I could see people collaborating and discussing in smaller groups on common interests.
+The most amazing thing that I experienced was how the complete ecosystem of Tech4Dev members, software partners, NGOs, and funders is collaborating together with some solid values and principles for a greater objective and creating a much bigger value and an impact that none of us could possibly create working in isolation.
+Some of the memorable moments/ discussions for me –
+Excursion to Robbers cave – the force of the water was so extreme that it was tough for us to keep the ground; many found their slippers floating away. We all had kept our stuff in a locker and we lost the key to it. The lock had to be cut to get our stuff out! Hats off to Lobo who led the gang deep into the waters (I didnt follow them though)
+Nature walks – Out of the many, the one where we got lost was the most remarkable. It was supposed to be a 30 mins walk but it turned out to be a 2-hour one. We were a group of 9 people and we witnessed different emotions while we were lost. We used to ask the locals about directions and everyone would tell us that we were going in the wrong direction, but we kept moving forward in the opposite direction. We were looking for water and a bridge as a landmark near our resort! We never accepted that we were lost and kept going on and on. Finally (not sure how) we decided to take a U-turn and thats how we managed to find out way back.
+Mussoorie trip – though a very short one and was rainwashed, we enjoyed it a lot, especially the different flavors of antakshari that we all played
+Mussoorie trip – with Rahul from
+VOPA
+, Abhishek from
+Indus Action
+, and me
+Karaoke night – the most amazing experience. Thanks to Arun, Erica, and Arjun!
+Presentation by Swapnil from
+Dhwani RIS
+where he shared his journey, the projects his team worked upon, and some of the internal frameworks his team uses while working with NGOs
+Discussion with Gayathri on the Women in Tech program. Extremely excited about the work; would definitely like to find ways and opportunities to explore this
+Discussion with Arjun with respect to the tech roadmap for
+Avni
+; would definitely explore ways to contribute
+Discussion with Vandana – her journey and the work she is doing at
+Bhumi
+Discussion with Lobo on his journey and learnings
+Conversation with Aparna and Naveli from
+STiR Education
+– loved the work they have been doing in influencing the whole education system from top to bottom
+Conversation with Abhideep from
+Gram Vaani
+– simply amazed at the use of voice tech in creating impact
+Discussion with Abhishek from
+Indus Action
+in understanding their tech and product landscape
+Deep discussions and whiteboarding
+Deep conversations with Gautam and Tejas from
+Reap Benefit
+where I started working as a fractional CxO to help them with their tech roadmap and some of the immediate deliverables
+Presentation by Shamoon on how
+Glific
+has started building use cases leveraging the NLP technology
+Shamoon from Glific team presenting NLP usecase
+Of course, how can I forget about the MODEL that I proposed and Kurund help me test the hypothesis live. Thanks to the people who participated and helped us test. We will come back with version 2 in the next sprint
+Great conversations with Siddhant and Akhilesh on the powerful work they did around maps and Glific-Frappe integration with
+Reap Benefit
+And finally the kick start of the data development platform by Vinod who started his journey with Tech4Dev a couple of months ago. He is working as a fractional CxO with Sneha and would lead this platform’s development. Again super excited by this and would find opportunities to contribute.
