@@ -409,6 +409,7 @@ dependencies = [
     { name = "nltk" },
     { name = "numpy" },
     { name = "requests" },
+    { name = "werkzeug" },
 ]
 
 [package.metadata]
@@ -421,6 +422,7 @@ requires-dist = [
     { name = "nltk", specifier = ">=3.9.1" },
     { name = "numpy", specifier = ">=1.26.4" },
     { name = "requests", specifier = ">=2.32.5" },
+    { name = "werkzeug", specifier = ">=3.1.3" },
 ]
 
 [[package]]

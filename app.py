@@ -181,7 +181,7 @@ if __name__ == '__main__':
         
         # Run the Flask app
         app.run(
-            debug=False,      # Set to False in production
+            debug=True,      # Set to False in production
             host='0.0.0.0',  # Allow external connections
             port=5000
         )
