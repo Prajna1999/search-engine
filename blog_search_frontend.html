@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech4Dev Blog Search | Based on doc2vec</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .search-section {
+            padding: 40px 30px;
+            background: #f8f9ff;
+        }
+
+        .search-container {
+            position: relative;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 20px 60px 20px 25px;
+            font-size: 1.1rem;
+            border: 3px solid #e0e6ff;
+            border-radius: 15px;
+            outline: none;
+            transition: all 0.3s ease;
+            background: white;
+        }
+
+        .search-input:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.1);
+        }
+
+        .search-btn {
+            position: absolute;
+            right: 8px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .search-btn:hover {
+            transform: translateY(-50%) scale(1.05);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            display: none;
+        }
+
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #e0e6ff;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .results-section {
+            padding: 0 30px 40px;
+        }
+
+        .results-header {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #4a5568;
+        }
+
+        .result-card {
+            background: white;
+            border: 2px solid #e0e6ff;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .result-card:hover {
+            border-color: #667eea;
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.1);
+            transform: translateY(-2px);
+        }
+
+        .result-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: #2d3748;
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }
+
+        .result-meta {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 15px;
+            font-size: 0.9rem;
+            color: #718096;
+        }
+
+        .result-meta span {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .result-score {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .result-preview {
+            color: #4a5568;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        .result-file {
+            font-size: 0.8rem;
+            color: #a0aec0;
+            font-family: 'Courier New', monospace;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 60px;
+            color: #718096;
+        }
+
+        .no-results-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+            opacity: 0.5;
+        }
+
+        .sample-queries {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .sample-queries h3 {
+            color: #4a5568;
+            margin-bottom: 15px;
+        }
+
+        .sample-btn {
+            background: #e0e6ff;
+            color: #667eea;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 20px;
+            margin: 5px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .sample-btn:hover {
+            background: #667eea;
+            color: white;
+            transform: scale(1.05);
+        }
+
+        .stats {
+            background: #f0f4ff;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+            text-align: center;
+            color: #4a5568;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 10px;
+                border-radius: 15px;
+            }
+
+            .header {
+                padding: 30px 20px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .search-section {
+                padding: 30px 20px;
+            }
+
+            .results-section {
+                padding: 0 20px 30px;
+            }
+
+            .result-meta {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔍 Tech4Dev Blog Search</h1>
+            <p>Discover insights powered by AI embeddings</p>
+        </div>
+
+        <div class="search-section">
+            <div class="search-container">
+                <input type="text" class="search-input" id="searchInput"
+                    placeholder="Search for blogs... (e.g., artificial intelligence, data platform, glific)" autofocus>
+                <button class="search-btn" id="searchBtn">Search</button>
+            </div>
+
+            <div class="sample-queries">
+                <h3>Try these queries:</h3>
+                <button class="sample-btn" onclick="searchSample('artificial intelligence')">AI</button>
+                <button class="sample-btn" onclick="searchSample('data platform')">Data Platform</button>
+                <button class="sample-btn" onclick="searchSample('glific')">Glific</button>
+                <button class="sample-btn" onclick="searchSample('technology')">Technology</button>
+                <button class="sample-btn" onclick="searchSample('development')">Development</button>
+            </div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="loading-spinner"></div>
+            <p>Searching through blogs using AI embeddings...</p>
+        </div>
+
+        <div class="results-section" id="resultsSection" style="display: none;">
+            <div class="results-header" id="resultsHeader"></div>
+            <div id="resultsContainer"></div>
+        </div>
+    </div>
+
+    <script>
+        // Configuration - Update these URLs to match your Flask backend
+        const API_BASE_URL = 'http://localhost:5000';
+
+        // DOM elements
+        const searchInput = document.getElementById('searchInput');
+        const searchBtn = document.getElementById('searchBtn');
+        const loading = document.getElementById('loading');
+        const resultsSection = document.getElementById('resultsSection');
+        const resultsHeader = document.getElementById('resultsHeader');
+        const resultsContainer = document.getElementById('resultsContainer');
+
+        // Search functionality
+        async function search(query) {
+            if (!query.trim()) return;
+
+            showLoading();
+
+            try {
+                const response = await fetch(`${API_BASE_URL}/search`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ query: query.trim(), top_k: 8 })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                displayResults(query, data.results, data.total_found);
+
+            } catch (error) {
+                console.error('Search error:', error);
+                displayError('Failed to search. Make sure the backend server is running.');
+            } finally {
+                hideLoading();
+            }
+        }
+
+        function showLoading() {
+            loading.style.display = 'block';
+            resultsSection.style.display = 'none';
+        }
+
+        function hideLoading() {
+            loading.style.display = 'none';
+        }
+
+        function displayResults(query, results, totalFound) {
+            resultsSection.style.display = 'block';
+
+            if (results.length === 0) {
+                resultsHeader.innerHTML = `
+                    <div class="no-results">
+                        <div class="no-results-icon">🤔</div>
+                        <h3>No results found for "${query}"</h3>
+                        <p>Try different keywords or check the sample queries above</p>
+                    </div>
+                `;
+                resultsContainer.innerHTML = '';
+                return;
+            }
+
+            resultsHeader.innerHTML = `
+                <div class="stats">
+                    <h2>Found ${results.length} relevant blogs for "<em>${query}</em>"</h2>
+                    <p>Results ranked by semantic similarity using AI embeddings</p>
+                </div>
+            `;
+
+            resultsContainer.innerHTML = results.map((result, index) => {
+                const [filename, score, metadata] = result;
+                const title = metadata.title || 'Untitled';
+                const author = metadata.author || 'Unknown';
+                const category = metadata.category || 'General';
+                const preview = metadata.content_preview || 'No preview available';
+                const url = metadata.url || '#';
+
+                return `
+                    <div class="result-card" onclick="openBlog('${url}')">
+                        <div class="result-title">${escapeHtml(title)}</div>
+                        <div class="result-meta">
+                            <span>👤 ${escapeHtml(author)}</span>
+                            <span>📂 ${escapeHtml(category)}</span>
+                            <span class="result-score">Score: ${score.toFixed(3)}</span>
+                        </div>
+                        <div class="result-preview">${escapeHtml(preview)}</div>
+                        <div class="result-file">📁 ${filename}</div>
+                    </div>
+                `;
+            }).join('');
+
+            // Scroll to results
+            resultsSection.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function displayError(message) {
+            resultsSection.style.display = 'block';
+            resultsHeader.innerHTML = `
+                <div class="no-results">
+                    <div class="no-results-icon">⚠️</div>
+                    <h3>Search Error</h3>
+                    <p>${message}</p>
+                </div>
+            `;
+            resultsContainer.innerHTML = '';
+        }
+
+        function openBlog(url) {
+            if (url && url !== '#') {
+                window.open(url, '_blank');
+            }
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function searchSample(query) {
+            searchInput.value = query;
+            search(query);
+        }
+
+        // Event listeners
+        searchBtn.addEventListener('click', () => {
+            search(searchInput.value);
+        });
+
+        searchInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                search(searchInput.value);
+            }
+        });
+
+        searchInput.addEventListener('input', (e) => {
+            // Optional: implement search-as-you-type with debouncing
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(() => search(e.target.value), 500);
+        });
+
+        // Initial load message
+        window.addEventListener('load', () => {
+            console.log('🚀 Blog Search Frontend Loaded!');
+            console.log('Backend API should be running at:', API_BASE_URL);
+        });
+    </script>
+</body>
+
+</html>
