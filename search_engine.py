@@ -80,6 +80,7 @@ class MinimalBlogSearchEngine:
 
             # tokenize and index words
             all_text=f"{metadata.get('title', '')} {blog_conent}"
+            print(f"All text: {all_text}")
             words=self._clean_text(all_text)
             doc_embedding=self._create_document_emedding(words)
 
@@ -132,7 +133,7 @@ class MinimalBlogSearchEngine:
 
         # compute similarities with all documents
         similarities=self._compute_similarities(query_embedding)
-        logging.info(f"The similarities are : {similarities.keys()}")
+        # logging.info(f"The similarities are : {similarities.keys()}")
 
         if not similarities:
             return []
